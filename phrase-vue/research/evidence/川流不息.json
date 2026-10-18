@@ -1,0 +1,56 @@
+{
+    "word": "川流不息",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%B7%9D%E6%B5%81%E4%B8%8D%E6%81%AF",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "9bc8799647bb3ba69dee15e8118e7b5b4a74a8c7548bd964ff047fe11d2b936a",
+        "bytes": 28412
+    },
+    "parsed": {
+        "found": true,
+        "word": "川流不息",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "chuān",
+                "liú",
+                "bù",
+                "xī"
+            ],
+            "zhuyin": [
+                "ㄔㄨㄢ",
+                "ㄌㄧㄨˊ",
+                "ㄅㄨˋ",
+                "ㄒㄧ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "像水流一样连续不断地行进",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "接踵而至",
+            "络绎不绝",
+            "继续不停"
+        ],
+        "antonyms": [
+            "水泄不通"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "flowing past in an endless stream;never-ending 行人、车马等"
+    },
+    "blocks": {
+        "reading": "chuān liú bù xī",
+        "sense-1": "像水流一样连续不断地行进",
+        "synonyms": "接踵而至、络绎不绝、继续不停",
+        "antonyms": "水泄不通"
+    }
+}

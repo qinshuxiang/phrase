@@ -1,0 +1,5 @@
+
+> phrase-vue@2.0.0 import:xingce
+> node scripts/import-xingce.mjs --check
+
+{"check":true,"papers":46,"questions":6020,"verified":3497,"pending":2522,"missing":1,"missingAnalysis":1226,"images":986,"pendingPdfs":11}

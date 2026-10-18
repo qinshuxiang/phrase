@@ -1,0 +1,78 @@
+{
+    "word": "捉襟见肘",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%8D%89%E8%A5%9F%E8%A7%81%E8%82%98",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "a16bcd466f5cd8e724bb9589f7aa9fb433169d0d470101683be09d82eb80682f",
+        "bytes": 29012
+    },
+    "parsed": {
+        "found": true,
+        "word": "捉襟见肘",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zhuō",
+                "jīn",
+                "jiàn",
+                "zhǒu"
+            ],
+            "zhuyin": [
+                "ㄓㄨㄛ",
+                "ㄐㄧㄣ",
+                "ㄒㄧㄢˋ",
+                "ㄓㄡˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "整理衣襟却露出手肘，形容衣衫破烂、生活贫困。",
+                "citations": [
+                    {
+                        "text": "捉衿而肘见，纳履而踵决。",
+                        "source": "《庄子·让王》"
+                    }
+                ]
+            },
+            {
+                "definition": "比喻处境窘迫，顾此失彼。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "捉衿而肘见，纳履而踵决。",
+                "source": "《庄子·让王》"
+            }
+        ],
+        "synonyms": [
+            "衣不蔽体",
+            "衣衫褴褛",
+            "百孔千疮",
+            "顾此失彼",
+            "左支右绌",
+            "左右支绌"
+        ],
+        "antonyms": [
+            "完美无缺",
+            "绰绰有余",
+            "绰有余裕",
+            "应付自如"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "be hard up"
+    },
+    "blocks": {
+        "reading": "zhuō jīn jiàn zhǒu",
+        "sense-1": "整理衣襟却露出手肘，形容衣衫破烂、生活贫困。",
+        "sense-2": "比喻处境窘迫，顾此失彼。",
+        "citation-1": "捉衿而肘见，纳履而踵决。 — 《庄子·让王》",
+        "synonyms": "衣不蔽体、衣衫褴褛、百孔千疮、顾此失彼、左支右绌、左右支绌",
+        "antonyms": "完美无缺、绰绰有余、绰有余裕、应付自如"
+    }
+}

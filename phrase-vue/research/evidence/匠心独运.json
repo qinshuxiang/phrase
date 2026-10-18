@@ -1,0 +1,58 @@
+{
+    "word": "匠心独运",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%8C%A0%E5%BF%83%E7%8B%AC%E8%BF%90",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "5f0f3f083e444db2b3b451c90b754abc57d6656392ffe1225082a664a2a8b74c",
+        "bytes": 26317
+    },
+    "parsed": {
+        "found": true,
+        "word": "匠心独运",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jiàng",
+                "xīn",
+                "dú",
+                "yùn"
+            ],
+            "zhuyin": [
+                "ㄐㄧㄤˋ",
+                "ㄒㄧㄣ",
+                "ㄉㄨˊ",
+                "ㄩㄣˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "独特而精巧的艺术构思。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "独树一帜",
+            "别开生面",
+            "别出心裁",
+            "独具匠心"
+        ],
+        "antonyms": [
+            "因循守旧",
+            "墨守成规"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "original creativity"
+    },
+    "blocks": {
+        "reading": "jiàng xīn dú yùn",
+        "sense-1": "独特而精巧的艺术构思。",
+        "synonyms": "独树一帜、别开生面、别出心裁、独具匠心",
+        "antonyms": "因循守旧、墨守成规"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "word": "如鱼得水",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A6%82%E9%B1%BC%E5%BE%97%E6%B0%B4",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "2b947f6f021da256afee513344f178ecda38f389d55a58769a687e078b4a71ee",
+        "bytes": 26980
+    },
+    "parsed": {
+        "found": true,
+        "word": "如鱼得水",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "rú",
+                "yú",
+                "dé",
+                "shuǐ"
+            ],
+            "zhuyin": [
+                "ㄖㄨˊ",
+                "ㄩˊ",
+                "ㄉㄜ",
+                "ㄕㄨㄟˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻遇到与自己投合的人或适合的环境。",
+                "citations": [
+                    {
+                        "text": "初据江东，为英为雄，如虎啸风。终归帝里，为臣为子，如鱼得水。",
+                        "source": "宋·王禹偁《杜伏威传赞》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "初据江东，为英为雄，如虎啸风。终归帝里，为臣为子，如鱼得水。",
+                "source": "宋·王禹偁《杜伏威传赞》"
+            }
+        ],
+        "synonyms": [
+            "如虎添翼",
+            "情投意合"
+        ],
+        "antonyms": [
+            "寸步难行"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "like a fish in water"
+    },
+    "blocks": {
+        "reading": "rú yú dé shuǐ",
+        "sense-1": "比喻遇到与自己投合的人或适合的环境。",
+        "citation-1": "初据江东，为英为雄，如虎啸风。终归帝里，为臣为子，如鱼得水。 — 宋·王禹偁《杜伏威传赞》",
+        "synonyms": "如虎添翼、情投意合",
+        "antonyms": "寸步难行"
+    }
+}

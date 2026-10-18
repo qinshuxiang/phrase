@@ -1,0 +1,68 @@
+{
+    "word": "无足轻重",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%97%A0%E8%B6%B3%E8%BD%BB%E9%87%8D",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "4a957d48818b1ecaef9a75789cdff6d133f001ad274e3debab0304053d467017",
+        "bytes": 27756
+    },
+    "parsed": {
+        "found": true,
+        "word": "无足轻重",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "wú",
+                "zú",
+                "qīng",
+                "zhòng"
+            ],
+            "zhuyin": [
+                "ㄨˊ",
+                "ㄗㄨˊ",
+                "ㄑㄧㄥ",
+                "ㄓㄨㄥˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "不足以影响事物的重要性。指无关紧要，不值得重视。",
+                "citations": [
+                    {
+                        "text": "今人不知作词之难，至于艳词，更以为无足轻重，率尔操觚，扬扬得意，不自知其可耻。",
+                        "source": "清·陈廷焯《白雨斋词话》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "今人不知作词之难，至于艳词，更以为无足轻重，率尔操觚，扬扬得意，不自知其可耻。",
+                "source": "清·陈廷焯《白雨斋词话》"
+            }
+        ],
+        "synonyms": [
+            "无关大局",
+            "无关紧要",
+            "无关宏旨"
+        ],
+        "antonyms": [
+            "举足轻重",
+            "举足重轻"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "insignificant"
+    },
+    "blocks": {
+        "reading": "wú zú qīng zhòng",
+        "sense-1": "不足以影响事物的重要性。指无关紧要，不值得重视。",
+        "citation-1": "今人不知作词之难，至于艳词，更以为无足轻重，率尔操觚，扬扬得意，不自知其可耻。 — 清·陈廷焯《白雨斋词话》",
+        "synonyms": "无关大局、无关紧要、无关宏旨",
+        "antonyms": "举足轻重、举足重轻"
+    }
+}

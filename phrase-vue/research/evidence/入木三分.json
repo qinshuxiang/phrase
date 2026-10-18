@@ -1,0 +1,68 @@
+{
+    "word": "入木三分",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%85%A5%E6%9C%A8%E4%B8%89%E5%88%86",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "435055931da5d36067b10bdbb1953fe82384038f03665c4113c5b11fe23d3329",
+        "bytes": 28541
+    },
+    "parsed": {
+        "found": true,
+        "word": "入木三分",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "rù",
+                "mù",
+                "sān",
+                "fēn"
+            ],
+            "zhuyin": [
+                "ㄖㄨˋ",
+                "ㄇㄨˋ",
+                "ㄙㄢ",
+                "ㄈㄣ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "唐朝张环權《书断》说,东晋书法家王羲之在木板上写字,刻字的人发现字迹的墨汁透入木板有三分深。后用“入木三分”形容书法笔力遒劲,也比喻见解、议论深刻、确切",
+                "citations": [
+                    {
+                        "text": "入木三分诗思锐,散霞五色物华新。",
+                        "source": "清·赵翼《瓯北诗抄》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "入木三分诗思锐,散霞五色物华新。",
+                "source": "清·赵翼《瓯北诗抄》"
+            }
+        ],
+        "synonyms": [
+            "力透纸背",
+            "铁画银钩",
+            "鞭辟入里"
+        ],
+        "antonyms": [
+            "略见一斑",
+            "不著边际"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "with bitter incisiveness"
+    },
+    "blocks": {
+        "reading": "rù mù sān fēn",
+        "sense-1": "唐朝张环權《书断》说,东晋书法家王羲之在木板上写字,刻字的人发现字迹的墨汁透入木板有三分深。后用“入木三分”形容书法笔力遒劲,也比喻见解、议论深刻、确切",
+        "citation-1": "入木三分诗思锐,散霞五色物华新。 — 清·赵翼《瓯北诗抄》",
+        "synonyms": "力透纸背、铁画银钩、鞭辟入里",
+        "antonyms": "略见一斑、不著边际"
+    }
+}

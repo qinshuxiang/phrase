@@ -1,0 +1,48 @@
+{
+    "word": "一板一眼",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%80%E6%9D%BF%E4%B8%80%E7%9C%BC",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "56a914161cc346bcf8bf782cd1701a60da87d56d4026aa99167f49e08f2bcde6",
+        "bytes": 25981
+    },
+    "parsed": {
+        "found": true,
+        "word": "一板一眼",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yī",
+                "bǎn",
+                "yī",
+                "yǎn"
+            ],
+            "zhuyin": [
+                "ㄧ",
+                "ㄅㄢˇ",
+                "ㄧ",
+                "ㄧㄢˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "同“一板三眼”",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "follow a prescribed pattern in speech or action;be scrupalous and methodical"
+    },
+    "blocks": {
+        "reading": "yī bǎn yī yǎn",
+        "sense-1": "同“一板三眼”"
+    }
+}

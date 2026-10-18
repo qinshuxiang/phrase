@@ -1,0 +1,69 @@
+{
+    "word": "烟消云散",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%83%9F%E6%B6%88%E4%BA%91%E6%95%A3",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "87d034741c1d475951410cc52615986e14c4ea276d27b1c7db14151409312e94",
+        "bytes": 27591
+    },
+    "parsed": {
+        "found": true,
+        "word": "烟消云散",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yān",
+                "xiāo",
+                "yún",
+                "sàn"
+            ],
+            "zhuyin": [
+                "ㄧㄢ",
+                "ㄒㄧㄠ",
+                "ㄩㄣˊ",
+                "ㄙㄢˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻事物完全消失不复存在。",
+                "citations": [
+                    {
+                        "text": "更着十年试看，烟消云散，一杯谁共歌欢？",
+                        "source": "元·张养浩《天净沙》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "更着十年试看，烟消云散，一杯谁共歌欢？",
+                "source": "元·张养浩《天净沙》"
+            }
+        ],
+        "synonyms": [
+            "销声匿迹",
+            "风流云散",
+            "烟消火灭",
+            "雾散云歛",
+            "云消雾散"
+        ],
+        "antonyms": [
+            "烟雾弥漫"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "vanish"
+    },
+    "blocks": {
+        "reading": "yān xiāo yún sàn",
+        "sense-1": "比喻事物完全消失不复存在。",
+        "citation-1": "更着十年试看，烟消云散，一杯谁共歌欢？ — 元·张养浩《天净沙》",
+        "synonyms": "销声匿迹、风流云散、烟消火灭、雾散云歛、云消雾散",
+        "antonyms": "烟雾弥漫"
+    }
+}

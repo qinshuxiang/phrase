@@ -1,0 +1,68 @@
+{
+    "word": "错综复杂",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%94%99%E7%BB%BC%E5%A4%8D%E6%9D%82",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "bf28044e23d2917c4e87868de83eb034857777ec945308beb0f1646a890ace56",
+        "bytes": 26211
+    },
+    "parsed": {
+        "found": true,
+        "word": "错综复杂",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "cuò",
+                "zòng",
+                "fù",
+                "zá"
+            ],
+            "zhuyin": [
+                "ㄘㄨㄛˋ",
+                "ㄗㄨㄥˋ",
+                "ㄈㄨˋ",
+                "ㄗㄚˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容事物交错纠结，情况纷繁杂乱。",
+                "citations": [
+                    {
+                        "text": "不管形式上怎样错综复杂，变化诡奇，实际上总有一个基本的道理贯串其间。",
+                        "source": "秦牧《河汊错综》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "不管形式上怎样错综复杂，变化诡奇，实际上总有一个基本的道理贯串其间。",
+                "source": "秦牧《河汊错综》"
+            }
+        ],
+        "synonyms": [
+            "扑朔迷离",
+            "盘根错节",
+            "纵横交错"
+        ],
+        "antonyms": [
+            "井然有序",
+            "一目了然"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "intricate and complex"
+    },
+    "blocks": {
+        "reading": "cuò zòng fù zá",
+        "sense-1": "形容事物交错纠结，情况纷繁杂乱。",
+        "citation-1": "不管形式上怎样错综复杂，变化诡奇，实际上总有一个基本的道理贯串其间。 — 秦牧《河汊错综》",
+        "synonyms": "扑朔迷离、盘根错节、纵横交错",
+        "antonyms": "井然有序、一目了然"
+    }
+}

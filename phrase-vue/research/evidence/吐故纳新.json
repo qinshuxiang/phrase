@@ -1,0 +1,77 @@
+{
+    "word": "吐故纳新",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%90%90%E6%95%85%E7%BA%B3%E6%96%B0",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "f7ac505c238ed38b6597673dc15421290e3a4e60aadbb9281502a24a7868e85f",
+        "bytes": 27854
+    },
+    "parsed": {
+        "found": true,
+        "word": "吐故纳新",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "tǔ",
+                "gù",
+                "nà",
+                "xīn"
+            ],
+            "zhuyin": [
+                "ㄊㄨˇ",
+                "ㄍㄨˋ",
+                "ㄣㄚˋ",
+                "ㄒㄧㄣ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "道家养生方法，指呼出浊气，吸入清气。",
+                "citations": [
+                    {
+                        "text": "吹呴呼吸，吐故纳新，熊经鸟申，为寿而已矣。",
+                        "source": "《庄子·刻意》"
+                    }
+                ]
+            },
+            {
+                "definition": "人体呼吸过程，排出二氧化碳，吸入新鲜空气。",
+                "citations": []
+            },
+            {
+                "definition": "比喻淘汰旧的，吸收新的。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "吹呴呼吸，吐故纳新，熊经鸟申，为寿而已矣。",
+                "source": "《庄子·刻意》"
+            }
+        ],
+        "synonyms": [
+            "推陈出新",
+            "新陈代谢",
+            "弃旧容新"
+        ],
+        "antonyms": [
+            "招降纳叛"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "exhale the old and inhale the new"
+    },
+    "blocks": {
+        "reading": "tǔ gù nà xīn",
+        "sense-1": "道家养生方法，指呼出浊气，吸入清气。",
+        "sense-2": "人体呼吸过程，排出二氧化碳，吸入新鲜空气。",
+        "sense-3": "比喻淘汰旧的，吸收新的。",
+        "citation-1": "吹呴呼吸，吐故纳新，熊经鸟申，为寿而已矣。 — 《庄子·刻意》",
+        "synonyms": "推陈出新、新陈代谢、弃旧容新",
+        "antonyms": "招降纳叛"
+    }
+}

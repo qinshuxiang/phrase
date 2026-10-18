@@ -1,0 +1,68 @@
+{
+    "word": "大海捞针",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A4%A7%E6%B5%B7%E6%8D%9E%E9%92%88",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "5c4379645f5ea2bf6d11a05a18b566ee64a53c4dd208ac0093b8b9f4243265d3",
+        "bytes": 26985
+    },
+    "parsed": {
+        "found": true,
+        "word": "大海捞针",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "dà",
+                "hǎi",
+                "lāo",
+                "zhēn"
+            ],
+            "zhuyin": [
+                "ㄉㄚˋ",
+                "ㄏㄞˇ",
+                "ㄌㄠ",
+                "ㄓㄣ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻极难寻觅。",
+                "citations": [
+                    {
+                        "text": "觅利如大海捞针，揽祸似干柴引火。",
+                        "source": "明·王錂《春芜记·定计》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "觅利如大海捞针，揽祸似干柴引火。",
+                "source": "明·王錂《春芜记·定计》"
+            }
+        ],
+        "synonyms": [
+            "难如登天",
+            "海中捞月"
+        ],
+        "antonyms": [
+            "易如反掌",
+            "轻而易举",
+            "唾手可得"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "look for a needle in a haystack"
+    },
+    "blocks": {
+        "reading": "dà hǎi lāo zhēn",
+        "sense-1": "比喻极难寻觅。",
+        "citation-1": "觅利如大海捞针，揽祸似干柴引火。 — 明·王錂《春芜记·定计》",
+        "synonyms": "难如登天、海中捞月",
+        "antonyms": "易如反掌、轻而易举、唾手可得"
+    }
+}

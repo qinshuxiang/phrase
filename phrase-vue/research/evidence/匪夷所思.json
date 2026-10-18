@@ -1,0 +1,64 @@
+{
+    "word": "匪夷所思",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%8C%AA%E5%A4%B7%E6%89%80%E6%80%9D",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "2bfdb970f1e39ddc909ff72789fb39bcbf903e804db16d88f461228e8d00698f",
+        "bytes": 27423
+    },
+    "parsed": {
+        "found": true,
+        "word": "匪夷所思",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "fěi",
+                "yí",
+                "suǒ",
+                "sī"
+            ],
+            "zhuyin": [
+                "ㄈㄟˇ",
+                "ㄧˊ",
+                "ㄙㄨㄛˇ",
+                "ㄙ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "考虑问题的方法、言语、行动违反常规,使人难以想象和理解",
+                "citations": [
+                    {
+                        "text": "涣有丘,匪夷所思。",
+                        "source": "《易·涣》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "涣有丘,匪夷所思。",
+                "source": "《易·涣》"
+            }
+        ],
+        "synonyms": [
+            "想入非非",
+            "异想天开",
+            "胡思乱想"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "unimaginably queer"
+    },
+    "blocks": {
+        "reading": "fěi yí suǒ sī",
+        "sense-1": "考虑问题的方法、言语、行动违反常规,使人难以想象和理解",
+        "citation-1": "涣有丘,匪夷所思。 — 《易·涣》",
+        "synonyms": "想入非非、异想天开、胡思乱想"
+    }
+}

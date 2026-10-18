@@ -1,0 +1,58 @@
+{
+    "word": "大气磅礴",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A4%A7%E6%B0%94%E7%A3%85%E7%A4%B4",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "2c441cd256cf779fe31523db2071d9e26e329f5289816987073cf247509024c7",
+        "bytes": 25871
+    },
+    "parsed": {
+        "found": true,
+        "word": "大气磅礴",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "dà",
+                "qì",
+                "páng",
+                "bó"
+            ],
+            "zhuyin": [
+                "ㄉㄚˋ",
+                "ㄑㄧˋ",
+                "ㄆㄤˊ",
+                "ㄅㄛˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容气势盛大。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "声势浩大",
+            "波澜壮阔",
+            "气吞山河",
+            "气贯长虹"
+        ],
+        "antonyms": [
+            "势单力薄",
+            "气息奄奄"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": ""
+    },
+    "blocks": {
+        "reading": "dà qì páng bó",
+        "sense-1": "形容气势盛大。",
+        "synonyms": "声势浩大、波澜壮阔、气吞山河、气贯长虹",
+        "antonyms": "势单力薄、气息奄奄"
+    }
+}

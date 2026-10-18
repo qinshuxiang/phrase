@@ -1,0 +1,69 @@
+{
+    "word": "防患未然",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%98%B2%E6%82%A3%E6%9C%AA%E7%84%B6",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "72a88428cb6f82e12a07cd3ffb7131fceb1cd376635e2ad985489d242300d043",
+        "bytes": 28318
+    },
+    "parsed": {
+        "found": true,
+        "word": "防患未然",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "fáng",
+                "huàn",
+                "wèi",
+                "rán"
+            ],
+            "zhuyin": [
+                "ㄈㄤˊ",
+                "ㄏㄨㄢˋ",
+                "ㄨㄟˋ",
+                "ㄖㄢˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "在事故或灾害发生之前就加以防备",
+                "citations": [
+                    {
+                        "text": "毫无改革之意,只在防患未然。",
+                        "source": "《鲁迅书信案》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "毫无改革之意,只在防患未然。",
+                "source": "《鲁迅书信案》"
+            }
+        ],
+        "synonyms": [
+            "有备无患",
+            "防微杜渐",
+            "未雨绸缪"
+        ],
+        "antonyms": [
+            "江心补漏",
+            "患至呼天",
+            "临渴掘井"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "prevent"
+    },
+    "blocks": {
+        "reading": "fáng huàn wèi rán",
+        "sense-1": "在事故或灾害发生之前就加以防备",
+        "citation-1": "毫无改革之意,只在防患未然。 — 《鲁迅书信案》",
+        "synonyms": "有备无患、防微杜渐、未雨绸缪",
+        "antonyms": "江心补漏、患至呼天、临渴掘井"
+    }
+}

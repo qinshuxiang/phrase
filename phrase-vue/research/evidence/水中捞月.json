@@ -1,0 +1,68 @@
+{
+    "word": "水中捞月",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%B0%B4%E4%B8%AD%E6%8D%9E%E6%9C%88",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "1040945de9b97064c0d429e4193cd3542ce6a64d65fbfb7e64260436f2bbca14",
+        "bytes": 27212
+    },
+    "parsed": {
+        "found": true,
+        "word": "水中捞月",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shuǐ",
+                "zhōng",
+                "lāo",
+                "yuè"
+            ],
+            "zhuyin": [
+                "ㄕㄨㄟˇ",
+                "ㄓㄨㄥ",
+                "ㄌㄠ",
+                "ㄩㄝˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻徒劳无功，白费力气。",
+                "citations": [
+                    {
+                        "text": "恰便似沙里淘金，石中取火，水中捞月。",
+                        "source": "元·杨暹《刘行首》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "恰便似沙里淘金，石中取火，水中捞月。",
+                "source": "元·杨暹《刘行首》"
+            }
+        ],
+        "synonyms": [
+            "竹篮打水",
+            "徒劳无益"
+        ],
+        "antonyms": [
+            "立竿见影",
+            "行之有效",
+            "瓮中捉鳖"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "fish for the moon in the water"
+    },
+    "blocks": {
+        "reading": "shuǐ zhōng lāo yuè",
+        "sense-1": "比喻徒劳无功，白费力气。",
+        "citation-1": "恰便似沙里淘金，石中取火，水中捞月。 — 元·杨暹《刘行首》",
+        "synonyms": "竹篮打水、徒劳无益",
+        "antonyms": "立竿见影、行之有效、瓮中捉鳖"
+    }
+}

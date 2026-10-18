@@ -1,0 +1,68 @@
+{
+    "word": "人声鼎沸",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%BA%BA%E5%A3%B0%E9%BC%8E%E6%B2%B8",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "fcc96f2fa26b9a4d86670e9624e69bd9d1e81dd2e708f6e6da0b5b4a31590ae7",
+        "bytes": 27194
+    },
+    "parsed": {
+        "found": true,
+        "word": "人声鼎沸",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "rén",
+                "shēng",
+                "dǐng",
+                "fèi"
+            ],
+            "zhuyin": [
+                "ㄖㄣˊ",
+                "ㄕㄥ",
+                "ㄉㄧㄥˇ",
+                "ㄈㄟˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "人群喧闹嘈杂如同沸腾的鼎。",
+                "citations": [
+                    {
+                        "text": "一日午后，刘方在店中收拾，只听得人声鼎沸。",
+                        "source": "《醒世恒言·刘小官雌雄兄弟》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "一日午后，刘方在店中收拾，只听得人声鼎沸。",
+                "source": "《醒世恒言·刘小官雌雄兄弟》"
+            }
+        ],
+        "synonyms": [
+            "人欢马叫",
+            "震耳欲聋"
+        ],
+        "antonyms": [
+            "鸦雀无声",
+            "万籁俱寂",
+            "万籁无声"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "hubbub"
+    },
+    "blocks": {
+        "reading": "rén shēng dǐng fèi",
+        "sense-1": "人群喧闹嘈杂如同沸腾的鼎。",
+        "citation-1": "一日午后，刘方在店中收拾，只听得人声鼎沸。 — 《醒世恒言·刘小官雌雄兄弟》",
+        "synonyms": "人欢马叫、震耳欲聋",
+        "antonyms": "鸦雀无声、万籁俱寂、万籁无声"
+    }
+}

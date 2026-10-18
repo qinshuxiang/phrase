@@ -1,0 +1,67 @@
+{
+    "word": "门庭若市",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%97%A8%E5%BA%AD%E8%8B%A5%E5%B8%82",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "fa6bd69bf02348a1a46be8e8c4f64423262d77538fff4c666d17e1460e10bafd",
+        "bytes": 27795
+    },
+    "parsed": {
+        "found": true,
+        "word": "门庭若市",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "mén",
+                "tíng",
+                "ruò",
+                "shì"
+            ],
+            "zhuyin": [
+                "ㄇㄣˊ",
+                "ㄊㄧㄥˊ",
+                "ㄖㄨㄛˋ",
+                "ㄕˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "门前像集市一样热闹。形容来往的人很多。",
+                "citations": [
+                    {
+                        "text": "群臣进谏，门庭若市。",
+                        "source": "战国策·齐策一"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "群臣进谏，门庭若市。",
+                "source": "战国策·齐策一"
+            }
+        ],
+        "synonyms": [
+            "车水马龙",
+            "户限为穿﹑车水马龙"
+        ],
+        "antonyms": [
+            "门庭冷落",
+            "门可罗雀"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "swarming with visitors"
+    },
+    "blocks": {
+        "reading": "mén tíng ruò shì",
+        "sense-1": "门前像集市一样热闹。形容来往的人很多。",
+        "citation-1": "群臣进谏，门庭若市。 — 战国策·齐策一",
+        "synonyms": "车水马龙、户限为穿﹑车水马龙",
+        "antonyms": "门庭冷落、门可罗雀"
+    }
+}

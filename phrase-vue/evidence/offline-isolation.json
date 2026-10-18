@@ -1,0 +1,8 @@
+{
+    "passed": true,
+    "file_only": true,
+    "protocol": "file:",
+    "offline_before_first_navigation": true,
+    "isolated_filename": "行测学习 离线测试.html",
+    "sha256": "af7c540b38872945e0f94c0868f8240689d9cea252e721fe308523e42b746d4f"
+}

@@ -1,0 +1,76 @@
+{
+    "word": "讳疾忌医",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%AE%B3%E7%96%BE%E5%BF%8C%E5%8C%BB",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "593d1e6c342c824c7815bc5847c25f778f86193ff99c86e9e5351a00ae19d4cc",
+        "bytes": 27149
+    },
+    "parsed": {
+        "found": true,
+        "word": "讳疾忌医",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "huì",
+                "jí",
+                "jì",
+                "yī"
+            ],
+            "zhuyin": [
+                "ㄏㄨㄟˋ",
+                "ㄐㄧˊ",
+                "ㄐㄧˋ",
+                "ㄧ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "隐瞒病情，不愿接受治疗。",
+                "citations": [
+                    {
+                        "text": "此须究其根原，深加保养，不可归咎求节，讳疾忌医也。",
+                        "source": "宋·朱熹《与田侍郎书》"
+                    },
+                    {
+                        "text": "或疑上天公，讳疾忌医深閟埋。",
+                        "source": "元·胡助《月食遇雨》诗"
+                    }
+                ]
+            },
+            {
+                "definition": "比喻掩盖缺点错误，害怕他人批评指正。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "此须究其根原，深加保养，不可归咎求节，讳疾忌医也。",
+                "source": "宋·朱熹《与田侍郎书》"
+            },
+            {
+                "text": "或疑上天公，讳疾忌医深閟埋。",
+                "source": "元·胡助《月食遇雨》诗"
+            }
+        ],
+        "synonyms": [
+            "文过饰非"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "conceal sickness and avoid treatment"
+    },
+    "blocks": {
+        "reading": "huì jí jì yī",
+        "sense-1": "隐瞒病情，不愿接受治疗。",
+        "sense-2": "比喻掩盖缺点错误，害怕他人批评指正。",
+        "citation-1": "此须究其根原，深加保养，不可归咎求节，讳疾忌医也。 — 宋·朱熹《与田侍郎书》",
+        "citation-2": "或疑上天公，讳疾忌医深閟埋。 — 元·胡助《月食遇雨》诗",
+        "synonyms": "文过饰非"
+    }
+}

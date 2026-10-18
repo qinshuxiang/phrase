@@ -1,0 +1,59 @@
+{
+    "word": "一览无余",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%80%E8%A7%88%E6%97%A0%E4%BD%99",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "d1680357b1197a133863ebe2264ee691a8d8a6871819e54eef3884ecb8db8d7a",
+        "bytes": 26909
+    },
+    "parsed": {
+        "found": true,
+        "word": "一览无余",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yī",
+                "lǎn",
+                "wú",
+                "yú"
+            ],
+            "zhuyin": [
+                "ㄧ",
+                "ㄌㄢˇ",
+                "ㄨˊ",
+                "ㄩˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "一眼就能全部看清。",
+                "citations": [
+                    {
+                        "text": "风虚寒热之症候，一览无余。",
+                        "source": "《金瓶梅词话》第六一回"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "风虚寒热之症候，一览无余。",
+                "source": "《金瓶梅词话》第六一回"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "take in everything at a glance"
+    },
+    "blocks": {
+        "reading": "yī lǎn wú yú",
+        "sense-1": "一眼就能全部看清。",
+        "citation-1": "风虚寒热之症候，一览无余。 — 《金瓶梅词话》第六一回"
+    }
+}

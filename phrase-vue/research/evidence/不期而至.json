@@ -1,0 +1,48 @@
+{
+    "word": "不期而至",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%8D%E6%9C%9F%E8%80%8C%E8%87%B3",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "3d27d71e6404d1b42c9aeaabb4d9c0033df62fdc7ac2cee034c5db94ece2adbd",
+        "bytes": 21118
+    },
+    "parsed": {
+        "found": true,
+        "word": "不期而至",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bù",
+                "qī",
+                "ér",
+                "zhì"
+            ],
+            "zhuyin": [
+                "ㄅㄨˋ",
+                "ㄑㄧ",
+                "ㄦˊ",
+                "ㄓˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "指没有预料地到来。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": ""
+    },
+    "blocks": {
+        "reading": "bù qī ér zhì",
+        "sense-1": "指没有预料地到来。"
+    }
+}

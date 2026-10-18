@@ -1,0 +1,59 @@
+{
+    "word": "闪烁其词",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%97%AA%E7%83%81%E5%85%B6%E8%AF%8D",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "03a9b3bf4c95403487ef1cb45fd801d54c9246d64e3e24e8bd167ee4e870d669",
+        "bytes": 26706
+    },
+    "parsed": {
+        "found": true,
+        "word": "闪烁其词",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shǎn",
+                "shuò",
+                "qí",
+                "cí"
+            ],
+            "zhuyin": [
+                "ㄕㄢˇ",
+                "ㄕㄨㄛˋ",
+                "ㄑㄧˊ",
+                "ㄘˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "说话躲躲闪闪，不肯说出实情或全部内容。",
+                "citations": [
+                    {
+                        "text": "或者定伯故意闪烁其词，更未可定。",
+                        "source": "清·吴趼人《痛史》第二五回"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "或者定伯故意闪烁其词，更未可定。",
+                "source": "清·吴趼人《痛史》第二五回"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "equivocate"
+    },
+    "blocks": {
+        "reading": "shǎn shuò qí cí",
+        "sense-1": "说话躲躲闪闪，不肯说出实情或全部内容。",
+        "citation-1": "或者定伯故意闪烁其词，更未可定。 — 清·吴趼人《痛史》第二五回"
+    }
+}

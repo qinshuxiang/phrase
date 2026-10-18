@@ -1,0 +1,68 @@
+{
+    "word": "众说纷纭",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%BC%97%E8%AF%B4%E7%BA%B7%E7%BA%AD",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "1471cbbd088e2de3e78d6c147946ca3a6a741f2cee59cd5f453f511e87d834dd",
+        "bytes": 26372
+    },
+    "parsed": {
+        "found": true,
+        "word": "众说纷纭",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zhòng",
+                "shuō",
+                "fēn",
+                "yún"
+            ],
+            "zhuyin": [
+                "ㄓㄨㄥˋ",
+                "ㄕㄨㄛ",
+                "ㄈㄣ",
+                "ㄩㄣˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "各种说法杂乱不一致。",
+                "citations": [
+                    {
+                        "text": "是非之理，纷然散乱。",
+                        "source": "唐·李延寿《北史》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "是非之理，纷然散乱。",
+                "source": "唐·李延寿《北史》"
+            }
+        ],
+        "synonyms": [
+            "议论纷纷",
+            "言人人殊",
+            "各抒己见"
+        ],
+        "antonyms": [
+            "众口一词",
+            "异口同声"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "conflicting opinions"
+    },
+    "blocks": {
+        "reading": "zhòng shuō fēn yún",
+        "sense-1": "各种说法杂乱不一致。",
+        "citation-1": "是非之理，纷然散乱。 — 唐·李延寿《北史》",
+        "synonyms": "议论纷纷、言人人殊、各抒己见",
+        "antonyms": "众口一词、异口同声"
+    }
+}

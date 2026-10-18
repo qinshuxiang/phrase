@@ -1,0 +1,81 @@
+{
+    "word": "千锤百炼",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%8D%83%E9%94%A4%E7%99%BE%E7%82%BC",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "ff62364142f17ed22d92972a2d7cdc0849d37176a5badeb389b7206707d513ff",
+        "bytes": 26580
+    },
+    "parsed": {
+        "found": true,
+        "word": "千锤百炼",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "qiān",
+                "chuí",
+                "bǎi",
+                "liàn"
+            ],
+            "zhuyin": [
+                "ㄑㄧㄢ",
+                "ㄔㄨㄟˊ",
+                "ㄅㄞˇ",
+                "ㄌㄧㄢˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "对诗文反复修改提炼。",
+                "citations": [
+                    {
+                        "text": "百锻为字，千炼成句，虽不追躅太白，亦后来之佳作也。",
+                        "source": "唐·皮日休《刘枣强碑》"
+                    },
+                    {
+                        "text": "三间东倒西歪屋，一个千锤百炼人。",
+                        "source": "清·纪昀《阅微草堂笔记·灤阳续录五》"
+                    }
+                ]
+            },
+            {
+                "definition": "比喻经历多次艰苦斗争的锻炼。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "百锻为字，千炼成句，虽不追躅太白，亦后来之佳作也。",
+                "source": "唐·皮日休《刘枣强碑》"
+            },
+            {
+                "text": "三间东倒西歪屋，一个千锤百炼人。",
+                "source": "清·纪昀《阅微草堂笔记·灤阳续录五》"
+            }
+        ],
+        "synonyms": [
+            "精雕细刻",
+            "精益求精",
+            "字斟句酌"
+        ],
+        "antonyms": [
+            "粗制滥造"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "polish repeatedly"
+    },
+    "blocks": {
+        "reading": "qiān chuí bǎi liàn",
+        "sense-1": "对诗文反复修改提炼。",
+        "sense-2": "比喻经历多次艰苦斗争的锻炼。",
+        "citation-1": "百锻为字，千炼成句，虽不追躅太白，亦后来之佳作也。 — 唐·皮日休《刘枣强碑》",
+        "citation-2": "三间东倒西歪屋，一个千锤百炼人。 — 清·纪昀《阅微草堂笔记·灤阳续录五》",
+        "synonyms": "精雕细刻、精益求精、字斟句酌",
+        "antonyms": "粗制滥造"
+    }
+}

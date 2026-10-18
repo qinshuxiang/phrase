@@ -1,0 +1,66 @@
+{
+    "word": "望而却步",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%9C%9B%E8%80%8C%E5%8D%B4%E6%AD%A5",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "fa45323f913f94148b23f8b5ea8db7f2e5122cfbb29eb0ac99b09512dee593f9",
+        "bytes": 26338
+    },
+    "parsed": {
+        "found": true,
+        "word": "望而却步",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "wàng",
+                "ér",
+                "què",
+                "bù"
+            ],
+            "zhuyin": [
+                "ㄨㄤˋ",
+                "ㄦˊ",
+                "ㄑㄩㄝˋ",
+                "ㄅㄨˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "见到危险或困难就退缩不前。",
+                "citations": [
+                    {
+                        "text": "今藏园、瓯北两才子诗，斗险争新，余望而却步。",
+                        "source": "清·袁枚《随园诗话补遗》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "今藏园、瓯北两才子诗，斗险争新，余望而却步。",
+                "source": "清·袁枚《随园诗话补遗》"
+            }
+        ],
+        "synonyms": [
+            "畏葸不前",
+            "望而生畏"
+        ],
+        "antonyms": [
+            "勇往直前"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "shrink back at the sight of"
+    },
+    "blocks": {
+        "reading": "wàng ér què bù",
+        "sense-1": "见到危险或困难就退缩不前。",
+        "citation-1": "今藏园、瓯北两才子诗，斗险争新，余望而却步。 — 清·袁枚《随园诗话补遗》",
+        "synonyms": "畏葸不前、望而生畏",
+        "antonyms": "勇往直前"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "word": "背水一战",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%83%8C%E6%B0%B4%E4%B8%80%E6%88%98",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "0c4035b8a9c14165dc92f755d442e92b91c770450f308083415d46436f47a9c9",
+        "bytes": 24760
+    },
+    "parsed": {
+        "found": true,
+        "word": "背水一战",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bèi",
+                "shuǐ",
+                "yī",
+                "zhàn"
+            ],
+            "zhuyin": [
+                "ㄅㄟˋ",
+                "ㄕㄨㄟˇ",
+                "ㄧ",
+                "ㄓㄢˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "在绝境中为求生路而决一死战",
+                "citations": [
+                    {
+                        "text": "信乃使万人先行，出，背水陈。",
+                        "source": "汉·司马迁《史记·淮阴侯列传》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "信乃使万人先行，出，背水陈。",
+                "source": "汉·司马迁《史记·淮阴侯列传》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "fight with one's back to the river"
+    },
+    "blocks": {
+        "reading": "bèi shuǐ yī zhàn",
+        "sense-1": "在绝境中为求生路而决一死战",
+        "citation-1": "信乃使万人先行，出，背水陈。 — 汉·司马迁《史记·淮阴侯列传》"
+    }
+}

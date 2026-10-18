@@ -1,0 +1,26 @@
+{
+    "word": "去腐生肌",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%8E%BB%E8%85%90%E7%94%9F%E8%82%8C",
+        "retrieved_at": "2026-10-18",
+        "http_status": 404,
+        "page_sha256": null,
+        "bytes": 0
+    },
+    "parsed": {
+        "found": false,
+        "word": "去腐生肌",
+        "readings": {
+            "pinyin": [],
+            "zhuyin": []
+        },
+        "senses": [],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "english": ""
+    },
+    "blocks": {}
+}

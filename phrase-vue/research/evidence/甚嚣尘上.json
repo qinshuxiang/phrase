@@ -1,0 +1,70 @@
+{
+    "word": "甚嚣尘上",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%94%9A%E5%9A%A3%E5%B0%98%E4%B8%8A",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "1a97b909ecad3b7d7ef0cce38360ea8c14d0ad20318ddc03821d26a3f3aa7472",
+        "bytes": 27335
+    },
+    "parsed": {
+        "found": true,
+        "word": "甚嚣尘上",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shèn",
+                "xiāo",
+                "chén",
+                "shàng"
+            ],
+            "zhuyin": [
+                "ㄕㄣˋ",
+                "ㄒㄧㄠ",
+                "ㄔㄣˊ",
+                "ㄕㄤˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "原指军队喧哗纷乱、尘土飞扬的景象。后形容议论喧腾。",
+                "citations": [
+                    {
+                        "text": "楚子登巢车以望晋军……曰：「甚嚣，且尘上矣。",
+                        "source": "春秋鲁·左丘明《左传·成公十六年》"
+                    }
+                ]
+            },
+            {
+                "definition": "指反动言论十分嚣张。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "楚子登巢车以望晋军……曰：「甚嚣，且尘上矣。",
+                "source": "春秋鲁·左丘明《左传·成公十六年》"
+            }
+        ],
+        "synonyms": [
+            "满城风雨"
+        ],
+        "antonyms": [
+            "风平浪静"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "noisy and dusty"
+    },
+    "blocks": {
+        "reading": "shèn xiāo chén shàng",
+        "sense-1": "原指军队喧哗纷乱、尘土飞扬的景象。后形容议论喧腾。",
+        "sense-2": "指反动言论十分嚣张。",
+        "citation-1": "楚子登巢车以望晋军……曰：「甚嚣，且尘上矣。 — 春秋鲁·左丘明《左传·成公十六年》",
+        "synonyms": "满城风雨",
+        "antonyms": "风平浪静"
+    }
+}

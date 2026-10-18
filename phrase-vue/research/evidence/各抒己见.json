@@ -1,0 +1,64 @@
+{
+    "word": "各抒己见",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%90%84%E6%8A%92%E5%B7%B1%E8%A7%81",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "77dfa887aebe894e5b463458d5f91ce5cd2bb7cbe93b580f733da480886d1a54",
+        "bytes": 26639
+    },
+    "parsed": {
+        "found": true,
+        "word": "各抒己见",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "gè",
+                "shū",
+                "jǐ",
+                "jiàn"
+            ],
+            "zhuyin": [
+                "ㄍㄜˋ",
+                "ㄕㄨ",
+                "ㄐㄧˇ",
+                "ㄐㄧㄢˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "每个人充分表达自己的意见。",
+                "citations": [
+                    {
+                        "text": "据我主意，何不各抒己见，出个式子，岂不新鲜些？",
+                        "source": "清·李汝珍《镜花缘》第七十四回"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "据我主意，何不各抒己见，出个式子，岂不新鲜些？",
+                "source": "清·李汝珍《镜花缘》第七十四回"
+            }
+        ],
+        "synonyms": [
+            "各持己见",
+            "各抒所见",
+            "畅所欲言"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "express one's views freely"
+    },
+    "blocks": {
+        "reading": "gè shū jǐ jiàn",
+        "sense-1": "每个人充分表达自己的意见。",
+        "citation-1": "据我主意，何不各抒己见，出个式子，岂不新鲜些？ — 清·李汝珍《镜花缘》第七十四回",
+        "synonyms": "各持己见、各抒所见、畅所欲言"
+    }
+}

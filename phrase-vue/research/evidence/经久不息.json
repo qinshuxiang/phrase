@@ -1,0 +1,68 @@
+{
+    "word": "经久不息",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%BB%8F%E4%B9%85%E4%B8%8D%E6%81%AF",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "a0db92e741534dfe10c6f20935ee0b1bfdcecd8028a4ae20ecae5585dad7b523",
+        "bytes": 26031
+    },
+    "parsed": {
+        "found": true,
+        "word": "经久不息",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jīng",
+                "jiǔ",
+                "bù",
+                "xí"
+            ],
+            "zhuyin": [
+                "ㄐㄧㄥ",
+                "ㄐㄧㄡˇ",
+                "ㄅㄨˋ",
+                "ㄒㄧˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "持续很长时间而不停止。",
+                "citations": [
+                    {
+                        "text": "村前就有一条小河，数百年来经久不息地哗哗远流。",
+                        "source": "《黄河文学》2008年第7期"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "村前就有一条小河，数百年来经久不息地哗哗远流。",
+                "source": "《黄河文学》2008年第7期"
+            }
+        ],
+        "synonyms": [
+            "响遏行云",
+            "余音绕梁"
+        ],
+        "antonyms": [
+            "万马齐喑",
+            "屏声静气",
+            "一朝一夕"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "protracted"
+    },
+    "blocks": {
+        "reading": "jīng jiǔ bù xí",
+        "sense-1": "持续很长时间而不停止。",
+        "citation-1": "村前就有一条小河，数百年来经久不息地哗哗远流。 — 《黄河文学》2008年第7期",
+        "synonyms": "响遏行云、余音绕梁",
+        "antonyms": "万马齐喑、屏声静气、一朝一夕"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "word": "一筹莫展",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%80%E7%AD%B9%E8%8E%AB%E5%B1%95",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "ea0544679a73e9acc5cc05016fe7685f0fa7e334cc60753ffb0cdede519e03bb",
+        "bytes": 27781
+    },
+    "parsed": {
+        "found": true,
+        "word": "一筹莫展",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yī",
+                "chóu",
+                "mò",
+                "zhǎn"
+            ],
+            "zhuyin": [
+                "ㄧ",
+                "ㄔㄡˊ",
+                "ㄇㄛˋ",
+                "ㄓㄢˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容一点办法也想不出来。",
+                "citations": [
+                    {
+                        "text": "盖部中只见其报功而不知其为衰庸闒懦、一筹莫展之人也。",
+                        "source": "明·唐顺之《与陈苏山职方》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "盖部中只见其报功而不知其为衰庸闒懦、一筹莫展之人也。",
+                "source": "明·唐顺之《与陈苏山职方》"
+            }
+        ],
+        "synonyms": [
+            "束手待毙",
+            "束手无策"
+        ],
+        "antonyms": [
+            "神通广大",
+            "大显身手",
+            "大显神通",
+            "大展宏图"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "helpless"
+    },
+    "blocks": {
+        "reading": "yī chóu mò zhǎn",
+        "sense-1": "形容一点办法也想不出来。",
+        "citation-1": "盖部中只见其报功而不知其为衰庸闒懦、一筹莫展之人也。 — 明·唐顺之《与陈苏山职方》",
+        "synonyms": "束手待毙、束手无策",
+        "antonyms": "神通广大、大显身手、大显神通、大展宏图"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "word": "画饼充饥",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%94%BB%E9%A5%BC%E5%85%85%E9%A5%A5",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "b3dc0fc021feeea9938dedba5ceebf9ba58529e768e23226b2b6b4771097d81b",
+        "bytes": 28091
+    },
+    "parsed": {
+        "found": true,
+        "word": "画饼充饥",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "huà",
+                "bǐng",
+                "chōng",
+                "jī"
+            ],
+            "zhuyin": [
+                "ㄏㄨㄚˋ",
+                "ㄅㄧㄥˇ",
+                "ㄔㄨㄥ",
+                "ㄐㄧ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻徒有虚名而无实际效用。",
+                "citations": [
+                    {
+                        "text": "礼义如画饼充饥矣。",
+                        "source": "唐·冯用之《权论》"
+                    },
+                    {
+                        "text": "说梅止渴，稍苏奔竞之心；画饼充饥，少谢腾骧之志。",
+                        "source": "宋·李清照《打马赋》"
+                    }
+                ]
+            },
+            {
+                "definition": "以空想自我安慰。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "礼义如画饼充饥矣。",
+                "source": "唐·冯用之《权论》"
+            },
+            {
+                "text": "说梅止渴，稍苏奔竞之心；画饼充饥，少谢腾骧之志。",
+                "source": "宋·李清照《打马赋》"
+            }
+        ],
+        "synonyms": [
+            "望梅止渴"
+        ],
+        "antonyms": [
+            "名副其实"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "draw cakes to allay hunger"
+    },
+    "blocks": {
+        "reading": "huà bǐng chōng jī",
+        "sense-1": "比喻徒有虚名而无实际效用。",
+        "sense-2": "以空想自我安慰。",
+        "citation-1": "礼义如画饼充饥矣。 — 唐·冯用之《权论》",
+        "citation-2": "说梅止渴，稍苏奔竞之心；画饼充饥，少谢腾骧之志。 — 宋·李清照《打马赋》",
+        "synonyms": "望梅止渴",
+        "antonyms": "名副其实"
+    }
+}

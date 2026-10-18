@@ -1,0 +1,66 @@
+{
+    "word": "手到擒来",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%89%8B%E5%88%B0%E6%93%92%E6%9D%A5",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "5b4045a2e55dc5708f2b6eb4b463d5f8a7efb0293a7e4c53d92865cf7f783cfc",
+        "bytes": 26590
+    },
+    "parsed": {
+        "found": true,
+        "word": "手到擒来",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shǒu",
+                "dào",
+                "qín",
+                "lái"
+            ],
+            "zhuyin": [
+                "ㄕㄡˇ",
+                "ㄉㄠˋ",
+                "ㄑㄧㄣˊ",
+                "ㄌㄞˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容毫不费力就能捉住敌人。",
+                "citations": [
+                    {
+                        "text": "我共师兄去，手到擒来！",
+                        "source": "《西游记》第六二回"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "我共师兄去，手到擒来！",
+                "source": "《西游记》第六二回"
+            }
+        ],
+        "synonyms": [
+            "轻而易举",
+            "易如反掌"
+        ],
+        "antonyms": [
+            "大海捞针"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "easy to capture"
+    },
+    "blocks": {
+        "reading": "shǒu dào qín lái",
+        "sense-1": "形容毫不费力就能捉住敌人。",
+        "citation-1": "我共师兄去，手到擒来！ — 《西游记》第六二回",
+        "synonyms": "轻而易举、易如反掌",
+        "antonyms": "大海捞针"
+    }
+}

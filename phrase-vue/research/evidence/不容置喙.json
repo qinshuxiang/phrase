@@ -1,0 +1,54 @@
+{
+    "word": "不容置喙",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%8D%E5%AE%B9%E7%BD%AE%E5%96%99",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "b1a30b83bb78d90f79713c46dca83297eea07db3fbaeaa2f801917d4e78bb564",
+        "bytes": 24033
+    },
+    "parsed": {
+        "found": true,
+        "word": "不容置喙",
+        "section": "idiom",
+        "readings": {
+            "pinyin": [
+                "bù",
+                "róng",
+                "zhì",
+                "huì"
+            ],
+            "zhuyin": [
+                "ㄅㄨˋ",
+                "ㄖㄨㄥˊ",
+                "ㄓˋ",
+                "ㄏㄨㄟˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "不容许插嘴。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": {
+            "text": "他的文章沒讀過三遍～。",
+            "source": "不容置喙"
+        },
+        "grammar": "动宾式；作谓语；形容没有说话的机会",
+        "example": "他的文章没读过三遍～。",
+        "english": ""
+    },
+    "blocks": {
+        "reading": "bù róng zhì huì",
+        "sense-1": "不容许插嘴。",
+        "origin": "他的文章沒讀過三遍～。",
+        "grammar": "动宾式；作谓语；形容没有说话的机会",
+        "example": "他的文章没读过三遍～。"
+    }
+}

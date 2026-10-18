@@ -1,0 +1,59 @@
+{
+    "word": "慎终如始",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%85%8E%E7%BB%88%E5%A6%82%E5%A7%8B",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "a3cac4aa39a0af2c2fd1bf7c44c145f5f7bac28dbee7d8285e419d5088ec2187",
+        "bytes": 24690
+    },
+    "parsed": {
+        "found": true,
+        "word": "慎终如始",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shèn",
+                "zhōng",
+                "rú",
+                "shǐ"
+            ],
+            "zhuyin": [
+                "ㄕㄣˋ",
+                "ㄓㄨㄥ",
+                "ㄖㄨˊ",
+                "ㄕˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "做事始终保持谨慎，如同开始时一样。",
+                "citations": [
+                    {
+                        "text": "慎终如始，则无败事。",
+                        "source": "《老子》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "慎终如始，则无败事。",
+                "source": "《老子》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "caution to the end"
+    },
+    "blocks": {
+        "reading": "shèn zhōng rú shǐ",
+        "sense-1": "做事始终保持谨慎，如同开始时一样。",
+        "citation-1": "慎终如始，则无败事。 — 《老子》"
+    }
+}

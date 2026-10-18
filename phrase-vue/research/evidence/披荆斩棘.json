@@ -1,0 +1,74 @@
+{
+    "word": "披荆斩棘",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "a4a91755d27ade0cd6bd0f781e398354dc23adf8d1bd9145040a9b333a64b381",
+        "bytes": 27298
+    },
+    "parsed": {
+        "found": true,
+        "word": "披荆斩棘",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "pī",
+                "jīng",
+                "zhǎn",
+                "jí"
+            ],
+            "zhuyin": [
+                "ㄆㄧ",
+                "ㄐㄧㄥ",
+                "ㄓㄢˇ",
+                "ㄐㄧˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "砍除荆棘开辟道路。",
+                "citations": [
+                    {
+                        "text": "况此河套一方，沃野千里，我祖宗披荆斩棘，开创何难！",
+                        "source": "明·无名氏《鸣凤记·二相争朝》"
+                    }
+                ]
+            },
+            {
+                "definition": "比喻克服创业过程中的重重困难。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "况此河套一方，沃野千里，我祖宗披荆斩棘，开创何难！",
+                "source": "明·无名氏《鸣凤记·二相争朝》"
+            }
+        ],
+        "synonyms": [
+            "乘风破浪",
+            "一往无前",
+            "披荆棘"
+        ],
+        "antonyms": [
+            "畏首畏尾",
+            "瞻前顾后",
+            "蹈袭故常﹑养尊处优"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "clear away obstacles"
+    },
+    "blocks": {
+        "reading": "pī jīng zhǎn jí",
+        "sense-1": "砍除荆棘开辟道路。",
+        "sense-2": "比喻克服创业过程中的重重困难。",
+        "citation-1": "况此河套一方，沃野千里，我祖宗披荆斩棘，开创何难！ — 明·无名氏《鸣凤记·二相争朝》",
+        "synonyms": "乘风破浪、一往无前、披荆棘",
+        "antonyms": "畏首畏尾、瞻前顾后、蹈袭故常﹑养尊处优"
+    }
+}

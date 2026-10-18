@@ -1,0 +1,59 @@
+{
+    "word": "循序渐进",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%BE%AA%E5%BA%8F%E6%B8%90%E8%BF%9B",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "86ae50f0513496acc3b58bdec6746222d150f7a074e947d1f0ab1db8e58c2b8e",
+        "bytes": 27508
+    },
+    "parsed": {
+        "found": true,
+        "word": "循序渐进",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "xún",
+                "xù",
+                "jiàn",
+                "jìn"
+            ],
+            "zhuyin": [
+                "ㄒㄩㄣˊ",
+                "ㄒㄩˋ",
+                "ㄐㄧㄢˋ",
+                "ㄐㄧㄣˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "按照次序逐步深入或提升。",
+                "citations": [
+                    {
+                        "text": "但知下学而自然上达，此但自言其反己自修，循序渐进耳。",
+                        "source": "宋·朱熹《论语集注》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "但知下学而自然上达，此但自言其反己自修，循序渐进耳。",
+                "source": "宋·朱熹《论语集注》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "step by step"
+    },
+    "blocks": {
+        "reading": "xún xù jiàn jìn",
+        "sense-1": "按照次序逐步深入或提升。",
+        "citation-1": "但知下学而自然上达，此但自言其反己自修，循序渐进耳。 — 宋·朱熹《论语集注》"
+    }
+}

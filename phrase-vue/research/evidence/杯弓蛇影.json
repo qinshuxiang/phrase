@@ -1,0 +1,59 @@
+{
+    "word": "杯弓蛇影",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%9D%AF%E5%BC%93%E8%9B%87%E5%BD%B1",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "3f7e5bfac4e82746f843e11e36ed6563fdbf063d41370d144c063ed93cc8f542",
+        "bytes": 29555
+    },
+    "parsed": {
+        "found": true,
+        "word": "杯弓蛇影",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bēi",
+                "gōng",
+                "shé",
+                "yǐng"
+            ],
+            "zhuyin": [
+                "ㄅㄟ",
+                "ㄍㄨㄥ",
+                "ㄕㄜˊ",
+                "ㄧㄥˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "应劭《风俗通义·怪神第九》记载,应郴请杜宣饮酒,挂在墙上的弓映在酒杯里,杜宣以为杯中有蛇,疑心中蛇毒而生病。后用“杯弓蛇影”比喻疑神疑鬼,妄自惊扰",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "草木皆兵",
+            "疑神疑鬼",
+            "风声鹤唳",
+            "风声鹤唳﹑草木皆兵"
+        ],
+        "antonyms": [
+            "安之若泰",
+            "谈笑自若",
+            "处之泰然"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "extremely suspicious;have imaginary fears as one who mistakes the reflection of a bow in the wine cup for the shadow of a snake"
+    },
+    "blocks": {
+        "reading": "bēi gōng shé yǐng",
+        "sense-1": "应劭《风俗通义·怪神第九》记载,应郴请杜宣饮酒,挂在墙上的弓映在酒杯里,杜宣以为杯中有蛇,疑心中蛇毒而生病。后用“杯弓蛇影”比喻疑神疑鬼,妄自惊扰",
+        "synonyms": "草木皆兵、疑神疑鬼、风声鹤唳、风声鹤唳﹑草木皆兵",
+        "antonyms": "安之若泰、谈笑自若、处之泰然"
+    }
+}

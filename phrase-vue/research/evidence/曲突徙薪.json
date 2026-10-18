@@ -1,0 +1,56 @@
+{
+    "word": "曲突徙薪",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%9B%B2%E7%AA%81%E5%BE%99%E8%96%AA",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "fef5bad0a111fd2ef5493a21c6f1197c24f9a2f14e44ae5e3560330cd89714fe",
+        "bytes": 28615
+    },
+    "parsed": {
+        "found": true,
+        "word": "曲突徙薪",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "qū",
+                "tū",
+                "xǐ",
+                "xīn"
+            ],
+            "zhuyin": [
+                "ㄑㄩˇ",
+                "ㄊㄨ",
+                "ㄒㄧˇ",
+                "ㄒㄧㄣ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "有一家的烟囱很直,旁边堆着许多柴火,有客劝主人改建弯曲的烟囱,把柴火搬开,不然有着火的危险,主人不听,不久果然发生了火灾(见于《汉书·霍光传》)。比喻事先采取措施,防患于未然",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "防患未然",
+            "未焚徙薪"
+        ],
+        "antonyms": [
+            "临渴掘井",
+            "江心补漏"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "bend the chimney and remove the fuel to prevent a possible fire"
+    },
+    "blocks": {
+        "reading": "qū tū xǐ xīn",
+        "sense-1": "有一家的烟囱很直,旁边堆着许多柴火,有客劝主人改建弯曲的烟囱,把柴火搬开,不然有着火的危险,主人不听,不久果然发生了火灾(见于《汉书·霍光传》)。比喻事先采取措施,防患于未然",
+        "synonyms": "防患未然、未焚徙薪",
+        "antonyms": "临渴掘井、江心补漏"
+    }
+}

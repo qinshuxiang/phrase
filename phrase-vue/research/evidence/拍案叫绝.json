@@ -1,0 +1,70 @@
+{
+    "word": "拍案叫绝",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%8B%8D%E6%A1%88%E5%8F%AB%E7%BB%9D",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "72898c1e2a70a9e465419eafe9e367ac4e5c7a620ddb0a3529a61b8372a24f42",
+        "bytes": 27974
+    },
+    "parsed": {
+        "found": true,
+        "word": "拍案叫绝",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "pāi",
+                "àn",
+                "jiào",
+                "jué"
+            ],
+            "zhuyin": [
+                "ㄆㄞ",
+                "ㄢˋ",
+                "ㄐㄧㄠˋ",
+                "ㄐㄩㄝˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "拍桌子叫好，形容极度赞赏。",
+                "citations": [
+                    {
+                        "text": "﹝宝玉﹞忙问：「这一句可还使得？」众人拍案叫绝。",
+                        "source": "《红楼梦》第七八回"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "﹝宝玉﹞忙问：「这一句可还使得？」众人拍案叫绝。",
+                "source": "《红楼梦》第七八回"
+            }
+        ],
+        "synonyms": [
+            "赞不绝口",
+            "交口称誉",
+            "叹为观止",
+            "拍桌惊叹﹑击节称赏﹑赞不绝口"
+        ],
+        "antonyms": [
+            "众口交谪",
+            "破口大骂",
+            "嗤之以鼻"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "applaud"
+    },
+    "blocks": {
+        "reading": "pāi àn jiào jué",
+        "sense-1": "拍桌子叫好，形容极度赞赏。",
+        "citation-1": "﹝宝玉﹞忙问：「这一句可还使得？」众人拍案叫绝。 — 《红楼梦》第七八回",
+        "synonyms": "赞不绝口、交口称誉、叹为观止、拍桌惊叹﹑击节称赏﹑赞不绝口",
+        "antonyms": "众口交谪、破口大骂、嗤之以鼻"
+    }
+}

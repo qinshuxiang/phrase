@@ -1,0 +1,524 @@
+{
+  "text": "番 guerra X!!!!!亲爱的宿有着想跳过高远的部落怕你是个传说有着你给的承诺让我在轮回中愿为了你漂泊哗里哗里哗里唱着前世的情歌不过重要也够活哦你是我的风啪的啪的啪的手 让个三不细波哦 三生远的灵魄 我等你来吹我白眼的雅鲁三部月亮的鲁克子思维的唐布拉山后爱情的十学和城市的古达拉宫那多千个拉宝座永恒的周末朗末风声才却跌一波城市的雄鹰高飞你像个锯末吃我亲爱的所有者想跳过高人的部落帕里是个传说有着你对的承诺让我在轮回中愿为了你漂泊帕里帕里帕里唱着现实的心动哦 国庄摇曳楼摩哦 你是我的风帕里帕里帕里守着个散步寂寞三生远的灵魂 我等你来去我哈里巴里巴里 唱着前世的琴歌火装摇曳构火 帮你示我的佛哈里巴里巴里 守着着三无寂寞三生远的灵魂 我等你来去我三生远的灵魂 我等你来请我在你的眼里是划过侧脸我只能想跑掉我多体贴走在一圈想走在昏远他不配站在你眼前你的痛恃都看不见为什么最迷人的最危险为什么爱会让人变残缺为什么那么痛还看到胸口在当人里想背我的心意已经让你好多年爱不说满到自己快湮灭那时光不够解释满轮的世界如果说每一场曲就是今天我很抱歉让醒来和相爱模糊了界限你承担感觉我也难过的了解我不配站在你眼前你的痛怎能看不见为什么最迷人的最危险为什么爱会让人变残缺为什么那么痛还敢拿胸口再打谁想飞你在我眼中真的很特别感情却不在我的梦里面还是无法解释矛盾的四切我很",
+  "segments": [
+    {
+      "text": "番 guerra X!!!!!",
+      "start": 0.0,
+      "end": 22.12,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -6.7272,
+      "compression_ratio": 0.7391
+    },
+    {
+      "text": "亲爱的宿有着想跳过高远的部落",
+      "start": 22.12,
+      "end": 27.060000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3803,
+      "compression_ratio": 1.1818
+    },
+    {
+      "text": "怕你是个传说有着你给的承诺",
+      "start": 27.060000000000002,
+      "end": 32.160000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3803,
+      "compression_ratio": 1.1818
+    },
+    {
+      "text": "让我在轮回中愿为了你漂泊",
+      "start": 32.160000000000004,
+      "end": 37.64,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3803,
+      "compression_ratio": 1.1818
+    },
+    {
+      "text": "哗里哗里哗里唱着前世的情歌",
+      "start": 37.64,
+      "end": 44.040000000000006,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3803,
+      "compression_ratio": 1.1818
+    },
+    {
+      "text": "不过重要也够活",
+      "start": 44.040000000000006,
+      "end": 46.7,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3803,
+      "compression_ratio": 1.1818
+    },
+    {
+      "text": "哦你是我的风",
+      "start": 46.7,
+      "end": 48.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3803,
+      "compression_ratio": 1.1818
+    },
+    {
+      "text": "啪的啪的啪的手 让个三不细波",
+      "start": 48.88,
+      "end": 53.760000000000005,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.7143,
+      "compression_ratio": 0.9878
+    },
+    {
+      "text": "哦 三生远的灵魄 我等你来吹我",
+      "start": 53.760000000000005,
+      "end": 58.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.7143,
+      "compression_ratio": 0.9878
+    },
+    {
+      "text": "白眼的雅鲁三部",
+      "start": 78.88,
+      "end": 82.97999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.674,
+      "compression_ratio": 1.2032
+    },
+    {
+      "text": "月亮的鲁克子",
+      "start": 82.97999999999999,
+      "end": 85.24,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.674,
+      "compression_ratio": 1.2032
+    },
+    {
+      "text": "思维的唐布拉山后",
+      "start": 85.24,
+      "end": 88.28,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.674,
+      "compression_ratio": 1.2032
+    },
+    {
+      "text": "爱情的十学和",
+      "start": 88.28,
+      "end": 90.36,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.674,
+      "compression_ratio": 1.2032
+    },
+    {
+      "text": "城市的古达拉宫",
+      "start": 90.36,
+      "end": 92.82,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.674,
+      "compression_ratio": 1.2032
+    },
+    {
+      "text": "那多千个拉宝座",
+      "start": 92.82,
+      "end": 95.17999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.674,
+      "compression_ratio": 1.2032
+    },
+    {
+      "text": "永恒的周末朗末",
+      "start": 95.17999999999999,
+      "end": 97.52,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.674,
+      "compression_ratio": 1.2032
+    },
+    {
+      "text": "风声才却跌一波",
+      "start": 97.52,
+      "end": 99.89999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.674,
+      "compression_ratio": 1.2032
+    },
+    {
+      "text": "城市的雄鹰高飞",
+      "start": 99.89999999999999,
+      "end": 102.36,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.674,
+      "compression_ratio": 1.2032
+    },
+    {
+      "text": "你像个锯末吃我",
+      "start": 102.36,
+      "end": 104.89999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.674,
+      "compression_ratio": 1.2032
+    },
+    {
+      "text": "亲爱的所有者",
+      "start": 104.89999999999999,
+      "end": 106.91999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.674,
+      "compression_ratio": 1.2032
+    },
+    {
+      "text": "想跳过高人的部落",
+      "start": 106.92,
+      "end": 109.48,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4014,
+      "compression_ratio": 1.2601
+    },
+    {
+      "text": "帕里是个传说",
+      "start": 109.48,
+      "end": 112.1,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4014,
+      "compression_ratio": 1.2601
+    },
+    {
+      "text": "有着你对的承诺",
+      "start": 112.1,
+      "end": 114.36,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4014,
+      "compression_ratio": 1.2601
+    },
+    {
+      "text": "让我在轮回中",
+      "start": 114.36,
+      "end": 117.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4014,
+      "compression_ratio": 1.2601
+    },
+    {
+      "text": "愿为了你漂泊",
+      "start": 117.06,
+      "end": 120.04,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4014,
+      "compression_ratio": 1.2601
+    },
+    {
+      "text": "帕里帕里帕里",
+      "start": 120.04,
+      "end": 124.16,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4014,
+      "compression_ratio": 1.2601
+    },
+    {
+      "text": "唱着现实的心动",
+      "start": 124.16,
+      "end": 126.52000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4014,
+      "compression_ratio": 1.2601
+    },
+    {
+      "text": "哦 国庄摇曳楼摩",
+      "start": 126.52000000000001,
+      "end": 129.1,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4014,
+      "compression_ratio": 1.2601
+    },
+    {
+      "text": "哦 你是我的风",
+      "start": 129.1,
+      "end": 131.34,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4014,
+      "compression_ratio": 1.2601
+    },
+    {
+      "text": "帕里帕里帕里",
+      "start": 131.34,
+      "end": 133.9,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4014,
+      "compression_ratio": 1.2601
+    },
+    {
+      "text": "守着个散步寂寞",
+      "start": 133.9,
+      "end": 136.16,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4014,
+      "compression_ratio": 1.2601
+    },
+    {
+      "text": "三生远的灵魂 我等你来去我",
+      "start": 136.16,
+      "end": 141.7,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4098,
+      "compression_ratio": 1.5755
+    },
+    {
+      "text": "哈里巴里巴里 唱着前世的琴歌",
+      "start": 141.7,
+      "end": 145.85999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4098,
+      "compression_ratio": 1.5755
+    },
+    {
+      "text": "火装摇曳构火 帮你示我的佛",
+      "start": 145.85999999999999,
+      "end": 150.96,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4098,
+      "compression_ratio": 1.5755
+    },
+    {
+      "text": "哈里巴里巴里 守着着三无寂寞",
+      "start": 150.96,
+      "end": 155.57999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4098,
+      "compression_ratio": 1.5755
+    },
+    {
+      "text": "三生远的灵魂 我等你来去我",
+      "start": 155.57999999999998,
+      "end": 160.92,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4098,
+      "compression_ratio": 1.5755
+    },
+    {
+      "text": "三生远的灵魂 我等你",
+      "start": 160.92,
+      "end": 164.4,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4098,
+      "compression_ratio": 1.5755
+    },
+    {
+      "text": "来请我",
+      "start": 164.4,
+      "end": 166.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.9105,
+      "compression_ratio": 0.78
+    },
+    {
+      "text": "在你的眼里是划过侧脸",
+      "start": 188.72,
+      "end": 192.68,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.9105,
+      "compression_ratio": 0.78
+    },
+    {
+      "text": "我只能想跑掉我多体贴",
+      "start": 192.68,
+      "end": 199.68,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4415,
+      "compression_ratio": 1.1458
+    },
+    {
+      "text": "走在一圈",
+      "start": 201.14000000000001,
+      "end": 204.4,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4415,
+      "compression_ratio": 1.1458
+    },
+    {
+      "text": "想走在昏远",
+      "start": 204.4,
+      "end": 207.94,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4415,
+      "compression_ratio": 1.1458
+    },
+    {
+      "text": "他不配站在你眼前",
+      "start": 207.94,
+      "end": 211.60000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4415,
+      "compression_ratio": 1.1458
+    },
+    {
+      "text": "你的痛恃都看不见",
+      "start": 211.60000000000002,
+      "end": 214.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4415,
+      "compression_ratio": 1.1458
+    },
+    {
+      "text": "为什么最迷人的最危险",
+      "start": 214.88,
+      "end": 218.9,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4415,
+      "compression_ratio": 1.1458
+    },
+    {
+      "text": "为什么爱会让人变残缺",
+      "start": 218.9,
+      "end": 222.42000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4415,
+      "compression_ratio": 1.1458
+    },
+    {
+      "text": "为什么那么痛还看到胸口在当人里想背",
+      "start": 222.42,
+      "end": 228.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.5832,
+      "compression_ratio": 1.0958
+    },
+    {
+      "text": "我的心意已经让你好多年",
+      "start": 228.88,
+      "end": 232.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.5832,
+      "compression_ratio": 1.0958
+    },
+    {
+      "text": "爱不说满到自己快湮灭",
+      "start": 232.88,
+      "end": 236.39999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.5832,
+      "compression_ratio": 1.0958
+    },
+    {
+      "text": "那时光不够解释满轮的世界",
+      "start": 236.39999999999998,
+      "end": 240.85999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.5832,
+      "compression_ratio": 1.0958
+    },
+    {
+      "text": "如果说每一场曲就是今天",
+      "start": 240.85999999999999,
+      "end": 248.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.5832,
+      "compression_ratio": 1.0958
+    },
+    {
+      "text": "我很抱歉让醒来和相爱模糊了界限",
+      "start": 248.56,
+      "end": 257.98,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2202,
+      "compression_ratio": 1.1386
+    },
+    {
+      "text": "你承担感觉我也难过的了解",
+      "start": 257.98,
+      "end": 263.64,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2202,
+      "compression_ratio": 1.1386
+    },
+    {
+      "text": "我不配站在你眼前",
+      "start": 263.64,
+      "end": 267.1,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2202,
+      "compression_ratio": 1.1386
+    },
+    {
+      "text": "你的痛怎能看不见",
+      "start": 267.1,
+      "end": 270.52,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2202,
+      "compression_ratio": 1.1386
+    },
+    {
+      "text": "为什么最迷人的最危险",
+      "start": 270.52,
+      "end": 274.64,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2202,
+      "compression_ratio": 1.1386
+    },
+    {
+      "text": "为什么爱会让人变残缺",
+      "start": 274.64,
+      "end": 278.16,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2202,
+      "compression_ratio": 1.1386
+    },
+    {
+      "text": "为什么那么痛",
+      "start": 278.16,
+      "end": 279.86,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4105,
+      "compression_ratio": 1.0576
+    },
+    {
+      "text": "还敢拿胸口再打",
+      "start": 279.86,
+      "end": 282.1,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4105,
+      "compression_ratio": 1.0576
+    },
+    {
+      "text": "谁想飞",
+      "start": 282.1,
+      "end": 284.64000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4105,
+      "compression_ratio": 1.0576
+    },
+    {
+      "text": "你在我眼中真的很特别",
+      "start": 284.64000000000004,
+      "end": 288.62,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4105,
+      "compression_ratio": 1.0576
+    },
+    {
+      "text": "感情却不在我的梦里面",
+      "start": 288.62,
+      "end": 292.16,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4105,
+      "compression_ratio": 1.0576
+    },
+    {
+      "text": "还是无法解释矛盾的四切",
+      "start": 292.16,
+      "end": 296.78000000000003,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4105,
+      "compression_ratio": 1.0576
+    },
+    {
+      "text": "我很",
+      "start": 296.78000000000003,
+      "end": 299.74,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4105,
+      "compression_ratio": 1.0576
+    }
+  ],
+  "repairs": [],
+  "index": 0,
+  "start": 0.0,
+  "duration": 300,
+  "elapsed": 31.1,
+  "ok": true,
+  "initial_prompt": "四海公考，公务员考试，言语理解与表达，逻辑填空，高频实词，成语辨析，语义侧重，感情色彩，搭配对象，适用语境，易混词，例句。简体中文。课件词条：刻画，描绘，描摹，勾勒，凝结，凝固，汇集，载体，延伸，代表，反映，中介，桥梁，纽带，缩影，典型，映射，投射，映照，渗透，渗入，裹挟，嵌入，植入。"
+}

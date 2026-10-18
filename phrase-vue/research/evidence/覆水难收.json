@@ -1,0 +1,67 @@
+{
+    "word": "覆水难收",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%A6%86%E6%B0%B4%E9%9A%BE%E6%94%B6",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "95fc78d8ef8f1a98db07e2b15ca1882d562ef2627e1794ea2b3d64d2e861987e",
+        "bytes": 28159
+    },
+    "parsed": {
+        "found": true,
+        "word": "覆水难收",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "fù",
+                "shuǐ",
+                "nán",
+                "shōu"
+            ],
+            "zhuyin": [
+                "ㄈㄨˋ",
+                "ㄕㄨㄟˇ",
+                "ㄋㄢˊ",
+                "ㄕㄡ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻事情已经成为定局，难以挽回。",
+                "citations": [
+                    {
+                        "text": "成谋不说，覆水难收。",
+                        "source": "《敦煌变文集·伍子胥变文》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "成谋不说，覆水难收。",
+                "source": "《敦煌变文集·伍子胥变文》"
+            }
+        ],
+        "synonyms": [
+            "木已成舟",
+            "驷马难追",
+            "破镜难圆"
+        ],
+        "antonyms": [
+            "破镜重圆"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "spilt water is hard to recover"
+    },
+    "blocks": {
+        "reading": "fù shuǐ nán shōu",
+        "sense-1": "比喻事情已经成为定局，难以挽回。",
+        "citation-1": "成谋不说，覆水难收。 — 《敦煌变文集·伍子胥变文》",
+        "synonyms": "木已成舟、驷马难追、破镜难圆",
+        "antonyms": "破镜重圆"
+    }
+}

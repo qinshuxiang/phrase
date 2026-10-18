@@ -1,0 +1,53 @@
+{
+    "word": "妇孺皆知",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A6%87%E5%AD%BA%E7%9A%86%E7%9F%A5",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "042900bdc6283d86dcb2a82571180b8fcf2b9930da8357b3141bfae6d8960526",
+        "bytes": 24126
+    },
+    "parsed": {
+        "found": true,
+        "word": "妇孺皆知",
+        "section": "idiom",
+        "readings": {
+            "pinyin": [
+                "fù",
+                "rú",
+                "jiē",
+                "zhī"
+            ],
+            "zhuyin": [
+                "ㄈㄨˋ",
+                "ㄖㄨˊ",
+                "ㄐㄧㄝ",
+                "ㄓ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "孺：小孩。妇女、小孩全都知道。指众所周知。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": {
+            "text": "《星火燎原·湘西再起》：“可是提起他（贺龙）的名字，湘鄂本的人民差不多是妇孺皆知。”",
+            "source": "妇孺皆知"
+        },
+        "grammar": "主谓式；作谓语、定语、补语；形容简单明了的事物",
+        "example": "",
+        "english": ""
+    },
+    "blocks": {
+        "reading": "fù rú jiē zhī",
+        "sense-1": "孺：小孩。妇女、小孩全都知道。指众所周知。",
+        "origin": "《星火燎原·湘西再起》：“可是提起他（贺龙）的名字，湘鄂本的人民差不多是妇孺皆知。”",
+        "grammar": "主谓式；作谓语、定语、补语；形容简单明了的事物"
+    }
+}

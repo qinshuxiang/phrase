@@ -1,0 +1,65 @@
+{
+    "word": "林林总总",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%9E%97%E6%9E%97%E6%80%BB%E6%80%BB",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "5ccc6caabeabce55d0e16bcdbdd620f474628dd9ffddc7ba72de04219536c0bd",
+        "bytes": 26197
+    },
+    "parsed": {
+        "found": true,
+        "word": "林林总总",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "lín",
+                "lín",
+                "zǒng",
+                "zǒng"
+            ],
+            "zhuyin": [
+                "ㄌㄧㄣˊ",
+                "ㄌㄧㄣˊ",
+                "ㄗㄨㄥˇ",
+                "ㄗㄨㄥˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容事物种类繁多，数量众多。",
+                "citations": [
+                    {
+                        "text": "下而林林总总，待命于我，倏有款启之氓，席其粗戾之习，直突咆哮于吾前。",
+                        "source": "明·刘元卿《贤奕编·官政·两溪治河》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "下而林林总总，待命于我，倏有款启之氓，席其粗戾之习，直突咆哮于吾前。",
+                "source": "明·刘元卿《贤奕编·官政·两溪治河》"
+            }
+        ],
+        "synonyms": [
+            "丰富多采",
+            "形形色色",
+            "各式各样",
+            "许许多多"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "numerous and diverse"
+    },
+    "blocks": {
+        "reading": "lín lín zǒng zǒng",
+        "sense-1": "形容事物种类繁多，数量众多。",
+        "citation-1": "下而林林总总，待命于我，倏有款启之氓，席其粗戾之习，直突咆哮于吾前。 — 明·刘元卿《贤奕编·官政·两溪治河》",
+        "synonyms": "丰富多采、形形色色、各式各样、许许多多"
+    }
+}

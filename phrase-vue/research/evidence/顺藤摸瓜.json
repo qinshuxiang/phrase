@@ -1,0 +1,59 @@
+{
+    "word": "顺藤摸瓜",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%A1%BA%E8%97%A4%E6%91%B8%E7%93%9C",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "6acc5a4d967b6b30bac55fbd1c43a0ed9f0a66dd62d8d26e0d624e86931fdbfc",
+        "bytes": 25429
+    },
+    "parsed": {
+        "found": true,
+        "word": "顺藤摸瓜",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shùn",
+                "téng",
+                "mō",
+                "guā"
+            ],
+            "zhuyin": [
+                "ㄕㄨㄣˋ",
+                "ㄊㄥˊ",
+                "ㄇㄛ",
+                "ㄍㄨㄚ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "顺着瓜藤去寻找瓜。比喻按照现有线索追查到底。",
+                "citations": [
+                    {
+                        "text": "舅爷爷就顺藤摸瓜，通过这条线找到了游击队。",
+                        "source": "《钟山》1982年第6期"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "舅爷爷就顺藤摸瓜，通过这条线找到了游击队。",
+                "source": "《钟山》1982年第6期"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "follow the vine to get the melon"
+    },
+    "blocks": {
+        "reading": "shùn téng mō guā",
+        "sense-1": "顺着瓜藤去寻找瓜。比喻按照现有线索追查到底。",
+        "citation-1": "舅爷爷就顺藤摸瓜，通过这条线找到了游击队。 — 《钟山》1982年第6期"
+    }
+}

@@ -1,0 +1,131 @@
+{
+  "videos": 11,
+  "duration_seconds": 73301.93,
+  "complete": false,
+  "items": [
+    {
+      "video": "20260805言语1000词14-杨杨.mp4",
+      "duration_seconds": 6636.04,
+      "parts": 23,
+      "expected_parts": 23,
+      "chars": {
+        "初转": 26432,
+        "润色": 24505
+      },
+      "errors": []
+    },
+    {
+      "video": "20260806言语1000词15-杨杨（45-47组）.mp4",
+      "duration_seconds": 6195.989,
+      "parts": 21,
+      "expected_parts": 21,
+      "chars": {
+        "初转": 25999,
+        "润色": 24581
+      },
+      "errors": []
+    },
+    {
+      "video": "20260807言语1000词16-葛蓉（48-50组）.mp4",
+      "duration_seconds": 6706.4,
+      "parts": 23,
+      "expected_parts": 23,
+      "chars": {
+        "初转": 31755,
+        "润色": 28608
+      },
+      "errors": []
+    },
+    {
+      "video": "20260808言语1000词17-葛蓉.mp4",
+      "duration_seconds": 7209.308,
+      "parts": 25,
+      "expected_parts": 25,
+      "chars": {
+        "初转": 33664,
+        "润色": 31124
+      },
+      "errors": []
+    },
+    {
+      "video": "20260809言语1000词18-葛蓉（加课）.mp4",
+      "duration_seconds": 7204.107,
+      "parts": 25,
+      "expected_parts": 25,
+      "chars": {
+        "初转": 32941,
+        "润色": 30779
+      },
+      "errors": []
+    },
+    {
+      "video": "20260810言语1000词19-葛蓉.mp4",
+      "duration_seconds": 6390.317,
+      "parts": 22,
+      "expected_parts": 22,
+      "chars": {
+        "初转": 30608,
+        "润色": 29210
+      },
+      "errors": []
+    },
+    {
+      "video": "20260810高频实词1（加课）-葛蓉.mp4",
+      "duration_seconds": 6901.41,
+      "parts": 24,
+      "expected_parts": 24,
+      "chars": {
+        "初转": 32793,
+        "润色": 31729
+      },
+      "errors": []
+    },
+    {
+      "video": "20260811言语1000词20-葛蓉.mp4",
+      "duration_seconds": 7108.557,
+      "parts": 24,
+      "expected_parts": 24,
+      "chars": {
+        "初转": 33120,
+        "润色": 31935
+      },
+      "errors": []
+    },
+    {
+      "video": "20260811高频实词2（加课）-葛蓉.mp4",
+      "duration_seconds": 6329.295,
+      "parts": 22,
+      "expected_parts": 22,
+      "chars": {
+        "初转": 30443,
+        "润色": 28862
+      },
+      "errors": []
+    },
+    {
+      "video": "20260812言语1000词21-葛蓉.mp4",
+      "duration_seconds": 6298.227,
+      "parts": 21,
+      "expected_parts": 21,
+      "chars": {
+        "初转": 30154,
+        "润色": 28208
+      },
+      "errors": []
+    },
+    {
+      "video": "20260812高频实词3（加课）-葛蓉.mp4",
+      "duration_seconds": 6322.28,
+      "parts": 11,
+      "expected_parts": 22,
+      "chars": {},
+      "errors": [
+        "分块数量不全",
+        "缺少初转稿",
+        "缺少润色稿",
+        "未完成逐篇审校",
+        "未通过标点文字序列检查"
+      ]
+    }
+  ]
+}

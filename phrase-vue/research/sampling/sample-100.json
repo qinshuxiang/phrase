@@ -1,0 +1,1449 @@
+{
+    "schema_version": "1.0.0",
+    "seed": 20261018,
+    "size": 100,
+    "algorithm": "mulberry32(20261018) + Fisher-Yates + last-100 + first-appearance-sort",
+    "source_file": "src/data/vocab-data.json",
+    "source_sha256": "0feae6ac96ade1702284b4698d180c7a002b871b4bcd9467ecd0108072aab855",
+    "source_bytes": 463206,
+    "words_sha256": "8539c203930b0c673af97db638e1cfae8556cd4c273e882b92754f93ac51c353",
+    "stats": {
+        "distinct_words": 859,
+        "sampled_words": 100,
+        "entry_refs": 106,
+        "groups_covered": 63,
+        "duplicate_names": 6
+    },
+    "words": [
+        {
+            "sample_rank": 1,
+            "word": "雨后春笋",
+            "group_ids": [
+                "g6"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g6",
+                    "file_id": "f1"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 2,
+            "word": "博大精深",
+            "group_ids": [
+                "g26"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g26",
+                    "file_id": "f4"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 3,
+            "word": "既往开来",
+            "group_ids": [
+                "g27"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g27",
+                    "file_id": "f4"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 4,
+            "word": "愈演愈烈",
+            "group_ids": [
+                "g8",
+                "video-实词3-gextra"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g8",
+                    "file_id": "f1"
+                },
+                {
+                    "group_id": "video-实词3-gextra",
+                    "file_id": "video-实词3"
+                }
+            ],
+            "duplicate_name": true
+        },
+        {
+            "sample_rank": 5,
+            "word": "一日千里",
+            "group_ids": [
+                "g8"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g8",
+                    "file_id": "f1"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 6,
+            "word": "标新立异",
+            "group_ids": [
+                "g29"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g29",
+                    "file_id": "f4"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 7,
+            "word": "举世无双",
+            "group_ids": [
+                "g29"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g29",
+                    "file_id": "f4"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 8,
+            "word": "抱残守缺",
+            "group_ids": [
+                "g0"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g0",
+                    "file_id": "f0"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 9,
+            "word": "食古不化",
+            "group_ids": [
+                "g0"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g0",
+                    "file_id": "f0"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 10,
+            "word": "波澜壮阔",
+            "group_ids": [
+                "g10"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g10",
+                    "file_id": "f1"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 11,
+            "word": "循规蹈矩",
+            "group_ids": [
+                "g1"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g1",
+                    "file_id": "f0"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 12,
+            "word": "争先恐后",
+            "group_ids": [
+                "g11"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g11",
+                    "file_id": "f1"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 13,
+            "word": "骑虎难下",
+            "group_ids": [
+                "g3"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g3",
+                    "file_id": "f0"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 14,
+            "word": "进退维谷",
+            "group_ids": [
+                "g3"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g3",
+                    "file_id": "f0"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 15,
+            "word": "岌岌可危",
+            "group_ids": [
+                "g5"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g5",
+                    "file_id": "f0"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 16,
+            "word": "望其项背",
+            "group_ids": [
+                "g13"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g13",
+                    "file_id": "f1"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 17,
+            "word": "望尘莫及",
+            "group_ids": [
+                "g13"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g13",
+                    "file_id": "f1"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 18,
+            "word": "相提并论",
+            "group_ids": [
+                "g14"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g14",
+                    "file_id": "f1"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 19,
+            "word": "一视同仁",
+            "group_ids": [
+                "g14"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g14",
+                    "file_id": "f1"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 20,
+            "word": "不偏不倚",
+            "group_ids": [
+                "g14"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g14",
+                    "file_id": "f1"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 21,
+            "word": "捉襟见肘",
+            "group_ids": [
+                "g15"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g15",
+                    "file_id": "f2"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 22,
+            "word": "自顾不暇",
+            "group_ids": [
+                "g15"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g15",
+                    "file_id": "f2"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 23,
+            "word": "相辅相成",
+            "group_ids": [
+                "g17"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g17",
+                    "file_id": "f2"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 24,
+            "word": "互为表里",
+            "group_ids": [
+                "g17"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g17",
+                    "file_id": "f2"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 25,
+            "word": "双峰并至",
+            "group_ids": [
+                "g17"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g17",
+                    "file_id": "f2"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 26,
+            "word": "齐头并进",
+            "group_ids": [
+                "g18"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g18",
+                    "file_id": "f2"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 27,
+            "word": "本末倒置",
+            "group_ids": [
+                "g19"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g19",
+                    "file_id": "f3"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 28,
+            "word": "分道扬镳",
+            "group_ids": [
+                "g20"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g20",
+                    "file_id": "f3"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 29,
+            "word": "成风化人",
+            "group_ids": [
+                "g23"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g23",
+                    "file_id": "f3"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 30,
+            "word": "和风细雨",
+            "group_ids": [
+                "g24"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g24",
+                    "file_id": "f3"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 31,
+            "word": "呕心沥血",
+            "group_ids": [
+                "g30"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g30",
+                    "file_id": "f5"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 32,
+            "word": "乐此不疲",
+            "group_ids": [
+                "g30",
+                "video-实词1-gextra"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g30",
+                    "file_id": "f5"
+                },
+                {
+                    "group_id": "video-实词1-gextra",
+                    "file_id": "video-实词1"
+                }
+            ],
+            "duplicate_name": true
+        },
+        {
+            "sample_rank": 33,
+            "word": "焚膏继晷",
+            "group_ids": [
+                "g30"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g30",
+                    "file_id": "f5"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 34,
+            "word": "量力而行",
+            "group_ids": [
+                "g31"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g31",
+                    "file_id": "f5"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 35,
+            "word": "作茧自缚",
+            "group_ids": [
+                "g32"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g32",
+                    "file_id": "f6"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 36,
+            "word": "堂而皇之",
+            "group_ids": [
+                "g32"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g32",
+                    "file_id": "f6"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 37,
+            "word": "画地为牢",
+            "group_ids": [
+                "g33"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g33",
+                    "file_id": "f6"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 38,
+            "word": "坐收渔利",
+            "group_ids": [
+                "g33"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g33",
+                    "file_id": "f6"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 39,
+            "word": "急功近利",
+            "group_ids": [
+                "g34",
+                "video-16-gextra"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g34",
+                    "file_id": "f6"
+                },
+                {
+                    "group_id": "video-16-gextra",
+                    "file_id": "video-16"
+                }
+            ],
+            "duplicate_name": true
+        },
+        {
+            "sample_rank": 40,
+            "word": "海晏河清",
+            "group_ids": [
+                "g34"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g34",
+                    "file_id": "f6"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 41,
+            "word": "穿针引线",
+            "group_ids": [
+                "g36"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g36",
+                    "file_id": "f7"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 42,
+            "word": "精打细算",
+            "group_ids": [
+                "g36"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g36",
+                    "file_id": "f7"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 43,
+            "word": "量入为出",
+            "group_ids": [
+                "g36"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g36",
+                    "file_id": "f7"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 44,
+            "word": "手到擒来",
+            "group_ids": [
+                "g39"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g39",
+                    "file_id": "f8"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 45,
+            "word": "以身作则",
+            "group_ids": [
+                "g44",
+                "video-21-gextra"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g44",
+                    "file_id": "f8"
+                },
+                {
+                    "group_id": "video-21-gextra",
+                    "file_id": "video-21"
+                }
+            ],
+            "duplicate_name": true
+        },
+        {
+            "sample_rank": 46,
+            "word": "身先士卒",
+            "group_ids": [
+                "g44"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g44",
+                    "file_id": "f8"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 47,
+            "word": "前仆后继",
+            "group_ids": [
+                "g46"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g46",
+                    "file_id": "f9"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 48,
+            "word": "笃行不怠",
+            "group_ids": [
+                "g46"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g46",
+                    "file_id": "f9"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 49,
+            "word": "投其所好",
+            "group_ids": [
+                "g47"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g47",
+                    "file_id": "f9"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 50,
+            "word": "如蚁附膻",
+            "group_ids": [
+                "g47"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g47",
+                    "file_id": "f9"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 51,
+            "word": "朝令夕改",
+            "group_ids": [
+                "g47"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g47",
+                    "file_id": "f9"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 52,
+            "word": "具体而微",
+            "group_ids": [
+                "g47"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g47",
+                    "file_id": "f9"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 53,
+            "word": "文过饰非",
+            "group_ids": [
+                "g49"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g49",
+                    "file_id": "f10"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 54,
+            "word": "怙恶不悛",
+            "group_ids": [
+                "g49"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g49",
+                    "file_id": "f10"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 55,
+            "word": "一成不变",
+            "group_ids": [
+                "g52"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g52",
+                    "file_id": "f10"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 56,
+            "word": "改弦更张",
+            "group_ids": [
+                "g52"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g52",
+                    "file_id": "f10"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 57,
+            "word": "光怪陆离",
+            "group_ids": [
+                "g53"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g53",
+                    "file_id": "f10"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 58,
+            "word": "今非昔比",
+            "group_ids": [
+                "g54"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g54",
+                    "file_id": "f10"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 59,
+            "word": "沧海桑田",
+            "group_ids": [
+                "g54"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g54",
+                    "file_id": "f10"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 60,
+            "word": "顺水推舟",
+            "group_ids": [
+                "g57"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g57",
+                    "file_id": "f11"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 61,
+            "word": "顺其自然",
+            "group_ids": [
+                "g58"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g58",
+                    "file_id": "f11"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 62,
+            "word": "防患未然",
+            "group_ids": [
+                "g59"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g59",
+                    "file_id": "f11"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 63,
+            "word": "镜花水月",
+            "group_ids": [
+                "g65"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g65",
+                    "file_id": "f11"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 64,
+            "word": "海市蜃楼",
+            "group_ids": [
+                "g65"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g65",
+                    "file_id": "f11"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 65,
+            "word": "川流不息",
+            "group_ids": [
+                "g67"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g67",
+                    "file_id": "f12"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 66,
+            "word": "良莠不齐",
+            "group_ids": [
+                "g68"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g68",
+                    "file_id": "f12"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 67,
+            "word": "风靡一时",
+            "group_ids": [
+                "g69",
+                "video-14-gextra"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g69",
+                    "file_id": "f12"
+                },
+                {
+                    "group_id": "video-14-gextra",
+                    "file_id": "video-14"
+                }
+            ],
+            "duplicate_name": true
+        },
+        {
+            "sample_rank": 68,
+            "word": "闻名遐迩",
+            "group_ids": [
+                "g69"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g69",
+                    "file_id": "f12"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 69,
+            "word": "趋之若鹜",
+            "group_ids": [
+                "g69",
+                "video-实词1-gextra"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "g69",
+                    "file_id": "f12"
+                },
+                {
+                    "group_id": "video-实词1-gextra",
+                    "file_id": "video-实词1"
+                }
+            ],
+            "duplicate_name": true
+        },
+        {
+            "sample_rank": 70,
+            "word": "津津乐道",
+            "group_ids": [
+                "video-14-g42"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "video-14-g42",
+                    "file_id": "video-14"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 71,
+            "word": "灰飞烟灭",
+            "group_ids": [
+                "video-14-g43"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "video-14-g43",
+                    "file_id": "video-14"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 72,
+            "word": "销声匿迹",
+            "group_ids": [
+                "video-14-g43"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "video-14-g43",
+                    "file_id": "video-14"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 73,
+            "word": "沉渣泛起",
+            "group_ids": [
+                "video-14-g43"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "video-14-g43",
+                    "file_id": "video-14"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 74,
+            "word": "大张旗鼓",
+            "group_ids": [
+                "video-14-g44"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "video-14-g44",
+                    "file_id": "video-14"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 75,
+            "word": "讳莫如深",
+            "group_ids": [
+                "video-14-g44"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "video-14-g44",
+                    "file_id": "video-14"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 76,
+            "word": "高深莫测",
+            "group_ids": [
+                "video-14-g44"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "video-14-g44",
+                    "file_id": "video-14"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 77,
+            "word": "闭目塞听",
+            "group_ids": [
+                "video-15-g45"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "video-15-g45",
+                    "file_id": "video-15"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 78,
+            "word": "爱不释手",
+            "group_ids": [
+                "video-15-g45"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "video-15-g45",
+                    "file_id": "video-15"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 79,
+            "word": "举足轻重",
+            "group_ids": [
+                "video-15-g45"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "video-15-g45",
+                    "file_id": "video-15"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 80,
+            "word": "无足轻重",
+            "group_ids": [
+                "video-15-g45"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "video-15-g45",
+                    "file_id": "video-15"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 81,
+            "word": "驾轻就熟",
+            "group_ids": [
+                "video-15-g46"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "video-15-g46",
+                    "file_id": "video-15"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 82,
+            "word": "推己及人",
+            "group_ids": [
+                "video-15-g46"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "video-15-g46",
+                    "file_id": "video-15"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 83,
+            "word": "见仁见智",
+            "group_ids": [
+                "video-16-g48"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "video-16-g48",
+                    "file_id": "video-16"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 84,
+            "word": "坐井观天",
+            "group_ids": [
+                "video-16-g49"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "video-16-g49",
+                    "file_id": "video-16"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 85,
+            "word": "一叶障目",
+            "group_ids": [
+                "video-16-g49"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "video-16-g49",
+                    "file_id": "video-16"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 86,
+            "word": "断章取义",
+            "group_ids": [
+                "video-16-g49"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "video-16-g49",
+                    "file_id": "video-16"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 87,
+            "word": "毋庸讳言",
+            "group_ids": [
+                "video-17-g51"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "video-17-g51",
+                    "file_id": "video-17"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 88,
+            "word": "敬而远之",
+            "group_ids": [
+                "video-17-g51"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "video-17-g51",
+                    "file_id": "video-17"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 89,
+            "word": "雕梁画柱",
+            "group_ids": [
+                "video-17-g53"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "video-17-g53",
+                    "file_id": "video-17"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 90,
+            "word": "流光溢彩",
+            "group_ids": [
+                "video-17-g53"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "video-17-g53",
+                    "file_id": "video-17"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 91,
+            "word": "相去甚远",
+            "group_ids": [
+                "video-18-g54"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "video-18-g54",
+                    "file_id": "video-18"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 92,
+            "word": "分庭抗礼",
+            "group_ids": [
+                "video-18-g54"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "video-18-g54",
+                    "file_id": "video-18"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 93,
+            "word": "巧夺天工",
+            "group_ids": [
+                "video-18-g55"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "video-18-g55",
+                    "file_id": "video-18"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 94,
+            "word": "娓娓道来",
+            "group_ids": [
+                "video-19-g57"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "video-19-g57",
+                    "file_id": "video-19"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 95,
+            "word": "不经之谈",
+            "group_ids": [
+                "video-19-g57"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "video-19-g57",
+                    "file_id": "video-19"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 96,
+            "word": "沸反盈天",
+            "group_ids": [
+                "video-19-g59"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "video-19-g59",
+                    "file_id": "video-19"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 97,
+            "word": "桑枢瓮牖",
+            "group_ids": [
+                "video-20-g61"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "video-20-g61",
+                    "file_id": "video-20"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 98,
+            "word": "耸人听闻",
+            "group_ids": [
+                "video-21-g67"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "video-21-g67",
+                    "file_id": "video-21"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 99,
+            "word": "积厚流光",
+            "group_ids": [
+                "video-18-gextra"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "video-18-gextra",
+                    "file_id": "video-18"
+                }
+            ],
+            "duplicate_name": false
+        },
+        {
+            "sample_rank": 100,
+            "word": "不绝于耳",
+            "group_ids": [
+                "video-19-gextra"
+            ],
+            "entry_refs": [
+                {
+                    "group_id": "video-19-gextra",
+                    "file_id": "video-19"
+                }
+            ],
+            "duplicate_name": false
+        }
+    ]
+}

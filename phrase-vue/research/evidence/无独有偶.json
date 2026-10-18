@@ -1,0 +1,82 @@
+{
+    "word": "无独有偶",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%97%A0%E7%8B%AC%E6%9C%89%E5%81%B6",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "0aec871acb95637b8e5a9244ec28ade89390dff2b4faa9e8ff8565a2a713ec22",
+        "bytes": 28036
+    },
+    "parsed": {
+        "found": true,
+        "word": "无独有偶",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "wú",
+                "dú",
+                "yǒu",
+                "ǒu"
+            ],
+            "zhuyin": [
+                "ㄨˊ",
+                "ㄉㄨˊ",
+                "ㄧㄡˇ",
+                "ㄡˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "罕见事物却有类似情况成对出现（多含贬义）。",
+                "citations": [
+                    {
+                        "text": "吠犬侍郎，可与洗马御史为对，此等谄媚之法，乃无独有偶如此。",
+                        "source": "清·黄钧宰《金壶浪墨·谄媚》"
+                    },
+                    {
+                        "text": "号称一个公使馆，就只有这无独有偶的两个人。",
+                        "source": "邹韬奋《萍踪寄语》"
+                    }
+                ]
+            },
+            {
+                "definition": "表示仅有的两个。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "吠犬侍郎，可与洗马御史为对，此等谄媚之法，乃无独有偶如此。",
+                "source": "清·黄钧宰《金壶浪墨·谄媚》"
+            },
+            {
+                "text": "号称一个公使馆，就只有这无独有偶的两个人。",
+                "source": "邹韬奋《萍踪寄语》"
+            }
+        ],
+        "synonyms": [
+            "成双成对"
+        ],
+        "antonyms": [
+            "举世无双",
+            "独一无二",
+            "天下无双",
+            "绝无仅有"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "not unique"
+    },
+    "blocks": {
+        "reading": "wú dú yǒu ǒu",
+        "sense-1": "罕见事物却有类似情况成对出现（多含贬义）。",
+        "sense-2": "表示仅有的两个。",
+        "citation-1": "吠犬侍郎，可与洗马御史为对，此等谄媚之法，乃无独有偶如此。 — 清·黄钧宰《金壶浪墨·谄媚》",
+        "citation-2": "号称一个公使馆，就只有这无独有偶的两个人。 — 邹韬奋《萍踪寄语》",
+        "synonyms": "成双成对",
+        "antonyms": "举世无双、独一无二、天下无双、绝无仅有"
+    }
+}

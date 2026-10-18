@@ -1,0 +1,70 @@
+{
+    "word": "独占鳌头",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%8B%AC%E5%8D%A0%E9%B3%8C%E5%A4%B4",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "d88e85bbee149ed76e937c5a94e641e2655329ecacbfbb55d27d76fa11ee660e",
+        "bytes": 28593
+    },
+    "parsed": {
+        "found": true,
+        "word": "独占鳌头",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "dú",
+                "zhàn",
+                "áo",
+                "tóu"
+            ],
+            "zhuyin": [
+                "ㄉㄨˊ",
+                "ㄓㄢˋ",
+                "ㄠˊ",
+                "ㄊㄡˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "科举时代称中状元,据说皇宫殿前石阶上刻有巨鳌,只有状元及第才可以踏上迎榜。后来比喻占首位或第一名",
+                "citations": [
+                    {
+                        "text": "殿前兽献升平策,独点鳌头第一名。",
+                        "source": "《元曲选·陈州粜米》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "殿前兽献升平策,独点鳌头第一名。",
+                "source": "《元曲选·陈州粜米》"
+            }
+        ],
+        "synonyms": [
+            "超群绝伦",
+            "鹤立鸡群",
+            "独一无二",
+            "无出其右",
+            "夺得冠军"
+        ],
+        "antonyms": [
+            "平分秋色",
+            "名落孙山"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "emerge first in the civil service examination of former time;be the champion;find the bean in the cake;come out first"
+    },
+    "blocks": {
+        "reading": "dú zhàn áo tóu",
+        "sense-1": "科举时代称中状元,据说皇宫殿前石阶上刻有巨鳌,只有状元及第才可以踏上迎榜。后来比喻占首位或第一名",
+        "citation-1": "殿前兽献升平策,独点鳌头第一名。 — 《元曲选·陈州粜米》",
+        "synonyms": "超群绝伦、鹤立鸡群、独一无二、无出其右、夺得冠军",
+        "antonyms": "平分秋色、名落孙山"
+    }
+}

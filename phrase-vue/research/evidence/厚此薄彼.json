@@ -1,0 +1,70 @@
+{
+    "word": "厚此薄彼",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%8E%9A%E6%AD%A4%E8%96%84%E5%BD%BC",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "da04ffeb715dc8aa1f8e50aa327df8aa376c9c3e485d8c1c5f55aaca83cfa9ea",
+        "bytes": 28216
+    },
+    "parsed": {
+        "found": true,
+        "word": "厚此薄彼",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "hòu",
+                "cǐ",
+                "bó",
+                "bǐ"
+            ],
+            "zhuyin": [
+                "ㄏㄡˋ",
+                "ㄘˇ",
+                "ㄅㄛˊ",
+                "ㄅㄧˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "偏重一方而轻视另一方。",
+                "citations": [
+                    {
+                        "text": "皆吾生即皆吾养，不宜厚此薄彼。",
+                        "source": "明·袁宏道《广庄·养生主》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "皆吾生即皆吾养，不宜厚此薄彼。",
+                "source": "明·袁宏道《广庄·养生主》"
+            }
+        ],
+        "synonyms": [
+            "另眼相看",
+            "薄彼厚此",
+            "厚彼薄此"
+        ],
+        "antonyms": [
+            "不偏不倚",
+            "天公地道",
+            "不分畛域",
+            "一视同仁"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "favor one over another"
+    },
+    "blocks": {
+        "reading": "hòu cǐ bó bǐ",
+        "sense-1": "偏重一方而轻视另一方。",
+        "citation-1": "皆吾生即皆吾养，不宜厚此薄彼。 — 明·袁宏道《广庄·养生主》",
+        "synonyms": "另眼相看、薄彼厚此、厚彼薄此",
+        "antonyms": "不偏不倚、天公地道、不分畛域、一视同仁"
+    }
+}

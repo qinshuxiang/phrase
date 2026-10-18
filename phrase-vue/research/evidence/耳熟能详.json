@@ -1,0 +1,68 @@
+{
+    "word": "耳熟能详",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%80%B3%E7%86%9F%E8%83%BD%E8%AF%A6",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "9ca42fd8d08fd424b04a772f44009d041a3a512f398b49a6acf7617463bf8546",
+        "bytes": 26510
+    },
+    "parsed": {
+        "found": true,
+        "word": "耳熟能详",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "ěr",
+                "shú",
+                "néng",
+                "xiáng"
+            ],
+            "zhuyin": [
+                "ㄦˇ",
+                "ㄕㄨˊ",
+                "ㄣㄥˊ",
+                "ㄒㄧㄤˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "因经常听到而能够详细叙述。",
+                "citations": [
+                    {
+                        "text": "吾耳熟焉，故能详也。",
+                        "source": "宋·欧阳修《泷冈阡表》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "吾耳熟焉，故能详也。",
+                "source": "宋·欧阳修《泷冈阡表》"
+            }
+        ],
+        "synonyms": [
+            "耳闻则诵",
+            "熟能生巧"
+        ],
+        "antonyms": [
+            "浅尝辄止",
+            "寡闻少见",
+            "前所未闻"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "familiar through hearing"
+    },
+    "blocks": {
+        "reading": "ěr shú néng xiáng",
+        "sense-1": "因经常听到而能够详细叙述。",
+        "citation-1": "吾耳熟焉，故能详也。 — 宋·欧阳修《泷冈阡表》",
+        "synonyms": "耳闻则诵、熟能生巧",
+        "antonyms": "浅尝辄止、寡闻少见、前所未闻"
+    }
+}

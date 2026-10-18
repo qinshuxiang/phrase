@@ -1,0 +1,69 @@
+{
+    "word": "背井离乡",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%83%8C%E4%BA%95%E7%A6%BB%E4%B9%A1",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "78f2683e129ae7fc0ce4fe674212896a60bacff34ffbf044e619aae72225e9b9",
+        "bytes": 26676
+    },
+    "parsed": {
+        "found": true,
+        "word": "背井离乡",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bèi",
+                "jǐng",
+                "lí",
+                "xiāng"
+            ],
+            "zhuyin": [
+                "ㄅㄟˋ",
+                "ㄐㄧㄥˇ",
+                "ㄌㄧˊ",
+                "ㄒㄧㄤ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "远离家乡，流落外地。",
+                "citations": [
+                    {
+                        "text": "背井离乡，卧雪眠霜。",
+                        "source": "元·马致远《汉宫秋》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "背井离乡，卧雪眠霜。",
+                "source": "元·马致远《汉宫秋》"
+            }
+        ],
+        "synonyms": [
+            "离乡背井",
+            "浪迹天涯",
+            "颠沛流离"
+        ],
+        "antonyms": [
+            "衣锦还乡",
+            "安家立业",
+            "落叶归根"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "leave one's hometown"
+    },
+    "blocks": {
+        "reading": "bèi jǐng lí xiāng",
+        "sense-1": "远离家乡，流落外地。",
+        "citation-1": "背井离乡，卧雪眠霜。 — 元·马致远《汉宫秋》",
+        "synonyms": "离乡背井、浪迹天涯、颠沛流离",
+        "antonyms": "衣锦还乡、安家立业、落叶归根"
+    }
+}

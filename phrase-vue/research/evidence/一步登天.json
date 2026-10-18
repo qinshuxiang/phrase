@@ -1,0 +1,48 @@
+{
+    "word": "一步登天",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%80%E6%AD%A5%E7%99%BB%E5%A4%A9",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "3296176ded6cc7cdf67d4f3a8131364c8b13834d071b723b757a3a62d060ee1e",
+        "bytes": 27476
+    },
+    "parsed": {
+        "found": true,
+        "word": "一步登天",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yī",
+                "bù",
+                "dēng",
+                "tiān"
+            ],
+            "zhuyin": [
+                "ㄧ",
+                "ㄅㄨˋ",
+                "ㄉㄥ",
+                "ㄊㄧㄢ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "原义只指人的突然得志,一下子达到很高的地位。现在也兼指某些事物一下子提到很高的程度",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "be done over night reach Heaven at a single bound"
+    },
+    "blocks": {
+        "reading": "yī bù dēng tiān",
+        "sense-1": "原义只指人的突然得志,一下子达到很高的地位。现在也兼指某些事物一下子提到很高的程度"
+    }
+}

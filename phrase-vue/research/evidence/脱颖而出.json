@@ -1,0 +1,65 @@
+{
+    "word": "脱颖而出",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%84%B1%E9%A2%96%E8%80%8C%E5%87%BA",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "d4370c152bfcff6542e5a4d78ad4ccc23850e385d2b4c07735aa211dfbf96991",
+        "bytes": 26623
+    },
+    "parsed": {
+        "found": true,
+        "word": "脱颖而出",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "tuō",
+                "yǐng",
+                "ér",
+                "chū"
+            ],
+            "zhuyin": [
+                "ㄊㄨㄛ",
+                "ㄧㄥˇ",
+                "ㄦˊ",
+                "ㄔㄨ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻有才能的人终究会显露出来。",
+                "citations": [
+                    {
+                        "text": "夹袋中许多人物，可以脱颖而出，欢喜自不待言。",
+                        "source": "清·曾朴《孽海花》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "夹袋中许多人物，可以脱颖而出，欢喜自不待言。",
+                "source": "清·曾朴《孽海花》"
+            }
+        ],
+        "synonyms": [
+            "崭露头角"
+        ],
+        "antonyms": [
+            "深藏若虚"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "emerge"
+    },
+    "blocks": {
+        "reading": "tuō yǐng ér chū",
+        "sense-1": "比喻有才能的人终究会显露出来。",
+        "citation-1": "夹袋中许多人物，可以脱颖而出，欢喜自不待言。 — 清·曾朴《孽海花》",
+        "synonyms": "崭露头角",
+        "antonyms": "深藏若虚"
+    }
+}

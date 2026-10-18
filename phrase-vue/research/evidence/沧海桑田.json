@@ -1,0 +1,67 @@
+{
+    "word": "沧海桑田",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%B2%A7%E6%B5%B7%E6%A1%91%E7%94%B0",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "504d6c60d8f7f9dd27cdb3a0aa691b6c38465cc733986cfe4afc099268cbd648",
+        "bytes": 27517
+    },
+    "parsed": {
+        "found": true,
+        "word": "沧海桑田",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "cāng",
+                "hǎi",
+                "sāng",
+                "tián"
+            ],
+            "zhuyin": [
+                "ㄘㄤ",
+                "ㄏㄞˇ",
+                "ㄙㄤ",
+                "ㄊㄧㄢˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "大海变为农田，农田变为大海，比喻世事变化巨大。",
+                "citations": [
+                    {
+                        "text": "独往不可群，沧海成桑田。",
+                        "source": "唐·储光羲《献八舅东归》诗"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "独往不可群，沧海成桑田。",
+                "source": "唐·储光羲《献八舅东归》诗"
+            }
+        ],
+        "synonyms": [
+            "日新月异",
+            "沧桑陵谷",
+            "白云苍狗"
+        ],
+        "antonyms": [
+            "一成不变"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "great changes over time"
+    },
+    "blocks": {
+        "reading": "cāng hǎi sāng tián",
+        "sense-1": "大海变为农田，农田变为大海，比喻世事变化巨大。",
+        "citation-1": "独往不可群，沧海成桑田。 — 唐·储光羲《献八舅东归》诗",
+        "synonyms": "日新月异、沧桑陵谷、白云苍狗",
+        "antonyms": "一成不变"
+    }
+}

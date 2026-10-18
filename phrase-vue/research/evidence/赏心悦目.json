@@ -1,0 +1,67 @@
+{
+    "word": "赏心悦目",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%B5%8F%E5%BF%83%E6%82%A6%E7%9B%AE",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "abd4234dcb8a00532586cf206b1de4af4f858ef621d5a276e98d19fc48711e32",
+        "bytes": 27462
+    },
+    "parsed": {
+        "found": true,
+        "word": "赏心悦目",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shǎng",
+                "xīn",
+                "yuè",
+                "mù"
+            ],
+            "zhuyin": [
+                "ㄕㄤˇ",
+                "ㄒㄧㄣ",
+                "ㄩㄝˋ",
+                "ㄇㄨˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "因欣赏美好景物而心情舒畅愉快。",
+                "citations": [
+                    {
+                        "text": "果然湖光山色，令人赏心悦目。",
+                        "source": "《近十年之怪现状》第十九回"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "果然湖光山色，令人赏心悦目。",
+                "source": "《近十年之怪现状》第十九回"
+            }
+        ],
+        "synonyms": [
+            "欢欣鼓舞",
+            "心旷神怡"
+        ],
+        "antonyms": [
+            "怵目惊心",
+            "触目惊心"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "pleasing"
+    },
+    "blocks": {
+        "reading": "shǎng xīn yuè mù",
+        "sense-1": "因欣赏美好景物而心情舒畅愉快。",
+        "citation-1": "果然湖光山色，令人赏心悦目。 — 《近十年之怪现状》第十九回",
+        "synonyms": "欢欣鼓舞、心旷神怡",
+        "antonyms": "怵目惊心、触目惊心"
+    }
+}

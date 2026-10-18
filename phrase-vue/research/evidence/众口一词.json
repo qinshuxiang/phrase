@@ -1,0 +1,59 @@
+{
+    "word": "众口一词",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%BC%97%E5%8F%A3%E4%B8%80%E8%AF%8D",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "0b3ec9b423c3962da6560e637f0729e6d98865ae37fd8d4b9d91ae068b57f51f",
+        "bytes": 27405
+    },
+    "parsed": {
+        "found": true,
+        "word": "众口一词",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zhòng",
+                "kǒu",
+                "yī",
+                "cí"
+            ],
+            "zhuyin": [
+                "ㄓㄨㄥˋ",
+                "ㄎㄡˇ",
+                "ㄧ",
+                "ㄘˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "众人说法完全一致。",
+                "citations": [
+                    {
+                        "text": "听众口一词可坏，会诸侯八百来盟。",
+                        "source": "元·郑光祖《周公摄政》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "听众口一词可坏，会诸侯八百来盟。",
+                "source": "元·郑光祖《周公摄政》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "unanimous"
+    },
+    "blocks": {
+        "reading": "zhòng kǒu yī cí",
+        "sense-1": "众人说法完全一致。",
+        "citation-1": "听众口一词可坏，会诸侯八百来盟。 — 元·郑光祖《周公摄政》"
+    }
+}

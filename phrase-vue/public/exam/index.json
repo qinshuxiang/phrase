@@ -1,0 +1,99 @@
+{
+    "version": 1,
+    "generated_at": "2026-09-16T16:40:38+08:00",
+    "module": {
+        "id": "verbal",
+        "name": "言语理解与表达",
+        "source": "ERRRC/xingcezhenti",
+        "commit": "278984401124db40da5163a31275b8deb9c282f4",
+        "license": null
+    },
+    "years": [
+        {
+            "year": 2016,
+            "count": 686,
+            "file": "verbal/2016.json",
+            "bytes": 1078268,
+            "sha256": "d79ac9ebc72536023f6e043629554f4852e4c2604570902d3c4cc4a330088774"
+        },
+        {
+            "year": 2017,
+            "count": 752,
+            "file": "verbal/2017.json",
+            "bytes": 1242974,
+            "sha256": "063aaba52c3023030a273118fd8882cf846238753184b941aa223770457e3abb"
+        },
+        {
+            "year": 2018,
+            "count": 909,
+            "file": "verbal/2018.json",
+            "bytes": 1572240,
+            "sha256": "24ab4d88d058a61a4d2b4d1c877f10d63fce2fd6e721d243dd1fabbff1e112a3"
+        },
+        {
+            "year": 2019,
+            "count": 870,
+            "file": "verbal/2019.json",
+            "bytes": 1511670,
+            "sha256": "76220b60cc6032ff50545994114086e2db83b6c99b77082aa8e4c44d6f16fa68"
+        },
+        {
+            "year": 2020,
+            "count": 551,
+            "file": "verbal/2020.json",
+            "bytes": 1026145,
+            "sha256": "8c1fcda0b1abd80c22c5172a729cdf531ecb3366f49ed41a48846b17c5e1de1b"
+        },
+        {
+            "year": 2021,
+            "count": 528,
+            "file": "verbal/2021.json",
+            "bytes": 996609,
+            "sha256": "3a24bf9328da518a0c13ae3f7ca86d9ea905b2675042f825159089288d8d6ef3"
+        },
+        {
+            "year": 2022,
+            "count": 525,
+            "file": "verbal/2022.json",
+            "bytes": 1010891,
+            "sha256": "7d26644ba4710a776d4b33a37e9274c2e67aff7f88cd1fe5b8e6dfa91dfe127b"
+        },
+        {
+            "year": 2023,
+            "count": 489,
+            "file": "verbal/2023.json",
+            "bytes": 953112,
+            "sha256": "367452ebdd0b2111cd9528ab13262df0eccb328bccf10a96f246e4becf06742a"
+        },
+        {
+            "year": 2024,
+            "count": 510,
+            "file": "verbal/2024.json",
+            "bytes": 1024582,
+            "sha256": "dee23eb1ca113ef05777c9670ac0eb93e537ddde484c26cb185c9e0422b4a2c5"
+        },
+        {
+            "year": 2025,
+            "count": 459,
+            "file": "verbal/2025.json",
+            "bytes": 942728,
+            "sha256": "94bd83f0e030608f898689f3bc066e67b82145b7d51bb52c4074edcf4052dd98"
+        },
+        {
+            "year": 2026,
+            "count": 298,
+            "file": "verbal/2026.json",
+            "bytes": 624297,
+            "sha256": "7eb40a7e4bf44625baca21d41d78b5d36f0a887f18f7d766633b6561e42e3932"
+        }
+    ],
+    "stats": {
+        "papers": 509,
+        "raw": 15112,
+        "kept": 6577,
+        "skipped_image": 369,
+        "material_image": 500,
+        "invalid": 19,
+        "duplicates": 8535
+    }
+}

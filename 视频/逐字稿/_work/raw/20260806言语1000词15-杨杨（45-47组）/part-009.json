@@ -1,0 +1,1067 @@
+{
+  "text": "有的内容是可以超越时空,有的内容则已尘封了，这里面有个分号,是不是并列俱试，那么后面也有两个有的,说有的可也古为今用,有的则应该怎么了，那你从第一个分句这里就提示了，有的有的,他俩其实是一组反义,后面是不是应该也是一组反义?它是形容这部分文化怎么了说古为金又是拿来去运用的那有的就不用呗不去启用它呗所以选素质高格素质高格就是扔在一旁不去用它不去管它对不对所以选私地的素质高格而且素质高格它通常可以形容传统文化就是有一些传统文化有些记忆扔在一旁不使用好再来看这个A的去粗取经去粗取经有一种筛选的感觉对不对它是有留下精华去掉糟粕的这种过程而文断啊它显然这个空让你天不用它不是让你天动手筛选细如碧履这个词语怎么了程度是不太重了对不对是彻底丢弃抛弃了文断只是说明我不用了它可能不适合当代使用文断他没有彻底丢弃他的语意太重了再来看C的默然置之默然置之是一种冷淡的默示的这种态度放在了一旁他更强调于人的这个心态是很冷淡的而文断呢他其实就是强调对于过去的旧文化不去启用重点他不是态度冷漠不是态度冷漠默示的问题啊来你看第二共是不是素质高格最好再来看第二口第二框就是说什么时代变迁了所以我们不可能原封不动的保留他的一切原封不动就是指一模一样全盘保全盘保保留对吧全盘留存原样不变那么人家文段中说了他不是既有糟粕也有珍宝吗对不对所以他不能一成不变的全部继承所以是一成不变的意思原封不动吗然后这个循规蹈矩循规蹈矩是指做事做人的时候恪守规矩不敢变通就比如说有一些保守死板也能用循规蹈矩它不能搭配这个传统文化对吧保留这个传统文化来这是形容做人做事的来如法炮制如法炮制是形容什么照搬一些做法模仿一些办事用于一些什么模仿的情况对吧它是模仿办事的一种方式它也不适用于保留传统文化这里不对故不自封它是形容自我封闭安于现状不接受新的事物对不对它是形容什么形容这个人他的思想是非常封闭的和你文端说要保留这个文化语境也搭配不到对好了来看116这道题啊好这道题呢有很多同学认为咱们这个解课学了系之末节就选系之末节了是不是这道题呢正确答案应该是A选项来大家来看一下他这个是什么意思啊他不是说这点是学啥的就一定选他是吧他有可能是一个迷惑想啊来说第一个空前面说什么仔细观察自然他是发现的开端是认识事物奥秘的向导我们要注意观察自然界的各种事物各种现象注意大自然偶然疏忽留下的什么同学们这叫做破绽通过对这些什么的观察这些指代的就是破绽什么是破绽破绽你就记它是一些痕迹一些线索才能叫破绽所以是需要对这些什么对这些线索去追根寻缘对吧对这些痕迹线索去追根溯源所以第二口蛛丝马迹蛛丝马迹就是事情留下的什么线索痕迹",
+  "segments": [
+    {
+      "text": "有的内容是可以超越时空,有的内容则已尘封了，这里面有个分号,是不是并列俱试，那么后面也有两个有的,说有的可也古为今用,有的则应该怎么了，那你从第一个分句这里就提示了，有的有的,他俩其实是一组反义,后面是不是应该也是一组反义?",
+      "start": 0.0,
+      "end": 22.78,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2208,
+      "compression_ratio": 1.457
+    },
+    {
+      "text": "它是形容这部分文化怎么了",
+      "start": 22.78,
+      "end": 26.1,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1351,
+      "compression_ratio": 1.5409
+    },
+    {
+      "text": "说古为金又是拿来去运用的",
+      "start": 26.1,
+      "end": 29.68,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1351,
+      "compression_ratio": 1.5409
+    },
+    {
+      "text": "那有的就不用呗",
+      "start": 29.68,
+      "end": 31.86,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1351,
+      "compression_ratio": 1.5409
+    },
+    {
+      "text": "不去启用它呗",
+      "start": 31.86,
+      "end": 33.38,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1351,
+      "compression_ratio": 1.5409
+    },
+    {
+      "text": "所以选素质高格",
+      "start": 33.38,
+      "end": 35.160000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1351,
+      "compression_ratio": 1.5409
+    },
+    {
+      "text": "素质高格就是扔在一旁",
+      "start": 35.160000000000004,
+      "end": 37.74,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1351,
+      "compression_ratio": 1.5409
+    },
+    {
+      "text": "不去用它",
+      "start": 37.74,
+      "end": 38.7,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1351,
+      "compression_ratio": 1.5409
+    },
+    {
+      "text": "不去管它",
+      "start": 38.7,
+      "end": 39.540000000000006,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1351,
+      "compression_ratio": 1.5409
+    },
+    {
+      "text": "对不对",
+      "start": 39.540000000000006,
+      "end": 40.08,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1351,
+      "compression_ratio": 1.5409
+    },
+    {
+      "text": "所以选私地的素质高格",
+      "start": 40.08,
+      "end": 42.22,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1351,
+      "compression_ratio": 1.5409
+    },
+    {
+      "text": "而且素质高格",
+      "start": 42.22,
+      "end": 43.22,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1351,
+      "compression_ratio": 1.5409
+    },
+    {
+      "text": "它通常可以形容传统文化",
+      "start": 43.22,
+      "end": 45.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1351,
+      "compression_ratio": 1.5409
+    },
+    {
+      "text": "就是有一些传统文化",
+      "start": 45.84,
+      "end": 48.120000000000005,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1351,
+      "compression_ratio": 1.5409
+    },
+    {
+      "text": "有些记忆扔在一旁不使用",
+      "start": 48.120000000000005,
+      "end": 50.68000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1351,
+      "compression_ratio": 1.5409
+    },
+    {
+      "text": "好",
+      "start": 50.68000000000001,
+      "end": 51.14,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1351,
+      "compression_ratio": 1.5409
+    },
+    {
+      "text": "再来看这个A的去粗取经",
+      "start": 51.14,
+      "end": 53.08,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1632,
+      "compression_ratio": 1.3896
+    },
+    {
+      "text": "去粗取经有一种筛选的感觉",
+      "start": 53.08,
+      "end": 56.44,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1632,
+      "compression_ratio": 1.3896
+    },
+    {
+      "text": "对不对",
+      "start": 56.44,
+      "end": 56.980000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1632,
+      "compression_ratio": 1.3896
+    },
+    {
+      "text": "它是有留下精华去掉糟粕的这种过程",
+      "start": 56.980000000000004,
+      "end": 61.82,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1632,
+      "compression_ratio": 1.3896
+    },
+    {
+      "text": "而文断啊",
+      "start": 61.82,
+      "end": 62.74,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1632,
+      "compression_ratio": 1.3896
+    },
+    {
+      "text": "它显然这个空让你天不用",
+      "start": 62.74,
+      "end": 64.4,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1632,
+      "compression_ratio": 1.3896
+    },
+    {
+      "text": "它不是让你天动手筛选",
+      "start": 64.4,
+      "end": 66.96000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1632,
+      "compression_ratio": 1.3896
+    },
+    {
+      "text": "细如碧履这个词语怎么了",
+      "start": 66.96000000000001,
+      "end": 69.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1632,
+      "compression_ratio": 1.3896
+    },
+    {
+      "text": "程度是不太重了",
+      "start": 69.32,
+      "end": 71.34,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1632,
+      "compression_ratio": 1.3896
+    },
+    {
+      "text": "对不对",
+      "start": 71.34,
+      "end": 72.3,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1632,
+      "compression_ratio": 1.3896
+    },
+    {
+      "text": "是彻底丢弃",
+      "start": 72.3,
+      "end": 73.44,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1632,
+      "compression_ratio": 1.3896
+    },
+    {
+      "text": "抛弃了",
+      "start": 73.44,
+      "end": 74.36,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1632,
+      "compression_ratio": 1.3896
+    },
+    {
+      "text": "文断只是说明",
+      "start": 74.36,
+      "end": 76.9,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1632,
+      "compression_ratio": 1.3896
+    },
+    {
+      "text": "我不用了",
+      "start": 76.9,
+      "end": 77.9,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1632,
+      "compression_ratio": 1.3896
+    },
+    {
+      "text": "它可能不适合当代使用",
+      "start": 77.9,
+      "end": 79.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1632,
+      "compression_ratio": 1.3896
+    },
+    {
+      "text": "文断他没有彻底丢弃",
+      "start": 79.56,
+      "end": 82.38,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.156,
+      "compression_ratio": 1.458
+    },
+    {
+      "text": "他的语意太重了",
+      "start": 82.38,
+      "end": 84.48,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.156,
+      "compression_ratio": 1.458
+    },
+    {
+      "text": "再来看C的默然置之",
+      "start": 84.48,
+      "end": 86.52,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.156,
+      "compression_ratio": 1.458
+    },
+    {
+      "text": "默然置之是一种冷淡的",
+      "start": 86.52,
+      "end": 88.62,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.156,
+      "compression_ratio": 1.458
+    },
+    {
+      "text": "默示的这种态度",
+      "start": 88.62,
+      "end": 89.94,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.156,
+      "compression_ratio": 1.458
+    },
+    {
+      "text": "放在了一旁",
+      "start": 89.94,
+      "end": 91.22,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.156,
+      "compression_ratio": 1.458
+    },
+    {
+      "text": "他更强调于人的这个心态是很冷淡的",
+      "start": 91.22,
+      "end": 95.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.156,
+      "compression_ratio": 1.458
+    },
+    {
+      "text": "而文断呢",
+      "start": 95.0,
+      "end": 96.02000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.156,
+      "compression_ratio": 1.458
+    },
+    {
+      "text": "他其实就是强调对于过去的",
+      "start": 96.02000000000001,
+      "end": 98.14,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.156,
+      "compression_ratio": 1.458
+    },
+    {
+      "text": "旧文化不去启用",
+      "start": 98.14,
+      "end": 99.52000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.156,
+      "compression_ratio": 1.458
+    },
+    {
+      "text": "重点他不是态度冷漠",
+      "start": 99.52000000000001,
+      "end": 101.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.156,
+      "compression_ratio": 1.458
+    },
+    {
+      "text": "不是态度冷漠",
+      "start": 101.88,
+      "end": 103.62,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.156,
+      "compression_ratio": 1.458
+    },
+    {
+      "text": "默示的问题啊",
+      "start": 103.62,
+      "end": 104.86,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.156,
+      "compression_ratio": 1.458
+    },
+    {
+      "text": "来你看第二共是不是素质高格最好",
+      "start": 104.86,
+      "end": 107.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.156,
+      "compression_ratio": 1.458
+    },
+    {
+      "text": "再来看第二口",
+      "start": 107.72,
+      "end": 109.54,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.156,
+      "compression_ratio": 1.458
+    },
+    {
+      "text": "第二框就是说什么",
+      "start": 109.56,
+      "end": 110.94,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1844,
+      "compression_ratio": 1.4934
+    },
+    {
+      "text": "时代变迁了",
+      "start": 110.94,
+      "end": 112.32000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1844,
+      "compression_ratio": 1.4934
+    },
+    {
+      "text": "所以我们不可能原封不动的",
+      "start": 112.32000000000001,
+      "end": 115.62,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1844,
+      "compression_ratio": 1.4934
+    },
+    {
+      "text": "保留他的一切",
+      "start": 115.62,
+      "end": 116.82000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1844,
+      "compression_ratio": 1.4934
+    },
+    {
+      "text": "原封不动就是指",
+      "start": 116.82000000000001,
+      "end": 119.3,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1844,
+      "compression_ratio": 1.4934
+    },
+    {
+      "text": "一模一样",
+      "start": 119.3,
+      "end": 120.74000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1844,
+      "compression_ratio": 1.4934
+    },
+    {
+      "text": "全盘保",
+      "start": 120.74000000000001,
+      "end": 121.7,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1844,
+      "compression_ratio": 1.4934
+    },
+    {
+      "text": "全盘保保留",
+      "start": 121.7,
+      "end": 123.4,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1844,
+      "compression_ratio": 1.4934
+    },
+    {
+      "text": "对吧",
+      "start": 123.4,
+      "end": 124.82000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1844,
+      "compression_ratio": 1.4934
+    },
+    {
+      "text": "全盘留存",
+      "start": 124.82000000000001,
+      "end": 125.52000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1844,
+      "compression_ratio": 1.4934
+    },
+    {
+      "text": "原样不变",
+      "start": 125.52000000000001,
+      "end": 126.6,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1844,
+      "compression_ratio": 1.4934
+    },
+    {
+      "text": "那么人家文段中说了",
+      "start": 126.6,
+      "end": 128.92000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1844,
+      "compression_ratio": 1.4934
+    },
+    {
+      "text": "他不是既有糟粕",
+      "start": 128.92000000000002,
+      "end": 131.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1844,
+      "compression_ratio": 1.4934
+    },
+    {
+      "text": "也有珍宝吗",
+      "start": 131.32,
+      "end": 132.52,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1844,
+      "compression_ratio": 1.4934
+    },
+    {
+      "text": "对不对",
+      "start": 132.52,
+      "end": 133.4,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1844,
+      "compression_ratio": 1.4934
+    },
+    {
+      "text": "所以他不能一成不变的",
+      "start": 133.4,
+      "end": 135.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1844,
+      "compression_ratio": 1.4934
+    },
+    {
+      "text": "全部继承",
+      "start": 135.32,
+      "end": 135.96,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1844,
+      "compression_ratio": 1.4934
+    },
+    {
+      "text": "所以是一成不变的意思",
+      "start": 135.96,
+      "end": 138.18,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1844,
+      "compression_ratio": 1.4934
+    },
+    {
+      "text": "原封不动吗",
+      "start": 138.18,
+      "end": 138.96,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1844,
+      "compression_ratio": 1.4934
+    },
+    {
+      "text": "然后这个循规蹈矩",
+      "start": 138.96,
+      "end": 140.76000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1224,
+      "compression_ratio": 1.5261
+    },
+    {
+      "text": "循规蹈矩是指做事",
+      "start": 140.76000000000002,
+      "end": 142.98000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1224,
+      "compression_ratio": 1.5261
+    },
+    {
+      "text": "做人的时候恪守规矩",
+      "start": 142.98000000000002,
+      "end": 145.10000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1224,
+      "compression_ratio": 1.5261
+    },
+    {
+      "text": "不敢变通",
+      "start": 145.10000000000002,
+      "end": 145.92000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1224,
+      "compression_ratio": 1.5261
+    },
+    {
+      "text": "就比如说有一些保守死板",
+      "start": 145.92000000000002,
+      "end": 148.14000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1224,
+      "compression_ratio": 1.5261
+    },
+    {
+      "text": "也能用循规蹈矩",
+      "start": 148.14000000000001,
+      "end": 149.36,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1224,
+      "compression_ratio": 1.5261
+    },
+    {
+      "text": "它不能搭配这个传统文化",
+      "start": 149.36,
+      "end": 152.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1224,
+      "compression_ratio": 1.5261
+    },
+    {
+      "text": "对吧",
+      "start": 152.5,
+      "end": 153.18,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1224,
+      "compression_ratio": 1.5261
+    },
+    {
+      "text": "保留这个传统文化",
+      "start": 153.18,
+      "end": 154.38,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1224,
+      "compression_ratio": 1.5261
+    },
+    {
+      "text": "来这是形容做人做事的",
+      "start": 154.38,
+      "end": 156.74,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1224,
+      "compression_ratio": 1.5261
+    },
+    {
+      "text": "来如法炮制",
+      "start": 156.74,
+      "end": 158.20000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1224,
+      "compression_ratio": 1.5261
+    },
+    {
+      "text": "如法炮制是形容什么",
+      "start": 158.20000000000002,
+      "end": 160.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1224,
+      "compression_ratio": 1.5261
+    },
+    {
+      "text": "照搬一些做法",
+      "start": 160.88,
+      "end": 162.14000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1224,
+      "compression_ratio": 1.5261
+    },
+    {
+      "text": "模仿一些办事",
+      "start": 162.14000000000001,
+      "end": 164.12,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1224,
+      "compression_ratio": 1.5261
+    },
+    {
+      "text": "用于一些什么模仿的情况",
+      "start": 164.12,
+      "end": 166.74,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1224,
+      "compression_ratio": 1.5261
+    },
+    {
+      "text": "对吧",
+      "start": 166.74,
+      "end": 167.34,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1224,
+      "compression_ratio": 1.5261
+    },
+    {
+      "text": "它是模仿办事的一种方式",
+      "start": 167.34,
+      "end": 169.58,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1214,
+      "compression_ratio": 1.3021
+    },
+    {
+      "text": "它也不适用于保留传统文化",
+      "start": 169.58,
+      "end": 171.8,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1214,
+      "compression_ratio": 1.3021
+    },
+    {
+      "text": "这里不对",
+      "start": 171.8,
+      "end": 172.46,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1214,
+      "compression_ratio": 1.3021
+    },
+    {
+      "text": "故不自封",
+      "start": 172.46,
+      "end": 174.24,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1214,
+      "compression_ratio": 1.3021
+    },
+    {
+      "text": "它是形容自我封闭",
+      "start": 174.24,
+      "end": 176.22,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1214,
+      "compression_ratio": 1.3021
+    },
+    {
+      "text": "安于现状",
+      "start": 176.22,
+      "end": 176.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1214,
+      "compression_ratio": 1.3021
+    },
+    {
+      "text": "不接受新的事物",
+      "start": 176.88,
+      "end": 178.82,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1214,
+      "compression_ratio": 1.3021
+    },
+    {
+      "text": "对不对",
+      "start": 178.82,
+      "end": 179.74,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1214,
+      "compression_ratio": 1.3021
+    },
+    {
+      "text": "它是形容什么",
+      "start": 179.74,
+      "end": 180.76,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1214,
+      "compression_ratio": 1.3021
+    },
+    {
+      "text": "形容这个人",
+      "start": 180.76,
+      "end": 181.78,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1214,
+      "compression_ratio": 1.3021
+    },
+    {
+      "text": "他的思想是非常封闭的",
+      "start": 181.78,
+      "end": 183.96,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1214,
+      "compression_ratio": 1.3021
+    },
+    {
+      "text": "和你文端说",
+      "start": 183.96,
+      "end": 185.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1214,
+      "compression_ratio": 1.3021
+    },
+    {
+      "text": "要保留这个文化",
+      "start": 185.0,
+      "end": 186.18,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1214,
+      "compression_ratio": 1.3021
+    },
+    {
+      "text": "语境也搭配不到",
+      "start": 186.18,
+      "end": 187.42000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1214,
+      "compression_ratio": 1.3021
+    },
+    {
+      "text": "对",
+      "start": 187.42000000000002,
+      "end": 187.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1214,
+      "compression_ratio": 1.3021
+    },
+    {
+      "text": "好了",
+      "start": 187.88,
+      "end": 191.8,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1214,
+      "compression_ratio": 1.3021
+    },
+    {
+      "text": "来看116这道题",
+      "start": 191.8,
+      "end": 194.04,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1214,
+      "compression_ratio": 1.3021
+    },
+    {
+      "text": "啊",
+      "start": 194.04,
+      "end": 194.4,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.7705,
+      "compression_ratio": 0.2727
+    },
+    {
+      "text": "好这道题呢",
+      "start": 224.04,
+      "end": 232.76,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1471,
+      "compression_ratio": 1.3517
+    },
+    {
+      "text": "有很多同学认为咱们这个解课",
+      "start": 232.76,
+      "end": 235.12,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1471,
+      "compression_ratio": 1.3517
+    },
+    {
+      "text": "学了系之末节就选系之末节了",
+      "start": 235.12,
+      "end": 237.34,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1471,
+      "compression_ratio": 1.3517
+    },
+    {
+      "text": "是不是",
+      "start": 237.34,
+      "end": 237.6,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1471,
+      "compression_ratio": 1.3517
+    },
+    {
+      "text": "这道题呢正确答案应该是A选项",
+      "start": 237.6,
+      "end": 241.89999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1471,
+      "compression_ratio": 1.3517
+    },
+    {
+      "text": "来大家来看一下",
+      "start": 241.89999999999998,
+      "end": 243.68,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1471,
+      "compression_ratio": 1.3517
+    },
+    {
+      "text": "他这个是什么意思啊",
+      "start": 243.68,
+      "end": 244.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1471,
+      "compression_ratio": 1.3517
+    },
+    {
+      "text": "他不是说这点是学啥的就一定选他",
+      "start": 244.88,
+      "end": 247.54,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1471,
+      "compression_ratio": 1.3517
+    },
+    {
+      "text": "是吧他有可能是一个迷惑",
+      "start": 247.54,
+      "end": 249.38,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1471,
+      "compression_ratio": 1.3517
+    },
+    {
+      "text": "想啊来说",
+      "start": 249.38,
+      "end": 251.23999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1471,
+      "compression_ratio": 1.3517
+    },
+    {
+      "text": "第一个空前面说什么仔细观察",
+      "start": 251.23999999999998,
+      "end": 253.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1471,
+      "compression_ratio": 1.3517
+    },
+    {
+      "text": "自然",
+      "start": 253.72,
+      "end": 254.4,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1072,
+      "compression_ratio": 1.4678
+    },
+    {
+      "text": "他是发现的开端",
+      "start": 254.4,
+      "end": 256.26,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1072,
+      "compression_ratio": 1.4678
+    },
+    {
+      "text": "是认识事物奥秘的向导",
+      "start": 256.26,
+      "end": 258.44,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1072,
+      "compression_ratio": 1.4678
+    },
+    {
+      "text": "我们要注意观察自然界的各种事物",
+      "start": 258.44,
+      "end": 261.58,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1072,
+      "compression_ratio": 1.4678
+    },
+    {
+      "text": "各种现象",
+      "start": 261.58,
+      "end": 262.52,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1072,
+      "compression_ratio": 1.4678
+    },
+    {
+      "text": "注意大自然偶然疏忽留下的什么同学们",
+      "start": 262.52,
+      "end": 265.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1072,
+      "compression_ratio": 1.4678
+    },
+    {
+      "text": "这叫做破绽",
+      "start": 265.88,
+      "end": 267.26,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1072,
+      "compression_ratio": 1.4678
+    },
+    {
+      "text": "通过对这些什么的观察",
+      "start": 267.26,
+      "end": 270.24,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1072,
+      "compression_ratio": 1.4678
+    },
+    {
+      "text": "这些指代的就是破绽",
+      "start": 270.24,
+      "end": 271.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1072,
+      "compression_ratio": 1.4678
+    },
+    {
+      "text": "什么是破绽",
+      "start": 271.88,
+      "end": 273.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1072,
+      "compression_ratio": 1.4678
+    },
+    {
+      "text": "破绽你就记",
+      "start": 273.84,
+      "end": 275.24,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1072,
+      "compression_ratio": 1.4678
+    },
+    {
+      "text": "它是一些痕迹",
+      "start": 275.24,
+      "end": 277.48,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1072,
+      "compression_ratio": 1.4678
+    },
+    {
+      "text": "一些线索才能叫破绽",
+      "start": 277.48,
+      "end": 280.26,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1072,
+      "compression_ratio": 1.4678
+    },
+    {
+      "text": "所以是需要对这些什么",
+      "start": 280.26,
+      "end": 282.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1072,
+      "compression_ratio": 1.4678
+    },
+    {
+      "text": "对这些线索去追根寻缘",
+      "start": 282.5,
+      "end": 286.04,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1479,
+      "compression_ratio": 1.2295
+    },
+    {
+      "text": "对吧",
+      "start": 286.04,
+      "end": 287.52,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1479,
+      "compression_ratio": 1.2295
+    },
+    {
+      "text": "对这些痕迹线索去追根溯源",
+      "start": 287.52,
+      "end": 291.28,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1479,
+      "compression_ratio": 1.2295
+    },
+    {
+      "text": "所以第二口",
+      "start": 291.28,
+      "end": 293.34,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1479,
+      "compression_ratio": 1.2295
+    },
+    {
+      "text": "蛛丝马迹",
+      "start": 293.34,
+      "end": 294.48,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1479,
+      "compression_ratio": 1.2295
+    },
+    {
+      "text": "蛛丝马迹就是事情留下的什么",
+      "start": 294.48,
+      "end": 297.4,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1479,
+      "compression_ratio": 1.2295
+    },
+    {
+      "text": "线索",
+      "start": 297.4,
+      "end": 298.52,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1479,
+      "compression_ratio": 1.2295
+    },
+    {
+      "text": "痕迹",
+      "start": 298.52,
+      "end": 299.46,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1479,
+      "compression_ratio": 1.2295
+    }
+  ],
+  "index": 9,
+  "start": 2700.0,
+  "duration": 300,
+  "elapsed": 30.1,
+  "ok": true,
+  "initial_prompt": "四海公考，公务员考试，言语理解与表达，逻辑填空，高频实词，成语辨析，语义侧重，感情色彩，搭配对象，适用语境，易混词，例句。简体中文。课件词条：束之高阁，细枝末节，积重难返，覆水难收。"
+}

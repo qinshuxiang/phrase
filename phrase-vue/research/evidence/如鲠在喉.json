@@ -1,0 +1,52 @@
+{
+    "word": "如鲠在喉",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A6%82%E9%B2%A0%E5%9C%A8%E5%96%89",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "e788e518c0c3fe92190c64af78da3b03e60c163e62a20c418ec546be00266918",
+        "bytes": 22834
+    },
+    "parsed": {
+        "found": true,
+        "word": "如鲠在喉",
+        "section": "idiom",
+        "readings": {
+            "pinyin": [
+                "rú",
+                "gěng",
+                "zài",
+                "hóu"
+            ],
+            "zhuyin": [
+                "ㄖㄨˊ",
+                "ㄍㄥˇ",
+                "ㄗㄞˋ",
+                "ㄏㄡˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "鱼骨头卡在喉咙里。比喻心里有话没有说出来，非常难受。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": {
+            "text": "汉·许慎《说文解字》：“鲠，食骨留咽中也。”段玉裁注：“韦曰：‘骨所以鲠，刺人也。’忠言逆耳，如食骨在喉，故云骨鲠之臣。《汉书》以下皆作骨鲠，字从鱼，谓留咽者鱼骨较多也。”",
+            "source": "如鲠在喉"
+        },
+        "grammar": "",
+        "example": "",
+        "english": ""
+    },
+    "blocks": {
+        "reading": "rú gěng zài hóu",
+        "sense-1": "鱼骨头卡在喉咙里。比喻心里有话没有说出来，非常难受。",
+        "origin": "汉·许慎《说文解字》：“鲠，食骨留咽中也。”段玉裁注：“韦曰：‘骨所以鲠，刺人也。’忠言逆耳，如食骨在喉，故云骨鲠之臣。《汉书》以下皆作骨鲠，字从鱼，谓留咽者鱼骨较多也。”"
+    }
+}

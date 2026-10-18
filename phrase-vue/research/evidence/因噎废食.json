@@ -1,0 +1,73 @@
+{
+    "word": "因噎废食",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%9B%A0%E5%99%8E%E5%BA%9F%E9%A3%9F",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "c3d4dce3c307cb8594c7ac871b69ac08d2bf62677f90f5c2e1e06e491b4445c9",
+        "bytes": 27914
+    },
+    "parsed": {
+        "found": true,
+        "word": "因噎废食",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yīn",
+                "yē",
+                "fèi",
+                "shí"
+            ],
+            "zhuyin": [
+                "ㄧㄣ",
+                "ㄧㄝ",
+                "ㄈㄟˋ",
+                "ㄕˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻因小挫折而放弃应做之事。",
+                "citations": [
+                    {
+                        "text": "昔人有因噎而废食者，又有惧溺而自沉者，其为矫枉防患之虑，岂不过哉！",
+                        "source": "唐·陆贄《奉天请数对群臣兼许令论事状》"
+                    },
+                    {
+                        "text": "虑中饱而不贷，坐视民死，是因噎废食也。",
+                        "source": "《明史·李贤传》"
+                    }
+                ]
+            },
+            {
+                "definition": "过度谨慎而停止必要行动。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "昔人有因噎而废食者，又有惧溺而自沉者，其为矫枉防患之虑，岂不过哉！",
+                "source": "唐·陆贄《奉天请数对群臣兼许令论事状》"
+            },
+            {
+                "text": "虑中饱而不贷，坐视民死，是因噎废食也。",
+                "source": "《明史·李贤传》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "give up eating for fear of choking"
+    },
+    "blocks": {
+        "reading": "yīn yē fèi shí",
+        "sense-1": "比喻因小挫折而放弃应做之事。",
+        "sense-2": "过度谨慎而停止必要行动。",
+        "citation-1": "昔人有因噎而废食者，又有惧溺而自沉者，其为矫枉防患之虑，岂不过哉！ — 唐·陆贄《奉天请数对群臣兼许令论事状》",
+        "citation-2": "虑中饱而不贷，坐视民死，是因噎废食也。 — 《明史·李贤传》"
+    }
+}

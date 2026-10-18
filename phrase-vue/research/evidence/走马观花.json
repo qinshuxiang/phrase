@@ -1,0 +1,68 @@
+{
+    "word": "走马观花",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%B5%B0%E9%A9%AC%E8%A7%82%E8%8A%B1",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "f745e36f1de9308baeb8abc730899c5078cd5ebc64d37ecde58ad688ea0b11a1",
+        "bytes": 23547
+    },
+    "parsed": {
+        "found": true,
+        "word": "走马观花",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zǒu",
+                "mǎ",
+                "guān",
+                "huā"
+            ],
+            "zhuyin": [
+                "ㄗㄡˇ",
+                "ㄇㄚˇ",
+                "ㄍㄨㄢ",
+                "ㄏㄨㄚ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "骑在奔跑的马上观赏花朵。比喻粗略地观察事物。",
+                "citations": [
+                    {
+                        "text": "走马观花思故乡，故乡迢递在何方。",
+                        "source": "明·于谦《偶题》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "走马观花思故乡，故乡迢递在何方。",
+                "source": "明·于谦《偶题》"
+            }
+        ],
+        "synonyms": [
+            "浮光掠影",
+            "蜻蜓点水"
+        ],
+        "antonyms": [
+            "下马看花",
+            "入木三分",
+            "鞭辟入里"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "look at flowers while riding a horse"
+    },
+    "blocks": {
+        "reading": "zǒu mǎ guān huā",
+        "sense-1": "骑在奔跑的马上观赏花朵。比喻粗略地观察事物。",
+        "citation-1": "走马观花思故乡，故乡迢递在何方。 — 明·于谦《偶题》",
+        "synonyms": "浮光掠影、蜻蜓点水",
+        "antonyms": "下马看花、入木三分、鞭辟入里"
+    }
+}

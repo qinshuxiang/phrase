@@ -1,0 +1,26 @@
+{
+    "word": "磨顶放踵",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%A3%A8%E9%A1%B6%E6%94%BE%E8%B8%B5",
+        "retrieved_at": "2026-10-18",
+        "http_status": 404,
+        "page_sha256": null,
+        "bytes": 0
+    },
+    "parsed": {
+        "found": false,
+        "word": "磨顶放踵",
+        "readings": {
+            "pinyin": [],
+            "zhuyin": []
+        },
+        "senses": [],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "english": ""
+    },
+    "blocks": {}
+}

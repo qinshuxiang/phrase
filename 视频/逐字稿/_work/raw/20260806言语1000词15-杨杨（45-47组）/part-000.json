@@ -1,0 +1,515 @@
+{
+  "text": "请问 nhiều句话 holders论 се取 handled哦这習vio长发布 inevitably无üyor请不吝点赞 订阅 转发 打赏支持明镜与点点栏目优优独播剧场——YoYo Television Series Exclusive对我说的情话像转身即使的烟花只停在绽放一刹那我却已无法自拔我们的爱总有时差也为你骗自己放下爱炽热的你却忘了爱自己独自收起两个人之间的回忆其实每一档到这时候我都会哭泣为何一切变得如此无法回到过去但我仍愿意感谢你给过我爱情每一场风景都是我们爱的证明就算如今天歌一发祝你一生动听啊你对我说的情话像转身解释的烟花只停在绽放一刹那我早已无法自拔下一首就是黄索红版的那首歌了对 现在点不了了已经满了明天还会继续点歌的啊能不能听到老师的声音可以吗 同学们好站起来站起来站起来夜夜就在这白昼喜爱情流在手中游走这完美计划也猜不透因为你来的比较早前面就是我看到大家点个人拔到消息特别出来但我们前面这个这个音乐的节目今天大家要想听歌就早点来了今天的阴谋起一句再回来像一只风你追着影子追着那道光我们早一眼出击击场默默口袋空空如月你的思维被我感谢So you think you knowSo you think you seeZither Harp",
+  "segments": [
+    {
+      "text": "请问 nhiều句话 holders论 се取 handled哦这習vio长发布 inevitably无üyor",
+      "start": 0.0,
+      "end": 22.68,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -6.6787,
+      "compression_ratio": 0.8878
+    },
+    {
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "start": 22.68,
+      "end": 52.66,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1184,
+      "compression_ratio": 0.8514
+    },
+    {
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "start": 52.68,
+      "end": 82.66,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1092,
+      "compression_ratio": 0.875
+    },
+    {
+      "text": "对我说的情话",
+      "start": 82.68,
+      "end": 84.88000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2299,
+      "compression_ratio": 1.1792
+    },
+    {
+      "text": "像转身即使的烟花",
+      "start": 84.88000000000001,
+      "end": 88.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2299,
+      "compression_ratio": 1.1792
+    },
+    {
+      "text": "只停在绽放一刹那",
+      "start": 88.06,
+      "end": 91.14000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2299,
+      "compression_ratio": 1.1792
+    },
+    {
+      "text": "我却已无法自拔",
+      "start": 91.14000000000001,
+      "end": 94.30000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2299,
+      "compression_ratio": 1.1792
+    },
+    {
+      "text": "我们的爱总有时差",
+      "start": 94.30000000000001,
+      "end": 97.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2299,
+      "compression_ratio": 1.1792
+    },
+    {
+      "text": "也为你骗自己放下",
+      "start": 97.56,
+      "end": 100.80000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2299,
+      "compression_ratio": 1.1792
+    },
+    {
+      "text": "爱炽热的你",
+      "start": 100.80000000000001,
+      "end": 103.02000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2299,
+      "compression_ratio": 1.1792
+    },
+    {
+      "text": "却忘了爱自己",
+      "start": 103.02000000000001,
+      "end": 105.4,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2299,
+      "compression_ratio": 1.1792
+    },
+    {
+      "text": "独自收起两个人之间的回忆",
+      "start": 105.4,
+      "end": 111.10000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2299,
+      "compression_ratio": 1.1792
+    },
+    {
+      "text": "其实每一档到这时候",
+      "start": 111.1,
+      "end": 113.02,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.174,
+      "compression_ratio": 1.2115
+    },
+    {
+      "text": "我都会哭泣",
+      "start": 113.02,
+      "end": 114.19999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.174,
+      "compression_ratio": 1.2115
+    },
+    {
+      "text": "为何一切变得如此",
+      "start": 114.19999999999999,
+      "end": 117.17999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.174,
+      "compression_ratio": 1.2115
+    },
+    {
+      "text": "无法回到过去",
+      "start": 117.17999999999999,
+      "end": 119.8,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.174,
+      "compression_ratio": 1.2115
+    },
+    {
+      "text": "但我仍愿意感谢你",
+      "start": 119.8,
+      "end": 122.67999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.174,
+      "compression_ratio": 1.2115
+    },
+    {
+      "text": "给过我爱情",
+      "start": 122.67999999999999,
+      "end": 123.83999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.174,
+      "compression_ratio": 1.2115
+    },
+    {
+      "text": "每一场风景",
+      "start": 123.83999999999999,
+      "end": 125.16,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.174,
+      "compression_ratio": 1.2115
+    },
+    {
+      "text": "都是我们爱的证明",
+      "start": 125.16,
+      "end": 127.02,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.174,
+      "compression_ratio": 1.2115
+    },
+    {
+      "text": "就算如今",
+      "start": 127.02,
+      "end": 128.48,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.174,
+      "compression_ratio": 1.2115
+    },
+    {
+      "text": "天歌一发",
+      "start": 128.48,
+      "end": 130.07999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.174,
+      "compression_ratio": 1.2115
+    },
+    {
+      "text": "祝你一生动听啊",
+      "start": 130.07999999999998,
+      "end": 132.79999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.174,
+      "compression_ratio": 1.2115
+    },
+    {
+      "text": "你对我说的情话",
+      "start": 132.79999999999998,
+      "end": 135.94,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.174,
+      "compression_ratio": 1.2115
+    },
+    {
+      "text": "像转身解释的烟花",
+      "start": 135.94,
+      "end": 139.14,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.174,
+      "compression_ratio": 1.2115
+    },
+    {
+      "text": "只停在绽放一刹那",
+      "start": 139.14,
+      "end": 142.27999999999997,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2361,
+      "compression_ratio": 1.1299
+    },
+    {
+      "text": "我早已无法自拔",
+      "start": 142.27999999999997,
+      "end": 145.33999999999997,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2361,
+      "compression_ratio": 1.1299
+    },
+    {
+      "text": "下一首就是黄索红版的那首歌了",
+      "start": 145.33999999999997,
+      "end": 148.35999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2361,
+      "compression_ratio": 1.1299
+    },
+    {
+      "text": "对 现在点不了了",
+      "start": 148.35999999999999,
+      "end": 150.92,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2361,
+      "compression_ratio": 1.1299
+    },
+    {
+      "text": "已经满了",
+      "start": 150.92,
+      "end": 151.79999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2361,
+      "compression_ratio": 1.1299
+    },
+    {
+      "text": "明天还会继续点歌的啊",
+      "start": 151.79999999999998,
+      "end": 154.1,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2361,
+      "compression_ratio": 1.1299
+    },
+    {
+      "text": "能不能听到老师的声音",
+      "start": 154.1,
+      "end": 158.61999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2361,
+      "compression_ratio": 1.1299
+    },
+    {
+      "text": "可以吗 同学们",
+      "start": 158.61999999999998,
+      "end": 161.51999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2361,
+      "compression_ratio": 1.1299
+    },
+    {
+      "text": "好",
+      "start": 169.14,
+      "end": 173.26,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6627,
+      "compression_ratio": 1.3043
+    },
+    {
+      "text": "站起来",
+      "start": 173.26,
+      "end": 185.51999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6627,
+      "compression_ratio": 1.3043
+    },
+    {
+      "text": "站起来",
+      "start": 185.51999999999998,
+      "end": 186.64,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6627,
+      "compression_ratio": 1.3043
+    },
+    {
+      "text": "站起来",
+      "start": 186.64,
+      "end": 189.83999999999997,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6627,
+      "compression_ratio": 1.3043
+    },
+    {
+      "text": "夜夜就在这白昼",
+      "start": 189.84,
+      "end": 191.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4164,
+      "compression_ratio": 1.118
+    },
+    {
+      "text": "喜爱情流",
+      "start": 191.84,
+      "end": 193.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4164,
+      "compression_ratio": 1.118
+    },
+    {
+      "text": "在手中游走",
+      "start": 193.84,
+      "end": 195.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4164,
+      "compression_ratio": 1.118
+    },
+    {
+      "text": "这完美计划",
+      "start": 195.84,
+      "end": 197.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4164,
+      "compression_ratio": 1.118
+    },
+    {
+      "text": "也猜不透",
+      "start": 197.84,
+      "end": 199.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4164,
+      "compression_ratio": 1.118
+    },
+    {
+      "text": "因为你来的比较早",
+      "start": 199.84,
+      "end": 203.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4164,
+      "compression_ratio": 1.118
+    },
+    {
+      "text": "前面就是",
+      "start": 203.84,
+      "end": 207.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4164,
+      "compression_ratio": 1.118
+    },
+    {
+      "text": "我看到大家点个人",
+      "start": 207.84,
+      "end": 209.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4164,
+      "compression_ratio": 1.118
+    },
+    {
+      "text": "拔到消息特别出来",
+      "start": 209.84,
+      "end": 211.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4164,
+      "compression_ratio": 1.118
+    },
+    {
+      "text": "但我们前面这个",
+      "start": 211.84,
+      "end": 213.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4164,
+      "compression_ratio": 1.118
+    },
+    {
+      "text": "这个音乐的节目",
+      "start": 213.84,
+      "end": 215.04,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.7552,
+      "compression_ratio": 0.8451
+    },
+    {
+      "text": "今天大家要想听歌就早点来了",
+      "start": 215.04,
+      "end": 221.04,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.7552,
+      "compression_ratio": 0.8451
+    },
+    {
+      "text": "今天的阴谋",
+      "start": 243.84,
+      "end": 245.42000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4121,
+      "compression_ratio": 1.1105
+    },
+    {
+      "text": "起一句再回来",
+      "start": 245.42000000000002,
+      "end": 248.38,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4121,
+      "compression_ratio": 1.1105
+    },
+    {
+      "text": "像一只风",
+      "start": 248.38,
+      "end": 249.58,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4121,
+      "compression_ratio": 1.1105
+    },
+    {
+      "text": "你追着影子",
+      "start": 249.58,
+      "end": 252.2,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4121,
+      "compression_ratio": 1.1105
+    },
+    {
+      "text": "追着那道光",
+      "start": 252.2,
+      "end": 253.68,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4121,
+      "compression_ratio": 1.1105
+    },
+    {
+      "text": "我们早一眼",
+      "start": 253.68,
+      "end": 256.38,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4121,
+      "compression_ratio": 1.1105
+    },
+    {
+      "text": "出击击场",
+      "start": 256.38,
+      "end": 257.76,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4121,
+      "compression_ratio": 1.1105
+    },
+    {
+      "text": "默默口袋",
+      "start": 257.76,
+      "end": 260.52,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4121,
+      "compression_ratio": 1.1105
+    },
+    {
+      "text": "空空如月",
+      "start": 260.52,
+      "end": 261.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4121,
+      "compression_ratio": 1.1105
+    },
+    {
+      "text": "你的思维",
+      "start": 261.56,
+      "end": 262.58,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4121,
+      "compression_ratio": 1.1105
+    },
+    {
+      "text": "被我感谢",
+      "start": 262.58,
+      "end": 263.66,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4121,
+      "compression_ratio": 1.1105
+    },
+    {
+      "text": "So you think you know",
+      "start": 263.66,
+      "end": 269.26,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4121,
+      "compression_ratio": 1.1105
+    },
+    {
+      "text": "So you think you see",
+      "start": 269.26,
+      "end": 273.82,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4121,
+      "compression_ratio": 1.1105
+    },
+    {
+      "text": "Zither Harp",
+      "start": 273.82,
+      "end": 299.96,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4407,
+      "compression_ratio": 0.5789
+    }
+  ],
+  "index": 0,
+  "start": 0.0,
+  "duration": 300,
+  "elapsed": 21.4,
+  "ok": true,
+  "initial_prompt": "四海公考，公务员考试，言语理解与表达，逻辑填空，高频实词，成语辨析，语义侧重，感情色彩，搭配对象，适用语境，易混词，例句。简体中文。课件词条：熟视无睹，闭目塞听，置之不理。"
+}

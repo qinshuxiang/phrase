@@ -1,0 +1,69 @@
+{
+    "word": "捕风捉影",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%8D%95%E9%A3%8E%E6%8D%89%E5%BD%B1",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "912facc70ebcaaa21bf88dd245e563954b192b311fcaf34e7aa91c8c10598708",
+        "bytes": 27273
+    },
+    "parsed": {
+        "found": true,
+        "word": "捕风捉影",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bǔ",
+                "fēng",
+                "zhuō",
+                "yǐng"
+            ],
+            "zhuyin": [
+                "ㄅㄨˇ",
+                "ㄈㄥ",
+                "ㄓㄨㄛ",
+                "ㄧㄥˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻虚幻不实或毫无根据地臆测。",
+                "citations": [
+                    {
+                        "text": "若有一豪之不实，如捕风捉影，更无下功处，德何由进？",
+                        "source": "宋·朱熹《朱子语类》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "若有一豪之不实，如捕风捉影，更无下功处，德何由进？",
+                "source": "宋·朱熹《朱子语类》"
+            }
+        ],
+        "synonyms": [
+            "望风捕影",
+            "无中生有",
+            "道听途说"
+        ],
+        "antonyms": [
+            "实事求是",
+            "耳闻目睹",
+            "确凿不移"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "grasp at shadows"
+    },
+    "blocks": {
+        "reading": "bǔ fēng zhuō yǐng",
+        "sense-1": "比喻虚幻不实或毫无根据地臆测。",
+        "citation-1": "若有一豪之不实，如捕风捉影，更无下功处，德何由进？ — 宋·朱熹《朱子语类》",
+        "synonyms": "望风捕影、无中生有、道听途说",
+        "antonyms": "实事求是、耳闻目睹、确凿不移"
+    }
+}

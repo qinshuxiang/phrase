@@ -1,0 +1,67 @@
+{
+    "word": "安土重迁",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%AE%89%E5%9C%9F%E9%87%8D%E8%BF%81",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "dc53b36e9774f988dd16ae95fc87540fc5417d747eeb7438709dcc10f8a45d9e",
+        "bytes": 26762
+    },
+    "parsed": {
+        "found": true,
+        "word": "安土重迁",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "ān",
+                "tǔ",
+                "zhòng",
+                "qiān"
+            ],
+            "zhuyin": [
+                "ㄢ",
+                "ㄊㄨˇ",
+                "ㄓㄨㄥˋ",
+                "ㄑㄧㄢ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "留恋故土，不愿轻易迁居他处。",
+                "citations": [
+                    {
+                        "text": "安土重迁，黎民之性；骨肉相附，人情所愿也。",
+                        "source": "《汉书·元帝纪》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "安土重迁，黎民之性；骨肉相附，人情所愿也。",
+                "source": "《汉书·元帝纪》"
+            }
+        ],
+        "synonyms": [
+            "恋恋不舍",
+            "安居乐业"
+        ],
+        "antonyms": [
+            "背井离乡",
+            "志在四方"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "reluctant to move"
+    },
+    "blocks": {
+        "reading": "ān tǔ zhòng qiān",
+        "sense-1": "留恋故土，不愿轻易迁居他处。",
+        "citation-1": "安土重迁，黎民之性；骨肉相附，人情所愿也。 — 《汉书·元帝纪》",
+        "synonyms": "恋恋不舍、安居乐业",
+        "antonyms": "背井离乡、志在四方"
+    }
+}

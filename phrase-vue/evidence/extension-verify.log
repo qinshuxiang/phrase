@@ -1,0 +1,17 @@
+
+> phrase-vue@2.0.0 verify:exam
+> node scripts/verify-exam.mjs --strict
+
+{
+    "passed": true,
+    "years": 11,
+    "questions": 6577,
+    "types": [
+        "片段阅读",
+        "语句表达",
+        "逻辑填空"
+    ],
+    "parse_retention": 0.9971,
+    "image_skip_ratio": 0.1164,
+    "bytes": 11983516
+}

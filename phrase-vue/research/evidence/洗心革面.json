@@ -1,0 +1,72 @@
+{
+    "word": "洗心革面",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%B4%97%E5%BF%83%E9%9D%A9%E9%9D%A2",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "000441cd7cdca0924edf51aa2c639e0b9092f0a9d39ca22480b9230ef5d61f39",
+        "bytes": 29508
+    },
+    "parsed": {
+        "found": true,
+        "word": "洗心革面",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "xǐ",
+                "xīn",
+                "gé",
+                "miàn"
+            ],
+            "zhuyin": [
+                "ㄒㄧˇ",
+                "ㄒㄧㄣ",
+                "ㄍㄜˊ",
+                "ㄇㄧㄢˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "清除旧思想,改变旧面目",
+                "citations": [
+                    {
+                        "text": "自今以始,洗心革面,皆以惠养元元为意。",
+                        "source": "宋·辛弃疾《淳熙己亥论盗贼札子》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "自今以始,洗心革面,皆以惠养元元为意。",
+                "source": "宋·辛弃疾《淳熙己亥论盗贼札子》"
+            }
+        ],
+        "synonyms": [
+            "改过自新",
+            "痛改前非",
+            "脱胎换骨",
+            "洗手不干"
+        ],
+        "antonyms": [
+            "顽固不化",
+            "死不改悔",
+            "怙恶不悛",
+            "死不悔改",
+            "文过饰非"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "reform oneself"
+    },
+    "blocks": {
+        "reading": "xǐ xīn gé miàn",
+        "sense-1": "清除旧思想,改变旧面目",
+        "citation-1": "自今以始,洗心革面,皆以惠养元元为意。 — 宋·辛弃疾《淳熙己亥论盗贼札子》",
+        "synonyms": "改过自新、痛改前非、脱胎换骨、洗手不干",
+        "antonyms": "顽固不化、死不改悔、怙恶不悛、死不悔改、文过饰非"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "word": "刚愎自用",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%88%9A%E6%84%8E%E8%87%AA%E7%94%A8",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "76b7796db52588e2dc40168af08793c3d5dbef4b3a9e5f42266382d481ab362e",
+        "bytes": 27447
+    },
+    "parsed": {
+        "found": true,
+        "word": "刚愎自用",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "gāng",
+                "bì",
+                "zì",
+                "yòng"
+            ],
+            "zhuyin": [
+                "ㄍㄤ",
+                "ㄅㄧˋ",
+                "ㄗˋ",
+                "ㄩㄥˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "固执己见，不听劝告。",
+                "citations": [
+                    {
+                        "text": "始皇为人，天性刚戾自用，起诸侯，并天下，意得欲从，以为自古莫及己。",
+                        "source": "《史记·秦始皇本纪》"
+                    },
+                    {
+                        "text": "纶复独奏给事中王让不赴考察，且言明刚愎自用，己言多不见从，乞与明俱罢。",
+                        "source": "《明史·章纶传》"
+                    }
+                ]
+            },
+            {
+                "definition": "自以为是，不采纳他人意见。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "始皇为人，天性刚戾自用，起诸侯，并天下，意得欲从，以为自古莫及己。",
+                "source": "《史记·秦始皇本纪》"
+            },
+            {
+                "text": "纶复独奏给事中王让不赴考察，且言明刚愎自用，己言多不见从，乞与明俱罢。",
+                "source": "《明史·章纶传》"
+            }
+        ],
+        "synonyms": [
+            "我行我素"
+        ],
+        "antonyms": [
+            "虚怀若谷",
+            "从善如流"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "headstrong"
+    },
+    "blocks": {
+        "reading": "gāng bì zì yòng",
+        "sense-1": "固执己见，不听劝告。",
+        "sense-2": "自以为是，不采纳他人意见。",
+        "citation-1": "始皇为人，天性刚戾自用，起诸侯，并天下，意得欲从，以为自古莫及己。 — 《史记·秦始皇本纪》",
+        "citation-2": "纶复独奏给事中王让不赴考察，且言明刚愎自用，己言多不见从，乞与明俱罢。 — 《明史·章纶传》",
+        "synonyms": "我行我素",
+        "antonyms": "虚怀若谷、从善如流"
+    }
+}

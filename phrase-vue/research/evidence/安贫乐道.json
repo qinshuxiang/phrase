@@ -1,0 +1,81 @@
+{
+    "word": "安贫乐道",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%AE%89%E8%B4%AB%E4%B9%90%E9%81%93",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "47045be8f70e88c1429a3c2ac3db946d8f9ab9e6e8f48f335175e12b7c2a41c8",
+        "bytes": 27991
+    },
+    "parsed": {
+        "found": true,
+        "word": "安贫乐道",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "ān",
+                "pín",
+                "lè",
+                "dào"
+            ],
+            "zhuyin": [
+                "ㄢ",
+                "ㄆㄧㄣˊ",
+                "ㄌㄜˋ",
+                "ㄉㄠˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "安于清贫生活，以追求道德理想为乐趣。",
+                "citations": [
+                    {
+                        "text": "贤哉回也！一箪食，一瓢饮，在陋巷。人不堪其忧，回也不改其乐。",
+                        "source": "《论语·雍也》"
+                    },
+                    {
+                        "text": "圣人安贫乐道，不以欲伤生，不以利累己，故不违义而妄取。",
+                        "source": "《文子·上仁》"
+                    }
+                ]
+            },
+            {
+                "definition": "古代儒家提倡的处世态度。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "贤哉回也！一箪食，一瓢饮，在陋巷。人不堪其忧，回也不改其乐。",
+                "source": "《论语·雍也》"
+            },
+            {
+                "text": "圣人安贫乐道，不以欲伤生，不以利累己，故不违义而妄取。",
+                "source": "《文子·上仁》"
+            }
+        ],
+        "synonyms": [
+            "安贫守道"
+        ],
+        "antonyms": [
+            "为所欲为",
+            "胡作非为",
+            "不甘食贫"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "content in poverty and devoted to principles"
+    },
+    "blocks": {
+        "reading": "ān pín lè dào",
+        "sense-1": "安于清贫生活，以追求道德理想为乐趣。",
+        "sense-2": "古代儒家提倡的处世态度。",
+        "citation-1": "贤哉回也！一箪食，一瓢饮，在陋巷。人不堪其忧，回也不改其乐。 — 《论语·雍也》",
+        "citation-2": "圣人安贫乐道，不以欲伤生，不以利累己，故不违义而妄取。 — 《文子·上仁》",
+        "synonyms": "安贫守道",
+        "antonyms": "为所欲为、胡作非为、不甘食贫"
+    }
+}

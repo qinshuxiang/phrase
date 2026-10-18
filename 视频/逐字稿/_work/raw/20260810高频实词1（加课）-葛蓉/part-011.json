@@ -1,0 +1,1268 @@
+{
+  "text": "课件。小题比较简单吧?来三二一停止答题对这其实从第三个空切入更简单一些当然第一空也可以看一看他说在漫长的发展历史中二十四节气这个话题好像是我们的飞夷说已经成为中华民族共有的认知文化系统怎么样着中国各民族人民的人民的伦理情感伦理情感生命意识审美情绪和信仰那你看前面其实已经提醒你了这是共有的吧那共有来到选项你看一下我说宁洁来宁洁啥意思来着再回忆一下宁洁如果从第一空排的话宁洁是不是又是那个例子呀这个讲义凝结着我背后的心血具体凝结着抽象的心血是吧所以把这样个例子记下来具体的凝结着抽象的这样的心血你说后面是情感啊意识啊情绪啊信仰啊有点抽象那你先放着也行那B的聚集呢聚集更多是这种空间物理一层面的吧比如说人聚在一起事物聚集在一起产业聚集在一起更多是空间物理层面这个不太行可以吧可以抬来C凝聚凝聚人心凝聚合力你说老师这也没有合力啊但是你看人家不是说共有的共同的吗而且后面也是说是增强中华民族共同体意识的一个什么年合计是合在一起了呀所以凝聚非常好来再看一下有没有学选D的说这个年合老师后面有一个年合计那你也是片面对应的有点片面是不是所以其实也可以排一下当然排不了你也可以往后看一看看一下第二个空说什么和年和记你得体现它是年和的这样的关系那年和的关系你看情感的纽带前面不就是说伦理情感意识情趣信仰情感的纽带有这样的紧密的关联吗桥梁是连通的枢纽交通枢纽一般是交通枢纽说的更多一些当然你说老师第二空我感觉差不多那看第三个空第三空排起来更快他说24节气中怎么着尊重自然效法自然爱护自然利用自然辅助自然那怎么着呢不就是24节气中他有这样一些天人合一的思想那有这样的思想来看一下是不是就蕴含包含有啊选字对很好你看其他几个词蕴藏藏了吗没说我藏起来隐藏没说我藏起来不给你看四地暗藏也没藏啊所以你不能自己在那想我偷偷摸的我藏起来人家只是蕴含只是包含对是蕴是内部含有的是深层次的是精华的部分所以C非常好另外刚刚有同学说老师我是从这个技巧层面把这个词拆了一下其实也是之前我们所说的A且B的这样的技巧但是A且B的这样的技巧不是百发百中的大概正确率可能是90%左右如果你用这个技巧来蒙拆的话怎么来用呢比如说凝聚我来给他拆一下他作为正确单的概率更高一些为什么比如我看一下凝我组个词组成什么组成凝结然后聚呢我组个词聚集是不是他作为正确单的概率可能性是更高一些的你可以猜一下但是不能保证全都对你可以猜一下行来这是我们的第三题记得看一下第四题来第四题这要起难度是有点逐渐升级都照期啊看一下好好看一下来刚好一会儿说老师那我用A且B运藏也行啊所以他就是那10%不行的情况懂了吗他不是100%都对的他没有体现藏那你也不行只能说这个技巧能帮助你优先验证可以吧不是所有的都能够用A写B它只是一个蒙猜技巧不能保证你百分之百全对",
+  "segments": [
+    {
+      "text": "课件。",
+      "start": 0.0,
+      "end": 25.6,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.9499,
+      "compression_ratio": 0.7381
+    },
+    {
+      "text": "小题比较简单吧?",
+      "start": 25.6,
+      "end": 27.6,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.9499,
+      "compression_ratio": 0.7381
+    },
+    {
+      "text": "来三",
+      "start": 30.0,
+      "end": 44.58,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2517,
+      "compression_ratio": 1.0299
+    },
+    {
+      "text": "二",
+      "start": 44.58,
+      "end": 46.3,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2517,
+      "compression_ratio": 1.0299
+    },
+    {
+      "text": "一",
+      "start": 46.3,
+      "end": 48.16,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2517,
+      "compression_ratio": 1.0299
+    },
+    {
+      "text": "停止答题",
+      "start": 48.16,
+      "end": 49.36,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2517,
+      "compression_ratio": 1.0299
+    },
+    {
+      "text": "对",
+      "start": 49.36,
+      "end": 51.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2517,
+      "compression_ratio": 1.0299
+    },
+    {
+      "text": "这其实从第三个空切入更简单一些",
+      "start": 51.56,
+      "end": 54.44,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2517,
+      "compression_ratio": 1.0299
+    },
+    {
+      "text": "当然第一空也可以看一看",
+      "start": 54.44,
+      "end": 56.2,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2517,
+      "compression_ratio": 1.0299
+    },
+    {
+      "text": "他说在漫长的发展历史中",
+      "start": 56.2,
+      "end": 58.54,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2517,
+      "compression_ratio": 1.0299
+    },
+    {
+      "text": "二十四节气",
+      "start": 58.54,
+      "end": 59.74,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1576,
+      "compression_ratio": 1.4022
+    },
+    {
+      "text": "这个话题",
+      "start": 59.74,
+      "end": 60.64,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1576,
+      "compression_ratio": 1.4022
+    },
+    {
+      "text": "好像是我们的飞夷",
+      "start": 60.64,
+      "end": 62.519999999999996,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1576,
+      "compression_ratio": 1.4022
+    },
+    {
+      "text": "说已经成为中华民族共有的",
+      "start": 62.519999999999996,
+      "end": 65.82,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1576,
+      "compression_ratio": 1.4022
+    },
+    {
+      "text": "认知文化系统怎么样着",
+      "start": 65.82,
+      "end": 68.42,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1576,
+      "compression_ratio": 1.4022
+    },
+    {
+      "text": "中国各民族人民的人民的伦理情感",
+      "start": 68.42,
+      "end": 72.46,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1576,
+      "compression_ratio": 1.4022
+    },
+    {
+      "text": "伦理情感",
+      "start": 72.46,
+      "end": 73.74,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1576,
+      "compression_ratio": 1.4022
+    },
+    {
+      "text": "生命意识",
+      "start": 73.74,
+      "end": 74.82,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1576,
+      "compression_ratio": 1.4022
+    },
+    {
+      "text": "审美情绪和信仰",
+      "start": 74.82,
+      "end": 76.48,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1576,
+      "compression_ratio": 1.4022
+    },
+    {
+      "text": "那你看前面其实已经提醒你了",
+      "start": 76.48,
+      "end": 78.34,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1576,
+      "compression_ratio": 1.4022
+    },
+    {
+      "text": "这是共有的吧",
+      "start": 78.34,
+      "end": 79.8,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1576,
+      "compression_ratio": 1.4022
+    },
+    {
+      "text": "那共有来到选项",
+      "start": 79.8,
+      "end": 81.18,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1576,
+      "compression_ratio": 1.4022
+    },
+    {
+      "text": "你看一下",
+      "start": 81.18,
+      "end": 81.68,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1576,
+      "compression_ratio": 1.4022
+    },
+    {
+      "text": "我说宁洁来宁洁啥意思来着",
+      "start": 81.68,
+      "end": 84.64,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1576,
+      "compression_ratio": 1.4022
+    },
+    {
+      "text": "再回忆一下宁洁",
+      "start": 84.64,
+      "end": 85.64,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1576,
+      "compression_ratio": 1.4022
+    },
+    {
+      "text": "如果从第一空排的话宁洁",
+      "start": 85.64,
+      "end": 87.34,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1576,
+      "compression_ratio": 1.4022
+    },
+    {
+      "text": "是不是又是那个例子呀",
+      "start": 87.34,
+      "end": 89.96000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0994,
+      "compression_ratio": 1.4981
+    },
+    {
+      "text": "这个讲义凝结着我背后的心血",
+      "start": 89.96000000000001,
+      "end": 93.3,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0994,
+      "compression_ratio": 1.4981
+    },
+    {
+      "text": "具体凝结着抽象的心血",
+      "start": 93.3,
+      "end": 95.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0994,
+      "compression_ratio": 1.4981
+    },
+    {
+      "text": "是吧",
+      "start": 95.5,
+      "end": 97.92,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0994,
+      "compression_ratio": 1.4981
+    },
+    {
+      "text": "所以把这样个例子记下来",
+      "start": 97.92,
+      "end": 99.64,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0994,
+      "compression_ratio": 1.4981
+    },
+    {
+      "text": "具体的凝结着抽象的这样的心血",
+      "start": 99.64,
+      "end": 102.66,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0994,
+      "compression_ratio": 1.4981
+    },
+    {
+      "text": "你说后面是情感啊",
+      "start": 102.66,
+      "end": 104.14,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0994,
+      "compression_ratio": 1.4981
+    },
+    {
+      "text": "意识啊",
+      "start": 104.14,
+      "end": 104.64,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0994,
+      "compression_ratio": 1.4981
+    },
+    {
+      "text": "情绪啊",
+      "start": 104.64,
+      "end": 105.16,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0994,
+      "compression_ratio": 1.4981
+    },
+    {
+      "text": "信仰啊",
+      "start": 105.16,
+      "end": 105.58000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0994,
+      "compression_ratio": 1.4981
+    },
+    {
+      "text": "有点抽象",
+      "start": 105.58000000000001,
+      "end": 106.10000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0994,
+      "compression_ratio": 1.4981
+    },
+    {
+      "text": "那你先放着也行",
+      "start": 106.10000000000001,
+      "end": 107.36,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0994,
+      "compression_ratio": 1.4981
+    },
+    {
+      "text": "那B的聚集呢",
+      "start": 107.36,
+      "end": 108.9,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0994,
+      "compression_ratio": 1.4981
+    },
+    {
+      "text": "聚集更多是这种空间",
+      "start": 108.9,
+      "end": 110.74000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0994,
+      "compression_ratio": 1.4981
+    },
+    {
+      "text": "物理一层面的吧",
+      "start": 110.74000000000001,
+      "end": 112.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0994,
+      "compression_ratio": 1.4981
+    },
+    {
+      "text": "比如说人聚在一起",
+      "start": 112.0,
+      "end": 113.54,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0994,
+      "compression_ratio": 1.4981
+    },
+    {
+      "text": "事物聚集在一起",
+      "start": 113.54,
+      "end": 114.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0994,
+      "compression_ratio": 1.4981
+    },
+    {
+      "text": "产业聚集在一起",
+      "start": 114.72,
+      "end": 116.4,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0994,
+      "compression_ratio": 1.4981
+    },
+    {
+      "text": "更多是空间物理层面",
+      "start": 116.4,
+      "end": 118.58000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1414,
+      "compression_ratio": 1.4532
+    },
+    {
+      "text": "这个不太行",
+      "start": 118.58000000000001,
+      "end": 119.98,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1414,
+      "compression_ratio": 1.4532
+    },
+    {
+      "text": "可以吧可以抬",
+      "start": 119.98,
+      "end": 121.66000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1414,
+      "compression_ratio": 1.4532
+    },
+    {
+      "text": "来C凝聚",
+      "start": 121.66000000000001,
+      "end": 123.44000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1414,
+      "compression_ratio": 1.4532
+    },
+    {
+      "text": "凝聚人心凝聚合力",
+      "start": 123.44000000000001,
+      "end": 125.24000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1414,
+      "compression_ratio": 1.4532
+    },
+    {
+      "text": "你说老师这也没有合力啊",
+      "start": 125.24000000000001,
+      "end": 126.66000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1414,
+      "compression_ratio": 1.4532
+    },
+    {
+      "text": "但是你看人家不是说共有的",
+      "start": 126.66000000000001,
+      "end": 128.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1414,
+      "compression_ratio": 1.4532
+    },
+    {
+      "text": "共同的吗",
+      "start": 128.72,
+      "end": 129.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1414,
+      "compression_ratio": 1.4532
+    },
+    {
+      "text": "而且后面也是说",
+      "start": 129.72,
+      "end": 130.9,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1414,
+      "compression_ratio": 1.4532
+    },
+    {
+      "text": "是增强中华民族共同体意识的一个什么",
+      "start": 130.9,
+      "end": 134.70000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1414,
+      "compression_ratio": 1.4532
+    },
+    {
+      "text": "年合计",
+      "start": 134.70000000000002,
+      "end": 135.70000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1414,
+      "compression_ratio": 1.4532
+    },
+    {
+      "text": "是合在一起了呀",
+      "start": 135.70000000000002,
+      "end": 136.9,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1414,
+      "compression_ratio": 1.4532
+    },
+    {
+      "text": "所以凝聚非常好",
+      "start": 136.9,
+      "end": 138.64000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1414,
+      "compression_ratio": 1.4532
+    },
+    {
+      "text": "来再看一下",
+      "start": 138.64000000000001,
+      "end": 139.4,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1414,
+      "compression_ratio": 1.4532
+    },
+    {
+      "text": "有没有学选D的",
+      "start": 139.4,
+      "end": 140.64000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1414,
+      "compression_ratio": 1.4532
+    },
+    {
+      "text": "说这个年合",
+      "start": 140.64000000000001,
+      "end": 142.20000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1414,
+      "compression_ratio": 1.4532
+    },
+    {
+      "text": "老师后面有一个年合计",
+      "start": 142.20000000000002,
+      "end": 143.96,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1414,
+      "compression_ratio": 1.4532
+    },
+    {
+      "text": "那你也是片面对应的",
+      "start": 143.96,
+      "end": 145.98000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1414,
+      "compression_ratio": 1.4532
+    },
+    {
+      "text": "有点片面",
+      "start": 145.98,
+      "end": 146.78,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1277,
+      "compression_ratio": 1.5308
+    },
+    {
+      "text": "是不是",
+      "start": 146.78,
+      "end": 148.38,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1277,
+      "compression_ratio": 1.5308
+    },
+    {
+      "text": "所以其实也可以排一下",
+      "start": 148.38,
+      "end": 150.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1277,
+      "compression_ratio": 1.5308
+    },
+    {
+      "text": "当然排不了",
+      "start": 150.0,
+      "end": 150.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1277,
+      "compression_ratio": 1.5308
+    },
+    {
+      "text": "你也可以往后看一看",
+      "start": 150.72,
+      "end": 151.79999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1277,
+      "compression_ratio": 1.5308
+    },
+    {
+      "text": "看一下第二个空",
+      "start": 151.79999999999998,
+      "end": 152.54,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1277,
+      "compression_ratio": 1.5308
+    },
+    {
+      "text": "说什么和年和记",
+      "start": 152.54,
+      "end": 154.42,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1277,
+      "compression_ratio": 1.5308
+    },
+    {
+      "text": "你得体现它是年和的这样的关系",
+      "start": 154.42,
+      "end": 156.7,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1277,
+      "compression_ratio": 1.5308
+    },
+    {
+      "text": "那年和的关系",
+      "start": 156.7,
+      "end": 157.95999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1277,
+      "compression_ratio": 1.5308
+    },
+    {
+      "text": "你看情感的纽带",
+      "start": 157.95999999999998,
+      "end": 159.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1277,
+      "compression_ratio": 1.5308
+    },
+    {
+      "text": "前面不就是说伦理情感",
+      "start": 159.88,
+      "end": 161.66,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1277,
+      "compression_ratio": 1.5308
+    },
+    {
+      "text": "意识情趣信仰",
+      "start": 161.66,
+      "end": 163.28,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1277,
+      "compression_ratio": 1.5308
+    },
+    {
+      "text": "情感的纽带",
+      "start": 163.28,
+      "end": 164.48,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1277,
+      "compression_ratio": 1.5308
+    },
+    {
+      "text": "有这样的紧密的关联吗",
+      "start": 164.48,
+      "end": 165.98,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1277,
+      "compression_ratio": 1.5308
+    },
+    {
+      "text": "桥梁是连通的",
+      "start": 165.98,
+      "end": 168.62,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1277,
+      "compression_ratio": 1.5308
+    },
+    {
+      "text": "枢纽交通枢纽",
+      "start": 168.62,
+      "end": 170.35999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1277,
+      "compression_ratio": 1.5308
+    },
+    {
+      "text": "一般是交通枢纽说的更多一些",
+      "start": 170.35999999999999,
+      "end": 172.48,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1277,
+      "compression_ratio": 1.5308
+    },
+    {
+      "text": "当然你说老师",
+      "start": 172.48,
+      "end": 173.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1277,
+      "compression_ratio": 1.5308
+    },
+    {
+      "text": "第二空我感觉差不多",
+      "start": 173.5,
+      "end": 174.6,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1277,
+      "compression_ratio": 1.5308
+    },
+    {
+      "text": "那看第三个空",
+      "start": 174.6,
+      "end": 175.48,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1277,
+      "compression_ratio": 1.5308
+    },
+    {
+      "text": "第三空排起来更快",
+      "start": 175.48,
+      "end": 177.04,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1339,
+      "compression_ratio": 1.45
+    },
+    {
+      "text": "他说24节气中怎么着",
+      "start": 177.04,
+      "end": 179.26,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1339,
+      "compression_ratio": 1.45
+    },
+    {
+      "text": "尊重自然",
+      "start": 179.26,
+      "end": 180.28,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1339,
+      "compression_ratio": 1.45
+    },
+    {
+      "text": "效法自然",
+      "start": 180.28,
+      "end": 181.04,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1339,
+      "compression_ratio": 1.45
+    },
+    {
+      "text": "爱护自然",
+      "start": 181.04,
+      "end": 181.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1339,
+      "compression_ratio": 1.45
+    },
+    {
+      "text": "利用自然",
+      "start": 181.84,
+      "end": 182.64,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1339,
+      "compression_ratio": 1.45
+    },
+    {
+      "text": "辅助自然",
+      "start": 182.64,
+      "end": 183.48,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1339,
+      "compression_ratio": 1.45
+    },
+    {
+      "text": "那怎么着呢",
+      "start": 183.48,
+      "end": 184.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1339,
+      "compression_ratio": 1.45
+    },
+    {
+      "text": "不就是24节气中",
+      "start": 184.56,
+      "end": 186.42,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1339,
+      "compression_ratio": 1.45
+    },
+    {
+      "text": "他有这样一些天人合一的思想",
+      "start": 186.42,
+      "end": 189.1,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1339,
+      "compression_ratio": 1.45
+    },
+    {
+      "text": "那有这样的思想来看一下",
+      "start": 189.1,
+      "end": 191.14,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1339,
+      "compression_ratio": 1.45
+    },
+    {
+      "text": "是不是就蕴含包含有啊",
+      "start": 191.14,
+      "end": 193.54,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1339,
+      "compression_ratio": 1.45
+    },
+    {
+      "text": "选字对很好",
+      "start": 193.54,
+      "end": 194.92,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1339,
+      "compression_ratio": 1.45
+    },
+    {
+      "text": "你看其他几个词",
+      "start": 194.92,
+      "end": 196.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1339,
+      "compression_ratio": 1.45
+    },
+    {
+      "text": "蕴藏藏了吗",
+      "start": 196.0,
+      "end": 197.66,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1339,
+      "compression_ratio": 1.45
+    },
+    {
+      "text": "没说我藏起来",
+      "start": 197.66,
+      "end": 199.07999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1339,
+      "compression_ratio": 1.45
+    },
+    {
+      "text": "隐藏没说我藏起来不给你看",
+      "start": 199.07999999999998,
+      "end": 201.04,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1339,
+      "compression_ratio": 1.45
+    },
+    {
+      "text": "四地暗藏也没藏啊",
+      "start": 201.04,
+      "end": 203.07999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1339,
+      "compression_ratio": 1.45
+    },
+    {
+      "text": "所以你不能自己在那想",
+      "start": 203.07999999999998,
+      "end": 204.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1339,
+      "compression_ratio": 1.45
+    },
+    {
+      "text": "我偷偷摸的",
+      "start": 204.56,
+      "end": 205.62,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1044,
+      "compression_ratio": 1.4108
+    },
+    {
+      "text": "我藏起来",
+      "start": 205.62,
+      "end": 206.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1044,
+      "compression_ratio": 1.4108
+    },
+    {
+      "text": "人家只是蕴含",
+      "start": 206.32,
+      "end": 207.8,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1044,
+      "compression_ratio": 1.4108
+    },
+    {
+      "text": "只是包含",
+      "start": 207.8,
+      "end": 208.8,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1044,
+      "compression_ratio": 1.4108
+    },
+    {
+      "text": "对",
+      "start": 208.8,
+      "end": 209.02,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1044,
+      "compression_ratio": 1.4108
+    },
+    {
+      "text": "是蕴",
+      "start": 209.02,
+      "end": 210.12,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1044,
+      "compression_ratio": 1.4108
+    },
+    {
+      "text": "是内部含有的",
+      "start": 210.12,
+      "end": 211.6,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1044,
+      "compression_ratio": 1.4108
+    },
+    {
+      "text": "是深层次的",
+      "start": 211.6,
+      "end": 212.48,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1044,
+      "compression_ratio": 1.4108
+    },
+    {
+      "text": "是精华的部分",
+      "start": 212.48,
+      "end": 213.52,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1044,
+      "compression_ratio": 1.4108
+    },
+    {
+      "text": "所以C非常好",
+      "start": 213.52,
+      "end": 215.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1044,
+      "compression_ratio": 1.4108
+    },
+    {
+      "text": "另外刚刚有同学说",
+      "start": 215.88,
+      "end": 217.12,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1044,
+      "compression_ratio": 1.4108
+    },
+    {
+      "text": "老师我是从这个技巧层面",
+      "start": 217.12,
+      "end": 219.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1044,
+      "compression_ratio": 1.4108
+    },
+    {
+      "text": "把这个词拆了一下",
+      "start": 219.06,
+      "end": 220.58,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1044,
+      "compression_ratio": 1.4108
+    },
+    {
+      "text": "其实也是之前我们所说的",
+      "start": 220.58,
+      "end": 222.24,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1044,
+      "compression_ratio": 1.4108
+    },
+    {
+      "text": "A且B的这样的技巧",
+      "start": 222.24,
+      "end": 223.46,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1044,
+      "compression_ratio": 1.4108
+    },
+    {
+      "text": "但是A且B的这样的技巧",
+      "start": 223.46,
+      "end": 225.12,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1044,
+      "compression_ratio": 1.4108
+    },
+    {
+      "text": "不是百发百中的",
+      "start": 225.12,
+      "end": 226.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1044,
+      "compression_ratio": 1.4108
+    },
+    {
+      "text": "大概正确率可能是90%左右",
+      "start": 226.5,
+      "end": 228.86,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1044,
+      "compression_ratio": 1.4108
+    },
+    {
+      "text": "如果你用这个技巧来蒙拆的话",
+      "start": 228.86,
+      "end": 230.48000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1044,
+      "compression_ratio": 1.4108
+    },
+    {
+      "text": "怎么来用呢",
+      "start": 230.48000000000002,
+      "end": 231.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1044,
+      "compression_ratio": 1.4108
+    },
+    {
+      "text": "比如说凝聚",
+      "start": 231.56,
+      "end": 232.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1044,
+      "compression_ratio": 1.4108
+    },
+    {
+      "text": "我来给他拆一下",
+      "start": 232.56,
+      "end": 233.58,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1044,
+      "compression_ratio": 1.4108
+    },
+    {
+      "text": "他作为正确单的概率更高一些",
+      "start": 233.58,
+      "end": 235.86,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1994,
+      "compression_ratio": 1.5413
+    },
+    {
+      "text": "为什么",
+      "start": 235.86,
+      "end": 236.24,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1994,
+      "compression_ratio": 1.5413
+    },
+    {
+      "text": "比如我看一下",
+      "start": 236.24,
+      "end": 237.60000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1994,
+      "compression_ratio": 1.5413
+    },
+    {
+      "text": "凝",
+      "start": 237.60000000000002,
+      "end": 238.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1994,
+      "compression_ratio": 1.5413
+    },
+    {
+      "text": "我组个词",
+      "start": 238.06,
+      "end": 239.3,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1994,
+      "compression_ratio": 1.5413
+    },
+    {
+      "text": "组成什么",
+      "start": 239.3,
+      "end": 240.12,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1994,
+      "compression_ratio": 1.5413
+    },
+    {
+      "text": "组成凝结",
+      "start": 240.12,
+      "end": 241.42000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1994,
+      "compression_ratio": 1.5413
+    },
+    {
+      "text": "然后聚呢",
+      "start": 241.42000000000002,
+      "end": 243.02,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1994,
+      "compression_ratio": 1.5413
+    },
+    {
+      "text": "我组个词",
+      "start": 243.02,
+      "end": 244.04000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1994,
+      "compression_ratio": 1.5413
+    },
+    {
+      "text": "聚集",
+      "start": 244.04000000000002,
+      "end": 245.10000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1994,
+      "compression_ratio": 1.5413
+    },
+    {
+      "text": "是不是他作为正确单的概率",
+      "start": 245.10000000000002,
+      "end": 247.12,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1994,
+      "compression_ratio": 1.5413
+    },
+    {
+      "text": "可能性是更高一些的",
+      "start": 247.12,
+      "end": 248.76000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1994,
+      "compression_ratio": 1.5413
+    },
+    {
+      "text": "你可以猜一下",
+      "start": 248.76000000000002,
+      "end": 249.9,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1994,
+      "compression_ratio": 1.5413
+    },
+    {
+      "text": "但是不能保证全都对",
+      "start": 249.9,
+      "end": 252.20000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1994,
+      "compression_ratio": 1.5413
+    },
+    {
+      "text": "你可以猜一下",
+      "start": 252.20000000000002,
+      "end": 253.3,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1994,
+      "compression_ratio": 1.5413
+    },
+    {
+      "text": "行",
+      "start": 253.3,
+      "end": 254.76000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1994,
+      "compression_ratio": 1.5413
+    },
+    {
+      "text": "来这是我们的第三题",
+      "start": 254.76000000000002,
+      "end": 257.08000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1994,
+      "compression_ratio": 1.5413
+    },
+    {
+      "text": "记得看一下第四题",
+      "start": 257.08000000000004,
+      "end": 259.14,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1994,
+      "compression_ratio": 1.5413
+    },
+    {
+      "text": "来第四题这要起",
+      "start": 259.14,
+      "end": 260.92,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1994,
+      "compression_ratio": 1.5413
+    },
+    {
+      "text": "难度是有点逐渐升级",
+      "start": 260.92,
+      "end": 264.24,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2098,
+      "compression_ratio": 1.1649
+    },
+    {
+      "text": "都照期啊",
+      "start": 264.24,
+      "end": 265.16,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2098,
+      "compression_ratio": 1.1649
+    },
+    {
+      "text": "看一下好好看一下",
+      "start": 265.16,
+      "end": 266.38,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2098,
+      "compression_ratio": 1.1649
+    },
+    {
+      "text": "来刚好一会儿说老师",
+      "start": 266.38,
+      "end": 279.96000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2098,
+      "compression_ratio": 1.1649
+    },
+    {
+      "text": "那我用A且B运藏也行啊",
+      "start": 279.96000000000004,
+      "end": 282.26,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2098,
+      "compression_ratio": 1.1649
+    },
+    {
+      "text": "所以他就是那10%不行的情况",
+      "start": 282.26,
+      "end": 284.86,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2098,
+      "compression_ratio": 1.1649
+    },
+    {
+      "text": "懂了吗",
+      "start": 284.86,
+      "end": 285.42,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2098,
+      "compression_ratio": 1.1649
+    },
+    {
+      "text": "他不是100%都对的",
+      "start": 285.42,
+      "end": 287.16,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2098,
+      "compression_ratio": 1.1649
+    },
+    {
+      "text": "他没有体现藏",
+      "start": 287.16,
+      "end": 288.54,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2098,
+      "compression_ratio": 1.1649
+    },
+    {
+      "text": "那你也不行",
+      "start": 288.54,
+      "end": 289.22,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2098,
+      "compression_ratio": 1.1649
+    },
+    {
+      "text": "只能说这个技巧能帮助你优先验证",
+      "start": 289.22,
+      "end": 291.96000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0878,
+      "compression_ratio": 1.0657
+    },
+    {
+      "text": "可以吧",
+      "start": 291.96000000000004,
+      "end": 293.20000000000005,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0878,
+      "compression_ratio": 1.0657
+    },
+    {
+      "text": "不是所有的都能够用A写B",
+      "start": 293.20000000000005,
+      "end": 295.68,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0878,
+      "compression_ratio": 1.0657
+    },
+    {
+      "text": "它只是一个蒙猜技巧",
+      "start": 295.68,
+      "end": 297.48,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0878,
+      "compression_ratio": 1.0657
+    },
+    {
+      "text": "不能保证你百分之百全对",
+      "start": 297.48,
+      "end": 299.82000000000005,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0878,
+      "compression_ratio": 1.0657
+    }
+  ],
+  "repairs": [],
+  "index": 11,
+  "start": 3300.0,
+  "duration": 300,
+  "elapsed": 33.0,
+  "ok": true,
+  "initial_prompt": "四海公考，公务员考试，言语理解与表达，逻辑填空，高频实词，成语辨析，语义侧重，感情色彩，搭配对象，适用语境，易混词，例句。简体中文。课件词条：凝结，代表，反映，桥梁，纽带，缩影，典型。"
+}

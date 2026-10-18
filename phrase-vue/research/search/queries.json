@@ -1,0 +1,102 @@
+[
+    {
+        "id": "q001",
+        "word": "既往开来",
+        "query": "\"既往开来\" 还是 \"继往开来\" 正确写法 误用",
+        "created_at": "2026-10-18",
+        "results": [
+            {
+                "title": "人民日报总编室汇总的易错字",
+                "url": "https://m.thepaper.cn/baijiahao_13622068",
+                "snippet": "继、既、即：继(既)往开来：继，继承。继承前人的事业，开辟未来的道路。"
+            },
+            {
+                "title": "比眼力来挑错（第十九弹）",
+                "url": "https://tougao.12371.cn/forum.php?mod=viewthread&tid=4669045",
+                "snippet": "「既往开来」应为「继往开来」"
+            }
+        ],
+        "decision": "判定为「继往开来」的误写：既往为名词，不能与开来对偶；采纳易错字指南表述作为异形依据。",
+        "used_for": "lexical_status"
+    },
+    {
+        "id": "q002",
+        "word": "雕梁画柱",
+        "query": "\"雕梁画柱\" 还是 \"雕梁画栋\" 正确写法",
+        "created_at": "2026-10-18",
+        "results": [
+            {
+                "title": "教育部《成语典》雕梁画栋",
+                "url": "https://dict.idioms.moe.edu.tw/idiomView.jsp?ID=14890&webMd=1&la=0",
+                "snippet": "也作「雕梁畫柱」、「畫棟雕梁」、「畫梁雕棟」。"
+            },
+            {
+                "title": "汉典 雕梁画栋",
+                "url": "https://www.zdic.net/hant/%E9%9B%95%E6%A2%81%E7%95%AB%E6%A3%9F",
+                "snippet": "國語辭典：有彩绘雕刻的梁柱。用来形容建筑物的富丽堂皇。也作「雕梁画柱」。"
+            }
+        ],
+        "decision": "判定为「雕梁画栋」的或体写法，不是错字；不得据 404 判为无效词。",
+        "used_for": "lexical_status"
+    },
+    {
+        "id": "q003",
+        "word": "沉渣泛起",
+        "query": "沉渣泛起 成语 释义 出处 比喻",
+        "created_at": "2026-10-18",
+        "results": [
+            {
+                "title": "好查汉语词典 沉渣泛起",
+                "url": "https://www.hao86.com/ciyu_view_9d1ed943ac9d1ed9/",
+                "snippet": "拼音 chén zhā fàn qǐ。释义：已经沉到水底的渣滓又漂浮了起来。比喻已经绝迹了的腐朽、陈旧事物又重新出现。"
+            },
+            {
+                "title": "百度百科 沉滓泛起",
+                "url": "https://baike.baidu.com/view/699275.html",
+                "snippet": "沉滓泛起，汉语成语，拼音是 chén zǐ fàn qǐ，比喻已经消失的旧事物又重新表现出来。出自《二心集 沉滓的泛起》。"
+            }
+        ],
+        "decision": "判定为成语，另有或体「沉滓泛起」（鲁迅文题用字）；拼音与释义采用词典直述，未采用搜索结果中的出处推断。",
+        "used_for": "lexical_status"
+    },
+    {
+        "id": "q004",
+        "word": "一叶障目",
+        "query": "一叶障目 拼音 释义 出处 成语",
+        "created_at": "2026-10-18",
+        "results": [
+            {
+                "title": "维基词典 一叶障目",
+                "url": "https://zh.wiktionary.org/zh-hant/%E4%B8%80%E8%91%89%E9%9A%9C%E7%9B%AE",
+                "snippet": "官話（拼音）：yīyèzhàngmù（注音）：ㄧ ㄧㄝˋ ㄓㄤˋ ㄇㄨˋ。成語：（比喻義）為局部或暫時的現象所迷惑，無法認清全面或根本的問題。"
+            },
+            {
+                "title": "汉典 一叶障目（词条摘要）",
+                "url": "https://www.zdic.net/hans/%E4%B8%80%E5%8F%B6%E9%9A%9C%E7%9B%AE",
+                "snippet": "拼音 yī yè zhàng mù 注音 ㄧ ㄧㄝˋ ㄓㄤˋ ㄇㄨˋ。解释：眼睛被一片树叶挡住，指看不到事物的全貌。出处 毛泽东《论持久战》。"
+            }
+        ],
+        "decision": "汉典该页只有成语简表、无结构化拼音字段；读音与释义按汉典摘要补录，未采信「出处《鹖冠子》」与「出处毛泽东」两种说法中的任一种，故 origin 留空。",
+        "used_for": "readings"
+    },
+    {
+        "id": "q005",
+        "word": "互为表里",
+        "query": "互为表里 拼音 释义 出处 成语",
+        "created_at": "2026-10-18",
+        "results": [
+            {
+                "title": "中华字典 互为表里",
+                "url": "https://www.zhzidian.com/chengyu/022TK6432023.html",
+                "snippet": "成语读音 hù wéi biǎo lǐ。成语意思解释：甲为乙的外表；乙为甲的内里；乙为甲的外表；甲为乙的内里。比喻互相依存；互相接受。成语出处 晋 陈寿《三国志 董允传》。"
+            },
+            {
+                "title": "百度百科 互为表里",
+                "url": "https://baike.baidu.com/item/%E4%BA%92%E4%B8%BA%E8%A1%A8%E9%87%8C",
+                "snippet": "拼音 hù wéi biǎo lǐ。释义：指甲为乙的外表，乙为甲的内里，比喻互相依存，互相接受。出处《三国志·董允传》。"
+            }
+        ],
+        "decision": "读音与释义按中华字典补录，百度百科摘要作为同向核对；两者出处一致，但因汉典页面无该字段，卡片 `origin` 仍按来源政策留空。",
+        "used_for": "readings"
+    }
+]

@@ -1,0 +1,75 @@
+{
+    "word": "和衷共济",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%92%8C%E8%A1%B7%E5%85%B1%E6%B5%8E",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "69b20c4c70e4c154c652c67233067ef861382c5d031efd6fcaa1415f00687438",
+        "bytes": 28063
+    },
+    "parsed": {
+        "found": true,
+        "word": "和衷共济",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "hé",
+                "zhōng",
+                "gòng",
+                "jì"
+            ],
+            "zhuyin": [
+                "ㄏㄜˊ",
+                "ㄓㄨㄥ",
+                "ㄍㄨㄥˋ",
+                "ㄐㄧˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "同心协力，共同克服困难。",
+                "citations": [
+                    {
+                        "text": "在陛下渊衷，以方谕大臣和衷共济，恐宪臣戆直，奏对之际，复生异同。",
+                        "source": "明·陈子龙《论召对内降疏》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "在陛下渊衷，以方谕大臣和衷共济，恐宪臣戆直，奏对之际，复生异同。",
+                "source": "明·陈子龙《论召对内降疏》"
+            }
+        ],
+        "synonyms": [
+            "齐心协力",
+            "风雨同舟",
+            "同甘共苦",
+            "同心同德",
+            "同心协力",
+            "同舟共济"
+        ],
+        "antonyms": [
+            "貌合神离",
+            "分崩离析",
+            "同床异梦",
+            "同室操戈",
+            "离心离德",
+            "尔虞我诈"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "work together with one heart"
+    },
+    "blocks": {
+        "reading": "hé zhōng gòng jì",
+        "sense-1": "同心协力，共同克服困难。",
+        "citation-1": "在陛下渊衷，以方谕大臣和衷共济，恐宪臣戆直，奏对之际，复生异同。 — 明·陈子龙《论召对内降疏》",
+        "synonyms": "齐心协力、风雨同舟、同甘共苦、同心同德、同心协力、同舟共济",
+        "antonyms": "貌合神离、分崩离析、同床异梦、同室操戈、离心离德、尔虞我诈"
+    }
+}

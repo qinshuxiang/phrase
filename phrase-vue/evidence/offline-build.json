@@ -1,0 +1,32 @@
+{
+    "passed": true,
+    "output": "/Users/siluhao/Downloads/ChatGPT/phrase/phrase-vue/offline/行测学习-离线版.html",
+    "bytes": 51274682,
+    "sha256": "af7c540b38872945e0f94c0868f8240689d9cea252e721fe308523e42b746d4f",
+    "stats": {
+        "files": 24,
+        "groups": 123,
+        "words": 1037,
+        "teachers": 4
+    },
+    "inline_scripts": 1,
+    "inline_styles": 1,
+    "embedded_font_faces": 6,
+    "embedded_exam": {
+        "shards": 11,
+        "questions": 6577,
+        "embedded_bytes": 5118629
+    },
+    "embedded_study": {
+        "papers": 46,
+        "questions": 6020,
+        "verified": 3497,
+        "pending": 2522,
+        "missing": 1,
+        "missingAnalysis": 1226,
+        "images": 986,
+        "embedded_bytes": 41200839
+    },
+    "external_assets": 0,
+    "data_sha256": "f967870bbc2e1950874dcc1c21eeab84b7253a8e13a96fc215422167b08e0627"
+}

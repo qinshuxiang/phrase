@@ -1,0 +1,66 @@
+{
+    "word": "矢志不渝",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%9F%A2%E5%BF%97%E4%B8%8D%E6%B8%9D",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "9c64c311e2ed0b092a4729b0522ee572b498d154c09b4ed82024996474da2faa",
+        "bytes": 24383
+    },
+    "parsed": {
+        "found": true,
+        "word": "矢志不渝",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shǐ",
+                "zhì",
+                "bù",
+                "yú"
+            ],
+            "zhuyin": [
+                "ㄕˇ",
+                "ㄓˋ",
+                "ㄅㄨˋ",
+                "ㄩˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "立下志愿绝不改变。",
+                "citations": [
+                    {
+                        "text": "安虽受朝寄，然东山之志始末不渝，每形于言色。",
+                        "source": "唐·房玄龄《晋书·谢安传》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "安虽受朝寄，然东山之志始末不渝，每形于言色。",
+                "source": "唐·房玄龄《晋书·谢安传》"
+            }
+        ],
+        "synonyms": [
+            "矢志不移"
+        ],
+        "antonyms": [
+            "朝三暮四",
+            "见异思迁"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "vow unswervingly"
+    },
+    "blocks": {
+        "reading": "shǐ zhì bù yú",
+        "sense-1": "立下志愿绝不改变。",
+        "citation-1": "安虽受朝寄，然东山之志始末不渝，每形于言色。 — 唐·房玄龄《晋书·谢安传》",
+        "synonyms": "矢志不移",
+        "antonyms": "朝三暮四、见异思迁"
+    }
+}

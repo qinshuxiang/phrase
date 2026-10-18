@@ -1,0 +1,57 @@
+{
+    "word": "饮鸩止渴",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%A5%AE%E9%B8%A9%E6%AD%A2%E6%B8%B4",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "067187a56ea2036eba13b58de690a97ddde6ffa4092f7806026563992da301cd",
+        "bytes": 26411
+    },
+    "parsed": {
+        "found": true,
+        "word": "饮鸩止渴",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yǐn",
+                "zhèn",
+                "zhǐ",
+                "kě"
+            ],
+            "zhuyin": [
+                "ㄧㄣˇ",
+                "ㄓㄣˋ",
+                "ㄓˇ",
+                "ㄎㄜˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "喝毒酒来解渴。比喻只顾解决眼前困难而不考虑严重后果。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "饥不择食",
+            "急功近利",
+            "挖肉补疮",
+            "剜肉补疮"
+        ],
+        "antonyms": [
+            "从长计议"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "drink poison to quench thirst"
+    },
+    "blocks": {
+        "reading": "yǐn zhèn zhǐ kě",
+        "sense-1": "喝毒酒来解渴。比喻只顾解决眼前困难而不考虑严重后果。",
+        "synonyms": "饥不择食、急功近利、挖肉补疮、剜肉补疮",
+        "antonyms": "从长计议"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "word": "高瞻远瞩",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%AB%98%E7%9E%BB%E8%BF%9C%E7%9E%A9",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "2dea604cdc0bad3a66ac80a1716cf0f23de167cad7c48cc76b8b94ed38d3cd5e",
+        "bytes": 27174
+    },
+    "parsed": {
+        "found": true,
+        "word": "高瞻远瞩",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "gāo",
+                "zhān",
+                "yuǎn",
+                "zhǔ"
+            ],
+            "zhuyin": [
+                "ㄍㄠ",
+                "ㄓㄢ",
+                "ㄩㄢˇ",
+                "ㄓㄨˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容眼光远大，见识深远。",
+                "citations": [
+                    {
+                        "text": "善料敌者，亦必于事机之未露，兵衅之未开，高瞻远瞩，密访详稽，于彼国之一举一动，无不了了于心。",
+                        "source": "郑观应《盛世危言•防边》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "善料敌者，亦必于事机之未露，兵衅之未开，高瞻远瞩，密访详稽，于彼国之一举一动，无不了了于心。",
+                "source": "郑观应《盛世危言•防边》"
+            }
+        ],
+        "synonyms": [
+            "登高望远"
+        ],
+        "antonyms": [
+            "目光如豆",
+            "鼠目寸光"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "farsighted"
+    },
+    "blocks": {
+        "reading": "gāo zhān yuǎn zhǔ",
+        "sense-1": "形容眼光远大，见识深远。",
+        "citation-1": "善料敌者，亦必于事机之未露，兵衅之未开，高瞻远瞩，密访详稽，于彼国之一举一动，无不了了于心。 — 郑观应《盛世危言•防边》",
+        "synonyms": "登高望远",
+        "antonyms": "目光如豆、鼠目寸光"
+    }
+}

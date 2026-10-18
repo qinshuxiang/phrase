@@ -1,0 +1,17 @@
+# 大体积素材：视频原文件与打包快照不入库
+*.mp4
+*.zip
+
+# 系统与运行时
+.DS_Store
+__pycache__/
+视频/逐字稿/.venv/
+视频/逐字稿/_tools/models/
+
+# 前端构建产物与依赖（phrase-vue/.gitignore 已覆盖，此处显式声明）
+phrase-vue/node_modules/
+phrase-vue/dist/
+phrase-vue/offline/
+phrase-vue/test-results/
+phrase-vue/playwright-report/
+phrase-vue/research/cache/

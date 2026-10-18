@@ -1,0 +1,72 @@
+{
+    "word": "筚路蓝缕",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%AD%9A%E8%B7%AF%E8%93%9D%E7%BC%95",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "5f1d087b0aad7fe90e067645d8e1343a1d40d9e083e3fa220b44ad5c2f66bb73",
+        "bytes": 27999
+    },
+    "parsed": {
+        "found": true,
+        "word": "筚路蓝缕",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bì",
+                "lù",
+                "lán",
+                "lǚ"
+            ],
+            "zhuyin": [
+                "ㄅㄧˋ",
+                "ㄌㄨˋ",
+                "ㄌㄢˊ",
+                "ㄌㄩˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "驾着柴车，穿着破衣去开辟山林。形容创业艰辛。",
+                "citations": [
+                    {
+                        "text": "昔之人有筚簬篮缕而造邦者，有布衣帛冠而强国者。",
+                        "source": "宋·刘克庄《饶州新城记》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "昔之人有筚簬篮缕而造邦者，有布衣帛冠而强国者。",
+                "source": "宋·刘克庄《饶州新城记》"
+            }
+        ],
+        "synonyms": [
+            "荜路蓝缕",
+            "风餐露宿",
+            "寝苫枕块",
+            "栉风沐雨",
+            "胼手胝足",
+            "手足胼胝"
+        ],
+        "antonyms": [
+            "轻而易举",
+            "养尊处优",
+            "坐享其成"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "endure hardships in pioneering work"
+    },
+    "blocks": {
+        "reading": "bì lù lán lǚ",
+        "sense-1": "驾着柴车，穿着破衣去开辟山林。形容创业艰辛。",
+        "citation-1": "昔之人有筚簬篮缕而造邦者，有布衣帛冠而强国者。 — 宋·刘克庄《饶州新城记》",
+        "synonyms": "荜路蓝缕、风餐露宿、寝苫枕块、栉风沐雨、胼手胝足、手足胼胝",
+        "antonyms": "轻而易举、养尊处优、坐享其成"
+    }
+}

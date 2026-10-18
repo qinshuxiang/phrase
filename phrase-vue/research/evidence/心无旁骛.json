@@ -1,0 +1,43 @@
+{
+    "word": "心无旁骛",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%BF%83%E6%97%A0%E6%97%81%E9%AA%9B",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "2695070bd760bb53985486444e536f609fc9afe1d5ce8f9ab6dc43a9461db5c0",
+        "bytes": 20671
+    },
+    "parsed": {
+        "found": true,
+        "word": "心无旁骛",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "xīn",
+                "wú",
+                "páng",
+                "wù"
+            ],
+            "zhuyin": []
+        },
+        "senses": [
+            {
+                "definition": "心思专注，没有其他杂念。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "undivided attention"
+    },
+    "blocks": {
+        "reading": "xīn wú páng wù",
+        "sense-1": "心思专注，没有其他杂念。"
+    }
+}

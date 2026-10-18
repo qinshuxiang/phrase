@@ -1,0 +1,73 @@
+{
+    "word": "有条不紊",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%9C%89%E6%9D%A1%E4%B8%8D%E7%B4%8A",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "464c5263e0dce110bacd42f1a88622b1592790249f46daca1d9e14d55c01f402",
+        "bytes": 29121
+    },
+    "parsed": {
+        "found": true,
+        "word": "有条不紊",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yǒu",
+                "tiáo",
+                "bù",
+                "wěn"
+            ],
+            "zhuyin": [
+                "ㄧㄡˇ",
+                "ㄊㄧㄠˊ",
+                "ㄅㄨˋ",
+                "ㄨㄣˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "有条理、有次序而不杂乱。",
+                "citations": [
+                    {
+                        "text": "若网在纲，有条而不紊。",
+                        "source": "《尚书·盘庚上》"
+                    },
+                    {
+                        "text": "有条不紊，施缓政于繁绳；断讼有神，下高锋于错节。",
+                        "source": "唐·王勃《梓州玄武县福会寺碑》"
+                    }
+                ]
+            },
+            {
+                "definition": "形容处事有条理、不慌乱。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "若网在纲，有条而不紊。",
+                "source": "《尚书·盘庚上》"
+            },
+            {
+                "text": "有条不紊，施缓政于繁绳；断讼有神，下高锋于错节。",
+                "source": "唐·王勃《梓州玄武县福会寺碑》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "orderly"
+    },
+    "blocks": {
+        "reading": "yǒu tiáo bù wěn",
+        "sense-1": "有条理、有次序而不杂乱。",
+        "sense-2": "形容处事有条理、不慌乱。",
+        "citation-1": "若网在纲，有条而不紊。 — 《尚书·盘庚上》",
+        "citation-2": "有条不紊，施缓政于繁绳；断讼有神，下高锋于错节。 — 唐·王勃《梓州玄武县福会寺碑》"
+    }
+}

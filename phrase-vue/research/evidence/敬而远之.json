@@ -1,0 +1,68 @@
+{
+    "word": "敬而远之",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%95%AC%E8%80%8C%E8%BF%9C%E4%B9%8B",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "c20b7831837bb2e3f7ed62c8be12844a75d10792913830919edd0d969d8f529d",
+        "bytes": 26930
+    },
+    "parsed": {
+        "found": true,
+        "word": "敬而远之",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jìng",
+                "ér",
+                "yuǎn",
+                "zhī"
+            ],
+            "zhuyin": [
+                "ㄐㄧㄥˋ",
+                "ㄦˊ",
+                "ㄩㄢˇ",
+                "ㄓ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "表示尊敬但保持距离，不愿亲近。",
+                "citations": [
+                    {
+                        "text": "陈叔达问事鬼神之道。子曰：「敬而远之。",
+                        "source": "隋·王通《中说·天地》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "陈叔达问事鬼神之道。子曰：「敬而远之。",
+                "source": "隋·王通《中说·天地》"
+            }
+        ],
+        "synonyms": [
+            "敬若神明",
+            "若即若离"
+        ],
+        "antonyms": [
+            "平易近人",
+            "和蔼可亲",
+            "形影相随"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "keep at a respectful distance"
+    },
+    "blocks": {
+        "reading": "jìng ér yuǎn zhī",
+        "sense-1": "表示尊敬但保持距离，不愿亲近。",
+        "citation-1": "陈叔达问事鬼神之道。子曰：「敬而远之。 — 隋·王通《中说·天地》",
+        "synonyms": "敬若神明、若即若离",
+        "antonyms": "平易近人、和蔼可亲、形影相随"
+    }
+}

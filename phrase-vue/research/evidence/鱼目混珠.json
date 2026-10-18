@@ -1,0 +1,69 @@
+{
+    "word": "鱼目混珠",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%B1%BC%E7%9B%AE%E6%B7%B7%E7%8F%A0",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "bcc9a8155a708e0a5eb9e33ef169eab48344b62731c70acab76a0f5654a30233",
+        "bytes": 27224
+    },
+    "parsed": {
+        "found": true,
+        "word": "鱼目混珠",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yú",
+                "mù",
+                "hùn",
+                "zhū"
+            ],
+            "zhuyin": [
+                "ㄩˊ",
+                "ㄇㄨˋ",
+                "ㄏㄨㄣˋ",
+                "ㄓㄨ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "用鱼眼冒充珍珠，比喻以假乱真。",
+                "citations": [
+                    {
+                        "text": "蝘蜓嘲龙，鱼目混珍。",
+                        "source": "唐·李白《鸣皋歌送岑徵君》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "蝘蜓嘲龙，鱼目混珍。",
+                "source": "唐·李白《鸣皋歌送岑徵君》"
+            }
+        ],
+        "synonyms": [
+            "以假乱真",
+            "冒名顶替",
+            "滥竽充数"
+        ],
+        "antonyms": [
+            "黑白分明",
+            "泾渭分明",
+            "是非分明"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "pass off fish eyes as pearls"
+    },
+    "blocks": {
+        "reading": "yú mù hùn zhū",
+        "sense-1": "用鱼眼冒充珍珠，比喻以假乱真。",
+        "citation-1": "蝘蜓嘲龙，鱼目混珍。 — 唐·李白《鸣皋歌送岑徵君》",
+        "synonyms": "以假乱真、冒名顶替、滥竽充数",
+        "antonyms": "黑白分明、泾渭分明、是非分明"
+    }
+}

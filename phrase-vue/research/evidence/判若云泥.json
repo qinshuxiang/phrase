@@ -1,0 +1,48 @@
+{
+    "word": "判若云泥",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%88%A4%E8%8B%A5%E4%BA%91%E6%B3%A5",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "f053899bcfd05c9a16b9e36f00e862712599604c5216d7a255e5bb960958f85a",
+        "bytes": 24530
+    },
+    "parsed": {
+        "found": true,
+        "word": "判若云泥",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "pàn",
+                "ruò",
+                "yún",
+                "ní"
+            ],
+            "zhuyin": [
+                "ㄆㄢˋ",
+                "ㄖㄨㄛˋ",
+                "ㄩㄣˊ",
+                "ㄋㄧˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "像天上的云彩和地下的泥土的距离那样远。比喻高低相差悬殊。也说“判若天渊”",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "as far removed as heaven is from earth;poles apart"
+    },
+    "blocks": {
+        "reading": "pàn ruò yún ní",
+        "sense-1": "像天上的云彩和地下的泥土的距离那样远。比喻高低相差悬殊。也说“判若天渊”"
+    }
+}

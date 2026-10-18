@@ -1,0 +1,54 @@
+{
+    "word": "扬汤止沸",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%89%AC%E6%B1%A4%E6%AD%A2%E6%B2%B8",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "616f8a0a957609ec96e7681a7efb511434e94cea232738f449d48562db8a8704",
+        "bytes": 27028
+    },
+    "parsed": {
+        "found": true,
+        "word": "扬汤止沸",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yáng",
+                "tāng",
+                "zhǐ",
+                "fèi"
+            ],
+            "zhuyin": [
+                "ㄧㄤˊ",
+                "ㄊㄤ",
+                "ㄓˇ",
+                "ㄈㄟˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "把沸水舀起来再倒回去,以图阻止住沸腾。比喻不成功的补救办法,办法不彻底,不能从根本上解决问题",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "负薪救火"
+        ],
+        "antonyms": [
+            "釜底抽薪"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "ineffectual remedy as one who tries to stop water from boiling by scooping it up and pouring it back"
+    },
+    "blocks": {
+        "reading": "yáng tāng zhǐ fèi",
+        "sense-1": "把沸水舀起来再倒回去,以图阻止住沸腾。比喻不成功的补救办法,办法不彻底,不能从根本上解决问题",
+        "synonyms": "负薪救火",
+        "antonyms": "釜底抽薪"
+    }
+}

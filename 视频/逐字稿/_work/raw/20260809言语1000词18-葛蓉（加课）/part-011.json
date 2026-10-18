@@ -1,0 +1,1276 @@
+{
+  "text": "词比的同学,对,刚刚一同学问了,天差地别,你看,一个天一个地,谁是天谁是地啊?比如说啊,我们说这个粽子,南北之真,是甜的还是咸的呀?你说是甜的是天,还是咸的是天呢?那都不同意啊,对吧?所以你这个天差地别咋的了?有点程度太重了,文端不是说这种天地之间的差别,它只是说我有差异。对吧啊你说甜的是甜那我咸的可不同意了哈还有它辣的对吧酸甜苦辣咸的都是啊只是不同没有体现这种身份的高低没问题吧所以这个B哈其实第一个空就不行了啊行来看一下C疏途同规行不行疏途同规啊不同的方法得到相同的结果人家也没说这个这个相同的结果呀对吧你要体现差异呀所以要注意一下哈不行来四地如出一辙你这语意直接就相反了你要体现差异对吧所以到这基本就是A了来第二空验证一下说你这个差异有这样一些习惯和爱好那怎么样的通调技术你看后面的解释说经过历代人民的创造形成了丰富你看后面的给你提醒了形成了什么结果形成的是丰富多彩的地方菜系是每个地方不一样的没有在台第一名第二名对吧来看一下第二空说怎么样的烹调技术那怎么样的技术呢后面其实说了历代人民创造那历代人民都在创造是不是这个历史挺久的呀那历史挺久来看一下A渊远流长是不是一般就是形容历史历史很悠久历史很长呀所以A没问题来这个选B的同学B奥控也得记得一下词汇的语意季后流光什么意思你看积累的厚厚的流光感觉脸上有一些光彩那是什么意思呢是说积累的工业越厚留给后人的恩德是越广的对是说这样的工业积累的工业功德文端有说积累的工德工业吗没有没有说这样一些恩德只是说经过历代人民的创造历史是悠久的所以这个B第二控制一不对那开除没问题吧来连绵不断就是不断来博大精深一般形容比如说文化博大精深是丰富的是这种精微的比较简单来招起没问题敲个三咱过了来没问题吧行好嘞看一下下一题下一题稍微可能有点难度了果然绕期有点难对吧来选A的同学你的问题是什么呢你有没有看到横线后面呀特别是我们第三个空横线后面还有被拿下了是吧绕期题户也就大概50%左右咱还有上升的趋势现在还上升了一些来三二一停止答题行对吧还又上升了一些来我们来看一下首先第一孔他说我们在网上经常看到一些误导性消息这些消息可能怎么样可能怎么样呢有多学就往里面带了说可能是五花八门的可能是千奇百怪的可能是故弄玄虚的有点故意玩花招迷惑我的可能是煞有介事看上去是那么回事如果你只看第一孔往里面带好像都还行那就怎么办看一下后面呗后面紧接着说但转折了吧说其背后的操纵策略往往怎么样来到这有一个技巧什么呢你看第一控和第二控它是不是处于一个转折关系当中的所以两个控都处于转折关系当中我是不是可以两个控一起看对吧不就是意味着第一个控和第二个控是语义相反的吗是反意吗没问题吧所以两个控相反你来看一下第一个词和第二个词A五花八门各种各样如出一折像一个车折滚出来是相同的相似的所以A可以来B千奇百怪各种奇奇怪怪的是各种各样的千偏一律是一个样子也行但是C地形吗C能够构成与一相反吗C说故弄玄虚对吧你玩弄花招来迷惑我有点捉摸不透机关算尽机关算尽我们说太聪明反悟了轻轻性命也好像也是说耍一些小心思没有提现前后的与相反对吧所以C可以排除来四弟煞有介事像那么回事",
+  "segments": [
+    {
+      "text": "词比的同学,对,刚刚一同学问了,天差地别,你看,一个天一个地,谁是天谁是地啊?比如说啊,我们说这个粽子,南北之真,是甜的还是咸的呀?你说是甜的是天,还是咸的是天呢?那都不同意啊,对吧?所以你这个天差地别咋的了?有点程度太重了,文端不是说这种天地之间的差别,它只是说我有差异。",
+      "start": 0.0,
+      "end": 27.48,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2269,
+      "compression_ratio": 1.4368
+    },
+    {
+      "text": "对吧啊",
+      "start": 27.48,
+      "end": 29.54,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1702,
+      "compression_ratio": 1.4653
+    },
+    {
+      "text": "你说甜的是甜",
+      "start": 29.54,
+      "end": 30.82,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1702,
+      "compression_ratio": 1.4653
+    },
+    {
+      "text": "那我咸的可不同意了哈",
+      "start": 30.82,
+      "end": 32.08,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1702,
+      "compression_ratio": 1.4653
+    },
+    {
+      "text": "还有它辣的",
+      "start": 32.08,
+      "end": 33.24,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1702,
+      "compression_ratio": 1.4653
+    },
+    {
+      "text": "对吧",
+      "start": 33.24,
+      "end": 33.480000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1702,
+      "compression_ratio": 1.4653
+    },
+    {
+      "text": "酸甜苦辣咸的都是啊",
+      "start": 33.480000000000004,
+      "end": 35.4,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1702,
+      "compression_ratio": 1.4653
+    },
+    {
+      "text": "只是不同",
+      "start": 35.4,
+      "end": 36.04,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1702,
+      "compression_ratio": 1.4653
+    },
+    {
+      "text": "没有体现这种身份的高低",
+      "start": 36.04,
+      "end": 38.6,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1702,
+      "compression_ratio": 1.4653
+    },
+    {
+      "text": "没问题吧",
+      "start": 38.6,
+      "end": 39.66,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1702,
+      "compression_ratio": 1.4653
+    },
+    {
+      "text": "所以这个B哈",
+      "start": 39.66,
+      "end": 40.66,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1702,
+      "compression_ratio": 1.4653
+    },
+    {
+      "text": "其实第一个空就不行了",
+      "start": 40.66,
+      "end": 42.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1702,
+      "compression_ratio": 1.4653
+    },
+    {
+      "text": "啊",
+      "start": 42.84,
+      "end": 43.04,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1702,
+      "compression_ratio": 1.4653
+    },
+    {
+      "text": "行",
+      "start": 43.04,
+      "end": 43.36,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1702,
+      "compression_ratio": 1.4653
+    },
+    {
+      "text": "来看一下C疏途同规行不行",
+      "start": 43.36,
+      "end": 45.46,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1702,
+      "compression_ratio": 1.4653
+    },
+    {
+      "text": "疏途同规啊",
+      "start": 45.46,
+      "end": 46.58,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1702,
+      "compression_ratio": 1.4653
+    },
+    {
+      "text": "不同的方法得到相同的结果",
+      "start": 46.58,
+      "end": 48.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1702,
+      "compression_ratio": 1.4653
+    },
+    {
+      "text": "人家也没说这个",
+      "start": 48.5,
+      "end": 50.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1702,
+      "compression_ratio": 1.4653
+    },
+    {
+      "text": "这个相同的结果呀",
+      "start": 50.84,
+      "end": 53.040000000000006,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1702,
+      "compression_ratio": 1.4653
+    },
+    {
+      "text": "对吧",
+      "start": 53.040000000000006,
+      "end": 53.519999999999996,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1702,
+      "compression_ratio": 1.4653
+    },
+    {
+      "text": "你要体现差异呀",
+      "start": 53.519999999999996,
+      "end": 54.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1702,
+      "compression_ratio": 1.4653
+    },
+    {
+      "text": "所以要注意一下哈",
+      "start": 54.84,
+      "end": 55.58,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1702,
+      "compression_ratio": 1.4653
+    },
+    {
+      "text": "不行",
+      "start": 55.58,
+      "end": 55.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1702,
+      "compression_ratio": 1.4653
+    },
+    {
+      "text": "来四地如出一辙",
+      "start": 55.84,
+      "end": 57.2,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1702,
+      "compression_ratio": 1.4653
+    },
+    {
+      "text": "你这语意直接就相反了",
+      "start": 57.2,
+      "end": 58.900000000000006,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.12,
+      "compression_ratio": 1.432
+    },
+    {
+      "text": "你要体现差异",
+      "start": 58.900000000000006,
+      "end": 60.82,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.12,
+      "compression_ratio": 1.432
+    },
+    {
+      "text": "对吧",
+      "start": 60.82,
+      "end": 61.14,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.12,
+      "compression_ratio": 1.432
+    },
+    {
+      "text": "所以到这基本就是A了",
+      "start": 61.14,
+      "end": 62.800000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.12,
+      "compression_ratio": 1.432
+    },
+    {
+      "text": "来第二空验证一下",
+      "start": 62.800000000000004,
+      "end": 63.900000000000006,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.12,
+      "compression_ratio": 1.432
+    },
+    {
+      "text": "说你这个差异",
+      "start": 63.900000000000006,
+      "end": 65.36,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.12,
+      "compression_ratio": 1.432
+    },
+    {
+      "text": "有这样一些习惯和爱好",
+      "start": 65.36,
+      "end": 66.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.12,
+      "compression_ratio": 1.432
+    },
+    {
+      "text": "那怎么样的",
+      "start": 66.88,
+      "end": 67.64,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.12,
+      "compression_ratio": 1.432
+    },
+    {
+      "text": "通调技术",
+      "start": 67.64,
+      "end": 68.9,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.12,
+      "compression_ratio": 1.432
+    },
+    {
+      "text": "你看后面的解释",
+      "start": 68.9,
+      "end": 69.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.12,
+      "compression_ratio": 1.432
+    },
+    {
+      "text": "说经过历代人民的创造",
+      "start": 69.84,
+      "end": 72.68,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.12,
+      "compression_ratio": 1.432
+    },
+    {
+      "text": "形成了丰富",
+      "start": 72.68,
+      "end": 73.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.12,
+      "compression_ratio": 1.432
+    },
+    {
+      "text": "你看后面的给你提醒了",
+      "start": 73.88,
+      "end": 75.7,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.12,
+      "compression_ratio": 1.432
+    },
+    {
+      "text": "形成了什么结果",
+      "start": 75.7,
+      "end": 77.14,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.12,
+      "compression_ratio": 1.432
+    },
+    {
+      "text": "形成的是丰富多彩的地方菜系",
+      "start": 77.14,
+      "end": 80.58,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.12,
+      "compression_ratio": 1.432
+    },
+    {
+      "text": "是每个地方不一样的",
+      "start": 80.58,
+      "end": 82.4,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.12,
+      "compression_ratio": 1.432
+    },
+    {
+      "text": "没有在台第一名第二名",
+      "start": 82.4,
+      "end": 85.14,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.12,
+      "compression_ratio": 1.432
+    },
+    {
+      "text": "对吧",
+      "start": 85.14,
+      "end": 85.46000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.12,
+      "compression_ratio": 1.432
+    },
+    {
+      "text": "来看一下第二空",
+      "start": 85.46000000000001,
+      "end": 86.68,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.12,
+      "compression_ratio": 1.432
+    },
+    {
+      "text": "说怎么样的烹调技术",
+      "start": 86.68,
+      "end": 88.60000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1235,
+      "compression_ratio": 1.4504
+    },
+    {
+      "text": "那怎么样的技术呢",
+      "start": 88.60000000000001,
+      "end": 89.58000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1235,
+      "compression_ratio": 1.4504
+    },
+    {
+      "text": "后面其实说了历代人民创造",
+      "start": 89.58000000000001,
+      "end": 92.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1235,
+      "compression_ratio": 1.4504
+    },
+    {
+      "text": "那历代人民都在创造",
+      "start": 92.0,
+      "end": 94.16000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1235,
+      "compression_ratio": 1.4504
+    },
+    {
+      "text": "是不是这个历史挺久的呀",
+      "start": 94.16000000000001,
+      "end": 95.78,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1235,
+      "compression_ratio": 1.4504
+    },
+    {
+      "text": "那历史挺久来看一下",
+      "start": 95.78,
+      "end": 97.62,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1235,
+      "compression_ratio": 1.4504
+    },
+    {
+      "text": "A渊远流长",
+      "start": 97.62,
+      "end": 99.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1235,
+      "compression_ratio": 1.4504
+    },
+    {
+      "text": "是不是一般就是形容历史",
+      "start": 99.06,
+      "end": 100.62,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1235,
+      "compression_ratio": 1.4504
+    },
+    {
+      "text": "历史很悠久",
+      "start": 100.62,
+      "end": 102.24000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1235,
+      "compression_ratio": 1.4504
+    },
+    {
+      "text": "历史很长呀",
+      "start": 102.24000000000001,
+      "end": 103.22,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1235,
+      "compression_ratio": 1.4504
+    },
+    {
+      "text": "所以A没问题",
+      "start": 103.22,
+      "end": 104.42000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1235,
+      "compression_ratio": 1.4504
+    },
+    {
+      "text": "来这个选B的同学",
+      "start": 104.42000000000002,
+      "end": 106.80000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1235,
+      "compression_ratio": 1.4504
+    },
+    {
+      "text": "B奥控也得记得一下词汇的语意",
+      "start": 106.80000000000001,
+      "end": 108.9,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1235,
+      "compression_ratio": 1.4504
+    },
+    {
+      "text": "季后流光什么意思",
+      "start": 108.9,
+      "end": 110.60000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1235,
+      "compression_ratio": 1.4504
+    },
+    {
+      "text": "你看",
+      "start": 110.60000000000001,
+      "end": 111.68,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1235,
+      "compression_ratio": 1.4504
+    },
+    {
+      "text": "积累的厚厚的流光",
+      "start": 111.68,
+      "end": 113.96000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1235,
+      "compression_ratio": 1.4504
+    },
+    {
+      "text": "感觉脸上有一些光彩",
+      "start": 113.96000000000001,
+      "end": 116.54,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1235,
+      "compression_ratio": 1.4504
+    },
+    {
+      "text": "那是什么意思呢",
+      "start": 116.54,
+      "end": 117.72000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1614,
+      "compression_ratio": 1.4704
+    },
+    {
+      "text": "是说积累的工业越厚",
+      "start": 117.72000000000001,
+      "end": 120.52000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1614,
+      "compression_ratio": 1.4704
+    },
+    {
+      "text": "留给后人的恩德是越广的",
+      "start": 120.52000000000001,
+      "end": 123.78,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1614,
+      "compression_ratio": 1.4704
+    },
+    {
+      "text": "对",
+      "start": 123.78,
+      "end": 124.74000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1614,
+      "compression_ratio": 1.4704
+    },
+    {
+      "text": "是说这样的工业积累的工业功德",
+      "start": 124.74000000000001,
+      "end": 127.94000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1614,
+      "compression_ratio": 1.4704
+    },
+    {
+      "text": "文端有说积累的工德工业吗",
+      "start": 127.94000000000001,
+      "end": 130.20000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1614,
+      "compression_ratio": 1.4704
+    },
+    {
+      "text": "没有",
+      "start": 130.20000000000002,
+      "end": 130.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1614,
+      "compression_ratio": 1.4704
+    },
+    {
+      "text": "没有说这样一些恩德",
+      "start": 130.5,
+      "end": 131.8,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1614,
+      "compression_ratio": 1.4704
+    },
+    {
+      "text": "只是说经过历代人民的创造",
+      "start": 131.8,
+      "end": 133.74,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1614,
+      "compression_ratio": 1.4704
+    },
+    {
+      "text": "历史是悠久的",
+      "start": 133.74,
+      "end": 134.8,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1614,
+      "compression_ratio": 1.4704
+    },
+    {
+      "text": "所以这个B",
+      "start": 134.8,
+      "end": 135.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1614,
+      "compression_ratio": 1.4704
+    },
+    {
+      "text": "第二控制一不对",
+      "start": 135.5,
+      "end": 136.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1614,
+      "compression_ratio": 1.4704
+    },
+    {
+      "text": "那开除",
+      "start": 136.5,
+      "end": 137.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1614,
+      "compression_ratio": 1.4704
+    },
+    {
+      "text": "没问题吧",
+      "start": 137.06,
+      "end": 139.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1614,
+      "compression_ratio": 1.4704
+    },
+    {
+      "text": "来连绵不断",
+      "start": 139.06,
+      "end": 140.22,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1614,
+      "compression_ratio": 1.4704
+    },
+    {
+      "text": "就是不断",
+      "start": 140.22,
+      "end": 140.9,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1614,
+      "compression_ratio": 1.4704
+    },
+    {
+      "text": "来博大精深",
+      "start": 140.9,
+      "end": 142.04000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1614,
+      "compression_ratio": 1.4704
+    },
+    {
+      "text": "一般形容",
+      "start": 142.04000000000002,
+      "end": 142.82,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1614,
+      "compression_ratio": 1.4704
+    },
+    {
+      "text": "比如说文化博大精深",
+      "start": 142.82,
+      "end": 144.26,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1614,
+      "compression_ratio": 1.4704
+    },
+    {
+      "text": "是丰富的",
+      "start": 144.26,
+      "end": 145.22,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1614,
+      "compression_ratio": 1.4704
+    },
+    {
+      "text": "是这种精微的",
+      "start": 145.22,
+      "end": 146.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2469,
+      "compression_ratio": 1.0909
+    },
+    {
+      "text": "比较简单",
+      "start": 146.72,
+      "end": 147.74,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2469,
+      "compression_ratio": 1.0909
+    },
+    {
+      "text": "来招起没问题敲个三",
+      "start": 147.74,
+      "end": 149.35999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2469,
+      "compression_ratio": 1.0909
+    },
+    {
+      "text": "咱过了",
+      "start": 149.35999999999999,
+      "end": 149.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2469,
+      "compression_ratio": 1.0909
+    },
+    {
+      "text": "来没问题吧",
+      "start": 149.84,
+      "end": 159.14,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2469,
+      "compression_ratio": 1.0909
+    },
+    {
+      "text": "行好嘞",
+      "start": 159.14,
+      "end": 160.76,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2469,
+      "compression_ratio": 1.0909
+    },
+    {
+      "text": "看一下下一题",
+      "start": 160.76,
+      "end": 162.02,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2469,
+      "compression_ratio": 1.0909
+    },
+    {
+      "text": "下一题稍微可能有点难度了",
+      "start": 162.02,
+      "end": 163.48,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2469,
+      "compression_ratio": 1.0909
+    },
+    {
+      "text": "果然绕期有点难",
+      "start": 175.22,
+      "end": 179.2,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2044,
+      "compression_ratio": 1.2072
+    },
+    {
+      "text": "对吧",
+      "start": 179.2,
+      "end": 179.6,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2044,
+      "compression_ratio": 1.2072
+    },
+    {
+      "text": "来选A的同学",
+      "start": 179.6,
+      "end": 180.8,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2044,
+      "compression_ratio": 1.2072
+    },
+    {
+      "text": "你的问题是什么呢",
+      "start": 180.8,
+      "end": 181.9,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2044,
+      "compression_ratio": 1.2072
+    },
+    {
+      "text": "你有没有看到",
+      "start": 181.9,
+      "end": 182.66,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2044,
+      "compression_ratio": 1.2072
+    },
+    {
+      "text": "横线后面呀",
+      "start": 182.66,
+      "end": 184.48,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2044,
+      "compression_ratio": 1.2072
+    },
+    {
+      "text": "特别是我们第三个空",
+      "start": 184.48,
+      "end": 186.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2044,
+      "compression_ratio": 1.2072
+    },
+    {
+      "text": "横线后面还有",
+      "start": 186.32,
+      "end": 187.34,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2044,
+      "compression_ratio": 1.2072
+    },
+    {
+      "text": "被拿下了是吧",
+      "start": 187.34,
+      "end": 189.66,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2044,
+      "compression_ratio": 1.2072
+    },
+    {
+      "text": "绕期",
+      "start": 189.66,
+      "end": 191.3,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2044,
+      "compression_ratio": 1.2072
+    },
+    {
+      "text": "题户也就大概50%左右",
+      "start": 191.3,
+      "end": 193.24,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2044,
+      "compression_ratio": 1.2072
+    },
+    {
+      "text": "咱还有上升的趋势",
+      "start": 193.24,
+      "end": 196.04,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2044,
+      "compression_ratio": 1.2072
+    },
+    {
+      "text": "现在还上升了一些",
+      "start": 196.04,
+      "end": 197.22,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2044,
+      "compression_ratio": 1.2072
+    },
+    {
+      "text": "来三",
+      "start": 197.22,
+      "end": 198.44,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2044,
+      "compression_ratio": 1.2072
+    },
+    {
+      "text": "二",
+      "start": 198.44,
+      "end": 199.78,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2044,
+      "compression_ratio": 1.2072
+    },
+    {
+      "text": "一",
+      "start": 199.78,
+      "end": 202.02,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2044,
+      "compression_ratio": 1.2072
+    },
+    {
+      "text": "停止答题",
+      "start": 202.02,
+      "end": 204.52,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2044,
+      "compression_ratio": 1.2072
+    },
+    {
+      "text": "行",
+      "start": 204.52,
+      "end": 205.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1331,
+      "compression_ratio": 1.4784
+    },
+    {
+      "text": "对吧",
+      "start": 205.84,
+      "end": 206.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1331,
+      "compression_ratio": 1.4784
+    },
+    {
+      "text": "还又上升了一些",
+      "start": 206.84,
+      "end": 208.36,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1331,
+      "compression_ratio": 1.4784
+    },
+    {
+      "text": "来我们来看一下首先第一孔",
+      "start": 208.36,
+      "end": 210.96,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1331,
+      "compression_ratio": 1.4784
+    },
+    {
+      "text": "他说我们在网上经常看到一些误导性消息",
+      "start": 210.96,
+      "end": 214.70000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1331,
+      "compression_ratio": 1.4784
+    },
+    {
+      "text": "这些消息可能怎么样",
+      "start": 214.70000000000002,
+      "end": 216.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1331,
+      "compression_ratio": 1.4784
+    },
+    {
+      "text": "可能怎么样呢",
+      "start": 216.5,
+      "end": 217.96,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1331,
+      "compression_ratio": 1.4784
+    },
+    {
+      "text": "有多学就往里面带了",
+      "start": 217.96,
+      "end": 218.94,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1331,
+      "compression_ratio": 1.4784
+    },
+    {
+      "text": "说可能是五花八门的",
+      "start": 218.94,
+      "end": 220.54000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1331,
+      "compression_ratio": 1.4784
+    },
+    {
+      "text": "可能是千奇百怪的",
+      "start": 220.54000000000002,
+      "end": 222.16000000000003,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1331,
+      "compression_ratio": 1.4784
+    },
+    {
+      "text": "可能是故弄玄虚的",
+      "start": 222.16000000000003,
+      "end": 223.4,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1331,
+      "compression_ratio": 1.4784
+    },
+    {
+      "text": "有点故意玩花招迷惑我的",
+      "start": 223.4,
+      "end": 225.9,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1331,
+      "compression_ratio": 1.4784
+    },
+    {
+      "text": "可能是煞有介事",
+      "start": 225.9,
+      "end": 227.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1331,
+      "compression_ratio": 1.4784
+    },
+    {
+      "text": "看上去是那么回事",
+      "start": 227.88,
+      "end": 229.34,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1331,
+      "compression_ratio": 1.4784
+    },
+    {
+      "text": "如果你只看第一孔",
+      "start": 229.34,
+      "end": 231.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1331,
+      "compression_ratio": 1.4784
+    },
+    {
+      "text": "往里面带好像都还行",
+      "start": 231.5,
+      "end": 232.98000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1331,
+      "compression_ratio": 1.4784
+    },
+    {
+      "text": "那就怎么办",
+      "start": 232.98000000000002,
+      "end": 234.12,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1331,
+      "compression_ratio": 1.4784
+    },
+    {
+      "text": "看一下后面呗",
+      "start": 234.12,
+      "end": 235.16,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1174,
+      "compression_ratio": 1.6171
+    },
+    {
+      "text": "后面紧接着说但转折了吧",
+      "start": 235.16,
+      "end": 237.6,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1174,
+      "compression_ratio": 1.6171
+    },
+    {
+      "text": "说其背后的操纵策略往往怎么样",
+      "start": 237.6,
+      "end": 240.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1174,
+      "compression_ratio": 1.6171
+    },
+    {
+      "text": "来到这有一个技巧什么呢",
+      "start": 240.84,
+      "end": 242.34,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1174,
+      "compression_ratio": 1.6171
+    },
+    {
+      "text": "你看第一控和第二控",
+      "start": 242.34,
+      "end": 244.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1174,
+      "compression_ratio": 1.6171
+    },
+    {
+      "text": "它是不是处于一个转折关系当中的",
+      "start": 244.06,
+      "end": 246.86,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1174,
+      "compression_ratio": 1.6171
+    },
+    {
+      "text": "所以两个控都处于转折关系当中",
+      "start": 246.86,
+      "end": 250.78,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1174,
+      "compression_ratio": 1.6171
+    },
+    {
+      "text": "我是不是可以两个控一起看",
+      "start": 250.78,
+      "end": 252.54000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1174,
+      "compression_ratio": 1.6171
+    },
+    {
+      "text": "对吧",
+      "start": 252.54000000000002,
+      "end": 254.8,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1174,
+      "compression_ratio": 1.6171
+    },
+    {
+      "text": "不就是意味着第一个控和第二个控是语义相反的吗",
+      "start": 254.8,
+      "end": 258.16,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1174,
+      "compression_ratio": 1.6171
+    },
+    {
+      "text": "是反意吗",
+      "start": 258.16,
+      "end": 259.1,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1174,
+      "compression_ratio": 1.6171
+    },
+    {
+      "text": "没问题吧",
+      "start": 259.1,
+      "end": 260.18,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1174,
+      "compression_ratio": 1.6171
+    },
+    {
+      "text": "所以两个控相反",
+      "start": 260.18,
+      "end": 261.94,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1174,
+      "compression_ratio": 1.6171
+    },
+    {
+      "text": "你来看一下",
+      "start": 261.94,
+      "end": 262.58,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1174,
+      "compression_ratio": 1.6171
+    },
+    {
+      "text": "第一个词和第二个词",
+      "start": 262.58,
+      "end": 263.96,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1174,
+      "compression_ratio": 1.6171
+    },
+    {
+      "text": "A五花八门各种各样",
+      "start": 263.96,
+      "end": 266.46,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1273,
+      "compression_ratio": 1.3599
+    },
+    {
+      "text": "如出一折像一个车折滚出来",
+      "start": 266.46,
+      "end": 268.79999999999995,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1273,
+      "compression_ratio": 1.3599
+    },
+    {
+      "text": "是相同的相似的",
+      "start": 268.79999999999995,
+      "end": 269.96,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1273,
+      "compression_ratio": 1.3599
+    },
+    {
+      "text": "所以A可以来B千奇百怪",
+      "start": 269.96,
+      "end": 272.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1273,
+      "compression_ratio": 1.3599
+    },
+    {
+      "text": "各种奇奇怪怪的",
+      "start": 272.5,
+      "end": 273.79999999999995,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1273,
+      "compression_ratio": 1.3599
+    },
+    {
+      "text": "是各种各样的",
+      "start": 273.79999999999995,
+      "end": 275.12,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1273,
+      "compression_ratio": 1.3599
+    },
+    {
+      "text": "千偏一律是一个样子也行",
+      "start": 275.12,
+      "end": 277.82,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1273,
+      "compression_ratio": 1.3599
+    },
+    {
+      "text": "但是C地形吗",
+      "start": 277.82,
+      "end": 279.09999999999997,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1273,
+      "compression_ratio": 1.3599
+    },
+    {
+      "text": "C能够构成与一相反吗",
+      "start": 279.09999999999997,
+      "end": 281.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1273,
+      "compression_ratio": 1.3599
+    },
+    {
+      "text": "C说故弄玄虚",
+      "start": 281.32,
+      "end": 282.7,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1273,
+      "compression_ratio": 1.3599
+    },
+    {
+      "text": "对吧你玩弄花招来迷惑我",
+      "start": 282.7,
+      "end": 285.02,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1273,
+      "compression_ratio": 1.3599
+    },
+    {
+      "text": "有点捉摸不透",
+      "start": 285.02,
+      "end": 285.94,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1273,
+      "compression_ratio": 1.3599
+    },
+    {
+      "text": "机关算尽",
+      "start": 285.94,
+      "end": 287.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1273,
+      "compression_ratio": 1.3599
+    },
+    {
+      "text": "机关算尽我们说太聪明",
+      "start": 287.06,
+      "end": 289.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1273,
+      "compression_ratio": 1.3599
+    },
+    {
+      "text": "反悟了轻轻性命",
+      "start": 289.06,
+      "end": 291.17999999999995,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1273,
+      "compression_ratio": 1.3599
+    },
+    {
+      "text": "也好像也是说耍一些小心思",
+      "start": 291.17999999999995,
+      "end": 293.58,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1273,
+      "compression_ratio": 1.3599
+    },
+    {
+      "text": "没有提现前后的与相反",
+      "start": 293.58,
+      "end": 295.74,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1908,
+      "compression_ratio": 0.9286
+    },
+    {
+      "text": "对吧",
+      "start": 295.74,
+      "end": 296.08,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1908,
+      "compression_ratio": 0.9286
+    },
+    {
+      "text": "所以C可以排除",
+      "start": 296.08,
+      "end": 296.9,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1908,
+      "compression_ratio": 0.9286
+    },
+    {
+      "text": "来四弟煞有介事",
+      "start": 296.9,
+      "end": 298.58,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1908,
+      "compression_ratio": 0.9286
+    },
+    {
+      "text": "像那么回事",
+      "start": 298.58,
+      "end": 299.53999999999996,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1908,
+      "compression_ratio": 0.9286
+    }
+  ],
+  "repairs": [],
+  "index": 11,
+  "start": 3300.0,
+  "duration": 300,
+  "elapsed": 19.3,
+  "ok": true,
+  "initial_prompt": "四海公考，公务员考试，言语理解与表达，逻辑填空，高频实词，成语辨析，语义侧重，感情色彩，搭配对象，适用语境，易混词，例句。简体中文。课件词条：如出一辙，千篇一律，殊途同归，大相径庭，泾渭分明。"
+}

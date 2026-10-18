@@ -1,0 +1,26 @@
+{
+    "word": "名声大噪",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%90%8D%E5%A3%B0%E5%A4%A7%E5%99%AA",
+        "retrieved_at": "2026-10-18",
+        "http_status": 404,
+        "page_sha256": null,
+        "bytes": 0
+    },
+    "parsed": {
+        "found": false,
+        "word": "名声大噪",
+        "readings": {
+            "pinyin": [],
+            "zhuyin": []
+        },
+        "senses": [],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "english": ""
+    },
+    "blocks": {}
+}

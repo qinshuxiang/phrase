@@ -1,0 +1,48 @@
+{
+    "word": "大行其道",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A4%A7%E8%A1%8C%E5%85%B6%E9%81%93",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "902ffcaf321dcdbfe0f6dc12a69fc8d8b3751018ec3955fe833f0ae21baecf92",
+        "bytes": 22805
+    },
+    "parsed": {
+        "found": true,
+        "word": "大行其道",
+        "section": "guoyu",
+        "readings": {
+            "pinyin": [
+                "dà",
+                "xíng",
+                "qí",
+                "dào"
+            ],
+            "zhuyin": [
+                "ㄉㄚˋ",
+                "ㄒㄧㄥˊ",
+                "ㄑㄧˊ",
+                "ㄉㄠˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "某种道术正在盛行。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": ""
+    },
+    "blocks": {
+        "reading": "dà xíng qí dào",
+        "sense-1": "某种道术正在盛行。"
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "word": "奉为圭臬",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A5%89%E4%B8%BA%E5%9C%AD%E8%87%AC",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "6d92461dffd05ec2f601319a8b5f9a8a2459cff866d533283ed5927ef1564f72",
+        "bytes": 24577
+    },
+    "parsed": {
+        "found": true,
+        "word": "奉为圭臬",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "fèng",
+                "wéi",
+                "guī",
+                "niè"
+            ],
+            "zhuyin": [
+                "ㄈㄥˋ",
+                "ㄨㄟˊ",
+                "ㄍㄨㄟ",
+                "ㄋㄧㄝˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "尊奉为准则或法度。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "奉若神明",
+            "奉为楷模"
+        ],
+        "antonyms": [
+            "视如草芥",
+            "视如敝屣"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "regard as standard"
+    },
+    "blocks": {
+        "reading": "fèng wéi guī niè",
+        "sense-1": "尊奉为准则或法度。",
+        "synonyms": "奉若神明、奉为楷模",
+        "antonyms": "视如草芥、视如敝屣"
+    }
+}

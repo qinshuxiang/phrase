@@ -1,0 +1,59 @@
+{
+    "word": "茕茕孑立",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%8C%95%E8%8C%95%E5%AD%91%E7%AB%8B",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "dd6d4d33b57dcc237f0fa59e73a96a607a83dcfd140a1c1e3e18f85e4b30db8e",
+        "bytes": 24524
+    },
+    "parsed": {
+        "found": true,
+        "word": "茕茕孑立",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "qióng",
+                "qióng",
+                "jié",
+                "lì"
+            ],
+            "zhuyin": [
+                "ㄑㄩㄥˊ",
+                "ㄑㄩㄥˊ",
+                "ㄐㄧㄝˊ",
+                "ㄌㄧˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容孤单无依，独自一人的状态。",
+                "citations": [
+                    {
+                        "text": "外无期功强近之亲，内无应门五尺之童，茕茕孑立，形影相吊。",
+                        "source": "晋·李密《陈情事表》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "外无期功强近之亲，内无应门五尺之童，茕茕孑立，形影相吊。",
+                "source": "晋·李密《陈情事表》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "all alone"
+    },
+    "blocks": {
+        "reading": "qióng qióng jié lì",
+        "sense-1": "形容孤单无依，独自一人的状态。",
+        "citation-1": "外无期功强近之亲，内无应门五尺之童，茕茕孑立，形影相吊。 — 晋·李密《陈情事表》"
+    }
+}

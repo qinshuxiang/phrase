@@ -1,0 +1,69 @@
+{
+    "word": "不计其数",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%8D%E8%AE%A1%E5%85%B6%E6%95%B0",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "5498e7ff722e8996375a8ffbe6811c7eeb26db00ae4afa66110e0309d1691f84",
+        "bytes": 27525
+    },
+    "parsed": {
+        "found": true,
+        "word": "不计其数",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bù",
+                "jì",
+                "qí",
+                "shù"
+            ],
+            "zhuyin": [
+                "ㄅㄨˋ",
+                "ㄐㄧˋ",
+                "ㄑㄧˊ",
+                "ㄕㄨˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "数量极多，难以计算。",
+                "citations": [
+                    {
+                        "text": "火炮，药箭射死北兵及坠水者，不计其数。",
+                        "source": "宋·周密《癸辛杂识别集·襄阳始末》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "火炮，药箭射死北兵及坠水者，不计其数。",
+                "source": "宋·周密《癸辛杂识别集·襄阳始末》"
+            }
+        ],
+        "synonyms": [
+            "不胜枚举",
+            "不一而足",
+            "不可胜数"
+        ],
+        "antonyms": [
+            "屈指可数",
+            "凤毛麟角",
+            "寥寥无几"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "countless"
+    },
+    "blocks": {
+        "reading": "bù jì qí shù",
+        "sense-1": "数量极多，难以计算。",
+        "citation-1": "火炮，药箭射死北兵及坠水者，不计其数。 — 宋·周密《癸辛杂识别集·襄阳始末》",
+        "synonyms": "不胜枚举、不一而足、不可胜数",
+        "antonyms": "屈指可数、凤毛麟角、寥寥无几"
+    }
+}

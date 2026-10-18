@@ -1,0 +1,65 @@
+{
+    "word": "见仁见智",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%A7%81%E4%BB%81%E8%A7%81%E6%99%BA",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "556696371e241e50df1f60d39346aeefd96475d3762da362cb1ef31dce303d51",
+        "bytes": 25810
+    },
+    "parsed": {
+        "found": true,
+        "word": "见仁见智",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jiàn",
+                "rén",
+                "jiàn",
+                "zhì"
+            ],
+            "zhuyin": [
+                "ㄐㄧㄢˋ",
+                "ㄖㄣˊ",
+                "ㄐㄧㄢˋ",
+                "ㄓˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "对同一问题，各人有各人的见解。",
+                "citations": [
+                    {
+                        "text": "任人见仁见智，识大识小，开卷一一会悟之。",
+                        "source": "清·杨豫成《劝戒词》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "任人见仁见智，识大识小，开卷一一会悟之。",
+                "source": "清·杨豫成《劝戒词》"
+            }
+        ],
+        "synonyms": [
+            "见智见仁"
+        ],
+        "antonyms": [
+            "所见略同"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "opinions differ"
+    },
+    "blocks": {
+        "reading": "jiàn rén jiàn zhì",
+        "sense-1": "对同一问题，各人有各人的见解。",
+        "citation-1": "任人见仁见智，识大识小，开卷一一会悟之。 — 清·杨豫成《劝戒词》",
+        "synonyms": "见智见仁",
+        "antonyms": "所见略同"
+    }
+}

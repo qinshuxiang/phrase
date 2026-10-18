@@ -1,0 +1,59 @@
+{
+    "word": "厉兵秣马",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%8E%89%E5%85%B5%E7%A7%A3%E9%A9%AC",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "abd6146058a0bc7b66fb1ec467358b18b0b84671a401d436021dd7dcfdb2ebdb",
+        "bytes": 26646
+    },
+    "parsed": {
+        "found": true,
+        "word": "厉兵秣马",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "lì",
+                "bīng",
+                "mò",
+                "mǎ"
+            ],
+            "zhuyin": [
+                "ㄌㄧˋ",
+                "ㄅㄧㄥ",
+                "ㄇㄛˋ",
+                "ㄇㄚˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "磨利兵器，喂饱战马，指做好战斗准备。",
+                "citations": [
+                    {
+                        "text": "郑穆公使视客馆，则束载厉兵秣马矣。",
+                        "source": "《左传·僖公三十三年》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "郑穆公使视客馆，则束载厉兵秣马矣。",
+                "source": "《左传·僖公三十三年》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "sharpen weapons and feed horses"
+    },
+    "blocks": {
+        "reading": "lì bīng mò mǎ",
+        "sense-1": "磨利兵器，喂饱战马，指做好战斗准备。",
+        "citation-1": "郑穆公使视客馆，则束载厉兵秣马矣。 — 《左传·僖公三十三年》"
+    }
+}

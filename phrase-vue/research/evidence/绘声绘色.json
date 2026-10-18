@@ -1,0 +1,68 @@
+{
+    "word": "绘声绘色",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%BB%98%E5%A3%B0%E7%BB%98%E8%89%B2",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "348b67932f73e8eaae3205a68aa973051b86787a9fb506ef9153783878331f0b",
+        "bytes": 26617
+    },
+    "parsed": {
+        "found": true,
+        "word": "绘声绘色",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "huì",
+                "shēng",
+                "huì",
+                "sè"
+            ],
+            "zhuyin": [
+                "ㄏㄨㄟˋ",
+                "ㄕㄥ",
+                "ㄏㄨㄟˋ",
+                "ㄙㄜˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容叙述或描写事物非常生动逼真。",
+                "citations": [
+                    {
+                        "text": "必使山情水性，因绘声绘色而曲得其真。",
+                        "source": "清·朱庭珍《筱园诗话》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "必使山情水性，因绘声绘色而曲得其真。",
+                "source": "清·朱庭珍《筱园诗话》"
+            }
+        ],
+        "synonyms": [
+            "有声有色",
+            "活龙活现",
+            "栩栩如生"
+        ],
+        "antonyms": [
+            "平淡无奇",
+            "枯燥无味"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "vivid"
+    },
+    "blocks": {
+        "reading": "huì shēng huì sè",
+        "sense-1": "形容叙述或描写事物非常生动逼真。",
+        "citation-1": "必使山情水性，因绘声绘色而曲得其真。 — 清·朱庭珍《筱园诗话》",
+        "synonyms": "有声有色、活龙活现、栩栩如生",
+        "antonyms": "平淡无奇、枯燥无味"
+    }
+}

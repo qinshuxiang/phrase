@@ -1,0 +1,67 @@
+{
+    "word": "守望相助",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%AE%88%E6%9C%9B%E7%9B%B8%E5%8A%A9",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "9f1f72b216dd9e1aa66a6cc56fd5f0cfea447bb34b184d107fadc38952b82404",
+        "bytes": 28289
+    },
+    "parsed": {
+        "found": true,
+        "word": "守望相助",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shǒu",
+                "wàng",
+                "xiāng",
+                "zhù"
+            ],
+            "zhuyin": [
+                "ㄕㄡˇ",
+                "ㄨㄤˋ",
+                "ㄒㄧㄤ",
+                "ㄓㄨˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "相互协作共同防御。",
+                "citations": [
+                    {
+                        "text": "出入相友，守望相助，疾病相扶持，则百姓亲睦。",
+                        "source": "《孟子·滕文公上》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "出入相友，守望相助，疾病相扶持，则百姓亲睦。",
+                "source": "《孟子·滕文公上》"
+            }
+        ],
+        "synonyms": [
+            "团结互助",
+            "同舟共济"
+        ],
+        "antonyms": [
+            "不相为谋",
+            "以邻为壑"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "mutual defense"
+    },
+    "blocks": {
+        "reading": "shǒu wàng xiāng zhù",
+        "sense-1": "相互协作共同防御。",
+        "citation-1": "出入相友，守望相助，疾病相扶持，则百姓亲睦。 — 《孟子·滕文公上》",
+        "synonyms": "团结互助、同舟共济",
+        "antonyms": "不相为谋、以邻为壑"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "word": "家喻户晓",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%AE%B6%E5%96%BB%E6%88%B7%E6%99%93",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "6aa707998cfc7dc5e5ab214f75e846f394c8fcda2b38f593665784d5bbc4e369",
+        "bytes": 27446
+    },
+    "parsed": {
+        "found": true,
+        "word": "家喻户晓",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jiā",
+                "yù",
+                "hù",
+                "xiǎo"
+            ],
+            "zhuyin": [
+                "ㄐㄧㄚ",
+                "ㄩˋ",
+                "ㄏㄨˋ",
+                "ㄒㄧㄠˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "每家每户都知晓，形容广为人知。",
+                "citations": [
+                    {
+                        "text": "圣人设教，非不欲人家喻而户晓也，然不能使之知，但能使之由之尔。",
+                        "source": "宋·程颐《论语集注》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "圣人设教，非不欲人家喻而户晓也，然不能使之知，但能使之由之尔。",
+                "source": "宋·程颐《论语集注》"
+            }
+        ],
+        "synonyms": [
+            "妇孺皆知",
+            "众所周知"
+        ],
+        "antonyms": [
+            "默默无闻",
+            "遁世无闻"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "widely known"
+    },
+    "blocks": {
+        "reading": "jiā yù hù xiǎo",
+        "sense-1": "每家每户都知晓，形容广为人知。",
+        "citation-1": "圣人设教，非不欲人家喻而户晓也，然不能使之知，但能使之由之尔。 — 宋·程颐《论语集注》",
+        "synonyms": "妇孺皆知、众所周知",
+        "antonyms": "默默无闻、遁世无闻"
+    }
+}

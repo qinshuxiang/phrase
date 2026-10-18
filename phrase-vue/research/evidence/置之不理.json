@@ -1,0 +1,69 @@
+{
+    "word": "置之不理",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%BD%AE%E4%B9%8B%E4%B8%8D%E7%90%86",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "b71d7d5cb82d54604ec1452b267174212fa8d1d9fa9f5e4fa7b35c826c8df418",
+        "bytes": 27930
+    },
+    "parsed": {
+        "found": true,
+        "word": "置之不理",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zhì",
+                "zhī",
+                "bù",
+                "lǐ"
+            ],
+            "zhuyin": [
+                "ㄓˋ",
+                "ㄓ",
+                "ㄅㄨˋ",
+                "ㄌㄧˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "放在一边，不予理会。",
+                "citations": [
+                    {
+                        "text": "凡所以为厚生正德之事，一切置之不理。",
+                        "source": "清·顾炎武《华阴王氏宗祠记》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "凡所以为厚生正德之事，一切置之不理。",
+                "source": "清·顾炎武《华阴王氏宗祠记》"
+            }
+        ],
+        "synonyms": [
+            "置之度外",
+            "漠然置之",
+            "置若罔闻",
+            "束之高阁"
+        ],
+        "antonyms": [
+            "另眼相看",
+            "刮目相看"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "ignore; disregard"
+    },
+    "blocks": {
+        "reading": "zhì zhī bù lǐ",
+        "sense-1": "放在一边，不予理会。",
+        "citation-1": "凡所以为厚生正德之事，一切置之不理。 — 清·顾炎武《华阴王氏宗祠记》",
+        "synonyms": "置之度外、漠然置之、置若罔闻、束之高阁",
+        "antonyms": "另眼相看、刮目相看"
+    }
+}

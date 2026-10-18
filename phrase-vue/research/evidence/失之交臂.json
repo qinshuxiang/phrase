@@ -1,0 +1,75 @@
+{
+    "word": "失之交臂",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A4%B1%E4%B9%8B%E4%BA%A4%E8%87%82",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "6a3b8e76bbb842a8004ac56252ec2edaf7bcbc17b63513d5711f252fecd0615c",
+        "bytes": 27871
+    },
+    "parsed": {
+        "found": true,
+        "word": "失之交臂",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shī",
+                "zhī",
+                "jiāo",
+                "bì"
+            ],
+            "zhuyin": [
+                "ㄕ",
+                "ㄓ",
+                "ㄐㄧㄠ",
+                "ㄅㄧˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "当面错过好机会",
+                "citations": [
+                    {
+                        "text": "[孔子对颜渊说:]吾终身与汝交一臂而失之,可不哀与!",
+                        "source": "《庄子·田子方》"
+                    },
+                    {
+                        "text": "这个千载一时的机会,便失之交臂。(交臂:擦肩而过。)",
+                        "source": "清·梁启超《民国初年之币制改革》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "[孔子对颜渊说:]吾终身与汝交一臂而失之,可不哀与!",
+                "source": "《庄子·田子方》"
+            },
+            {
+                "text": "这个千载一时的机会,便失之交臂。(交臂:擦肩而过。)",
+                "source": "清·梁启超《民国初年之币制改革》"
+            }
+        ],
+        "synonyms": [
+            "坐失良机",
+            "当面错过"
+        ],
+        "antonyms": [
+            "机不可失"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "just miss the person or opportunity;just miss sb.or sth.at close range"
+    },
+    "blocks": {
+        "reading": "shī zhī jiāo bì",
+        "sense-1": "当面错过好机会",
+        "citation-1": "[孔子对颜渊说:]吾终身与汝交一臂而失之,可不哀与! — 《庄子·田子方》",
+        "citation-2": "这个千载一时的机会,便失之交臂。(交臂:擦肩而过。) — 清·梁启超《民国初年之币制改革》",
+        "synonyms": "坐失良机、当面错过",
+        "antonyms": "机不可失"
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "word": "微不足道",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%BE%AE%E4%B8%8D%E8%B6%B3%E9%81%93",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "8a5bce871a332322d237a3690e34f64fcc73bf40d15d5a570ef72eff10b89b69",
+        "bytes": 27037
+    },
+    "parsed": {
+        "found": true,
+        "word": "微不足道",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "wēi",
+                "bù",
+                "zú",
+                "dào"
+            ],
+            "zhuyin": [
+                "ㄨㄟ",
+                "ㄅㄨˋ",
+                "ㄗㄨˊ",
+                "ㄉㄠˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "事物细小而轻微,不足挂齿",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "不足挂齿",
+            "微乎其微"
+        ],
+        "antonyms": [
+            "举足轻重",
+            "硕大无朋"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "unworthy;insignificant;negligible;trifling;be knee-high to a grasshopper (成)"
+    },
+    "blocks": {
+        "reading": "wēi bù zú dào",
+        "sense-1": "事物细小而轻微,不足挂齿",
+        "synonyms": "不足挂齿、微乎其微",
+        "antonyms": "举足轻重、硕大无朋"
+    }
+}

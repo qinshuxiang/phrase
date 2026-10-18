@@ -1,0 +1,71 @@
+{
+    "word": "不胜枚举",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%8D%E8%83%9C%E6%9E%9A%E4%B8%BE",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "4b5825d3dfedbb2802c3fa7dc50372038aedfe8a7f025fcea22d40f618b5af12",
+        "bytes": 26104
+    },
+    "parsed": {
+        "found": true,
+        "word": "不胜枚举",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bù",
+                "shèng",
+                "méi",
+                "jǔ"
+            ],
+            "zhuyin": [
+                "ㄅㄨˋ",
+                "ㄕㄥˋ",
+                "ㄇㄟˊ",
+                "ㄐㄩˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "无法全部列举，形容数量极多。",
+                "citations": [
+                    {
+                        "text": "以至太师、军师、昭烈、昭献、昭文、昭德之类，不胜枚举。",
+                        "source": "清·叶廷琯《吹网录·韦昭避讳改名》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "以至太师、军师、昭烈、昭献、昭文、昭德之类，不胜枚举。",
+                "source": "清·叶廷琯《吹网录·韦昭避讳改名》"
+            }
+        ],
+        "synonyms": [
+            "不计其数",
+            "不可胜数",
+            "举不胜举",
+            "不乏其人"
+        ],
+        "antonyms": [
+            "屈指可数",
+            "寥寥无几",
+            "寥若晨星",
+            "寥寥无几﹑寥若晨星﹑屈指可数"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "too numerous to mention"
+    },
+    "blocks": {
+        "reading": "bù shèng méi jǔ",
+        "sense-1": "无法全部列举，形容数量极多。",
+        "citation-1": "以至太师、军师、昭烈、昭献、昭文、昭德之类，不胜枚举。 — 清·叶廷琯《吹网录·韦昭避讳改名》",
+        "synonyms": "不计其数、不可胜数、举不胜举、不乏其人",
+        "antonyms": "屈指可数、寥寥无几、寥若晨星、寥寥无几﹑寥若晨星﹑屈指可数"
+    }
+}

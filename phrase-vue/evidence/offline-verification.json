@@ -1,0 +1,28 @@
+{
+    "passed": true,
+    "sha256": "1ef01bb4b2efe834e61a2be5b8ee5070b24052992246cd8ac622be038292b5db",
+    "bytes": 919072,
+    "data_unchanged": true,
+    "regular_dist_unchanged": true,
+    "unit_tests_passed": 12,
+    "offline_e2e": {
+        "startTime": "2026-10-18T10:53:03.319Z",
+        "duration": 30791.27,
+        "expected": 14,
+        "skipped": 0,
+        "unexpected": 0,
+        "flaky": 0
+    },
+    "isolated_file": {
+        "passed": true,
+        "file_only": true,
+        "protocol": "file:",
+        "offline_before_first_navigation": true,
+        "isolated_filename": "成语积累 离线测试.html",
+        "sha256": "1ef01bb4b2efe834e61a2be5b8ee5070b24052992246cd8ac622be038292b5db"
+    },
+    "screenshots_inspected": [
+        "video-correction-1440.png",
+        "video-correction-390.png"
+    ]
+}

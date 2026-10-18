@@ -1,0 +1,26 @@
+{
+    "word": "一枝独秀",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%80%E6%9E%9D%E7%8B%AC%E7%A7%80",
+        "retrieved_at": "2026-10-18",
+        "http_status": 404,
+        "page_sha256": null,
+        "bytes": 0
+    },
+    "parsed": {
+        "found": false,
+        "word": "一枝独秀",
+        "readings": {
+            "pinyin": [],
+            "zhuyin": []
+        },
+        "senses": [],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "english": ""
+    },
+    "blocks": {}
+}

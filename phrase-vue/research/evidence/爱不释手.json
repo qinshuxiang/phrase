@@ -1,0 +1,56 @@
+{
+    "word": "爱不释手",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%88%B1%E4%B8%8D%E9%87%8A%E6%89%8B",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "f27742108dae682978709611a4fca51dd71051a9fb2a9e35aaef4f6c8db22e80",
+        "bytes": 26214
+    },
+    "parsed": {
+        "found": true,
+        "word": "爱不释手",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "ài",
+                "bù",
+                "shì",
+                "shǒu"
+            ],
+            "zhuyin": [
+                "ㄞˋ",
+                "ㄅㄨˋ",
+                "ㄕˋ",
+                "ㄕㄡˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "喜爱得舍不得放手。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "手不释卷",
+            "爱不忍释"
+        ],
+        "antonyms": [
+            "不屑一顾",
+            "弃若敝屣"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "fondle admiringly"
+    },
+    "blocks": {
+        "reading": "ài bù shì shǒu",
+        "sense-1": "喜爱得舍不得放手。",
+        "synonyms": "手不释卷、爱不忍释",
+        "antonyms": "不屑一顾、弃若敝屣"
+    }
+}

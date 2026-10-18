@@ -1,0 +1,80 @@
+{
+    "word": "斗转星移",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%96%97%E8%BD%AC%E6%98%9F%E7%A7%BB",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "f5d7e90d75b9b707e12615df972a404ed7f750f00fe6ec4f086bb6b0b3c662f9",
+        "bytes": 27130
+    },
+    "parsed": {
+        "found": true,
+        "word": "斗转星移",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "dǒu",
+                "zhuǎn",
+                "xīng",
+                "yí"
+            ],
+            "zhuyin": [
+                "ㄉㄡˇ",
+                "ㄓㄨㄢˇ",
+                "ㄒㄧㄥ",
+                "ㄧˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "北斗星转向，星座移动。指时间流逝或岁月变迁。",
+                "citations": [
+                    {
+                        "text": "斗转星移玉漏频，已三更，对栖莺。",
+                        "source": "五代·和凝《江城子》"
+                    },
+                    {
+                        "text": "真个杀得斗转星移，尸山血海。",
+                        "source": "《英烈传》第七三回"
+                    }
+                ]
+            },
+            {
+                "definition": "形容声势浩大，能改变星斗位置。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "斗转星移玉漏频，已三更，对栖莺。",
+                "source": "五代·和凝《江城子》"
+            },
+            {
+                "text": "真个杀得斗转星移，尸山血海。",
+                "source": "《英烈传》第七三回"
+            }
+        ],
+        "synonyms": [
+            "光阴似苒",
+            "物转星移"
+        ],
+        "antonyms": [
+            "停滞不前"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "passage of time"
+    },
+    "blocks": {
+        "reading": "dǒu zhuǎn xīng yí",
+        "sense-1": "北斗星转向，星座移动。指时间流逝或岁月变迁。",
+        "sense-2": "形容声势浩大，能改变星斗位置。",
+        "citation-1": "斗转星移玉漏频，已三更，对栖莺。 — 五代·和凝《江城子》",
+        "citation-2": "真个杀得斗转星移，尸山血海。 — 《英烈传》第七三回",
+        "synonyms": "光阴似苒、物转星移",
+        "antonyms": "停滞不前"
+    }
+}

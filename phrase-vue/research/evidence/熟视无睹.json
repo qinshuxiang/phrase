@@ -1,0 +1,59 @@
+{
+    "word": "熟视无睹",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%86%9F%E8%A7%86%E6%97%A0%E7%9D%B9",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "2686a5d00d8983a2d84b530d870e2ac8a9907803f969663eb282d16c2e1efbcf",
+        "bytes": 21917
+    },
+    "parsed": {
+        "found": true,
+        "word": "熟视无睹",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shú",
+                "shì",
+                "wú",
+                "dǔ"
+            ],
+            "zhuyin": [
+                "ㄕㄨˊ",
+                "ㄕˋ",
+                "ㄨˊ",
+                "ㄉㄨˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "经常看见却像没有看见一样。形容对事物漠不关心或漫不经心。",
+                "citations": [
+                    {
+                        "text": "静听无闻，熟视无睹，以醉为乡乐性真。",
+                        "source": "宋·林正大《括沁园春》词"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "静听无闻，熟视无睹，以醉为乡乐性真。",
+                "source": "宋·林正大《括沁园春》词"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "turn a blind eye"
+    },
+    "blocks": {
+        "reading": "shú shì wú dǔ",
+        "sense-1": "经常看见却像没有看见一样。形容对事物漠不关心或漫不经心。",
+        "citation-1": "静听无闻，熟视无睹，以醉为乡乐性真。 — 宋·林正大《括沁园春》词"
+    }
+}

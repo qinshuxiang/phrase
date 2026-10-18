@@ -1,0 +1,67 @@
+{
+    "word": "谈虎色变",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%B0%88%E8%99%8E%E8%89%B2%E5%8F%98",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "c869ba7f3c3f4208604056e7cbccb225a4dd93cad36254e1a62ee07cc6b9e1e4",
+        "bytes": 26392
+    },
+    "parsed": {
+        "found": true,
+        "word": "谈虎色变",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "tán",
+                "hǔ",
+                "sè",
+                "biàn"
+            ],
+            "zhuyin": [
+                "ㄊㄢˊ",
+                "ㄏㄨˇ",
+                "ㄙㄜˋ",
+                "ㄅㄧㄢˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻一提到可怕的事物就情绪紧张，脸色大变。",
+                "citations": [
+                    {
+                        "text": "盖先生在讲筵，奏对以救维桑，遂不为小人所容，所谓谈虎色变也。",
+                        "source": "清·黄宗羲《画川先生易俟序》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "盖先生在讲筵，奏对以救维桑，遂不为小人所容，所谓谈虎色变也。",
+                "source": "清·黄宗羲《画川先生易俟序》"
+            }
+        ],
+        "synonyms": [
+            "闻风丧胆",
+            "心有余悸"
+        ],
+        "antonyms": [
+            "面不改色",
+            "谈笑自若"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "turn pale at the mention of a tiger"
+    },
+    "blocks": {
+        "reading": "tán hǔ sè biàn",
+        "sense-1": "比喻一提到可怕的事物就情绪紧张，脸色大变。",
+        "citation-1": "盖先生在讲筵，奏对以救维桑，遂不为小人所容，所谓谈虎色变也。 — 清·黄宗羲《画川先生易俟序》",
+        "synonyms": "闻风丧胆、心有余悸",
+        "antonyms": "面不改色、谈笑自若"
+    }
+}

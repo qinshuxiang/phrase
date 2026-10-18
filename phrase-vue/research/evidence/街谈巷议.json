@@ -1,0 +1,77 @@
+{
+    "word": "街谈巷议",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%A1%97%E8%B0%88%E5%B7%B7%E8%AE%AE",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "b407dc4414037a8a9eaac9bfd0a19d8654636b923517ae1855ee5031a5a1caf7",
+        "bytes": 27354
+    },
+    "parsed": {
+        "found": true,
+        "word": "街谈巷议",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jiē",
+                "tán",
+                "xiàng",
+                "yì"
+            ],
+            "zhuyin": [
+                "ㄐㄧㄝ",
+                "ㄊㄢˊ",
+                "ㄒㄧㄤˋ",
+                "ㄧˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "街巷中的谈说议论，即民间的舆论。",
+                "citations": [
+                    {
+                        "text": "街谈巷议，弹射臧否。",
+                        "source": "汉·张衡《西京赋》"
+                    },
+                    {
+                        "text": "自元忠下狱，臣见长安城内，街谈巷议，皆以陛下委任奸宄，斥逐贤良。",
+                        "source": "《旧唐书·忠义传上·苏安恒》"
+                    }
+                ]
+            },
+            {
+                "definition": "在街巷中谈说议论，形容议论纷纷。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "街谈巷议，弹射臧否。",
+                "source": "汉·张衡《西京赋》"
+            },
+            {
+                "text": "自元忠下狱，臣见长安城内，街谈巷议，皆以陛下委任奸宄，斥逐贤良。",
+                "source": "《旧唐书·忠义传上·苏安恒》"
+            }
+        ],
+        "synonyms": [
+            "众说纷纭",
+            "交头接耳"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "street gossip"
+    },
+    "blocks": {
+        "reading": "jiē tán xiàng yì",
+        "sense-1": "街巷中的谈说议论，即民间的舆论。",
+        "sense-2": "在街巷中谈说议论，形容议论纷纷。",
+        "citation-1": "街谈巷议，弹射臧否。 — 汉·张衡《西京赋》",
+        "citation-2": "自元忠下狱，臣见长安城内，街谈巷议，皆以陛下委任奸宄，斥逐贤良。 — 《旧唐书·忠义传上·苏安恒》",
+        "synonyms": "众说纷纭、交头接耳"
+    }
+}

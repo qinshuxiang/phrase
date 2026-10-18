@@ -1,0 +1,72 @@
+{
+    "word": "盛气凌人",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%9B%9B%E6%B0%94%E5%87%8C%E4%BA%BA",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "90246f2e4b8a9e5cb945087a2f15ff3e67037c72c088981d98cca891986d63d6",
+        "bytes": 28123
+    },
+    "parsed": {
+        "found": true,
+        "word": "盛气凌人",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shèng",
+                "qì",
+                "líng",
+                "rén"
+            ],
+            "zhuyin": [
+                "ㄕㄥˋ",
+                "ㄑㄧˋ",
+                "ㄌㄧㄥˊ",
+                "ㄖㄣˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "以骄横傲慢的气势压迫他人。",
+                "citations": [
+                    {
+                        "text": "论事厉声色，盛气凌人，若好己胜者。",
+                        "source": "元·杨载《赵孟頫行状》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "论事厉声色，盛气凌人，若好己胜者。",
+                "source": "元·杨载《赵孟頫行状》"
+            }
+        ],
+        "synonyms": [
+            "目中无人",
+            "盛气临人",
+            "不可一世",
+            "咄咄逼人"
+        ],
+        "antonyms": [
+            "虚怀若谷",
+            "谦虚谨慎",
+            "平易近人",
+            "和蔼可亲",
+            "和颜悦色"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "overbearing"
+    },
+    "blocks": {
+        "reading": "shèng qì líng rén",
+        "sense-1": "以骄横傲慢的气势压迫他人。",
+        "citation-1": "论事厉声色，盛气凌人，若好己胜者。 — 元·杨载《赵孟頫行状》",
+        "synonyms": "目中无人、盛气临人、不可一世、咄咄逼人",
+        "antonyms": "虚怀若谷、谦虚谨慎、平易近人、和蔼可亲、和颜悦色"
+    }
+}

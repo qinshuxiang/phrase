@@ -1,0 +1,73 @@
+{
+    "word": "空穴来风",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%A9%BA%E7%A9%B4%E6%9D%A5%E9%A3%8E",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "b22b925049c75acb1befdb5b7e5a4e24b51c46ad5b76354795a6fcd804ccb4d3",
+        "bytes": 26347
+    },
+    "parsed": {
+        "found": true,
+        "word": "空穴来风",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "kōng",
+                "xué",
+                "lái",
+                "fēng"
+            ],
+            "zhuyin": [
+                "ㄎㄨㄥ",
+                "ㄒㄩㄝˊ",
+                "ㄌㄞˊ",
+                "ㄈㄥ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "门窗的孔穴能使风吹进来。",
+                "citations": [
+                    {
+                        "text": "枳句来巢，空穴来风。",
+                        "source": "战国·宋玉《风赋》"
+                    },
+                    {
+                        "text": "虽好事者托以成之，亦空穴来风之义也。",
+                        "source": "宋·孙光宪《北梦琐言》"
+                    }
+                ]
+            },
+            {
+                "definition": "比喻流言蜚语容易传播。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "枳句来巢，空穴来风。",
+                "source": "战国·宋玉《风赋》"
+            },
+            {
+                "text": "虽好事者托以成之，亦空穴来风之义也。",
+                "source": "宋·孙光宪《北梦琐言》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "wind blows through an empty cave"
+    },
+    "blocks": {
+        "reading": "kōng xué lái fēng",
+        "sense-1": "门窗的孔穴能使风吹进来。",
+        "sense-2": "比喻流言蜚语容易传播。",
+        "citation-1": "枳句来巢，空穴来风。 — 战国·宋玉《风赋》",
+        "citation-2": "虽好事者托以成之，亦空穴来风之义也。 — 宋·孙光宪《北梦琐言》"
+    }
+}

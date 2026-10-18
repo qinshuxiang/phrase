@@ -1,0 +1,71 @@
+{
+    "word": "滥竽充数",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%BB%A5%E7%AB%BD%E5%85%85%E6%95%B0",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "3557653d99a44434df7b1e467f7b811cbf061ffba711a596101033ad3ce2f97b",
+        "bytes": 28782
+    },
+    "parsed": {
+        "found": true,
+        "word": "滥竽充数",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "làn",
+                "yú",
+                "chōng",
+                "shù"
+            ],
+            "zhuyin": [
+                "ㄌㄢˋ",
+                "ㄩˊ",
+                "ㄔㄨㄥ",
+                "ㄕㄨˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻没有真才实学的人冒充内行，或以次品充当好货。",
+                "citations": [
+                    {
+                        "text": "若止靠着才气，摭些陈言，便不好滥竽充数了。",
+                        "source": "清·文康《儿女英雄传》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "若止靠着才气，摭些陈言，便不好滥竽充数了。",
+                "source": "清·文康《儿女英雄传》"
+            }
+        ],
+        "synonyms": [
+            "名不副实",
+            "掩人耳目",
+            "碌碌无为",
+            "凑数其间",
+            "鱼目混珠"
+        ],
+        "antonyms": [
+            "货真价实",
+            "名副其实",
+            "出类拔萃"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "pass oneself off as one of the players in an ensemble"
+    },
+    "blocks": {
+        "reading": "làn yú chōng shù",
+        "sense-1": "比喻没有真才实学的人冒充内行，或以次品充当好货。",
+        "citation-1": "若止靠着才气，摭些陈言，便不好滥竽充数了。 — 清·文康《儿女英雄传》",
+        "synonyms": "名不副实、掩人耳目、碌碌无为、凑数其间、鱼目混珠",
+        "antonyms": "货真价实、名副其实、出类拔萃"
+    }
+}

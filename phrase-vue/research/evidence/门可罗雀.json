@@ -1,0 +1,68 @@
+{
+    "word": "门可罗雀",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%97%A8%E5%8F%AF%E7%BD%97%E9%9B%80",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "e4adb7ed6322a6644ab8c6102c0648f25b5c977c6a16d6427dc3fab754cc717d",
+        "bytes": 26820
+    },
+    "parsed": {
+        "found": true,
+        "word": "门可罗雀",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "mén",
+                "kě",
+                "luó",
+                "què"
+            ],
+            "zhuyin": [
+                "ㄇㄣˊ",
+                "ㄎㄜˇ",
+                "ㄌㄨㄛˊ",
+                "ㄑㄩㄝˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容门庭冷落，宾客稀少。",
+                "citations": [
+                    {
+                        "text": "及卧疾家园，门可罗雀。",
+                        "source": "《梁书·到溉传》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "及卧疾家园，门可罗雀。",
+                "source": "《梁书·到溉传》"
+            }
+        ],
+        "synonyms": [
+            "门庭冷落",
+            "门堪罗雀"
+        ],
+        "antonyms": [
+            "门庭若市",
+            "户限为穿",
+            "往来如织"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "one can catch sparrows at the door; deserted"
+    },
+    "blocks": {
+        "reading": "mén kě luó què",
+        "sense-1": "形容门庭冷落，宾客稀少。",
+        "citation-1": "及卧疾家园，门可罗雀。 — 《梁书·到溉传》",
+        "synonyms": "门庭冷落、门堪罗雀",
+        "antonyms": "门庭若市、户限为穿、往来如织"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "word": "相形见绌",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%9B%B8%E5%BD%A2%E8%A7%81%E7%BB%8C",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "2cc3c4702dd0ff0e30fb59283e3e7b224982c22cc973ef784ef21ab54fa108ab",
+        "bytes": 26353
+    },
+    "parsed": {
+        "found": true,
+        "word": "相形见绌",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "xiāng",
+                "xíng",
+                "jiàn",
+                "chù"
+            ],
+            "zhuyin": [
+                "ㄒㄧㄤ",
+                "ㄒㄧㄥˊ",
+                "ㄐㄧㄢˋ",
+                "ㄔㄨˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "相互比较之下显出不足。",
+                "citations": [
+                    {
+                        "text": "他一个部曹，戴了个水晶顶子去当会办，比着那红蓝色的顶子，未免相形见绌。",
+                        "source": "《二十年目睹之怪现状》第九十回"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "他一个部曹，戴了个水晶顶子去当会办，比着那红蓝色的顶子，未免相形见绌。",
+                "source": "《二十年目睹之怪现状》第九十回"
+            }
+        ],
+        "synonyms": [
+            "相形失色",
+            "黯然失色"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "pale by comparison"
+    },
+    "blocks": {
+        "reading": "xiāng xíng jiàn chù",
+        "sense-1": "相互比较之下显出不足。",
+        "citation-1": "他一个部曹，戴了个水晶顶子去当会办，比着那红蓝色的顶子，未免相形见绌。 — 《二十年目睹之怪现状》第九十回",
+        "synonyms": "相形失色、黯然失色"
+    }
+}

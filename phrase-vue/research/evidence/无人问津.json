@@ -1,0 +1,65 @@
+{
+    "word": "无人问津",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%97%A0%E4%BA%BA%E9%97%AE%E6%B4%A5",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "e8e4637c3373d7b2299f833856e084584b153ffbb3f4b61682bca6e2616a80b2",
+        "bytes": 26624
+    },
+    "parsed": {
+        "found": true,
+        "word": "无人问津",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "wú",
+                "rén",
+                "wèn",
+                "jīn"
+            ],
+            "zhuyin": [
+                "ㄨˊ",
+                "ㄖㄣˊ",
+                "ㄨㄣˋ",
+                "ㄐㄧㄣ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "没有人来探问渡口。比喻事物受到冷落，无人过问。",
+                "citations": [
+                    {
+                        "text": "后遂无问津者。",
+                        "source": "晋·陶潜《桃花源记》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "后遂无问津者。",
+                "source": "晋·陶潜《桃花源记》"
+            }
+        ],
+        "synonyms": [
+            "置之不理"
+        ],
+        "antonyms": [
+            "门庭若市"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "untended"
+    },
+    "blocks": {
+        "reading": "wú rén wèn jīn",
+        "sense-1": "没有人来探问渡口。比喻事物受到冷落，无人过问。",
+        "citation-1": "后遂无问津者。 — 晋·陶潜《桃花源记》",
+        "synonyms": "置之不理",
+        "antonyms": "门庭若市"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "word": "置身事外",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%BD%AE%E8%BA%AB%E4%BA%8B%E5%A4%96",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "7187fc8cc88fd91cc2912eb3ef7a31a23ed0fe39accee15af5d2f19ded4b430d",
+        "bytes": 28911
+    },
+    "parsed": {
+        "found": true,
+        "word": "置身事外",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zhì",
+                "shēn",
+                "shì",
+                "wài"
+            ],
+            "zhuyin": [
+                "ㄓˋ",
+                "ㄕㄣ",
+                "ㄕˋ",
+                "ㄨㄞˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "不参与所发生的事情,似乎所有事物与自身毫不相干",
+                "citations": [
+                    {
+                        "text": "洞主身为领袖,又安能置身事外?",
+                        "source": "《镜花缘》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "洞主身为领袖,又安能置身事外?",
+                "source": "《镜花缘》"
+            }
+        ],
+        "synonyms": [
+            "事不关己",
+            "漠不关心",
+            "袖手旁观"
+        ],
+        "antonyms": [
+            "责无旁贷",
+            "置身其中",
+            "义不容辞"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "keep out of the business;refuse to be drawn into the matter"
+    },
+    "blocks": {
+        "reading": "zhì shēn shì wài",
+        "sense-1": "不参与所发生的事情,似乎所有事物与自身毫不相干",
+        "citation-1": "洞主身为领袖,又安能置身事外? — 《镜花缘》",
+        "synonyms": "事不关己、漠不关心、袖手旁观",
+        "antonyms": "责无旁贷、置身其中、义不容辞"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "word": "刻不容缓",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%88%BB%E4%B8%8D%E5%AE%B9%E7%BC%93",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "e0813be9e87735879920353018790b8df654906461a386a12e7716f2a8052f39",
+        "bytes": 27666
+    },
+    "parsed": {
+        "found": true,
+        "word": "刻不容缓",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "kè",
+                "bù",
+                "róng",
+                "huǎn"
+            ],
+            "zhuyin": [
+                "ㄎㄜˋ",
+                "ㄅㄨˋ",
+                "ㄖㄨㄥˊ",
+                "ㄏㄨㄢˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "片刻不能拖延。形容形势非常紧迫。",
+                "citations": [
+                    {
+                        "text": "江南水灾地亩涸出，耕种刻不容缓。",
+                        "source": "《清史稿·高宗纪一》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "江南水灾地亩涸出，耕种刻不容缓。",
+                "source": "《清史稿·高宗纪一》"
+            }
+        ],
+        "synonyms": [
+            "火烧眉毛",
+            "迫不及待",
+            "迫在眉睫",
+            "千钧一发",
+            "燃眉之急"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "urgent"
+    },
+    "blocks": {
+        "reading": "kè bù róng huǎn",
+        "sense-1": "片刻不能拖延。形容形势非常紧迫。",
+        "citation-1": "江南水灾地亩涸出，耕种刻不容缓。 — 《清史稿·高宗纪一》",
+        "synonyms": "火烧眉毛、迫不及待、迫在眉睫、千钧一发、燃眉之急"
+    }
+}

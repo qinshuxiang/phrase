@@ -1,0 +1,62 @@
+{
+    "word": "不足为奇",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%8D%E8%B6%B3%E4%B8%BA%E5%A5%87",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "ab0861c87907b377d0072b8f42ce42474b91960bb4b7d84b91b95890771ab28c",
+        "bytes": 27142
+    },
+    "parsed": {
+        "found": true,
+        "word": "不足为奇",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bù",
+                "zú",
+                "wéi",
+                "qí"
+            ],
+            "zhuyin": [
+                "ㄅㄨˋ",
+                "ㄗㄨˊ",
+                "ㄨㄟˊ",
+                "ㄑㄧˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "不值得感到奇怪。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "比比皆是",
+            "屡见不鲜",
+            "家常便饭",
+            "司空见惯",
+            "习以为常"
+        ],
+        "antonyms": [
+            "大惊小怪",
+            "千奇百怪",
+            "异乎寻常",
+            "难能可贵",
+            "闻所未闻"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "not surprising"
+    },
+    "blocks": {
+        "reading": "bù zú wéi qí",
+        "sense-1": "不值得感到奇怪。",
+        "synonyms": "比比皆是、屡见不鲜、家常便饭、司空见惯、习以为常",
+        "antonyms": "大惊小怪、千奇百怪、异乎寻常、难能可贵、闻所未闻"
+    }
+}

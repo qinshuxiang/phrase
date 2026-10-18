@@ -1,0 +1,81 @@
+{
+    "word": "阳春白雪",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%98%B3%E6%98%A5%E7%99%BD%E9%9B%AA",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "4e9fc70815c5659eeadaceda2d8a3cdf6aa9f5300bb35bd3a2310702affb709c",
+        "bytes": 27430
+    },
+    "parsed": {
+        "found": true,
+        "word": "阳春白雪",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yáng",
+                "chūn",
+                "bái",
+                "xuě"
+            ],
+            "zhuyin": [
+                "ㄧㄤˊ",
+                "ㄔㄨㄣ",
+                "ㄅㄞˊ",
+                "ㄒㄩㄝˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "战国时期楚国的高雅乐曲名称。",
+                "citations": [
+                    {
+                        "text": "其为《阳春》、《白雪》，国中属而和者不过数十人而已。",
+                        "source": "战国·宋玉《对楚王问》"
+                    },
+                    {
+                        "text": "那些个《阳春》《白雪》调偏高，赋写甄神醉里邀，风流难遇五陵豪。",
+                        "source": "明·陈汝元《金莲记·弹丝》"
+                    }
+                ]
+            },
+            {
+                "definition": "比喻高深典雅而不够通俗的文艺作品。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "其为《阳春》、《白雪》，国中属而和者不过数十人而已。",
+                "source": "战国·宋玉《对楚王问》"
+            },
+            {
+                "text": "那些个《阳春》《白雪》调偏高，赋写甄神醉里邀，风流难遇五陵豪。",
+                "source": "明·陈汝元《金莲记·弹丝》"
+            }
+        ],
+        "synonyms": [
+            "曲高和寡",
+            "鲲鹏图南"
+        ],
+        "antonyms": [
+            "下里巴人",
+            "阳阿薤露"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "Spring Snow"
+    },
+    "blocks": {
+        "reading": "yáng chūn bái xuě",
+        "sense-1": "战国时期楚国的高雅乐曲名称。",
+        "sense-2": "比喻高深典雅而不够通俗的文艺作品。",
+        "citation-1": "其为《阳春》、《白雪》，国中属而和者不过数十人而已。 — 战国·宋玉《对楚王问》",
+        "citation-2": "那些个《阳春》《白雪》调偏高，赋写甄神醉里邀，风流难遇五陵豪。 — 明·陈汝元《金莲记·弹丝》",
+        "synonyms": "曲高和寡、鲲鹏图南",
+        "antonyms": "下里巴人、阳阿薤露"
+    }
+}

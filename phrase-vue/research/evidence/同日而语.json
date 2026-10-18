@@ -1,0 +1,73 @@
+{
+    "word": "同日而语",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%90%8C%E6%97%A5%E8%80%8C%E8%AF%AD",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "e77fca37c5d4535760b7072d61472a25c6747107cb8fbdf88c216b3ca56d4fc6",
+        "bytes": 27068
+    },
+    "parsed": {
+        "found": true,
+        "word": "同日而语",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "tóng",
+                "rì",
+                "ér",
+                "yǔ"
+            ],
+            "zhuyin": [
+                "ㄊㄨㄥˊ",
+                "ㄖㄧˋ",
+                "ㄦˊ",
+                "ㄩˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "将不同事物相提并论。",
+                "citations": [
+                    {
+                        "text": "宁与四夷之乐同日而语乎？",
+                        "source": "南朝梁·沈约《均圣论》"
+                    },
+                    {
+                        "text": "夫制人之与见制于人，岂同日而语哉！",
+                        "source": "宋·苏轼《代侯公说项羽辞》"
+                    }
+                ]
+            },
+            {
+                "definition": "比较不同情况。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "宁与四夷之乐同日而语乎？",
+                "source": "南朝梁·沈约《均圣论》"
+            },
+            {
+                "text": "夫制人之与见制于人，岂同日而语哉！",
+                "source": "宋·苏轼《代侯公说项羽辞》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "mention in the same breath"
+    },
+    "blocks": {
+        "reading": "tóng rì ér yǔ",
+        "sense-1": "将不同事物相提并论。",
+        "sense-2": "比较不同情况。",
+        "citation-1": "宁与四夷之乐同日而语乎？ — 南朝梁·沈约《均圣论》",
+        "citation-2": "夫制人之与见制于人，岂同日而语哉！ — 宋·苏轼《代侯公说项羽辞》"
+    }
+}

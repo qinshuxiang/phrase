@@ -1,0 +1,68 @@
+{
+    "word": "如火如荼",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A6%82%E7%81%AB%E5%A6%82%E8%8D%BC",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "f816c8e53393c37d4092496362951580f4eb4c175e4c4ea5c16ef7e50c0d7bfd",
+        "bytes": 28867
+    },
+    "parsed": {
+        "found": true,
+        "word": "如火如荼",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "rú",
+                "huǒ",
+                "rú",
+                "tú"
+            ],
+            "zhuyin": [
+                "ㄖㄨˊ",
+                "ㄏㄨㄛˇ",
+                "ㄖㄨˊ",
+                "ㄊㄨˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "荼:开白花的茅草。像火那样红,像荼那样白。原来形容军容盛大,现在用来形容气势旺盛、热烈或激烈",
+                "citations": [
+                    {
+                        "text": "正是:如火如荼,军容何盛;疑神疑鬼,草木皆兵。",
+                        "source": "清·吴趼人《二十年目睹之怪现状》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "正是:如火如荼,军容何盛;疑神疑鬼,草木皆兵。",
+                "source": "清·吴趼人《二十年目睹之怪现状》"
+            }
+        ],
+        "synonyms": [
+            "方兴未艾",
+            "轰轰烈烈",
+            "风起云涌",
+            "汹涌澎拜"
+        ],
+        "antonyms": [
+            "无声无息"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "blazing"
+    },
+    "blocks": {
+        "reading": "rú huǒ rú tú",
+        "sense-1": "荼:开白花的茅草。像火那样红,像荼那样白。原来形容军容盛大,现在用来形容气势旺盛、热烈或激烈",
+        "citation-1": "正是:如火如荼,军容何盛;疑神疑鬼,草木皆兵。 — 清·吴趼人《二十年目睹之怪现状》",
+        "synonyms": "方兴未艾、轰轰烈烈、风起云涌、汹涌澎拜",
+        "antonyms": "无声无息"
+    }
+}

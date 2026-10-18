@@ -1,0 +1,58 @@
+{
+    "word": "克己奉公",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%85%8B%E5%B7%B1%E5%A5%89%E5%85%AC",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "7d2344c01f921cae40ba901d4e80b4ff5624bfca4dcdaa7b5d406d9a47e1279b",
+        "bytes": 26978
+    },
+    "parsed": {
+        "found": true,
+        "word": "克己奉公",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "kè",
+                "jǐ",
+                "fèng",
+                "gōng"
+            ],
+            "zhuyin": [
+                "ㄎㄜˋ",
+                "ㄐㄧˇ",
+                "ㄈㄥˋ",
+                "ㄍㄨㄥ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "克服私心,严于律己,以公事为重",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "廉政无私",
+            "公而忘私",
+            "奉公守法"
+        ],
+        "antonyms": [
+            "见利忘义",
+            "损人利己",
+            "假公济私"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "serve the public without thought of advantage to oneself;repress the private for the public"
+    },
+    "blocks": {
+        "reading": "kè jǐ fèng gōng",
+        "sense-1": "克服私心,严于律己,以公事为重",
+        "synonyms": "廉政无私、公而忘私、奉公守法",
+        "antonyms": "见利忘义、损人利己、假公济私"
+    }
+}

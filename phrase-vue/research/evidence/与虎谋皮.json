@@ -1,0 +1,57 @@
+{
+    "word": "与虎谋皮",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%8E%E8%99%8E%E8%B0%8B%E7%9A%AE",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "4d933f099f8d903d15fdd4cf1c9127b84c60bd8359433778079282f53ff679f5",
+        "bytes": 25454
+    },
+    "parsed": {
+        "found": true,
+        "word": "与虎谋皮",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yǔ",
+                "hǔ",
+                "móu",
+                "pí"
+            ],
+            "zhuyin": [
+                "ㄩˇ",
+                "ㄏㄨˇ",
+                "ㄇㄡˊ",
+                "ㄆㄧˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻与利害关系直接对立的人商量事情，对方绝不会同意，最终难以成功。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "枉费心机",
+            "水中捞月",
+            "与狐谋皮"
+        ],
+        "antonyms": [
+            "行之有效",
+            "立竿见影"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "ask a tiger for its hide"
+    },
+    "blocks": {
+        "reading": "yǔ hǔ móu pí",
+        "sense-1": "比喻与利害关系直接对立的人商量事情，对方绝不会同意，最终难以成功。",
+        "synonyms": "枉费心机、水中捞月、与狐谋皮",
+        "antonyms": "行之有效、立竿见影"
+    }
+}

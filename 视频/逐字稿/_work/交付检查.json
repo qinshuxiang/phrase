@@ -1,0 +1,13 @@
+{
+  "complete": true,
+  "videos": 11,
+  "parts": 252,
+  "txt_files": 22,
+  "archive_entries": 24,
+  "archive": "/Users/siluhao/Downloads/ChatGPT/phrase/视频/中文逐字稿-11讲.zip",
+  "archive_bytes": 706395,
+  "archive_sha256": "03ca9747baba49196133a40ed4588d044d5574bf6beaceffac703b5cf6f6b7ca",
+  "duration_seconds": 73301.93,
+  "initial_chars": 337949,
+  "polished_chars": 318646
+}

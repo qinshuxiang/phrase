@@ -1,0 +1,51 @@
+{
+    "word": "蔚为大观",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%94%9A%E4%B8%BA%E5%A4%A7%E8%A7%82",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "c2167b58fcce6be12b392586203b09a7b0e7b00c8b9c7995f376e06fb656503f",
+        "bytes": 25368
+    },
+    "parsed": {
+        "found": true,
+        "word": "蔚为大观",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "wèi",
+                "wéi",
+                "dà",
+                "guān"
+            ],
+            "zhuyin": [
+                "ㄨㄟˋ",
+                "ㄨㄟˊ",
+                "ㄉㄚˋ",
+                "ㄍㄨㄢ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "汇聚成盛大壮丽的景象。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "洋洋大观"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "grand sight"
+    },
+    "blocks": {
+        "reading": "wèi wéi dà guān",
+        "sense-1": "汇聚成盛大壮丽的景象。",
+        "synonyms": "洋洋大观"
+    }
+}

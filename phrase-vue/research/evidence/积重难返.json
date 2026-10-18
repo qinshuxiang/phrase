@@ -1,0 +1,57 @@
+{
+    "word": "积重难返",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%A7%AF%E9%87%8D%E9%9A%BE%E8%BF%94",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "4cbc3fbc92c3ff697c8bc3dd1f84a85b68dec4e9954580885a3e560c0f467214",
+        "bytes": 26434
+    },
+    "parsed": {
+        "found": true,
+        "word": "积重难返",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jī",
+                "zhòng",
+                "nán",
+                "fǎn"
+            ],
+            "zhuyin": [
+                "ㄐㄧ",
+                "ㄓㄨㄥˋ",
+                "ㄋㄢˊ",
+                "ㄈㄢˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "长期形成的不良习惯或弊端难以改变。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "积性难改",
+            "根深蒂固",
+            "积习难改"
+        ],
+        "antonyms": [
+            "拨乱反正",
+            "痛改前非"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "ingrained habits are hard to change"
+    },
+    "blocks": {
+        "reading": "jī zhòng nán fǎn",
+        "sense-1": "长期形成的不良习惯或弊端难以改变。",
+        "synonyms": "积性难改、根深蒂固、积习难改",
+        "antonyms": "拨乱反正、痛改前非"
+    }
+}

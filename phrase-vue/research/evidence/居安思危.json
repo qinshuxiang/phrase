@@ -1,0 +1,58 @@
+{
+    "word": "居安思危",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%B1%85%E5%AE%89%E6%80%9D%E5%8D%B1",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "86d96e09489abce885397793318dfbacba238fe1520a12fb43b1f1e1f0122c31",
+        "bytes": 28069
+    },
+    "parsed": {
+        "found": true,
+        "word": "居安思危",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jū",
+                "ān",
+                "sī",
+                "wēi"
+            ],
+            "zhuyin": [
+                "ㄐㄩ",
+                "ㄢ",
+                "ㄙ",
+                "ㄨㄟ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "处在平安的环境而想到会出现的困难危险",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "常备不懈",
+            "安不忘危",
+            "防患未然"
+        ],
+        "antonyms": [
+            "高枕无忧",
+            "及时行乐",
+            "刀枪入库"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "be vigilant in peace time"
+    },
+    "blocks": {
+        "reading": "jū ān sī wēi",
+        "sense-1": "处在平安的环境而想到会出现的困难危险",
+        "synonyms": "常备不懈、安不忘危、防患未然",
+        "antonyms": "高枕无忧、及时行乐、刀枪入库"
+    }
+}

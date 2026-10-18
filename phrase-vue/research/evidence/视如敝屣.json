@@ -1,0 +1,48 @@
+{
+    "word": "视如敝屣",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%A7%86%E5%A6%82%E6%95%9D%E5%B1%A3",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "31e66958468fc72c10bef3c9a6bacd6a56c0dfd8ad74316d82a472443771e6ee",
+        "bytes": 26133
+    },
+    "parsed": {
+        "found": true,
+        "word": "视如敝屣",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shì",
+                "rú",
+                "bì",
+                "xǐ"
+            ],
+            "zhuyin": [
+                "ㄕˋ",
+                "ㄖㄨˊ",
+                "ㄅㄧˋ",
+                "ㄒㄧˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "敝屣:破鞋子。看作破鞋一样。比喻极为轻视",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "regard as worn-out shoes"
+    },
+    "blocks": {
+        "reading": "shì rú bì xǐ",
+        "sense-1": "敝屣:破鞋子。看作破鞋一样。比喻极为轻视"
+    }
+}

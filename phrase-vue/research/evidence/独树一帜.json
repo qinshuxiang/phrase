@@ -1,0 +1,72 @@
+{
+    "word": "独树一帜",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%8B%AC%E6%A0%91%E4%B8%80%E5%B8%9C",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "a628e82ae52dd58c1182c4329ee60543d76d1fb5bf6f8424fb0222add2cb9ef8",
+        "bytes": 28040
+    },
+    "parsed": {
+        "found": true,
+        "word": "独树一帜",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "dú",
+                "shù",
+                "yī",
+                "zhì"
+            ],
+            "zhuyin": [
+                "ㄉㄨˊ",
+                "ㄕㄨˋ",
+                "ㄧ",
+                "ㄓˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "单独树立一面旗帜。比喻自成一家，与众不同。",
+                "citations": [
+                    {
+                        "text": "欧公学韩文，而所作文全不似韩，此八家中所以独树一帜也。",
+                        "source": "清·袁枚《随园诗话》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "欧公学韩文，而所作文全不似韩，此八家中所以独树一帜也。",
+                "source": "清·袁枚《随园诗话》"
+            }
+        ],
+        "synonyms": [
+            "别具一格",
+            "独辟蹊径",
+            "匠心独运",
+            "标新立异",
+            "自成一家"
+        ],
+        "antonyms": [
+            "如出一辙",
+            "蹈常袭故",
+            "步人后尘",
+            "人云亦云"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "unique"
+    },
+    "blocks": {
+        "reading": "dú shù yī zhì",
+        "sense-1": "单独树立一面旗帜。比喻自成一家，与众不同。",
+        "citation-1": "欧公学韩文，而所作文全不似韩，此八家中所以独树一帜也。 — 清·袁枚《随园诗话》",
+        "synonyms": "别具一格、独辟蹊径、匠心独运、标新立异、自成一家",
+        "antonyms": "如出一辙、蹈常袭故、步人后尘、人云亦云"
+    }
+}

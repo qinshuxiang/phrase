@@ -1,0 +1,64 @@
+{
+    "word": "皓首穷经",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%9A%93%E9%A6%96%E7%A9%B7%E7%BB%8F",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "8f250da39bbeed96f5f1a1dbf0481633d04bc17ec6ab44da02f7e688d131849b",
+        "bytes": 26128
+    },
+    "parsed": {
+        "found": true,
+        "word": "皓首穷经",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "hào",
+                "shǒu",
+                "qióng",
+                "jīng"
+            ],
+            "zhuyin": [
+                "ㄏㄠˋ",
+                "ㄕㄡˇ",
+                "ㄑㄩㄥˊ",
+                "ㄐㄧㄥ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "直到年老白头仍在钻研经籍。形容勤勉好学至老不倦。",
+                "citations": [
+                    {
+                        "text": "若夫小人之儒，惟务雕虫，专工翰墨；青春作赋，皓首穷经；笔下虽有千言，胸中实无一策。",
+                        "source": "《三国演义》第四三回"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "若夫小人之儒，惟务雕虫，专工翰墨；青春作赋，皓首穷经；笔下虽有千言，胸中实无一策。",
+                "source": "《三国演义》第四三回"
+            }
+        ],
+        "synonyms": [
+            "白首穷经",
+            "学而不厌",
+            "老当益壮"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "gray-haired studying"
+    },
+    "blocks": {
+        "reading": "hào shǒu qióng jīng",
+        "sense-1": "直到年老白头仍在钻研经籍。形容勤勉好学至老不倦。",
+        "citation-1": "若夫小人之儒，惟务雕虫，专工翰墨；青春作赋，皓首穷经；笔下虽有千言，胸中实无一策。 — 《三国演义》第四三回",
+        "synonyms": "白首穷经、学而不厌、老当益壮"
+    }
+}

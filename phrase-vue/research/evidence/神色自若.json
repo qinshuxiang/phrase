@@ -1,0 +1,56 @@
+{
+    "word": "神色自若",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%A5%9E%E8%89%B2%E8%87%AA%E8%8B%A5",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "270b4b1b70d2ad8a6f39bcb3a6a1ae8865478070cae6c9d6283d9af363df00b0",
+        "bytes": 26974
+    },
+    "parsed": {
+        "found": true,
+        "word": "神色自若",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shén",
+                "sè",
+                "zì",
+                "ruò"
+            ],
+            "zhuyin": [
+                "ㄕㄣˊ",
+                "ㄙㄜˋ",
+                "ㄗˋ",
+                "ㄖㄨㄛˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "神态从容自然。形容人遇事不惊",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "从容不迫",
+            "不慌不忙"
+        ],
+        "antonyms": [
+            "惊慌失措",
+            "手足无措"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "be perfectly calm and collected"
+    },
+    "blocks": {
+        "reading": "shén sè zì ruò",
+        "sense-1": "神态从容自然。形容人遇事不惊",
+        "synonyms": "从容不迫、不慌不忙",
+        "antonyms": "惊慌失措、手足无措"
+    }
+}

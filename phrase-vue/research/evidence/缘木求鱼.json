@@ -1,0 +1,69 @@
+{
+    "word": "缘木求鱼",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%BC%98%E6%9C%A8%E6%B1%82%E9%B1%BC",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "89253604de5662323595241d5f3634c6ecd684bd8a1592638f79a47185470d61",
+        "bytes": 27696
+    },
+    "parsed": {
+        "found": true,
+        "word": "缘木求鱼",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yuán",
+                "mù",
+                "qiú",
+                "yú"
+            ],
+            "zhuyin": [
+                "ㄩㄢˊ",
+                "ㄇㄨˋ",
+                "ㄑㄧㄡˊ",
+                "ㄩˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "爬上树去捉鱼。比喻方法或方向错误，不可能达到目的。",
+                "citations": [
+                    {
+                        "text": "今以所重加非其人，望其毗益万分，兴化致理，譬犹缘木求鱼，升山采珠。",
+                        "source": "《后汉书·刘玄传》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "今以所重加非其人，望其毗益万分，兴化致理，譬犹缘木求鱼，升山采珠。",
+                "source": "《后汉书·刘玄传》"
+            }
+        ],
+        "synonyms": [
+            "水中捞月",
+            "缘山求鱼",
+            "竹篮打水",
+            "刻舟求剑"
+        ],
+        "antonyms": [
+            "探囊取物",
+            "瓮中捉鳖"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "climb a tree to catch fish"
+    },
+    "blocks": {
+        "reading": "yuán mù qiú yú",
+        "sense-1": "爬上树去捉鱼。比喻方法或方向错误，不可能达到目的。",
+        "citation-1": "今以所重加非其人，望其毗益万分，兴化致理，譬犹缘木求鱼，升山采珠。 — 《后汉书·刘玄传》",
+        "synonyms": "水中捞月、缘山求鱼、竹篮打水、刻舟求剑",
+        "antonyms": "探囊取物、瓮中捉鳖"
+    }
+}

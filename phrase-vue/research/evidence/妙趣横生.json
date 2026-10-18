@@ -1,0 +1,54 @@
+{
+    "word": "妙趣横生",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A6%99%E8%B6%A3%E6%A8%AA%E7%94%9F",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "30ed5f8106006db17ee4f7903f077c597c5dc38664be3fe0af1acd15ec5aeec2",
+        "bytes": 25600
+    },
+    "parsed": {
+        "found": true,
+        "word": "妙趣横生",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "miào",
+                "qù",
+                "héng",
+                "shēng"
+            ],
+            "zhuyin": [
+                "ㄇㄧㄠˋ",
+                "ㄑㄩˋ",
+                "ㄏㄥˊ",
+                "ㄕㄥ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "美妙的意趣层出不穷。多用于对语言、文章或美术品的称赞。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "妙不可言"
+        ],
+        "antonyms": [
+            "味同嚼蜡"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "full of wit and humor"
+    },
+    "blocks": {
+        "reading": "miào qù héng shēng",
+        "sense-1": "美妙的意趣层出不穷。多用于对语言、文章或美术品的称赞。",
+        "synonyms": "妙不可言",
+        "antonyms": "味同嚼蜡"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "word": "统筹兼顾",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%BB%9F%E7%AD%B9%E5%85%BC%E9%A1%BE",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "a23b606e0f4f7161351c24115a1580ab4672631ff316e3746e867c9c770abc30",
+        "bytes": 21994
+    },
+    "parsed": {
+        "found": true,
+        "word": "统筹兼顾",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "tǒng",
+                "chóu",
+                "jiān",
+                "gù"
+            ],
+            "zhuyin": [
+                "ㄊㄨㄥˇ",
+                "ㄔㄡˊ",
+                "ㄐㄧㄢ",
+                "ㄍㄨˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "通盘筹划，全面照顾。",
+                "citations": [
+                    {
+                        "text": "同属公家之事，务望统筹兼顾，暂支目前。",
+                        "source": "清·刘坤一《复松峻帅书》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "同属公家之事，务望统筹兼顾，暂支目前。",
+                "source": "清·刘坤一《复松峻帅书》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "overall planning with due consideration"
+    },
+    "blocks": {
+        "reading": "tǒng chóu jiān gù",
+        "sense-1": "通盘筹划，全面照顾。",
+        "citation-1": "同属公家之事，务望统筹兼顾，暂支目前。 — 清·刘坤一《复松峻帅书》"
+    }
+}

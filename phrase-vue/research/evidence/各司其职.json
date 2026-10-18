@@ -1,0 +1,48 @@
+{
+    "word": "各司其职",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%90%84%E5%8F%B8%E5%85%B6%E8%81%8C",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "0ccc903670df8c7d8a498d118b7de562b4a9ada0248eff84db810cae16b6f073",
+        "bytes": 21317
+    },
+    "parsed": {
+        "found": true,
+        "word": "各司其职",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "gè",
+                "sī",
+                "qí",
+                "zhí"
+            ],
+            "zhuyin": [
+                "ㄍㄜˋ",
+                "ㄙ",
+                "ㄑㄧˊ",
+                "ㄓˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "每个人尽自己的职责，做好所承担的工作。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": ""
+    },
+    "blocks": {
+        "reading": "gè sī qí zhí",
+        "sense-1": "每个人尽自己的职责，做好所承担的工作。"
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "word": "寸步难行",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%AF%B8%E6%AD%A5%E9%9A%BE%E8%A1%8C",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "0686dfc5f47d4fc37bd7c2f591509d33bd34deab144d34787df4f7359c07f826",
+        "bytes": 30079
+    },
+    "parsed": {
+        "found": true,
+        "word": "寸步难行",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "cùn",
+                "bù",
+                "nán",
+                "xíng"
+            ],
+            "zhuyin": [
+                "ㄘㄨㄣˋ",
+                "ㄅㄨˋ",
+                "ㄋㄢˊ",
+                "ㄒㄧㄥˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容行动极为困难。",
+                "citations": [
+                    {
+                        "text": "想当年在小舟中，寸步难移。",
+                        "source": "元·郑廷玉《楚昭公》第四折"
+                    },
+                    {
+                        "text": "吾缘染患，寸步难移。",
+                        "source": "《敦煌变文集·维摩诘经讲经文一》"
+                    }
+                ]
+            },
+            {
+                "definition": "比喻处境艰难，难以有所作为。",
+                "citations": []
+            },
+            {
+                "definition": "形容行动极为困难。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "想当年在小舟中，寸步难移。",
+                "source": "元·郑廷玉《楚昭公》第四折"
+            },
+            {
+                "text": "吾缘染患，寸步难移。",
+                "source": "《敦煌变文集·维摩诘经讲经文一》"
+            }
+        ],
+        "synonyms": [
+            "步履维艰",
+            "左右为难"
+        ],
+        "antonyms": [
+            "一帆风顺",
+            "畅行无阻",
+            "一往无前"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "difficult to move"
+    },
+    "blocks": {
+        "reading": "cùn bù nán xíng",
+        "sense-1": "形容行动极为困难。",
+        "sense-2": "比喻处境艰难，难以有所作为。",
+        "sense-3": "形容行动极为困难。",
+        "citation-1": "想当年在小舟中，寸步难移。 — 元·郑廷玉《楚昭公》第四折",
+        "citation-2": "吾缘染患，寸步难移。 — 《敦煌变文集·维摩诘经讲经文一》",
+        "synonyms": "步履维艰、左右为难",
+        "antonyms": "一帆风顺、畅行无阻、一往无前"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "word": "责无旁贷",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%B4%A3%E6%97%A0%E6%97%81%E8%B4%B7",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "04031dea0087dd8df04e135a71f34c0a924c640138c8509e07e871a926b54f65",
+        "bytes": 27052
+    },
+    "parsed": {
+        "found": true,
+        "word": "责无旁贷",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zé",
+                "wú",
+                "páng",
+                "dài"
+            ],
+            "zhuyin": [
+                "ㄗㄜˊ",
+                "ㄨˊ",
+                "ㄆㄤˊ",
+                "ㄉㄞˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "自己应承担的责任，不能推卸给别人。",
+                "citations": [
+                    {
+                        "text": "至吉尔杭阿接任巡抚责无旁贷，即应督兵迅图克复上海县城，以副委任。",
+                        "source": "《清文宗显皇帝实录》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "至吉尔杭阿接任巡抚责无旁贷，即应督兵迅图克复上海县城，以副委任。",
+                "source": "《清文宗显皇帝实录》"
+            }
+        ],
+        "synonyms": [
+            "在所不辞",
+            "当仁不让",
+            "义不容辞"
+        ],
+        "antonyms": [
+            "推三阻四"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "duty-bound"
+    },
+    "blocks": {
+        "reading": "zé wú páng dài",
+        "sense-1": "自己应承担的责任，不能推卸给别人。",
+        "citation-1": "至吉尔杭阿接任巡抚责无旁贷，即应督兵迅图克复上海县城，以副委任。 — 《清文宗显皇帝实录》",
+        "synonyms": "在所不辞、当仁不让、义不容辞",
+        "antonyms": "推三阻四"
+    }
+}

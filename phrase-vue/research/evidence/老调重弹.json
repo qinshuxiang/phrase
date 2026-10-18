@@ -1,0 +1,48 @@
+{
+    "word": "老调重弹",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%80%81%E8%B0%83%E9%87%8D%E5%BC%B9",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "5ca25366c7fa8f2fffa63edc19374c911f264c3476a7f9655a74ca41986344c6",
+        "bytes": 24502
+    },
+    "parsed": {
+        "found": true,
+        "word": "老调重弹",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "lǎo",
+                "diào",
+                "chóng",
+                "tán"
+            ],
+            "zhuyin": [
+                "ㄌㄠˇ",
+                "ㄉㄧㄠˋ",
+                "ㄔㄨㄥˊ",
+                "ㄊㄢˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻重新提出陈旧的主张或理论。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "harp on the same string"
+    },
+    "blocks": {
+        "reading": "lǎo diào chóng tán",
+        "sense-1": "比喻重新提出陈旧的主张或理论。"
+    }
+}

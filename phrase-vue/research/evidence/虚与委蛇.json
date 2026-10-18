@@ -1,0 +1,71 @@
+{
+    "word": "虚与委蛇",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%99%9A%E4%B8%8E%E5%A7%94%E8%9B%87",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "39c2e719e2ee6eb04ccb53bad472603c468673c40792cefa40b7ed60318b7789",
+        "bytes": 27841
+    },
+    "parsed": {
+        "found": true,
+        "word": "虚与委蛇",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "xū",
+                "yǔ",
+                "wēi",
+                "yí"
+            ],
+            "zhuyin": [
+                "ㄒㄩ",
+                "ㄩˇ",
+                "ㄨㄟ",
+                "ㄧˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "假意殷勤，敷衍应付。",
+                "citations": [
+                    {
+                        "text": "吾与之虚而委蛇。",
+                        "source": "《庄子·应帝王》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "吾与之虚而委蛇。",
+                "source": "《庄子·应帝王》"
+            }
+        ],
+        "synonyms": [
+            "敷衍了事",
+            "虚情假意",
+            "假意周旋"
+        ],
+        "antonyms": [
+            "心口如一",
+            "真心实意",
+            "开诚相见",
+            "真诚相对",
+            "真诚相见"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "pretend politeness and compliance"
+    },
+    "blocks": {
+        "reading": "xū yǔ wēi yí",
+        "sense-1": "假意殷勤，敷衍应付。",
+        "citation-1": "吾与之虚而委蛇。 — 《庄子·应帝王》",
+        "synonyms": "敷衍了事、虚情假意、假意周旋",
+        "antonyms": "心口如一、真心实意、开诚相见、真诚相对、真诚相见"
+    }
+}

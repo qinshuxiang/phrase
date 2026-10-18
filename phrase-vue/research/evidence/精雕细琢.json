@@ -1,0 +1,26 @@
+{
+    "word": "精雕细琢",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%B2%BE%E9%9B%95%E7%BB%86%E7%90%A2",
+        "retrieved_at": "2026-10-18",
+        "http_status": 404,
+        "page_sha256": null,
+        "bytes": 0
+    },
+    "parsed": {
+        "found": false,
+        "word": "精雕细琢",
+        "readings": {
+            "pinyin": [],
+            "zhuyin": []
+        },
+        "senses": [],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "english": ""
+    },
+    "blocks": {}
+}

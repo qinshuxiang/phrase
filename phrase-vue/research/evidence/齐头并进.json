@@ -1,0 +1,55 @@
+{
+    "word": "齐头并进",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%BD%90%E5%A4%B4%E5%B9%B6%E8%BF%9B",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "02c40d60dceb60f70c86a02c8e2c54eb106748c17013df391c5fbec762af088a",
+        "bytes": 25650
+    },
+    "parsed": {
+        "found": true,
+        "word": "齐头并进",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "qí",
+                "tóu",
+                "bìng",
+                "jìn"
+            ],
+            "zhuyin": [
+                "ㄑㄧˊ",
+                "ㄊㄡˊ",
+                "ㄅㄧㄥˋ",
+                "ㄐㄧㄣˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "多方面同时向前推进。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "并肩前进",
+            "并驾齐驱"
+        ],
+        "antonyms": [
+            "参差错落"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "advance side by side"
+    },
+    "blocks": {
+        "reading": "qí tóu bìng jìn",
+        "sense-1": "多方面同时向前推进。",
+        "synonyms": "并肩前进、并驾齐驱",
+        "antonyms": "参差错落"
+    }
+}

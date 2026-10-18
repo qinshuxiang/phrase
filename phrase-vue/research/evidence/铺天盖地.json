@@ -1,0 +1,68 @@
+{
+    "word": "铺天盖地",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%93%BA%E5%A4%A9%E7%9B%96%E5%9C%B0",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "14128d4aa08e2889ee790796e492b654e88077287f7a368d069dc143389a0a70",
+        "bytes": 26355
+    },
+    "parsed": {
+        "found": true,
+        "word": "铺天盖地",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "pū",
+                "tiān",
+                "gài",
+                "dì"
+            ],
+            "zhuyin": [
+                "ㄆㄨˋ",
+                "ㄊㄧㄢ",
+                "ㄍㄞˋ",
+                "ㄉㄧˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容声势浩大，来势猛烈，充满了整个天地。",
+                "citations": [
+                    {
+                        "text": "它把大沙丘一下子卷上天空，然后又铺天盖地地撒下来。",
+                        "source": "杜鹏程《年青的朋友·瀚海新歌》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "它把大沙丘一下子卷上天空，然后又铺天盖地地撒下来。",
+                "source": "杜鹏程《年青的朋友·瀚海新歌》"
+            }
+        ],
+        "synonyms": [
+            "漫山遍野",
+            "遮天蔽日",
+            "排山倒海"
+        ],
+        "antonyms": [
+            "微不足道",
+            "蜻蜓点水"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "overwhelmingly"
+    },
+    "blocks": {
+        "reading": "pū tiān gài dì",
+        "sense-1": "形容声势浩大，来势猛烈，充满了整个天地。",
+        "citation-1": "它把大沙丘一下子卷上天空，然后又铺天盖地地撒下来。 — 杜鹏程《年青的朋友·瀚海新歌》",
+        "synonyms": "漫山遍野、遮天蔽日、排山倒海",
+        "antonyms": "微不足道、蜻蜓点水"
+    }
+}

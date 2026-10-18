@@ -1,0 +1,48 @@
+{
+    "word": "冰山一角",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%86%B0%E5%B1%B1%E4%B8%80%E8%A7%92",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "ba0579d4d4b274fa264b4bc76655de4e9e00738d70669c76dc7d69241eb61a35",
+        "bytes": 22854
+    },
+    "parsed": {
+        "found": true,
+        "word": "冰山一角",
+        "section": "guoyu",
+        "readings": {
+            "pinyin": [
+                "bīng",
+                "shān",
+                "yī",
+                "jiǎo"
+            ],
+            "zhuyin": [
+                "ㄅㄧㄥ",
+                "ㄕㄢ",
+                "ㄧ",
+                "ㄐㄧㄠˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "严重的问题呈现在表面的一小部分。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": ""
+    },
+    "blocks": {
+        "reading": "bīng shān yī jiǎo",
+        "sense-1": "严重的问题呈现在表面的一小部分。"
+    }
+}

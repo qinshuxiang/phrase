@@ -1,0 +1,69 @@
+{
+    "word": "力不从心",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%8A%9B%E4%B8%8D%E4%BB%8E%E5%BF%83",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "492502b106df3b9bdfb426e4a1f43eb0fd41d62682a702d6d94a91c73acb942b",
+        "bytes": 28051
+    },
+    "parsed": {
+        "found": true,
+        "word": "力不从心",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "lì",
+                "bù",
+                "cóng",
+                "xīn"
+            ],
+            "zhuyin": [
+                "ㄌㄧˋ",
+                "ㄅㄨˋ",
+                "ㄘㄨㄥˊ",
+                "ㄒㄧㄣ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "想做某事而能力达不到。",
+                "citations": [
+                    {
+                        "text": "今使者大兵未能得出，如诸国力不从心，东西南北自在也。",
+                        "source": "《后汉书·西域传》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "今使者大兵未能得出，如诸国力不从心，东西南北自在也。",
+                "source": "《后汉书·西域传》"
+            }
+        ],
+        "synonyms": [
+            "心有余而力不足",
+            "力所不及",
+            "无能为力"
+        ],
+        "antonyms": [
+            "得心应手",
+            "力所能及",
+            "随心所欲"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "ability falling short of one's wishes"
+    },
+    "blocks": {
+        "reading": "lì bù cóng xīn",
+        "sense-1": "想做某事而能力达不到。",
+        "citation-1": "今使者大兵未能得出，如诸国力不从心，东西南北自在也。 — 《后汉书·西域传》",
+        "synonyms": "心有余而力不足、力所不及、无能为力",
+        "antonyms": "得心应手、力所能及、随心所欲"
+    }
+}

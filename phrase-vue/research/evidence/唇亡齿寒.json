@@ -1,0 +1,59 @@
+{
+    "word": "唇亡齿寒",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%94%87%E4%BA%A1%E9%BD%BF%E5%AF%92",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "e07bf4ad1fd77331c46c34023381faf99d4b219714bdf5f5098be76a95fc0116",
+        "bytes": 27837
+    },
+    "parsed": {
+        "found": true,
+        "word": "唇亡齿寒",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "chún",
+                "wáng",
+                "chǐ",
+                "hán"
+            ],
+            "zhuyin": [
+                "ㄔㄨㄣˊ",
+                "ㄨㄤˊ",
+                "ㄔˇ",
+                "ㄏㄢˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "唇没有了,牙齿就寒冷。比喻双方休戚相关,荣辱与共",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "息息相关",
+            "休戚相关",
+            "巢毁卵破",
+            "巢倾卵破",
+            "唇齿相依"
+        ],
+        "antonyms": [
+            "隔岸观火",
+            "素昧平生"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "mutual dependency of neighboring countries when confronted with a powerful and aggressive enemy;share a common lot"
+    },
+    "blocks": {
+        "reading": "chún wáng chǐ hán",
+        "sense-1": "唇没有了,牙齿就寒冷。比喻双方休戚相关,荣辱与共",
+        "synonyms": "息息相关、休戚相关、巢毁卵破、巢倾卵破、唇齿相依",
+        "antonyms": "隔岸观火、素昧平生"
+    }
+}

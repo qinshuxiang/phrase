@@ -1,0 +1,66 @@
+{
+    "word": "阿谀奉承",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%98%BF%E8%B0%80%E5%A5%89%E6%89%BF",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "a59f6cbc60303eb9645e347fd322c182d07686e87d96e60dde08c77b85001dae",
+        "bytes": 26581
+    },
+    "parsed": {
+        "found": true,
+        "word": "阿谀奉承",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "ē",
+                "yú",
+                "fèng",
+                "chéng"
+            ],
+            "zhuyin": [
+                "ㄜ",
+                "ㄩˊ",
+                "ㄈㄥˋ",
+                "ㄔㄥˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "用讨好的言语和态度迎合他人。",
+                "citations": [
+                    {
+                        "text": "他却小器易盈，况且是个小人，在人前不过一味阿谀奉承。",
+                        "source": "明·无名氏《醉醒石》第八回"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "他却小器易盈，况且是个小人，在人前不过一味阿谀奉承。",
+                "source": "明·无名氏《醉醒石》第八回"
+            }
+        ],
+        "synonyms": [
+            "阿谀逢迎",
+            "阿其所好"
+        ],
+        "antonyms": [
+            "刚正不阿"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "flatter; adulate"
+    },
+    "blocks": {
+        "reading": "ē yú fèng chéng",
+        "sense-1": "用讨好的言语和态度迎合他人。",
+        "citation-1": "他却小器易盈，况且是个小人，在人前不过一味阿谀奉承。 — 明·无名氏《醉醒石》第八回",
+        "synonyms": "阿谀逢迎、阿其所好",
+        "antonyms": "刚正不阿"
+    }
+}

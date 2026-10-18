@@ -1,0 +1,48 @@
+{
+    "word": "怨天尤人",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%80%A8%E5%A4%A9%E5%B0%A4%E4%BA%BA",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "25049de0cbdd57f5e4cff7c278fd9b472c16288d1c90cbb99402956d9414ca3b",
+        "bytes": 28188
+    },
+    "parsed": {
+        "found": true,
+        "word": "怨天尤人",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yuàn",
+                "tiān",
+                "yóu",
+                "rén"
+            ],
+            "zhuyin": [
+                "ㄩㄢˋ",
+                "ㄊㄧㄢ",
+                "ㄧㄡˊ",
+                "ㄖㄣˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "抱怨天,埋怨人。指对不如意的事一味归咎于客观",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "complain against heaven and bear grudge against men"
+    },
+    "blocks": {
+        "reading": "yuàn tiān yóu rén",
+        "sense-1": "抱怨天,埋怨人。指对不如意的事一味归咎于客观"
+    }
+}

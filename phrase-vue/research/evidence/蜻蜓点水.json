@@ -1,0 +1,81 @@
+{
+    "word": "蜻蜓点水",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%9C%BB%E8%9C%93%E7%82%B9%E6%B0%B4",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "13ccc2d694d7abd7810bb74906f411dd0a280b00a3433c3fb22e4d2e2b06ff60",
+        "bytes": 27233
+    },
+    "parsed": {
+        "found": true,
+        "word": "蜻蜓点水",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "qīng",
+                "tíng",
+                "diǎn",
+                "shuǐ"
+            ],
+            "zhuyin": [
+                "ㄑㄧㄥ",
+                "ㄊㄧㄥˊ",
+                "ㄉㄧㄢˇ",
+                "ㄕㄨㄟˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "蜻蜓在水面飞行时尾部轻触水面即起的动作。",
+                "citations": [
+                    {
+                        "text": "嫩绿堪裁红欲绽，蜻蜓点水鸟游畔。",
+                        "source": "宋·晏殊《渔家傲》"
+                    },
+                    {
+                        "text": "这边两个新人在新房里乍来乍去，如蛱蝶穿花；欲即欲离，似蜻蜓点水。",
+                        "source": "《儿女英雄传》第二八回"
+                    }
+                ]
+            },
+            {
+                "definition": "比喻做事肤浅不深入，只是略微触及表面。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "嫩绿堪裁红欲绽，蜻蜓点水鸟游畔。",
+                "source": "宋·晏殊《渔家傲》"
+            },
+            {
+                "text": "这边两个新人在新房里乍来乍去，如蛱蝶穿花；欲即欲离，似蜻蜓点水。",
+                "source": "《儿女英雄传》第二八回"
+            }
+        ],
+        "synonyms": [
+            "走马观花",
+            "浮光掠影"
+        ],
+        "antonyms": [
+            "脚踏实地",
+            "下马观花"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "dragonfly skimming the water surface"
+    },
+    "blocks": {
+        "reading": "qīng tíng diǎn shuǐ",
+        "sense-1": "蜻蜓在水面飞行时尾部轻触水面即起的动作。",
+        "sense-2": "比喻做事肤浅不深入，只是略微触及表面。",
+        "citation-1": "嫩绿堪裁红欲绽，蜻蜓点水鸟游畔。 — 宋·晏殊《渔家傲》",
+        "citation-2": "这边两个新人在新房里乍来乍去，如蛱蝶穿花；欲即欲离，似蜻蜓点水。 — 《儿女英雄传》第二八回",
+        "synonyms": "走马观花、浮光掠影",
+        "antonyms": "脚踏实地、下马观花"
+    }
+}

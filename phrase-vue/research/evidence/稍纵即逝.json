@@ -1,0 +1,68 @@
+{
+    "word": "稍纵即逝",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%A8%8D%E7%BA%B5%E5%8D%B3%E9%80%9D",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "cbcdbe7258c8dd3161e61297a085a0b58028fe21171d383b6347161f54cf9142",
+        "bytes": 26688
+    },
+    "parsed": {
+        "found": true,
+        "word": "稍纵即逝",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shāo",
+                "zòng",
+                "jí",
+                "shì"
+            ],
+            "zhuyin": [
+                "ㄕㄠ",
+                "ㄗㄨㄥˋ",
+                "ㄐㄧˊ",
+                "ㄕˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "稍微一放松就消失了。形容时间或机会极易错过。",
+                "citations": [
+                    {
+                        "text": "执笔熟视，乃见其所欲画者，急起从之，振笔直遂，以追其所见，如兔起鹘落，少纵则逝矣。",
+                        "source": "宋·苏轼《文与可画筼筜谷偃竹记》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "执笔熟视，乃见其所欲画者，急起从之，振笔直遂，以追其所见，如兔起鹘落，少纵则逝矣。",
+                "source": "宋·苏轼《文与可画筼筜谷偃竹记》"
+            }
+        ],
+        "synonyms": [
+            "光阴似箭",
+            "昙花一现"
+        ],
+        "antonyms": [
+            "旷日持久",
+            "遥遥无期",
+            "千载一时"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "fleeting"
+    },
+    "blocks": {
+        "reading": "shāo zòng jí shì",
+        "sense-1": "稍微一放松就消失了。形容时间或机会极易错过。",
+        "citation-1": "执笔熟视，乃见其所欲画者，急起从之，振笔直遂，以追其所见，如兔起鹘落，少纵则逝矣。 — 宋·苏轼《文与可画筼筜谷偃竹记》",
+        "synonyms": "光阴似箭、昙花一现",
+        "antonyms": "旷日持久、遥遥无期、千载一时"
+    }
+}

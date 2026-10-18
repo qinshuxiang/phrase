@@ -1,0 +1,67 @@
+{
+    "word": "弱肉强食",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%BC%B1%E8%82%89%E5%BC%BA%E9%A3%9F",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "faa347889167136712ba93880eb8b9bc67214932cf0f60960ed50f68a2675c5d",
+        "bytes": 27202
+    },
+    "parsed": {
+        "found": true,
+        "word": "弱肉强食",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "ruò",
+                "ròu",
+                "qiáng",
+                "shí"
+            ],
+            "zhuyin": [
+                "ㄖㄨㄛˋ",
+                "ㄖㄡˋ",
+                "ㄑㄧㄤˊ",
+                "ㄕˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "弱者被强者欺凌吞并的自然现象。",
+                "citations": [
+                    {
+                        "text": "有生不幸遭乱世，弱肉强食官无诛。",
+                        "source": "明·刘基《秦女休行》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "有生不幸遭乱世，弱肉强食官无诛。",
+                "source": "明·刘基《秦女休行》"
+            }
+        ],
+        "synonyms": [
+            "以强凌弱",
+            "仗势欺人"
+        ],
+        "antonyms": [
+            "和平共处",
+            "共存共荣"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "jungle justice"
+    },
+    "blocks": {
+        "reading": "ruò ròu qiáng shí",
+        "sense-1": "弱者被强者欺凌吞并的自然现象。",
+        "citation-1": "有生不幸遭乱世，弱肉强食官无诛。 — 明·刘基《秦女休行》",
+        "synonyms": "以强凌弱、仗势欺人",
+        "antonyms": "和平共处、共存共荣"
+    }
+}

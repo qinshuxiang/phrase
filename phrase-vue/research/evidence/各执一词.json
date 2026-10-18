@@ -1,0 +1,65 @@
+{
+    "word": "各执一词",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%90%84%E6%89%A7%E4%B8%80%E8%AF%8D",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "98f41718eda0febd3a3d2c03e1d4ab3f167f23444758ce416b1da9e62666c7c2",
+        "bytes": 26604
+    },
+    "parsed": {
+        "found": true,
+        "word": "各执一词",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "gè",
+                "zhí",
+                "yī",
+                "cí"
+            ],
+            "zhuyin": [
+                "ㄍㄜˋ",
+                "ㄓˊ",
+                "ㄧ",
+                "ㄘˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "各人坚持自己的说法，意见不统一。",
+                "citations": [
+                    {
+                        "text": "是巳牌时分夹起，日已倒西，两下各执一词，难以定招。",
+                        "source": "《醒世恒言·卢太学诗酒傲公侯》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "是巳牌时分夹起，日已倒西，两下各执一词，难以定招。",
+                "source": "《醒世恒言·卢太学诗酒傲公侯》"
+            }
+        ],
+        "synonyms": [
+            "各执己见"
+        ],
+        "antonyms": [
+            "众口一词"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "each sticks to his own version"
+    },
+    "blocks": {
+        "reading": "gè zhí yī cí",
+        "sense-1": "各人坚持自己的说法，意见不统一。",
+        "citation-1": "是巳牌时分夹起，日已倒西，两下各执一词，难以定招。 — 《醒世恒言·卢太学诗酒傲公侯》",
+        "synonyms": "各执己见",
+        "antonyms": "众口一词"
+    }
+}

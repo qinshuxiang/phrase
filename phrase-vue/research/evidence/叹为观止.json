@@ -1,0 +1,51 @@
+{
+    "word": "叹为观止",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%8F%B9%E4%B8%BA%E8%A7%82%E6%AD%A2",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "a6275e9149451cba3c36f24a5cbc1012f24ec1843794de61bcb7872e1212ffaa",
+        "bytes": 25837
+    },
+    "parsed": {
+        "found": true,
+        "word": "叹为观止",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "tàn",
+                "wéi",
+                "guān",
+                "zhǐ"
+            ],
+            "zhuyin": []
+        },
+        "senses": [
+            {
+                "definition": "赞叹观赏的对象精妙之极、完美之至",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "拍案叫绝",
+            "击节叹赏"
+        ],
+        "antonyms": [
+            "众口交谪",
+            "惨不忍睹"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "acclaim as the acme of perfection"
+    },
+    "blocks": {
+        "reading": "tàn wéi guān zhǐ",
+        "sense-1": "赞叹观赏的对象精妙之极、完美之至",
+        "synonyms": "拍案叫绝、击节叹赏",
+        "antonyms": "众口交谪、惨不忍睹"
+    }
+}

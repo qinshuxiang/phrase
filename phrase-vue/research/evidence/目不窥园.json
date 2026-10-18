@@ -1,0 +1,65 @@
+{
+    "word": "目不窥园",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%9B%AE%E4%B8%8D%E7%AA%A5%E5%9B%AD",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "1416caf44de260f4b358f013981cbaab60a631d93fb8298d37fa65dade663d6b",
+        "bytes": 26348
+    },
+    "parsed": {
+        "found": true,
+        "word": "目不窥园",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "mù",
+                "bù",
+                "kuī",
+                "yuán"
+            ],
+            "zhuyin": [
+                "ㄇㄨˋ",
+                "ㄅㄨˋ",
+                "ㄎㄨㄟ",
+                "ㄩㄢˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "专心致志地学习，连花园都不看一眼。",
+                "citations": [
+                    {
+                        "text": "篑初白日在碧草轩目不窥园，黄昏到自己楼上课画谈帖。",
+                        "source": "清·李绿园《歧路灯》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "篑初白日在碧草轩目不窥园，黄昏到自己楼上课画谈帖。",
+                "source": "清·李绿园《歧路灯》"
+            }
+        ],
+        "synonyms": [
+            "专心致志"
+        ],
+        "antonyms": [
+            "心猿意马"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "never take a glance at the garden"
+    },
+    "blocks": {
+        "reading": "mù bù kuī yuán",
+        "sense-1": "专心致志地学习，连花园都不看一眼。",
+        "citation-1": "篑初白日在碧草轩目不窥园，黄昏到自己楼上课画谈帖。 — 清·李绿园《歧路灯》",
+        "synonyms": "专心致志",
+        "antonyms": "心猿意马"
+    }
+}

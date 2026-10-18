@@ -1,0 +1,57 @@
+{
+    "word": "好大喜功",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A5%BD%E5%A4%A7%E5%96%9C%E5%8A%9F",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "fd7103ee78cfbd5c9330e3f366bc14e3c0221eca8b6894acac767cd2e7bf6940",
+        "bytes": 27901
+    },
+    "parsed": {
+        "found": true,
+        "word": "好大喜功",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "hào",
+                "dà",
+                "xǐ",
+                "gōng"
+            ],
+            "zhuyin": [
+                "ㄏㄠˇ",
+                "ㄉㄚˋ",
+                "ㄒㄧˇ",
+                "ㄍㄨㄥ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "原指封建帝王喜欢炫耀武功。现指一心想干大事,贪大功。亦形容铺张浮夸的作风",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "好高骛远",
+            "沽名钓誉"
+        ],
+        "antonyms": [
+            "稳扎稳打",
+            "脚踏实地",
+            "老成持重"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "crave for greatness and success"
+    },
+    "blocks": {
+        "reading": "hào dà xǐ gōng",
+        "sense-1": "原指封建帝王喜欢炫耀武功。现指一心想干大事,贪大功。亦形容铺张浮夸的作风",
+        "synonyms": "好高骛远、沽名钓誉",
+        "antonyms": "稳扎稳打、脚踏实地、老成持重"
+    }
+}

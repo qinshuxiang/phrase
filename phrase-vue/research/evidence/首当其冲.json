@@ -1,0 +1,59 @@
+{
+    "word": "首当其冲",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%A6%96%E5%BD%93%E5%85%B6%E5%86%B2",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "49e9c03532cdfe947b19c1fab01a27e182959048434fc66f5df778d552d859fd",
+        "bytes": 25144
+    },
+    "parsed": {
+        "found": true,
+        "word": "首当其冲",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shǒu",
+                "dāng",
+                "qí",
+                "chōng"
+            ],
+            "zhuyin": [
+                "ㄕㄡˇ",
+                "ㄉㄤ",
+                "ㄑㄧˊ",
+                "ㄔㄨㄥ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "处于重要位置。比喻最先遭受攻击或遇到灾难。",
+                "citations": [
+                    {
+                        "text": "欧舰东来，粤东首当其冲。",
+                        "source": "《清史稿·兵志九》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "欧舰东来，粤东首当其冲。",
+                "source": "《清史稿·兵志九》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "bear the brunt"
+    },
+    "blocks": {
+        "reading": "shǒu dāng qí chōng",
+        "sense-1": "处于重要位置。比喻最先遭受攻击或遇到灾难。",
+        "citation-1": "欧舰东来，粤东首当其冲。 — 《清史稿·兵志九》"
+    }
+}

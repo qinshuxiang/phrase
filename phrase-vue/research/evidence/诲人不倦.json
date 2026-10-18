@@ -1,0 +1,64 @@
+{
+    "word": "诲人不倦",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%AF%B2%E4%BA%BA%E4%B8%8D%E5%80%A6",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "51035dc417c4570f5e7deeed824b93c1ae2f48f5dc0e172fe2238e8f8d023648",
+        "bytes": 26813
+    },
+    "parsed": {
+        "found": true,
+        "word": "诲人不倦",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "huì",
+                "rén",
+                "bù",
+                "juàn"
+            ],
+            "zhuyin": [
+                "ㄏㄨㄟˋ",
+                "ㄖㄣˊ",
+                "ㄅㄨˋ",
+                "ㄐㄩㄢˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "教导别人时耐心而不厌倦。",
+                "citations": [
+                    {
+                        "text": "默而识之，学而不厌，诲人不倦，何有于我哉！",
+                        "source": "春秋·孔子《论语·述而》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "默而识之，学而不厌，诲人不倦，何有于我哉！",
+                "source": "春秋·孔子《论语·述而》"
+            }
+        ],
+        "synonyms": [
+            "谆谆教导",
+            "不厌其烦",
+            "循循善诱"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "be tireless in teaching"
+    },
+    "blocks": {
+        "reading": "huì rén bù juàn",
+        "sense-1": "教导别人时耐心而不厌倦。",
+        "citation-1": "默而识之，学而不厌，诲人不倦，何有于我哉！ — 春秋·孔子《论语·述而》",
+        "synonyms": "谆谆教导、不厌其烦、循循善诱"
+    }
+}

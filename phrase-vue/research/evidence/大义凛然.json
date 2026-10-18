@@ -1,0 +1,67 @@
+{
+    "word": "大义凛然",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A4%A7%E4%B9%89%E5%87%9B%E7%84%B6",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "a3dc386feb5d82ff774c8008bb35c880443492a2fb609d287e955fe95598f10d",
+        "bytes": 25988
+    },
+    "parsed": {
+        "found": true,
+        "word": "大义凛然",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "dà",
+                "yì",
+                "lǐn",
+                "rán"
+            ],
+            "zhuyin": [
+                "ㄉㄚˋ",
+                "ㄧˋ",
+                "ㄌㄧㄣˇ",
+                "ㄖㄢˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容为维护正义而表现出严肃不可侵犯的样子。",
+                "citations": [
+                    {
+                        "text": "孙樵所作《西斋录》，乃是私史，至于起王氏已废之魂，上配天皇；条高后擅政之年，下系中宗，大义凛然。",
+                        "source": "清·顾炎武《日知录·孙氏西斋录》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "孙樵所作《西斋录》，乃是私史，至于起王氏已废之魂，上配天皇；条高后擅政之年，下系中宗，大义凛然。",
+                "source": "清·顾炎武《日知录·孙氏西斋录》"
+            }
+        ],
+        "synonyms": [
+            "临危不惧",
+            "正气浩然"
+        ],
+        "antonyms": [
+            "奴颜婢膝",
+            "卑躬屈膝"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "with a strong sense of righteousness"
+    },
+    "blocks": {
+        "reading": "dà yì lǐn rán",
+        "sense-1": "形容为维护正义而表现出严肃不可侵犯的样子。",
+        "citation-1": "孙樵所作《西斋录》，乃是私史，至于起王氏已废之魂，上配天皇；条高后擅政之年，下系中宗，大义凛然。 — 清·顾炎武《日知录·孙氏西斋录》",
+        "synonyms": "临危不惧、正气浩然",
+        "antonyms": "奴颜婢膝、卑躬屈膝"
+    }
+}

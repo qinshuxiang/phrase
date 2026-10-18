@@ -1,0 +1,54 @@
+{
+    "word": "故弄玄虚",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%95%85%E5%BC%84%E7%8E%84%E8%99%9A",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "7988807a2c7980aaa9adef00b216c759f0c8c86bbcd72accbdd671a25105411e",
+        "bytes": 26164
+    },
+    "parsed": {
+        "found": true,
+        "word": "故弄玄虚",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "gù",
+                "nòng",
+                "xuán",
+                "xū"
+            ],
+            "zhuyin": [
+                "ㄍㄨˋ",
+                "ㄋㄨㄥˋ",
+                "ㄒㄩㄢˊ",
+                "ㄒㄩ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "故意玩弄玄妙难解的言辞或手段，使人感到高深莫测。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "弄虚作假"
+        ],
+        "antonyms": [
+            "实事求是"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "mystify"
+    },
+    "blocks": {
+        "reading": "gù nòng xuán xū",
+        "sense-1": "故意玩弄玄妙难解的言辞或手段，使人感到高深莫测。",
+        "synonyms": "弄虚作假",
+        "antonyms": "实事求是"
+    }
+}

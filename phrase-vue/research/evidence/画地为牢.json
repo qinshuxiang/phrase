@@ -1,0 +1,81 @@
+{
+    "word": "画地为牢",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "e7292d317353dc2725aca5375829f05e0b54e9485db67b9276e0a7287e49cdbe",
+        "bytes": 27653
+    },
+    "parsed": {
+        "found": true,
+        "word": "画地为牢",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "huà",
+                "dì",
+                "wéi",
+                "láo"
+            ],
+            "zhuyin": [
+                "ㄏㄨㄚˋ",
+                "ㄉㄧˋ",
+                "ㄨㄟˊ",
+                "ㄌㄠˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "上古时期在地上画圈作为监牢象征性拘禁罪人。",
+                "citations": [
+                    {
+                        "text": "故有画地为牢，势不可入，削木为吏，议不可对，定计于鲜也。",
+                        "source": "汉·司马迁《报任少卿书》"
+                    },
+                    {
+                        "text": "他每都指山卖磨，将百姓画地为牢。",
+                        "source": "元·岳伯川《铁拐李》"
+                    }
+                ]
+            },
+            {
+                "definition": "比喻自我设限拘泥于特定范围。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "故有画地为牢，势不可入，削木为吏，议不可对，定计于鲜也。",
+                "source": "汉·司马迁《报任少卿书》"
+            },
+            {
+                "text": "他每都指山卖磨，将百姓画地为牢。",
+                "source": "元·岳伯川《铁拐李》"
+            }
+        ],
+        "synonyms": [
+            "作茧自缚",
+            "画地为狱"
+        ],
+        "antonyms": [
+            "任其驰骋",
+            "豪放不羁"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "draw a circle on the ground as a prison"
+    },
+    "blocks": {
+        "reading": "huà dì wéi láo",
+        "sense-1": "上古时期在地上画圈作为监牢象征性拘禁罪人。",
+        "sense-2": "比喻自我设限拘泥于特定范围。",
+        "citation-1": "故有画地为牢，势不可入，削木为吏，议不可对，定计于鲜也。 — 汉·司马迁《报任少卿书》",
+        "citation-2": "他每都指山卖磨，将百姓画地为牢。 — 元·岳伯川《铁拐李》",
+        "synonyms": "作茧自缚、画地为狱",
+        "antonyms": "任其驰骋、豪放不羁"
+    }
+}

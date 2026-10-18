@@ -1,0 +1,54 @@
+{
+    "word": "穿针引线",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%A9%BF%E9%92%88%E5%BC%95%E7%BA%BF",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "d6108cc3766f0707622bde541effbce1f7678d10d5fb60c2e8c1bcd1e45e7c94",
+        "bytes": 26899
+    },
+    "parsed": {
+        "found": true,
+        "word": "穿针引线",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "chuān",
+                "zhēn",
+                "yǐn",
+                "xiàn"
+            ],
+            "zhuyin": [
+                "ㄔㄨㄢ",
+                "ㄓㄣ",
+                "ㄧㄣˇ",
+                "ㄒㄧㄢˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻从中联系",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "牵线搭桥"
+        ],
+        "antonyms": [
+            "挑拨离间"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "try to make a match;act as a go-between"
+    },
+    "blocks": {
+        "reading": "chuān zhēn yǐn xiàn",
+        "sense-1": "比喻从中联系",
+        "synonyms": "牵线搭桥",
+        "antonyms": "挑拨离间"
+    }
+}

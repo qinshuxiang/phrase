@@ -1,0 +1,60 @@
+{
+    "word": "迫在眉睫",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%BF%AB%E5%9C%A8%E7%9C%89%E7%9D%AB",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "f62d88caae26d3b7ad07aaf0aadccb319cbe26cc41e348046162b13e612dfc14",
+        "bytes": 28013
+    },
+    "parsed": {
+        "found": true,
+        "word": "迫在眉睫",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "pò",
+                "zài",
+                "méi",
+                "jié"
+            ],
+            "zhuyin": [
+                "ㄆㄛˋ",
+                "ㄗㄞˋ",
+                "ㄇㄟˊ",
+                "ㄐㄧㄝ",
+                "ˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻事情已到了十分紧急的关头",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "火烧眉毛",
+            "迫不及待",
+            "当务之急",
+            "急如星火",
+            "燃眉之急"
+        ],
+        "antonyms": [
+            "远在天边",
+            "慢条斯理"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "imminent"
+    },
+    "blocks": {
+        "reading": "pò zài méi jié",
+        "sense-1": "比喻事情已到了十分紧急的关头",
+        "synonyms": "火烧眉毛、迫不及待、当务之急、急如星火、燃眉之急",
+        "antonyms": "远在天边、慢条斯理"
+    }
+}

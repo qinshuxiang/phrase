@@ -1,0 +1,69 @@
+{
+    "word": "江心补漏",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%B1%9F%E5%BF%83%E8%A1%A5%E6%BC%8F",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "5a7f10b509cf8efb84214e1ab19b49906c8ce404de544a1c9febdae53d6640c7",
+        "bytes": 25875
+    },
+    "parsed": {
+        "found": true,
+        "word": "江心补漏",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jiāng",
+                "xīn",
+                "bǔ",
+                "lòu"
+            ],
+            "zhuyin": [
+                "ㄐㄧㄤ",
+                "ㄒㄧㄣ",
+                "ㄅㄨˇ",
+                "ㄌㄡˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "船到江心才修补漏洞。比喻补救时机已过，无法挽回。",
+                "citations": [
+                    {
+                        "text": "今为吾主计之，必先预为准备，莫待临歧勒马，江心补漏，是臣之愿也。",
+                        "source": "《七十二朝人物演义·叶公问政》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "今为吾主计之，必先预为准备，莫待临歧勒马，江心补漏，是臣之愿也。",
+                "source": "《七十二朝人物演义·叶公问政》"
+            }
+        ],
+        "synonyms": [
+            "悔之莫及",
+            "临渴掘井"
+        ],
+        "antonyms": [
+            "有备无患",
+            "防微杜渐",
+            "曲突徙薪",
+            "未雨绸缪"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "mend leak in midstream"
+    },
+    "blocks": {
+        "reading": "jiāng xīn bǔ lòu",
+        "sense-1": "船到江心才修补漏洞。比喻补救时机已过，无法挽回。",
+        "citation-1": "今为吾主计之，必先预为准备，莫待临歧勒马，江心补漏，是臣之愿也。 — 《七十二朝人物演义·叶公问政》",
+        "synonyms": "悔之莫及、临渴掘井",
+        "antonyms": "有备无患、防微杜渐、曲突徙薪、未雨绸缪"
+    }
+}

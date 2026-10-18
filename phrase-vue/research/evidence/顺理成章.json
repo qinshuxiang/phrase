@@ -1,0 +1,68 @@
+{
+    "word": "顺理成章",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%A1%BA%E7%90%86%E6%88%90%E7%AB%A0",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "7aa78a66217f638293eab2fb1ac631a072bf5da51b3b49fc855c789f51f7e71a",
+        "bytes": 27055
+    },
+    "parsed": {
+        "found": true,
+        "word": "顺理成章",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shùn",
+                "lǐ",
+                "chéng",
+                "zhāng"
+            ],
+            "zhuyin": [
+                "ㄕㄨㄣˋ",
+                "ㄌㄧˇ",
+                "ㄔㄥˊ",
+                "ㄓㄤ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "说话或做事遵循事理，合乎情理，自然妥当。",
+                "citations": [
+                    {
+                        "text": "姑妈！我父亲当日虽然说发的是横财，却是顺理成章，自然到手的，并不是悖入之物。",
+                        "source": "《九命奇冤》第九回"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "姑妈！我父亲当日虽然说发的是横财，却是顺理成章，自然到手的，并不是悖入之物。",
+                "source": "《九命奇冤》第九回"
+            }
+        ],
+        "synonyms": [
+            "水到渠成",
+            "马到成功"
+        ],
+        "antonyms": [
+            "颠三倒四",
+            "语无伦次",
+            "倒行逆施"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "logical"
+    },
+    "blocks": {
+        "reading": "shùn lǐ chéng zhāng",
+        "sense-1": "说话或做事遵循事理，合乎情理，自然妥当。",
+        "citation-1": "姑妈！我父亲当日虽然说发的是横财，却是顺理成章，自然到手的，并不是悖入之物。 — 《九命奇冤》第九回",
+        "synonyms": "水到渠成、马到成功",
+        "antonyms": "颠三倒四、语无伦次、倒行逆施"
+    }
+}

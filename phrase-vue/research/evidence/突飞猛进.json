@@ -1,0 +1,56 @@
+{
+    "word": "突飞猛进",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%AA%81%E9%A3%9E%E7%8C%9B%E8%BF%9B",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "b25acfc7c0cc1cbc1cdde34b5d2882a53894f84c7845e235f08e30a2eba052b7",
+        "bytes": 25763
+    },
+    "parsed": {
+        "found": true,
+        "word": "突飞猛进",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "tū",
+                "fēi",
+                "měng",
+                "jìn"
+            ],
+            "zhuyin": [
+                "ㄊㄨ",
+                "ㄈㄟ",
+                "ㄇㄥˇ",
+                "ㄐㄧㄣˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容发展进步极其迅速。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "日新月异",
+            "一日千里"
+        ],
+        "antonyms": [
+            "停滞不前",
+            "江河日下"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "advance rapidly"
+    },
+    "blocks": {
+        "reading": "tū fēi měng jìn",
+        "sense-1": "形容发展进步极其迅速。",
+        "synonyms": "日新月异、一日千里",
+        "antonyms": "停滞不前、江河日下"
+    }
+}

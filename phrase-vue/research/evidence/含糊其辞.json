@@ -1,0 +1,56 @@
+{
+    "word": "含糊其辞",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%90%AB%E7%B3%8A%E5%85%B6%E8%BE%9E",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "41817982018251dede2a55f1ce73708e679e01af9de4217a29e53b50dd4c60dc",
+        "bytes": 24807
+    },
+    "parsed": {
+        "found": true,
+        "word": "含糊其辞",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "hán",
+                "hú",
+                "qí",
+                "cí"
+            ],
+            "zhuyin": [
+                "ㄏㄢˊ",
+                "ㄏㄨ",
+                "ㄑㄧˊ",
+                "ㄘˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "说话故意不清楚，不明确表态。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "闪烁其辞"
+        ],
+        "antonyms": [
+            "单刀直入",
+            "心直口快",
+            "开门见山"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "equivocate"
+    },
+    "blocks": {
+        "reading": "hán hú qí cí",
+        "sense-1": "说话故意不清楚，不明确表态。",
+        "synonyms": "闪烁其辞",
+        "antonyms": "单刀直入、心直口快、开门见山"
+    }
+}

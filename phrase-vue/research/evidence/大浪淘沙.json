@@ -1,0 +1,41 @@
+{
+    "word": "大浪淘沙",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A4%A7%E6%B5%AA%E6%B7%98%E6%B2%99",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "7e586faea4f5cef2e79a4e01d7df9f3b30631fb6bb27a469960bd2d4dcf735f6",
+        "bytes": 21060
+    },
+    "parsed": {
+        "found": true,
+        "word": "大浪淘沙",
+        "section": "idiom",
+        "readings": {
+            "pinyin": [],
+            "zhuyin": []
+        },
+        "senses": [
+            {
+                "definition": "淘：用水冲洗。去掉杂质。在大浪中洗净沙石。比喻在激烈的斗争中经受考验、筛选。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": {
+            "text": "粟裕《激流归大海》：“这支队伍经过严峻的锻炼和考验，质量更高了，是大浪淘沙保留下来的精华。”",
+            "source": "大浪淘沙"
+        },
+        "grammar": "",
+        "example": "",
+        "english": ""
+    },
+    "blocks": {
+        "sense-1": "淘：用水冲洗。去掉杂质。在大浪中洗净沙石。比喻在激烈的斗争中经受考验、筛选。",
+        "origin": "粟裕《激流归大海》：“这支队伍经过严峻的锻炼和考验，质量更高了，是大浪淘沙保留下来的精华。”"
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "word": "殚精竭虑",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%AE%9A%E7%B2%BE%E7%AB%AD%E8%99%91",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "211e8bdd3455cead18fac47cbff82b2bcaa91b3d9f45d815e9eb0e61813ad7cf",
+        "bytes": 28191
+    },
+    "parsed": {
+        "found": true,
+        "word": "殚精竭虑",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "dān",
+                "jīng",
+                "jié",
+                "lǜ"
+            ],
+            "zhuyin": [
+                "ㄉㄢ",
+                "ㄐㄧㄥ",
+                "ㄐㄧㄝ",
+                "ˊ",
+                "ㄌㄩˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "用尽精力，费尽心思。",
+                "citations": [
+                    {
+                        "text": "惟有殚精竭虑，整顿维持，以期力保地方。",
+                        "source": "《太平天国资料·史致谔档案》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "惟有殚精竭虑，整顿维持，以期力保地方。",
+                "source": "《太平天国资料·史致谔档案》"
+            }
+        ],
+        "synonyms": [
+            "费尽心机",
+            "千方百计",
+            "处心积虑",
+            "挖空心思",
+            "殚智竭力",
+            "殚思极虑",
+            "竭尽心思"
+        ],
+        "antonyms": [
+            "敷衍塞责",
+            "掉以轻心"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "exhaust one's mental faculties"
+    },
+    "blocks": {
+        "reading": "dān jīng jié lǜ",
+        "sense-1": "用尽精力，费尽心思。",
+        "citation-1": "惟有殚精竭虑，整顿维持，以期力保地方。 — 《太平天国资料·史致谔档案》",
+        "synonyms": "费尽心机、千方百计、处心积虑、挖空心思、殚智竭力、殚思极虑、竭尽心思",
+        "antonyms": "敷衍塞责、掉以轻心"
+    }
+}

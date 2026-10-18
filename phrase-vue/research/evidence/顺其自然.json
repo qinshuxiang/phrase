@@ -1,0 +1,54 @@
+{
+    "word": "顺其自然",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%A1%BA%E5%85%B6%E8%87%AA%E7%84%B6",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "2cb94559ec9353773c9182e1b570cde3720463bc5b0317e46a859de559b9512b",
+        "bytes": 24816
+    },
+    "parsed": {
+        "found": true,
+        "word": "顺其自然",
+        "section": "idiom",
+        "readings": {
+            "pinyin": [
+                "shùn",
+                "qí",
+                "zì",
+                "rán"
+            ],
+            "zhuyin": [
+                "ㄕㄨㄣˋ",
+                "ㄑㄧˊ",
+                "ㄗˋ",
+                "ㄖㄢˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "顺：顺应。顺应它自然发展，不人为去干涉。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": {
+            "text": "丰子恺《自然》：“只要是顺其自然的天性而动，都是美的姿态的所有者，都可以礼赞。”",
+            "source": "顺其自然"
+        },
+        "grammar": "作谓语、宾语；多用于无奈时",
+        "example": "周作人《中年》：“我想最好还是～。”",
+        "english": ""
+    },
+    "blocks": {
+        "reading": "shùn qí zì rán",
+        "sense-1": "顺：顺应。顺应它自然发展，不人为去干涉。",
+        "origin": "丰子恺《自然》：“只要是顺其自然的天性而动，都是美的姿态的所有者，都可以礼赞。”",
+        "grammar": "作谓语、宾语；多用于无奈时",
+        "example": "周作人《中年》：“我想最好还是～。”"
+    }
+}

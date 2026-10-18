@@ -1,0 +1,71 @@
+{
+    "word": "瞬息万变",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%9E%AC%E6%81%AF%E4%B8%87%E5%8F%98",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "c7d3be70ab4677b9723c5c4b8ace7fef38d28539a13e713303f4f9a9ce2892a4",
+        "bytes": 27334
+    },
+    "parsed": {
+        "found": true,
+        "word": "瞬息万变",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shùn",
+                "xī",
+                "wàn",
+                "biàn"
+            ],
+            "zhuyin": [
+                "ㄕㄨㄣˋ",
+                "ㄒㄧ",
+                "ㄨㄢˋ",
+                "ㄅㄧㄢˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容在极短时间内发生众多变化。",
+                "citations": [
+                    {
+                        "text": "大凡交涉的事是瞬息千变的，祇看雯兄养疴一个月，国家已经蹙地八百里了。",
+                        "source": "《孽海花》第二四回"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "大凡交涉的事是瞬息千变的，祇看雯兄养疴一个月，国家已经蹙地八百里了。",
+                "source": "《孽海花》第二四回"
+            }
+        ],
+        "synonyms": [
+            "风云变幻",
+            "变化多端",
+            "变化无穷",
+            "变幻莫测",
+            "千变万化"
+        ],
+        "antonyms": [
+            "停滞不前",
+            "刻舟求剑",
+            "一成不变"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "rapidly changing"
+    },
+    "blocks": {
+        "reading": "shùn xī wàn biàn",
+        "sense-1": "形容在极短时间内发生众多变化。",
+        "citation-1": "大凡交涉的事是瞬息千变的，祇看雯兄养疴一个月，国家已经蹙地八百里了。 — 《孽海花》第二四回",
+        "synonyms": "风云变幻、变化多端、变化无穷、变幻莫测、千变万化",
+        "antonyms": "停滞不前、刻舟求剑、一成不变"
+    }
+}

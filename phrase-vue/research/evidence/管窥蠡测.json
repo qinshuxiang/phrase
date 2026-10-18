@@ -1,0 +1,67 @@
+{
+    "word": "管窥蠡测",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%AE%A1%E7%AA%A5%E8%A0%A1%E6%B5%8B",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "db8bc3be5dff964b8aa1883b0e9a557b2d2b8ba22fe5329639dd1674eb53101c",
+        "bytes": 25946
+    },
+    "parsed": {
+        "found": true,
+        "word": "管窥蠡测",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "guǎn",
+                "kuī",
+                "lí",
+                "cè"
+            ],
+            "zhuyin": [
+                "ㄍㄨㄢˇ",
+                "ㄎㄨㄟ",
+                "ㄌㄧˊ",
+                "ㄘㄜˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻见识狭隘浅薄，如同透过竹管看天、用瓢测量海水。",
+                "citations": [
+                    {
+                        "text": "一耳目之管窥蠡测，又焉得遍观而尽识也。",
+                        "source": "明·张纶《林泉随笔》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "一耳目之管窥蠡测，又焉得遍观而尽识也。",
+                "source": "明·张纶《林泉随笔》"
+            }
+        ],
+        "synonyms": [
+            "盲人摸象",
+            "坐井观天",
+            "以管窥天"
+        ],
+        "antonyms": [
+            "洞若观火"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "limited perspective"
+    },
+    "blocks": {
+        "reading": "guǎn kuī lí cè",
+        "sense-1": "比喻见识狭隘浅薄，如同透过竹管看天、用瓢测量海水。",
+        "citation-1": "一耳目之管窥蠡测，又焉得遍观而尽识也。 — 明·张纶《林泉随笔》",
+        "synonyms": "盲人摸象、坐井观天、以管窥天",
+        "antonyms": "洞若观火"
+    }
+}

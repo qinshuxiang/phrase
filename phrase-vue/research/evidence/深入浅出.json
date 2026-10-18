@@ -1,0 +1,80 @@
+{
+    "word": "深入浅出",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "b8d808ab69d28bea4a58686939131a92bd6e7dfc29f386c48277969ed0513aa4",
+        "bytes": 28906
+    },
+    "parsed": {
+        "found": true,
+        "word": "深入浅出",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shēn",
+                "rù",
+                "qiǎn",
+                "chū"
+            ],
+            "zhuyin": [
+                "ㄕㄣ",
+                "ㄖㄨˋ",
+                "ㄑㄧㄢˇ",
+                "ㄔㄨ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "以浅显易懂的方式表达深刻的内容。",
+                "citations": [
+                    {
+                        "text": "从容和雅，如天衣之无缝；深入浅出，方臻此境。",
+                        "source": "清·袁枚《随园诗话》"
+                    },
+                    {
+                        "text": "鸿论深入显出，切中事机，据理辨驳，虽有利口，无所复置其喙。",
+                        "source": "明·朱之瑜《与释独立书》"
+                    }
+                ]
+            },
+            {
+                "definition": "以浅显明白的方式表达深刻的内容。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "从容和雅，如天衣之无缝；深入浅出，方臻此境。",
+                "source": "清·袁枚《随园诗话》"
+            },
+            {
+                "text": "鸿论深入显出，切中事机，据理辨驳，虽有利口，无所复置其喙。",
+                "source": "明·朱之瑜《与释独立书》"
+            }
+        ],
+        "synonyms": [
+            "深入显出"
+        ],
+        "antonyms": [
+            "深文奥义",
+            "隐晦曲折"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "explain profound ideas in simple language"
+    },
+    "blocks": {
+        "reading": "shēn rù qiǎn chū",
+        "sense-1": "以浅显易懂的方式表达深刻的内容。",
+        "sense-2": "以浅显明白的方式表达深刻的内容。",
+        "citation-1": "从容和雅，如天衣之无缝；深入浅出，方臻此境。 — 清·袁枚《随园诗话》",
+        "citation-2": "鸿论深入显出，切中事机，据理辨驳，虽有利口，无所复置其喙。 — 明·朱之瑜《与释独立书》",
+        "synonyms": "深入显出",
+        "antonyms": "深文奥义、隐晦曲折"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "word": "功败垂成",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%8A%9F%E8%B4%A5%E5%9E%82%E6%88%90",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "b5847c59c5ec71502b8ea0a0552a25660a822d020fd5749038d34d452aa6d4c0",
+        "bytes": 27033
+    },
+    "parsed": {
+        "found": true,
+        "word": "功败垂成",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "gōng",
+                "bài",
+                "chuí",
+                "chéng"
+            ],
+            "zhuyin": [
+                "ㄍㄨㄥ",
+                "ㄅㄞˋ",
+                "ㄔㄨㄟˊ",
+                "ㄔㄥˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "事情在即将成功时却遭遇失败。",
+                "citations": [
+                    {
+                        "text": "庙算有遗，良图不果，降龄何促，功败垂成。",
+                        "source": "《晋书·谢安传论》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "庙算有遗，良图不果，降龄何促，功败垂成。",
+                "source": "《晋书·谢安传论》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "fail when near success"
+    },
+    "blocks": {
+        "reading": "gōng bài chuí chéng",
+        "sense-1": "事情在即将成功时却遭遇失败。",
+        "citation-1": "庙算有遗，良图不果，降龄何促，功败垂成。 — 《晋书·谢安传论》"
+    }
+}

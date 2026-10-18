@@ -1,0 +1,16 @@
+{
+    "retained_data_matches_original_archive": true,
+    "unique_long_passages_checked": 170,
+    "long_passage_leaks": [],
+    "business_identifier_matches": [],
+    "source_annotation_fields": 123,
+    "source_annotation_occurrences": 137,
+    "annotation_counts": {
+        "dist/assets/index-C7jEVmeB.js": 137,
+        "src/data/vocab-data.json": 137
+    },
+    "ui_hashes_verified": true,
+    "ui_file_count": 76,
+    "e2e_passed": 12,
+    "visual_passed": 2
+}

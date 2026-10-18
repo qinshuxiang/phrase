@@ -1,0 +1,52 @@
+{
+    "word": "鄙夷不屑",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%84%99%E5%A4%B7%E4%B8%8D%E5%B1%91",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "868930e485e1e8d751ad7318ea04af3b89f5e24e9f8b09733944117adc1a97ff",
+        "bytes": 23899
+    },
+    "parsed": {
+        "found": true,
+        "word": "鄙夷不屑",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bǐ",
+                "yí",
+                "bù",
+                "xiè"
+            ],
+            "zhuyin": [
+                "ㄅㄧˇ",
+                "ㄧˊ",
+                "ㄅㄨˋ",
+                "ㄒㄧㄝ",
+                "ˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "轻视、看不起的态度。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "不屑一顾"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "disdainful"
+    },
+    "blocks": {
+        "reading": "bǐ yí bù xiè",
+        "sense-1": "轻视、看不起的态度。",
+        "synonyms": "不屑一顾"
+    }
+}

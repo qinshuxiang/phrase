@@ -1,0 +1,56 @@
+{
+    "word": "字斟句酌",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%AD%97%E6%96%9F%E5%8F%A5%E9%85%8C",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "cdba8dbda44d7301f5f4f7e90872f3ba6b49acc59e753c6fc50834eddced9c26",
+        "bytes": 26534
+    },
+    "parsed": {
+        "found": true,
+        "word": "字斟句酌",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zì",
+                "zhēn",
+                "jù",
+                "zhuó"
+            ],
+            "zhuyin": [
+                "ㄗˋ",
+                "ㄓㄣ",
+                "ㄐㄩˋ",
+                "ㄓㄨㄛˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容行文吐字细致谨慎,逐字逐句斟酌选定",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "咬文嚼字",
+            "精雕细刻",
+            "精益求精"
+        ],
+        "antonyms": [
+            "离题万里"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "choose one’s words with great care;weight every word"
+    },
+    "blocks": {
+        "reading": "zì zhēn jù zhuó",
+        "sense-1": "形容行文吐字细致谨慎,逐字逐句斟酌选定",
+        "synonyms": "咬文嚼字、精雕细刻、精益求精",
+        "antonyms": "离题万里"
+    }
+}

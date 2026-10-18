@@ -1,0 +1,72 @@
+{
+    "word": "天翻地覆",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A4%A9%E7%BF%BB%E5%9C%B0%E8%A6%86",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "95cc5837c0bc8becdfabdc987eb0899d07a05f352ee28083fb909da6d26e6d2e",
+        "bytes": 29324
+    },
+    "parsed": {
+        "found": true,
+        "word": "天翻地覆",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "tiān",
+                "fān",
+                "dì",
+                "fù"
+            ],
+            "zhuyin": [
+                "ㄊㄧㄢ",
+                "ㄈㄢ",
+                "ㄉㄧˋ",
+                "ㄈㄨˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容彻底的变革",
+                "citations": [
+                    {
+                        "text": "虎踞龙盘今胜昔,天翻地覆慨而慷。",
+                        "source": "毛泽东《人民解放军占领南京》"
+                    }
+                ]
+            },
+            {
+                "definition": "形容秩序极为混乱",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "虎踞龙盘今胜昔,天翻地覆慨而慷。",
+                "source": "毛泽东《人民解放军占领南京》"
+            }
+        ],
+        "synonyms": [
+            "翻天覆地",
+            "天崩地裂",
+            "天崩地裂 2.翻天覆地"
+        ],
+        "antonyms": [
+            "一成不变"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "state of extreme confusion as the sky and the earth turning upside down;earth-shaking"
+    },
+    "blocks": {
+        "reading": "tiān fān dì fù",
+        "sense-1": "形容彻底的变革",
+        "sense-2": "形容秩序极为混乱",
+        "citation-1": "虎踞龙盘今胜昔,天翻地覆慨而慷。 — 毛泽东《人民解放军占领南京》",
+        "synonyms": "翻天覆地、天崩地裂、天崩地裂 2.翻天覆地",
+        "antonyms": "一成不变"
+    }
+}

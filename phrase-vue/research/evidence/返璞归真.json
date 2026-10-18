@@ -1,0 +1,59 @@
+{
+    "word": "返璞归真",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%BF%94%E7%92%9E%E5%BD%92%E7%9C%9F",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "f618dd997d31261f7bcee73aa42e96c39cb5bc385a77243bbcd6815cc25c3a4e",
+        "bytes": 24842
+    },
+    "parsed": {
+        "found": true,
+        "word": "返璞归真",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "fǎn",
+                "pú",
+                "guī",
+                "zhēn"
+            ],
+            "zhuyin": [
+                "ㄈㄢˇ",
+                "ㄆㄨˊ",
+                "ㄍㄨㄟ",
+                "ㄓㄣ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "去除外在修饰，恢复本来面貌。",
+                "citations": [
+                    {
+                        "text": "上帝基督化人，超凡入圣，返璞归真。",
+                        "source": "太平天国·洪仁玕《英杰归真》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "上帝基督化人，超凡入圣，返璞归真。",
+                "source": "太平天国·洪仁玕《英杰归真》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "return to original purity"
+    },
+    "blocks": {
+        "reading": "fǎn pú guī zhēn",
+        "sense-1": "去除外在修饰，恢复本来面貌。",
+        "citation-1": "上帝基督化人，超凡入圣，返璞归真。 — 太平天国·洪仁玕《英杰归真》"
+    }
+}

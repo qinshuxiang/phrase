@@ -1,0 +1,67 @@
+{
+    "word": "鹤立鸡群",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%B9%A4%E7%AB%8B%E9%B8%A1%E7%BE%A4",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "a84126c1ea5d15799d78657c3ec00495621746d7d8dfd2f3d8404ee352980f58",
+        "bytes": 27702
+    },
+    "parsed": {
+        "found": true,
+        "word": "鹤立鸡群",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "hè",
+                "lì",
+                "jī",
+                "qún"
+            ],
+            "zhuyin": [
+                "ㄏㄜˋ",
+                "ㄌㄧˋ",
+                "ㄐㄧ",
+                "ㄑㄩㄣˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻人的才能或仪表在人群中显得特别突出。",
+                "citations": [
+                    {
+                        "text": "谁知女儿国王忽见林之洋杂在众人中，如鹤立鸡群一般，更觉白俊可爱。",
+                        "source": "《镜花缘》第三九回"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "谁知女儿国王忽见林之洋杂在众人中，如鹤立鸡群一般，更觉白俊可爱。",
+                "source": "《镜花缘》第三九回"
+            }
+        ],
+        "synonyms": [
+            "超群绝伦",
+            "出类拔萃"
+        ],
+        "antonyms": [
+            "相形见绌",
+            "滥竽充数"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "stand out in the crowd"
+    },
+    "blocks": {
+        "reading": "hè lì jī qún",
+        "sense-1": "比喻人的才能或仪表在人群中显得特别突出。",
+        "citation-1": "谁知女儿国王忽见林之洋杂在众人中，如鹤立鸡群一般，更觉白俊可爱。 — 《镜花缘》第三九回",
+        "synonyms": "超群绝伦、出类拔萃",
+        "antonyms": "相形见绌、滥竽充数"
+    }
+}

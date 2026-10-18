@@ -1,0 +1,70 @@
+{
+    "word": "钟鸣鼎食",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%92%9F%E9%B8%A3%E9%BC%8E%E9%A3%9F",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "99fd7d2ae20c92a681241263d527ba51d1f98324234d66ec9067896bf459d0e7",
+        "bytes": 27359
+    },
+    "parsed": {
+        "found": true,
+        "word": "钟鸣鼎食",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zhōng",
+                "míng",
+                "dǐng",
+                "shí"
+            ],
+            "zhuyin": [
+                "ㄓㄨㄥ",
+                "ㄇㄧㄥˊ",
+                "ㄉㄧㄥˇ",
+                "ㄕˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "吃饭时击钟奏乐，排列鼎器盛放食物。形容富贵人家生活豪华奢侈的场面。",
+                "citations": [
+                    {
+                        "text": "闾阎扑地，钟鸣鼎食之家。",
+                        "source": "唐·王勃《滕王阁序》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "闾阎扑地，钟鸣鼎食之家。",
+                "source": "唐·王勃《滕王阁序》"
+            }
+        ],
+        "synonyms": [
+            "锦衣玉食",
+            "灯红酒绿",
+            "花天酒地"
+        ],
+        "antonyms": [
+            "粗茶淡饭",
+            "荆钗布裙",
+            "食淡衣粗",
+            "筚门圭窦"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "ostentatious luxury"
+    },
+    "blocks": {
+        "reading": "zhōng míng dǐng shí",
+        "sense-1": "吃饭时击钟奏乐，排列鼎器盛放食物。形容富贵人家生活豪华奢侈的场面。",
+        "citation-1": "闾阎扑地，钟鸣鼎食之家。 — 唐·王勃《滕王阁序》",
+        "synonyms": "锦衣玉食、灯红酒绿、花天酒地",
+        "antonyms": "粗茶淡饭、荆钗布裙、食淡衣粗、筚门圭窦"
+    }
+}

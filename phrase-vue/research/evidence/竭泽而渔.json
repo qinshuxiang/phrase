@@ -1,0 +1,67 @@
+{
+    "word": "竭泽而渔",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%AB%AD%E6%B3%BD%E8%80%8C%E6%B8%94",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "1e0df70b6347656742abba4b2fcb8a959ff1e32a4153cf78ae8ae57dfdc3e691",
+        "bytes": 27339
+    },
+    "parsed": {
+        "found": true,
+        "word": "竭泽而渔",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jié",
+                "zé",
+                "ér",
+                "yú"
+            ],
+            "zhuyin": [
+                "ㄐㄧㄝ",
+                "ˊ",
+                "ㄗㄜˊ",
+                "ㄦˊ",
+                "ㄩˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "排干池水捕鱼。比喻只顾眼前利益而不顾长远后果。",
+                "citations": [
+                    {
+                        "text": "竭泽而渔，岂不获得，而明年无鱼。",
+                        "source": "《吕氏春秋•义赏》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "竭泽而渔，岂不获得，而明年无鱼。",
+                "source": "《吕氏春秋•义赏》"
+            }
+        ],
+        "synonyms": [
+            "不留余地",
+            "杀鸡取卵"
+        ],
+        "antonyms": [
+            "从长计议"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "drain the pond to get all the fish"
+    },
+    "blocks": {
+        "reading": "jié zé ér yú",
+        "sense-1": "排干池水捕鱼。比喻只顾眼前利益而不顾长远后果。",
+        "citation-1": "竭泽而渔，岂不获得，而明年无鱼。 — 《吕氏春秋•义赏》",
+        "synonyms": "不留余地、杀鸡取卵",
+        "antonyms": "从长计议"
+    }
+}

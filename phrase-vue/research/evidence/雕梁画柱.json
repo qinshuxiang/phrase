@@ -1,0 +1,30 @@
+{
+    "word": "雕梁画柱",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%9B%95%E6%A2%81%E7%94%BB%E6%9F%B1",
+        "retrieved_at": "2026-10-18",
+        "http_status": 404,
+        "page_sha256": "9e9aef6ab4e3424171edcc971185631af8e059fa7aff38a134b6da4d8ee011df",
+        "bytes": 24
+    },
+    "parsed": {
+        "found": false,
+        "word": "雕梁画柱",
+        "section": null,
+        "readings": {
+            "pinyin": [],
+            "zhuyin": []
+        },
+        "senses": [],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": ""
+    },
+    "blocks": {}
+}

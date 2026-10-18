@@ -1,0 +1,81 @@
+{
+    "word": "张冠李戴",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%BC%A0%E5%86%A0%E6%9D%8E%E6%88%B4",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "ee81023d3d0f1ebb89928a429a8ab76bd7f5f474467bc0a01fb2656dc6d4b027",
+        "bytes": 26877
+    },
+    "parsed": {
+        "found": true,
+        "word": "张冠李戴",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zhāng",
+                "guān",
+                "lǐ",
+                "dài"
+            ],
+            "zhuyin": [
+                "ㄓㄤ",
+                "ㄍㄨㄢ",
+                "ㄌㄧˇ",
+                "ㄉㄞˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "将张姓的帽子错戴在李姓头上。比喻弄错对象或事实。",
+                "citations": [
+                    {
+                        "text": "张公帽儿李公戴。",
+                        "source": "宋·钱希言《戏瑕》卷三"
+                    },
+                    {
+                        "text": "甚至张冠李戴，增少为多，或久禁暗处，或苦打屈服。",
+                        "source": "明·田艺蘅《留青日札·张公帽赋》"
+                    }
+                ]
+            },
+            {
+                "definition": "指故意调包作弊的行为。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "张公帽儿李公戴。",
+                "source": "宋·钱希言《戏瑕》卷三"
+            },
+            {
+                "text": "甚至张冠李戴，增少为多，或久禁暗处，或苦打屈服。",
+                "source": "明·田艺蘅《留青日札·张公帽赋》"
+            }
+        ],
+        "synonyms": [
+            "破绽百出",
+            "似是而非"
+        ],
+        "antonyms": [
+            "无可非议",
+            "毫厘不爽"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "confuse one thing with another"
+    },
+    "blocks": {
+        "reading": "zhāng guān lǐ dài",
+        "sense-1": "将张姓的帽子错戴在李姓头上。比喻弄错对象或事实。",
+        "sense-2": "指故意调包作弊的行为。",
+        "citation-1": "张公帽儿李公戴。 — 宋·钱希言《戏瑕》卷三",
+        "citation-2": "甚至张冠李戴，增少为多，或久禁暗处，或苦打屈服。 — 明·田艺蘅《留青日札·张公帽赋》",
+        "synonyms": "破绽百出、似是而非",
+        "antonyms": "无可非议、毫厘不爽"
+    }
+}

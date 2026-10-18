@@ -1,0 +1,68 @@
+{
+    "word": "不露声色",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%8D%E9%9C%B2%E5%A3%B0%E8%89%B2",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "1d661804f2e240af3766b1ee5772e439dfa9444780f07596fcf76a4877c0861b",
+        "bytes": 26776
+    },
+    "parsed": {
+        "found": true,
+        "word": "不露声色",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bù",
+                "lù",
+                "shēng",
+                "sè"
+            ],
+            "zhuyin": [
+                "ㄅㄨˋ",
+                "ㄌㄡˋ",
+                "ㄕㄥ",
+                "ㄙㄜˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "不将内心的想法表现在言语和神情上。",
+                "citations": [
+                    {
+                        "text": "女知为所绐，特不知何人设此坑阱。女固黠，不露声色，静以待之。",
+                        "source": "清·王韬《淞隐漫录·蓟素秋》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "女知为所绐，特不知何人设此坑阱。女固黠，不露声色，静以待之。",
+                "source": "清·王韬《淞隐漫录·蓟素秋》"
+            }
+        ],
+        "synonyms": [
+            "不动声色",
+            "面不改色"
+        ],
+        "antonyms": [
+            "面如土色",
+            "失魂落魄",
+            "勃然变色﹑喜形于色﹑义形于色"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "not show one's feelings"
+    },
+    "blocks": {
+        "reading": "bù lù shēng sè",
+        "sense-1": "不将内心的想法表现在言语和神情上。",
+        "citation-1": "女知为所绐，特不知何人设此坑阱。女固黠，不露声色，静以待之。 — 清·王韬《淞隐漫录·蓟素秋》",
+        "synonyms": "不动声色、面不改色",
+        "antonyms": "面如土色、失魂落魄、勃然变色﹑喜形于色﹑义形于色"
+    }
+}

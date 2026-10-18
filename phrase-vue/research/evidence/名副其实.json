@@ -1,0 +1,67 @@
+{
+    "word": "名副其实",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%90%8D%E5%89%AF%E5%85%B6%E5%AE%9E",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "6c6418a2c5c051000ac9ceee6ecd9c50d4fa078d384ff2a96343c02b32a8254b",
+        "bytes": 28405
+    },
+    "parsed": {
+        "found": true,
+        "word": "名副其实",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "míng",
+                "fù",
+                "qí",
+                "shí"
+            ],
+            "zhuyin": [
+                "ㄇㄧㄥˊ",
+                "ㄈㄨˋ",
+                "ㄑㄧˊ",
+                "ㄕˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "名称或声誉与实际情况相符。",
+                "citations": [
+                    {
+                        "text": "君子欲讷于言而敏于行，斯乃圣人之奥行，百代之宗师，欲人行先于言，名副其实。",
+                        "source": "《册府元龟》卷八三五"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "君子欲讷于言而敏于行，斯乃圣人之奥行，百代之宗师，欲人行先于言，名副其实。",
+                "source": "《册府元龟》卷八三五"
+            }
+        ],
+        "synonyms": [
+            "名符其实",
+            "名下无虚"
+        ],
+        "antonyms": [
+            "名不副实",
+            "名不副实﹑名过其实﹑名实难副﹑名存实亡﹑徒负虚名﹑徒有虚名﹑虚有其表﹑有名无实"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "true to the name"
+    },
+    "blocks": {
+        "reading": "míng fù qí shí",
+        "sense-1": "名称或声誉与实际情况相符。",
+        "citation-1": "君子欲讷于言而敏于行，斯乃圣人之奥行，百代之宗师，欲人行先于言，名副其实。 — 《册府元龟》卷八三五",
+        "synonyms": "名符其实、名下无虚",
+        "antonyms": "名不副实、名不副实﹑名过其实﹑名实难副﹑名存实亡﹑徒负虚名﹑徒有虚名﹑虚有其表﹑有名无实"
+    }
+}

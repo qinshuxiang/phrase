@@ -1,0 +1,73 @@
+{
+    "word": "天马行空",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A4%A9%E9%A9%AC%E8%A1%8C%E7%A9%BA",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "fc926c20eeebffb5626d81585bc8872f3064978c28c54c476009308651502a8c",
+        "bytes": 26637
+    },
+    "parsed": {
+        "found": true,
+        "word": "天马行空",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "tiān",
+                "mǎ",
+                "xíng",
+                "kōng"
+            ],
+            "zhuyin": [
+                "ㄊㄧㄢ",
+                "ㄇㄚˇ",
+                "ㄒㄧㄥˊ",
+                "ㄎㄨㄥ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "神马奔驰于天际。比喻才华横溢，不受拘束。",
+                "citations": [
+                    {
+                        "text": "其所以神化而超出于众表者，殆犹天马行空而步骤不凡。",
+                        "source": "明·刘子钟《萨天锡诗集序》"
+                    }
+                ]
+            },
+            {
+                "definition": "比喻言论夸大脱离实际。",
+                "citations": []
+            },
+            {
+                "definition": "形容迅猛前进不受阻碍。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "其所以神化而超出于众表者，殆犹天马行空而步骤不凡。",
+                "source": "明·刘子钟《萨天锡诗集序》"
+            }
+        ],
+        "synonyms": [
+            "挥洒自如",
+            "龙飞凤舞"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "unconstrained"
+    },
+    "blocks": {
+        "reading": "tiān mǎ xíng kōng",
+        "sense-1": "神马奔驰于天际。比喻才华横溢，不受拘束。",
+        "sense-2": "比喻言论夸大脱离实际。",
+        "sense-3": "形容迅猛前进不受阻碍。",
+        "citation-1": "其所以神化而超出于众表者，殆犹天马行空而步骤不凡。 — 明·刘子钟《萨天锡诗集序》",
+        "synonyms": "挥洒自如、龙飞凤舞"
+    }
+}

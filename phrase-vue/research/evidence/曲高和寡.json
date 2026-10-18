@@ -1,0 +1,67 @@
+{
+    "word": "曲高和寡",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%9B%B2%E9%AB%98%E5%92%8C%E5%AF%A1",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "ad2a07fa1f59c3042f67cc865459ddf011359fac0f0694b7065d8f7e5ec4fb21",
+        "bytes": 29289
+    },
+    "parsed": {
+        "found": true,
+        "word": "曲高和寡",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "qǔ",
+                "gāo",
+                "hè",
+                "guǎ"
+            ],
+            "zhuyin": [
+                "ㄑㄩˇ",
+                "ㄍㄠ",
+                "ㄏㄜˋ",
+                "ㄍㄨㄚˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "乐曲格调越高雅，能跟着唱的人就越少。比喻言行或作品过于高雅，难以被大众理解接受。",
+                "citations": [
+                    {
+                        "text": "曲高和寡，妙伎难工。",
+                        "source": "三国·魏·阮瑀《筝赋》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "曲高和寡，妙伎难工。",
+                "source": "三国·魏·阮瑀《筝赋》"
+            }
+        ],
+        "synonyms": [
+            "阳春白雪",
+            "水清无鱼"
+        ],
+        "antonyms": [
+            "下里巴人",
+            "道近易从"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "highbrow songs find few singers"
+    },
+    "blocks": {
+        "reading": "qǔ gāo hè guǎ",
+        "sense-1": "乐曲格调越高雅，能跟着唱的人就越少。比喻言行或作品过于高雅，难以被大众理解接受。",
+        "citation-1": "曲高和寡，妙伎难工。 — 三国·魏·阮瑀《筝赋》",
+        "synonyms": "阳春白雪、水清无鱼",
+        "antonyms": "下里巴人、道近易从"
+    }
+}

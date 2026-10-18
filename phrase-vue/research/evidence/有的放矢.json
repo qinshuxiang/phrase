@@ -1,0 +1,48 @@
+{
+    "word": "有的放矢",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%9C%89%E7%9A%84%E6%94%BE%E7%9F%A2",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "d9c814e71f279a676c71edee4609991529e40b02667e8a2d95adcab17d8bf2bc",
+        "bytes": 27083
+    },
+    "parsed": {
+        "found": true,
+        "word": "有的放矢",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yǒu",
+                "dì",
+                "fàng",
+                "shǐ"
+            ],
+            "zhuyin": [
+                "ㄧㄡˇ",
+                "ㄉㄧˋ",
+                "ㄈㄤˋ",
+                "ㄕˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "有靶子才射箭,比喻说话、做事都有明确的目的",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "have a definite object in view as one who shoots the arrow at the target"
+    },
+    "blocks": {
+        "reading": "yǒu dì fàng shǐ",
+        "sense-1": "有靶子才射箭,比喻说话、做事都有明确的目的"
+    }
+}

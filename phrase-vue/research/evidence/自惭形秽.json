@@ -1,0 +1,72 @@
+{
+    "word": "自惭形秽",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%87%AA%E6%83%AD%E5%BD%A2%E7%A7%BD",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "2480c9dc29d349d2190a034247a46fdc40a819f67112015a9979cd62b9f619d1",
+        "bytes": 28285
+    },
+    "parsed": {
+        "found": true,
+        "word": "自惭形秽",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zì",
+                "cán",
+                "xíng",
+                "huì"
+            ],
+            "zhuyin": [
+                "ㄗˋ",
+                "ㄘㄢˊ",
+                "ㄒㄧㄥˊ",
+                "ㄏㄨㄟˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "因自己容貌举止不如别人而感到羞愧",
+                "citations": [
+                    {
+                        "text": "珠玉在侧，觉我形秽。",
+                        "source": "南朝宋·刘义庆《世说新语·容止》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "珠玉在侧，觉我形秽。",
+                "source": "南朝宋·刘义庆《世说新语·容止》"
+            }
+        ],
+        "synonyms": [
+            "妄自菲薄",
+            "自暴自弃",
+            "自愧不如",
+            "自感汗颜"
+        ],
+        "antonyms": [
+            "目空一切",
+            "顾盼自雄",
+            "自命不凡",
+            "自高自大",
+            "妄自尊大"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "feel ashamed of one's ungainly appearance"
+    },
+    "blocks": {
+        "reading": "zì cán xíng huì",
+        "sense-1": "因自己容貌举止不如别人而感到羞愧",
+        "citation-1": "珠玉在侧，觉我形秽。 — 南朝宋·刘义庆《世说新语·容止》",
+        "synonyms": "妄自菲薄、自暴自弃、自愧不如、自感汗颜",
+        "antonyms": "目空一切、顾盼自雄、自命不凡、自高自大、妄自尊大"
+    }
+}

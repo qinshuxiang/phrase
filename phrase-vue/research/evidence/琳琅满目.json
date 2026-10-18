@@ -1,0 +1,55 @@
+{
+    "word": "琳琅满目",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%90%B3%E7%90%85%E6%BB%A1%E7%9B%AE",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "d938eee4b0d1d5b7b9173a3ce3b5285941e9015111c3b16d56dc747c5608196d",
+        "bytes": 25900
+    },
+    "parsed": {
+        "found": true,
+        "word": "琳琅满目",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "lín",
+                "láng",
+                "mǎn",
+                "mù"
+            ],
+            "zhuyin": [
+                "ㄌㄧㄣˊ",
+                "ㄌㄤˊ",
+                "ㄇㄢˇ",
+                "ㄇㄨˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容眼前所见都是精美的物品或出色的文章诗篇。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "金碧辉煌",
+            "美不胜收"
+        ],
+        "antonyms": [
+            "疮痍满目"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "beautiful things in abundance"
+    },
+    "blocks": {
+        "reading": "lín láng mǎn mù",
+        "sense-1": "形容眼前所见都是精美的物品或出色的文章诗篇。",
+        "synonyms": "金碧辉煌、美不胜收",
+        "antonyms": "疮痍满目"
+    }
+}

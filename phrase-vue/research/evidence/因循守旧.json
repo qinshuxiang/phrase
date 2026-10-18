@@ -1,0 +1,67 @@
+{
+    "word": "因循守旧",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%9B%A0%E5%BE%AA%E5%AE%88%E6%97%A7",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "a17104c2b88d0044e2daef99bb6490e8d728c46078d5ca6240e55b476ba34d6d",
+        "bytes": 26774
+    },
+    "parsed": {
+        "found": true,
+        "word": "因循守旧",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yīn",
+                "xún",
+                "shǒu",
+                "jiù"
+            ],
+            "zhuyin": [
+                "ㄧㄣ",
+                "ㄒㄩㄣˊ",
+                "ㄕㄡˇ",
+                "ㄐㄧㄡˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "沿袭旧规而不思革新。",
+                "citations": [
+                    {
+                        "text": "若徘徊迟疑，因循守旧，一切不行，则幅员日割，手足俱缚，腹心已刲，欲为偏安，无能为计。",
+                        "source": "康有为《上清帝第五书》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "若徘徊迟疑，因循守旧，一切不行，则幅员日割，手足俱缚，腹心已刲，欲为偏安，无能为计。",
+                "source": "康有为《上清帝第五书》"
+            }
+        ],
+        "synonyms": [
+            "墨守成规",
+            "抱残守缺"
+        ],
+        "antonyms": [
+            "破旧立新",
+            "革故鼎新"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "follow the beaten track"
+    },
+    "blocks": {
+        "reading": "yīn xún shǒu jiù",
+        "sense-1": "沿袭旧规而不思革新。",
+        "citation-1": "若徘徊迟疑，因循守旧，一切不行，则幅员日割，手足俱缚，腹心已刲，欲为偏安，无能为计。 — 康有为《上清帝第五书》",
+        "synonyms": "墨守成规、抱残守缺",
+        "antonyms": "破旧立新、革故鼎新"
+    }
+}

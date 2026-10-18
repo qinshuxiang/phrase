@@ -1,0 +1,48 @@
+{
+    "word": "今非昔比",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%BB%8A%E9%9D%9E%E6%98%94%E6%AF%94",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "d745e6989a5a492c1141d6b639ce9bcde16c85aeada7ccf7e1845d82ad208282",
+        "bytes": 28182
+    },
+    "parsed": {
+        "found": true,
+        "word": "今非昔比",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jīn",
+                "fēi",
+                "xī",
+                "bǐ"
+            ],
+            "zhuyin": [
+                "ㄐㄧㄣ",
+                "ㄈㄟ",
+                "ㄒㄧ",
+                "ㄅㄧˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "如今不如往昔或现今好于往昔。形容变化之大,无法比拟",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "the present cannot compare with the past"
+    },
+    "blocks": {
+        "reading": "jīn fēi xī bǐ",
+        "sense-1": "如今不如往昔或现今好于往昔。形容变化之大,无法比拟"
+    }
+}

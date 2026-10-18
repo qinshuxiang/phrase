@@ -1,0 +1,69 @@
+{
+    "word": "骑虎难下",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%AA%91%E8%99%8E%E9%9A%BE%E4%B8%8B",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "b092c61b95a4567707d720f82b654834661e6e572991132a61b8abf269e0608b",
+        "bytes": 28179
+    },
+    "parsed": {
+        "found": true,
+        "word": "骑虎难下",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "qí",
+                "hǔ",
+                "nán",
+                "xià"
+            ],
+            "zhuyin": [
+                "ㄑㄧˊ",
+                "ㄏㄨˇ",
+                "ㄋㄢˊ",
+                "ㄒㄧㄚˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻事情进行到中途遇到困难，但迫于形势而不能停止。",
+                "citations": [
+                    {
+                        "text": "势当骑虎难下之时，不得不为挺鹿走险之计。",
+                        "source": "清·赵翼《廿二史札记·唐明宗纪》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "势当骑虎难下之时，不得不为挺鹿走险之计。",
+                "source": "清·赵翼《廿二史札记·唐明宗纪》"
+            }
+        ],
+        "synonyms": [
+            "欲罢不能",
+            "进退两难",
+            "进退维谷",
+            "势成骑虎"
+        ],
+        "antonyms": [
+            "一帆风顺",
+            "势如破竹"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "irrevocably committed"
+    },
+    "blocks": {
+        "reading": "qí hǔ nán xià",
+        "sense-1": "比喻事情进行到中途遇到困难，但迫于形势而不能停止。",
+        "citation-1": "势当骑虎难下之时，不得不为挺鹿走险之计。 — 清·赵翼《廿二史札记·唐明宗纪》",
+        "synonyms": "欲罢不能、进退两难、进退维谷、势成骑虎",
+        "antonyms": "一帆风顺、势如破竹"
+    }
+}

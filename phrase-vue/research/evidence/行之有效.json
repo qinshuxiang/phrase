@@ -1,0 +1,56 @@
+{
+    "word": "行之有效",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%A1%8C%E4%B9%8B%E6%9C%89%E6%95%88",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "1207666350cf439c52841614a7089c84e842909ca715b55a6d17488bd044c9b8",
+        "bytes": 26634
+    },
+    "parsed": {
+        "found": true,
+        "word": "行之有效",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "xíng",
+                "zhī",
+                "yǒu",
+                "xiào"
+            ],
+            "zhuyin": [
+                "ㄒㄧㄥˊ",
+                "ㄓ",
+                "ㄧㄡˇ",
+                "ㄒㄧㄠˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "实行起来有成效。多指已经实施过的方法或措施",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "立竿见影",
+            "卓有成效"
+        ],
+        "antonyms": [
+            "劳而无功",
+            "徒劳无益"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "effective (in practice)"
+    },
+    "blocks": {
+        "reading": "xíng zhī yǒu xiào",
+        "sense-1": "实行起来有成效。多指已经实施过的方法或措施",
+        "synonyms": "立竿见影、卓有成效",
+        "antonyms": "劳而无功、徒劳无益"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "word": "矫枉过正",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%9F%AB%E6%9E%89%E8%BF%87%E6%AD%A3",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "166b2c2adae46110a97356f4e8aa9d6cb5c0c6eb9444069dfb949b83b852cced",
+        "bytes": 27645
+    },
+    "parsed": {
+        "found": true,
+        "word": "矫枉过正",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jiǎo",
+                "wǎng",
+                "guò",
+                "zhèng"
+            ],
+            "zhuyin": [
+                "ㄐㄧㄠˇ",
+                "ㄨㄤˇ",
+                "ㄍㄨㄛˋ",
+                "ㄓㄥˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "为纠正偏差而采取过度措施，反而产生新的偏差。",
+                "citations": [
+                    {
+                        "text": "逮至清世，则复入于矫枉过正之检。",
+                        "source": "《后汉书·仲长统传》"
+                    },
+                    {
+                        "text": "汉鉴秦之亡也，亦矫枉而过正。",
+                        "source": "唐·白居易《议封建论郡县》"
+                    }
+                ]
+            },
+            {
+                "definition": "处理事情超过合理限度。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "逮至清世，则复入于矫枉过正之检。",
+                "source": "《后汉书·仲长统传》"
+            },
+            {
+                "text": "汉鉴秦之亡也，亦矫枉而过正。",
+                "source": "唐·白居易《议封建论郡县》"
+            }
+        ],
+        "synonyms": [
+            "矫枉过直",
+            "过犹不及"
+        ],
+        "antonyms": [
+            "差之千里"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "overcorrect"
+    },
+    "blocks": {
+        "reading": "jiǎo wǎng guò zhèng",
+        "sense-1": "为纠正偏差而采取过度措施，反而产生新的偏差。",
+        "sense-2": "处理事情超过合理限度。",
+        "citation-1": "逮至清世，则复入于矫枉过正之检。 — 《后汉书·仲长统传》",
+        "citation-2": "汉鉴秦之亡也，亦矫枉而过正。 — 唐·白居易《议封建论郡县》",
+        "synonyms": "矫枉过直、过犹不及",
+        "antonyms": "差之千里"
+    }
+}

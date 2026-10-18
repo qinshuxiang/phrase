@@ -1,0 +1,70 @@
+{
+    "word": "推波助澜",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%8E%A8%E6%B3%A2%E5%8A%A9%E6%BE%9C",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "64b2f064ee1a4991c9aeb459bf56f42a64c14d4e43ebe7706863b1928c3b3943",
+        "bytes": 28016
+    },
+    "parsed": {
+        "found": true,
+        "word": "推波助澜",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "tuī",
+                "bō",
+                "zhù",
+                "lán"
+            ],
+            "zhuyin": [
+                "ㄊㄨㄟ",
+                "ㄅㄛ",
+                "ㄓㄨˋ",
+                "ㄌㄢˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻助长事物的声势和发展。",
+                "citations": [
+                    {
+                        "text": "真君、建德之事，适足推波助澜、纵风止燎尔！",
+                        "source": "隋·王通《中说·问易》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "真君、建德之事，适足推波助澜、纵风止燎尔！",
+                "source": "隋·王通《中说·问易》"
+            }
+        ],
+        "synonyms": [
+            "推波助浪",
+            "推涛作浪",
+            "火上加油",
+            "火上浇油"
+        ],
+        "antonyms": [
+            "随波逐流",
+            "息事宁人",
+            "排难解纷﹑息事宁人"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "add fuel to the fire"
+    },
+    "blocks": {
+        "reading": "tuī bō zhù lán",
+        "sense-1": "比喻助长事物的声势和发展。",
+        "citation-1": "真君、建德之事，适足推波助澜、纵风止燎尔！ — 隋·王通《中说·问易》",
+        "synonyms": "推波助浪、推涛作浪、火上加油、火上浇油",
+        "antonyms": "随波逐流、息事宁人、排难解纷﹑息事宁人"
+    }
+}

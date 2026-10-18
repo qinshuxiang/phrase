@@ -1,0 +1,55 @@
+{
+    "word": "守株待兔",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%AE%88%E6%A0%AA%E5%BE%85%E5%85%94",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "4879cd42e90f653f5f78355e250496d8361fac0663c13201b2b1e76474d1658f",
+        "bytes": 28651
+    },
+    "parsed": {
+        "found": true,
+        "word": "守株待兔",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shǒu",
+                "zhū",
+                "dài",
+                "tù"
+            ],
+            "zhuyin": [
+                "ㄕㄡˇ",
+                "ㄓㄨ",
+                "ㄉㄞˋ",
+                "ㄊㄨˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻死守经验,不知变通。亦用以讽刺妄想不劳而获的侥幸心理",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "刻舟求剑",
+            "墨守成规"
+        ],
+        "antonyms": [
+            "通达权变"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "stand by a stump waiting for more hares to come and clash themselves against it—trust to chance and windfalls"
+    },
+    "blocks": {
+        "reading": "shǒu zhū dài tù",
+        "sense-1": "比喻死守经验,不知变通。亦用以讽刺妄想不劳而获的侥幸心理",
+        "synonyms": "刻舟求剑、墨守成规",
+        "antonyms": "通达权变"
+    }
+}

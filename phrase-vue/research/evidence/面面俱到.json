@@ -1,0 +1,67 @@
+{
+    "word": "面面俱到",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%9D%A2%E9%9D%A2%E4%BF%B1%E5%88%B0",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "2a9ce1a1a7e779a78c58bb66366df239f8d84f26969383fac3205ffec5fe4e88",
+        "bytes": 28304
+    },
+    "parsed": {
+        "found": true,
+        "word": "面面俱到",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "miàn",
+                "miàn",
+                "jù",
+                "dào"
+            ],
+            "zhuyin": [
+                "ㄇㄧㄢˋ",
+                "ㄇㄧㄢˋ",
+                "ㄐㄩˋ",
+                "ㄉㄠˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "方方面面全能顾及到。比喻办事周详或过于泛泛反而抓不住要害",
+                "citations": [
+                    {
+                        "text": "但是据你刚才所说,究不能够面面俱到,总得斟酌一个两全的法子才好。",
+                        "source": "《官场现形记》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "但是据你刚才所说,究不能够面面俱到,总得斟酌一个两全的法子才好。",
+                "source": "《官场现形记》"
+            }
+        ],
+        "synonyms": [
+            "包罗万象",
+            "面面皆到",
+            "八面玲珑﹑面面俱圆"
+        ],
+        "antonyms": [
+            "顾此失彼"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "attend to each and every aspect of a matter;be attentive in every way"
+    },
+    "blocks": {
+        "reading": "miàn miàn jù dào",
+        "sense-1": "方方面面全能顾及到。比喻办事周详或过于泛泛反而抓不住要害",
+        "citation-1": "但是据你刚才所说,究不能够面面俱到,总得斟酌一个两全的法子才好。 — 《官场现形记》",
+        "synonyms": "包罗万象、面面皆到、八面玲珑﹑面面俱圆",
+        "antonyms": "顾此失彼"
+    }
+}

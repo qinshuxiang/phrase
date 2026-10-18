@@ -1,0 +1,61 @@
+{
+    "word": "屡见不鲜",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%B1%A1%E8%A7%81%E4%B8%8D%E9%B2%9C",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "4a7a51adbf400d670a3c613e4bfc8c6ed6ffb27db0447502357824f0dadc60d8",
+        "bytes": 27293
+    },
+    "parsed": {
+        "found": true,
+        "word": "屡见不鲜",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "lǚ",
+                "jiàn",
+                "bù",
+                "xiān"
+            ],
+            "zhuyin": [
+                "ㄌㄩˇ",
+                "ㄐㄧㄢˋ",
+                "ㄅㄨˋ",
+                "ㄒㄧㄢ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "经常见到，不觉得新奇。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "司空见惯",
+            "不足为奇",
+            "数见不鲜",
+            "层见叠出",
+            "层出不穷"
+        ],
+        "antonyms": [
+            "少见多怪",
+            "物以稀为贵",
+            "百年不遇",
+            "世所罕见"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "common occurrence"
+    },
+    "blocks": {
+        "reading": "lǚ jiàn bù xiān",
+        "sense-1": "经常见到，不觉得新奇。",
+        "synonyms": "司空见惯、不足为奇、数见不鲜、层见叠出、层出不穷",
+        "antonyms": "少见多怪、物以稀为贵、百年不遇、世所罕见"
+    }
+}

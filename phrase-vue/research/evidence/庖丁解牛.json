@@ -1,0 +1,65 @@
+{
+    "word": "庖丁解牛",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%BA%96%E4%B8%81%E8%A7%A3%E7%89%9B",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "55fb0bafc57731d49b529902427077ef47980b70bdb9fb7f0d9353906158b084",
+        "bytes": 26703
+    },
+    "parsed": {
+        "found": true,
+        "word": "庖丁解牛",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "páo",
+                "dīng",
+                "jiě",
+                "niú"
+            ],
+            "zhuyin": [
+                "ㄆㄠˊ",
+                "ㄉㄧㄥ",
+                "ㄐㄧㄝ",
+                "ˇ",
+                "ㄋㄧㄨˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻技艺纯熟高超，达到出神入化的境界。",
+                "citations": [
+                    {
+                        "text": "何逊之作，不费气力，如庖丁解牛，风成于騞然。",
+                        "source": "《说郛》卷八十引无名氏《竹林诗评》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "何逊之作，不费气力，如庖丁解牛，风成于騞然。",
+                "source": "《说郛》卷八十引无名氏《竹林诗评》"
+            }
+        ],
+        "synonyms": [
+            "得心应手",
+            "左右逢源",
+            "如臂使指"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "butcher's skill"
+    },
+    "blocks": {
+        "reading": "páo dīng jiě niú",
+        "sense-1": "比喻技艺纯熟高超，达到出神入化的境界。",
+        "citation-1": "何逊之作，不费气力，如庖丁解牛，风成于騞然。 — 《说郛》卷八十引无名氏《竹林诗评》",
+        "synonyms": "得心应手、左右逢源、如臂使指"
+    }
+}

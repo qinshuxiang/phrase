@@ -1,0 +1,64 @@
+{
+    "word": "大势所趋",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A4%A7%E5%8A%BF%E6%89%80%E8%B6%8B",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "046ae2d2af7e65529922243a2acfbb08fb22d12b3e9c63b26bb89f27b77ec792",
+        "bytes": 24903
+    },
+    "parsed": {
+        "found": true,
+        "word": "大势所趋",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "dà",
+                "shì",
+                "suǒ",
+                "qū"
+            ],
+            "zhuyin": [
+                "ㄉㄚˋ",
+                "ㄕˋ",
+                "ㄙㄨㄛˇ",
+                "ㄑㄩ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "整个局势发展的必然方向。",
+                "citations": [
+                    {
+                        "text": "天下大势之所趋，非人力之所能移也。",
+                        "source": "宋·陈亮《上孝宗皇帝第三书》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "天下大势之所趋，非人力之所能移也。",
+                "source": "宋·陈亮《上孝宗皇帝第三书》"
+            }
+        ],
+        "synonyms": [
+            "势在必行",
+            "势不可挡",
+            "一往无前"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "general trend"
+    },
+    "blocks": {
+        "reading": "dà shì suǒ qū",
+        "sense-1": "整个局势发展的必然方向。",
+        "citation-1": "天下大势之所趋，非人力之所能移也。 — 宋·陈亮《上孝宗皇帝第三书》",
+        "synonyms": "势在必行、势不可挡、一往无前"
+    }
+}

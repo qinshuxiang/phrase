@@ -1,0 +1,56 @@
+{
+    "word": "以身作则",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%BB%A5%E8%BA%AB%E4%BD%9C%E5%88%99",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "c3d08b971986b2cf192fb826012a87bbb785ba342ea4f1d0eb1caa2e7321de88",
+        "bytes": 25879
+    },
+    "parsed": {
+        "found": true,
+        "word": "以身作则",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yǐ",
+                "shēn",
+                "zuò",
+                "zé"
+            ],
+            "zhuyin": [
+                "ㄧˇ",
+                "ㄕㄣ",
+                "ㄗㄨㄛˋ",
+                "ㄗㄜˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "用自己的行动作为榜样。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "言传身教",
+            "身先士卒",
+            "身体力行"
+        ],
+        "antonyms": [
+            "以身试法"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "set an example"
+    },
+    "blocks": {
+        "reading": "yǐ shēn zuò zé",
+        "sense-1": "用自己的行动作为榜样。",
+        "synonyms": "言传身教、身先士卒、身体力行",
+        "antonyms": "以身试法"
+    }
+}

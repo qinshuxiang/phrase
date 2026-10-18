@@ -1,0 +1,57 @@
+{
+    "word": "不易之论",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%8D%E6%98%93%E4%B9%8B%E8%AE%BA",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "cc6d8005e65357d111e8ca3c9eb61379fe3a0784cdab0bb77be53a5c951c454a",
+        "bytes": 26290
+    },
+    "parsed": {
+        "found": true,
+        "word": "不易之论",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bù",
+                "yì",
+                "zhī",
+                "lùn"
+            ],
+            "zhuyin": [
+                "ㄅㄨˋ",
+                "ㄧˋ",
+                "ㄓ",
+                "ㄌㄨㄣˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "不可更改的定论。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "不易之典",
+            "天经地义",
+            "不刊之论"
+        ],
+        "antonyms": [
+            "无稽之谈",
+            "不经之谈"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "irrefutable argument"
+    },
+    "blocks": {
+        "reading": "bù yì zhī lùn",
+        "sense-1": "不可更改的定论。",
+        "synonyms": "不易之典、天经地义、不刊之论",
+        "antonyms": "无稽之谈、不经之谈"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "word": "各自为政",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%90%84%E8%87%AA%E4%B8%BA%E6%94%BF",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "6ae1409b3aaebf871c8efca62d4adf42f1c1cb19a6787f06393a6a0d1dca1c51",
+        "bytes": 26623
+    },
+    "parsed": {
+        "found": true,
+        "word": "各自为政",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "gè",
+                "zì",
+                "wéi",
+                "zhèng"
+            ],
+            "zhuyin": [
+                "ㄍㄜˋ",
+                "ㄗˋ",
+                "ㄨㄟˊ",
+                "ㄓㄥˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "各按自己的主张行事而不互相配合。",
+                "citations": [
+                    {
+                        "text": "春秋战国，诸侯各自为政。",
+                        "source": "梁启超《论君政民政相嬗之理》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "春秋战国，诸侯各自为政。",
+                "source": "梁启超《论君政民政相嬗之理》"
+            }
+        ],
+        "synonyms": [
+            "各自为营"
+        ],
+        "antonyms": [
+            "同心协力",
+            "顾全大局"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "act on one's own"
+    },
+    "blocks": {
+        "reading": "gè zì wéi zhèng",
+        "sense-1": "各按自己的主张行事而不互相配合。",
+        "citation-1": "春秋战国，诸侯各自为政。 — 梁启超《论君政民政相嬗之理》",
+        "synonyms": "各自为营",
+        "antonyms": "同心协力、顾全大局"
+    }
+}

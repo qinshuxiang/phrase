@@ -1,0 +1,87 @@
+{
+    "word": "粗枝大叶",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%B2%97%E6%9E%9D%E5%A4%A7%E5%8F%B6",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "48c36b6a5d479a5fc79a4a696aad36bfaecb264d410bf5171a7e5f2b97c455d1",
+        "bytes": 28261
+    },
+    "parsed": {
+        "found": true,
+        "word": "粗枝大叶",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "cū",
+                "zhī",
+                "dà",
+                "yè"
+            ],
+            "zhuyin": [
+                "ㄘㄨ",
+                "ㄓ",
+                "ㄉㄚˋ",
+                "ㄧㄝˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容做事粗糙简略，不够细致。",
+                "citations": [
+                    {
+                        "text": "汉文粗枝大叶，今《书序》细腻，只似六朝时文字。",
+                        "source": "宋·朱熹《朱子语类》卷七八"
+                    },
+                    {
+                        "text": "我看不的你这般粗枝大叶，听不的你那里野调山声。",
+                        "source": "元·石德玉《紫云庭》第一折"
+                    }
+                ]
+            },
+            {
+                "definition": "形容性格或作风粗疏大意。",
+                "citations": []
+            },
+            {
+                "definition": "指植物枝叶粗壮茂盛。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "汉文粗枝大叶，今《书序》细腻，只似六朝时文字。",
+                "source": "宋·朱熹《朱子语类》卷七八"
+            },
+            {
+                "text": "我看不的你这般粗枝大叶，听不的你那里野调山声。",
+                "source": "元·石德玉《紫云庭》第一折"
+            }
+        ],
+        "synonyms": [
+            "粗心大意"
+        ],
+        "antonyms": [
+            "小心谨慎",
+            "谨小慎微",
+            "精摹细琢",
+            "精雕细刻"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "crude and perfunctory"
+    },
+    "blocks": {
+        "reading": "cū zhī dà yè",
+        "sense-1": "形容做事粗糙简略，不够细致。",
+        "sense-2": "形容性格或作风粗疏大意。",
+        "sense-3": "指植物枝叶粗壮茂盛。",
+        "citation-1": "汉文粗枝大叶，今《书序》细腻，只似六朝时文字。 — 宋·朱熹《朱子语类》卷七八",
+        "citation-2": "我看不的你这般粗枝大叶，听不的你那里野调山声。 — 元·石德玉《紫云庭》第一折",
+        "synonyms": "粗心大意",
+        "antonyms": "小心谨慎、谨小慎微、精摹细琢、精雕细刻"
+    }
+}

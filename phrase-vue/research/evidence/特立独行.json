@@ -1,0 +1,59 @@
+{
+    "word": "特立独行",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%89%B9%E7%AB%8B%E7%8B%AC%E8%A1%8C",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "44d827c4556b391f5f6a3e8e4a84c791414a31130c94fd8e241ad7c5f0b3d826",
+        "bytes": 26206
+    },
+    "parsed": {
+        "found": true,
+        "word": "特立独行",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "tè",
+                "lì",
+                "dú",
+                "xíng"
+            ],
+            "zhuyin": [
+                "ㄊㄜˋ",
+                "ㄌㄧˋ",
+                "ㄉㄨˊ",
+                "ㄒㄧㄥˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "志向高洁，行为独特，不随波逐流。",
+                "citations": [
+                    {
+                        "text": "士之特立独行，适于义而已，不顾人之是非，皆豪杰之士。",
+                        "source": "唐·韩愈《伯夷颂》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "士之特立独行，适于义而已，不顾人之是非，皆豪杰之士。",
+                "source": "唐·韩愈《伯夷颂》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "independent"
+    },
+    "blocks": {
+        "reading": "tè lì dú xíng",
+        "sense-1": "志向高洁，行为独特，不随波逐流。",
+        "citation-1": "士之特立独行，适于义而已，不顾人之是非，皆豪杰之士。 — 唐·韩愈《伯夷颂》"
+    }
+}

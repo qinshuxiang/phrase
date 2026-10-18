@@ -1,0 +1,54 @@
+{
+    "word": "惟妙惟肖",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%83%9F%E5%A6%99%E6%83%9F%E8%82%96",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "dc1d0f344c1538c123e9dc97dca91f8ed9fe9cd5d705897b8d641701c72816cc",
+        "bytes": 24108
+    },
+    "parsed": {
+        "found": true,
+        "word": "惟妙惟肖",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "wéi",
+                "miào",
+                "wéi",
+                "xiào"
+            ],
+            "zhuyin": [
+                "ㄨㄟˊ",
+                "ㄇㄧㄠˋ",
+                "ㄨㄟˊ",
+                "ㄒㄧㄠˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容描绘或仿造得简直和真的一模一样",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "栩栩如生"
+        ],
+        "antonyms": [
+            "画虎类犬"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "remarkably true to life;hit off;be absolutely lifelike"
+    },
+    "blocks": {
+        "reading": "wéi miào wéi xiào",
+        "sense-1": "形容描绘或仿造得简直和真的一模一样",
+        "synonyms": "栩栩如生",
+        "antonyms": "画虎类犬"
+    }
+}

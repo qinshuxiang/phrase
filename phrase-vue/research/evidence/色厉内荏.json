@@ -1,0 +1,68 @@
+{
+    "word": "色厉内荏",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%89%B2%E5%8E%89%E5%86%85%E8%8D%8F",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "8a615f6418b177fc51f9255f42610eda14d6f2bc54adbb7ec58c509090cd4c14",
+        "bytes": 27267
+    },
+    "parsed": {
+        "found": true,
+        "word": "色厉内荏",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "sè",
+                "lì",
+                "nèi",
+                "rěn"
+            ],
+            "zhuyin": [
+                "ㄙㄜˋ",
+                "ㄌㄧˋ",
+                "ㄋㄟˋ",
+                "ㄖㄣˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "外表强硬而内心怯懦。",
+                "citations": [
+                    {
+                        "text": "色厉而内荏，譬诸小人，其犹穿窬之盗也与？",
+                        "source": "春秋·孔子《论语·阳货》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "色厉而内荏，譬诸小人，其犹穿窬之盗也与？",
+                "source": "春秋·孔子《论语·阳货》"
+            }
+        ],
+        "synonyms": [
+            "虚有其表",
+            "外强内弱",
+            "外强中干"
+        ],
+        "antonyms": [
+            "表里如一",
+            "名副其实"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "fierce in appearance but weak inside"
+    },
+    "blocks": {
+        "reading": "sè lì nèi rěn",
+        "sense-1": "外表强硬而内心怯懦。",
+        "citation-1": "色厉而内荏，譬诸小人，其犹穿窬之盗也与？ — 春秋·孔子《论语·阳货》",
+        "synonyms": "虚有其表、外强内弱、外强中干",
+        "antonyms": "表里如一、名副其实"
+    }
+}

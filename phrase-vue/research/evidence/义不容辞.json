@@ -1,0 +1,59 @@
+{
+    "word": "义不容辞",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B9%89%E4%B8%8D%E5%AE%B9%E8%BE%9E",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "2ee928852f3de8a0c026025429a3c1c68153b9d7b6dccc7233b01263caa0665a",
+        "bytes": 27862
+    },
+    "parsed": {
+        "found": true,
+        "word": "义不容辞",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yì",
+                "bù",
+                "róng",
+                "cí"
+            ],
+            "zhuyin": [
+                "ㄧˋ",
+                "ㄅㄨˋ",
+                "ㄖㄨㄥˊ",
+                "ㄘˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "按照道义不允许推辞。",
+                "citations": [
+                    {
+                        "text": "可差人往鲁子敬处，教急发书到荆州，使玄德同力拒曹……玄德既为东吴之婿，亦义不容辞。",
+                        "source": "《三国演义》第五八回"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "可差人往鲁子敬处，教急发书到荆州，使玄德同力拒曹……玄德既为东吴之婿，亦义不容辞。",
+                "source": "《三国演义》第五八回"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "duty-bound"
+    },
+    "blocks": {
+        "reading": "yì bù róng cí",
+        "sense-1": "按照道义不允许推辞。",
+        "citation-1": "可差人往鲁子敬处，教急发书到荆州，使玄德同力拒曹……玄德既为东吴之婿，亦义不容辞。 — 《三国演义》第五八回"
+    }
+}

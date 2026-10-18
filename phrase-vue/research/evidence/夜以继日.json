@@ -1,0 +1,67 @@
+{
+    "word": "夜以继日",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A4%9C%E4%BB%A5%E7%BB%A7%E6%97%A5",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "8aa32d15e8f46fe2813c79417f2bbcb1e2a9342de095a8e3cbcb80f840e535d5",
+        "bytes": 27845
+    },
+    "parsed": {
+        "found": true,
+        "word": "夜以继日",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yè",
+                "yǐ",
+                "jì",
+                "rì"
+            ],
+            "zhuyin": [
+                "ㄧㄝˋ",
+                "ㄧˇ",
+                "ㄐㄧˋ",
+                "ㄖㄧˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "日夜不停。形容勤奋工作。",
+                "citations": [
+                    {
+                        "text": "周公思兼三王，以施四事，其有不合者，仰而思之，夜以继日。",
+                        "source": "《孟子·离娄下》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "周公思兼三王，以施四事，其有不合者，仰而思之，夜以继日。",
+                "source": "《孟子·离娄下》"
+            }
+        ],
+        "synonyms": [
+            "废寝忘食",
+            "焚膏继晷",
+            "通宵达旦"
+        ],
+        "antonyms": [
+            "游手好闲"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "day and night"
+    },
+    "blocks": {
+        "reading": "yè yǐ jì rì",
+        "sense-1": "日夜不停。形容勤奋工作。",
+        "citation-1": "周公思兼三王，以施四事，其有不合者，仰而思之，夜以继日。 — 《孟子·离娄下》",
+        "synonyms": "废寝忘食、焚膏继晷、通宵达旦",
+        "antonyms": "游手好闲"
+    }
+}

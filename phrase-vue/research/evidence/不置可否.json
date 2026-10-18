@@ -1,0 +1,57 @@
+{
+    "word": "不置可否",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%8D%E7%BD%AE%E5%8F%AF%E5%90%A6",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "5a827277bd146030de6dbd4aa1261ca63015bc2e429ff727ca69b16b3cf209d2",
+        "bytes": 27970
+    },
+    "parsed": {
+        "found": true,
+        "word": "不置可否",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bù",
+                "zhì",
+                "kě",
+                "fǒu"
+            ],
+            "zhuyin": [
+                "ㄅㄨˋ",
+                "ㄓˋ",
+                "ㄎㄜˇ",
+                "ㄈㄡˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "既不说可以,也不说不可以,不表明态度",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "不置褒贬",
+            "不置一词"
+        ],
+        "antonyms": [
+            "泾渭分明",
+            "斩钉截铁",
+            "旗帜鲜明"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "make no comment;be noncommittal;decline to comment"
+    },
+    "blocks": {
+        "reading": "bù zhì kě fǒu",
+        "sense-1": "既不说可以,也不说不可以,不表明态度",
+        "synonyms": "不置褒贬、不置一词",
+        "antonyms": "泾渭分明、斩钉截铁、旗帜鲜明"
+    }
+}

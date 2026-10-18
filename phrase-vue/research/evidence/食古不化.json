@@ -1,0 +1,68 @@
+{
+    "word": "食古不化",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%A3%9F%E5%8F%A4%E4%B8%8D%E5%8C%96",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "fe2fc17d17bb66bc7aa16c6fe1e5ccf5850572b6ec1b69ce2b7cc00dd802770d",
+        "bytes": 28443
+    },
+    "parsed": {
+        "found": true,
+        "word": "食古不化",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shí",
+                "gǔ",
+                "bù",
+                "huà"
+            ],
+            "zhuyin": [
+                "ㄕˊ",
+                "ㄍㄨˇ",
+                "ㄅㄨˋ",
+                "ㄏㄨㄚˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "指学了古代的知识,不善于理解和应用,跟吃了东西不能消化一样",
+                "citations": [
+                    {
+                        "text": "定欲为古人而食古不化,画虎不成,刻舟求剑之类也。",
+                        "source": "清·陈撰《玉儿山房画外录》载恽向《题自作画册》"
+                    },
+                    {
+                        "text": "我们这位朱老伯一辈子就是误 在这经书上头,以至到如今,还是食古不化。",
+                        "source": "《晚清文学丛钞·中国现在记》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "定欲为古人而食古不化,画虎不成,刻舟求剑之类也。",
+                "source": "清·陈撰《玉儿山房画外录》载恽向《题自作画册》"
+            },
+            {
+                "text": "我们这位朱老伯一辈子就是误 在这经书上头,以至到如今,还是食古不化。",
+                "source": "《晚清文学丛钞·中国现在记》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "swallow ancient learning without digesting it"
+    },
+    "blocks": {
+        "reading": "shí gǔ bù huà",
+        "sense-1": "指学了古代的知识,不善于理解和应用,跟吃了东西不能消化一样",
+        "citation-1": "定欲为古人而食古不化,画虎不成,刻舟求剑之类也。 — 清·陈撰《玉儿山房画外录》载恽向《题自作画册》",
+        "citation-2": "我们这位朱老伯一辈子就是误 在这经书上头,以至到如今,还是食古不化。 — 《晚清文学丛钞·中国现在记》"
+    }
+}

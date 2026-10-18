@@ -1,0 +1,70 @@
+{
+    "word": "海晏河清",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%B5%B7%E6%99%8F%E6%B2%B3%E6%B8%85",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "5f46eb16c5c20d2ac7efad7fe7f2b621ed73712c1176feb8c7ed66e0bcf0d8dd",
+        "bytes": 27977
+    },
+    "parsed": {
+        "found": true,
+        "word": "海晏河清",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "hǎi",
+                "yàn",
+                "hé",
+                "qīng"
+            ],
+            "zhuyin": [
+                "ㄏㄞˇ",
+                "ㄧㄢˋ",
+                "ㄏㄜˊ",
+                "ㄑㄧㄥ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "沧海平静，黄河水清。比喻天下太平。",
+                "citations": [
+                    {
+                        "text": "正当海晏河清日，便是修文偃武时。",
+                        "source": "唐·薛逢《九日曲池游眺》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "正当海晏河清日，便是修文偃武时。",
+                "source": "唐·薛逢《九日曲池游眺》"
+            }
+        ],
+        "synonyms": [
+            "太平盛世",
+            "国泰民安",
+            "海宴河澄"
+        ],
+        "antonyms": [
+            "海水群飞",
+            "兵荒马乱",
+            "鸡犬不宁",
+            "水深火热"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "peaceful and prosperous"
+    },
+    "blocks": {
+        "reading": "hǎi yàn hé qīng",
+        "sense-1": "沧海平静，黄河水清。比喻天下太平。",
+        "citation-1": "正当海晏河清日，便是修文偃武时。 — 唐·薛逢《九日曲池游眺》",
+        "synonyms": "太平盛世、国泰民安、海宴河澄",
+        "antonyms": "海水群飞、兵荒马乱、鸡犬不宁、水深火热"
+    }
+}

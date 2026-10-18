@@ -1,0 +1,59 @@
+{
+    "word": "虚张声势",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%99%9A%E5%BC%A0%E5%A3%B0%E5%8A%BF",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "2746a77714976a60d741b565c867b02c33b6237ff29a8877d4d806ae50f91e94",
+        "bytes": 26918
+    },
+    "parsed": {
+        "found": true,
+        "word": "虚张声势",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "xū",
+                "zhāng",
+                "shēng",
+                "shì"
+            ],
+            "zhuyin": [
+                "ㄒㄩ",
+                "ㄓㄤ",
+                "ㄕㄥ",
+                "ㄕˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "故意夸大声威气势以吓唬人。",
+                "citations": [
+                    {
+                        "text": "今闻讨伐元济，人情必有救助之意，然皆闇弱，自保无暇，虚张声势，则必有之。",
+                        "source": "唐·韩愈《论淮西事宜状》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "今闻讨伐元济，人情必有救助之意，然皆闇弱，自保无暇，虚张声势，则必有之。",
+                "source": "唐·韩愈《论淮西事宜状》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "bluff;bluster"
+    },
+    "blocks": {
+        "reading": "xū zhāng shēng shì",
+        "sense-1": "故意夸大声威气势以吓唬人。",
+        "citation-1": "今闻讨伐元济，人情必有救助之意，然皆闇弱，自保无暇，虚张声势，则必有之。 — 唐·韩愈《论淮西事宜状》"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "word": "落井下石",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%90%BD%E4%BA%95%E4%B8%8B%E7%9F%B3",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "d472a4d41f1e012693bdffc2dcdde72d95bf741d6a54ea8815f83bd15a6ccf9f",
+        "bytes": 29173
+    },
+    "parsed": {
+        "found": true,
+        "word": "落井下石",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "luò",
+                "jǐng",
+                "xià",
+                "shí"
+            ],
+            "zhuyin": [
+                "ㄌㄨㄛˋ",
+                "ㄐㄧㄥˇ",
+                "ㄒㄧㄚˋ",
+                "ㄕˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "见人掉入陷井,不去求援,反而扔下石头加害。比喻乘人之危予以陷害",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "趁火打劫",
+            "乘人之危"
+        ],
+        "antonyms": [
+            "助人为乐",
+            "相濡以沫",
+            "济困扶危",
+            "锦上添花",
+            "雪中送炭"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "hit a person when he’s down;avail oneself of the time when sb.is in difficulty to make an attack"
+    },
+    "blocks": {
+        "reading": "luò jǐng xià shí",
+        "sense-1": "见人掉入陷井,不去求援,反而扔下石头加害。比喻乘人之危予以陷害",
+        "synonyms": "趁火打劫、乘人之危",
+        "antonyms": "助人为乐、相濡以沫、济困扶危、锦上添花、雪中送炭"
+    }
+}

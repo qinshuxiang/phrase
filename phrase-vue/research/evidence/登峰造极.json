@@ -1,0 +1,89 @@
+{
+    "word": "登峰造极",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%99%BB%E5%B3%B0%E9%80%A0%E6%9E%81",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "acd4c24636699ed18d2afdf8a3dc0ccd9e8fd9c5cc427283aa2ca92a38502f9b",
+        "bytes": 28294
+    },
+    "parsed": {
+        "found": true,
+        "word": "登峰造极",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "dēng",
+                "fēng",
+                "zào",
+                "jí"
+            ],
+            "zhuyin": [
+                "ㄉㄥ",
+                "ㄈㄥ",
+                "ㄗㄠˋ",
+                "ㄐㄧˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "登上山峰最高处。",
+                "citations": [
+                    {
+                        "text": "不知便可登峰造极不？然陶练之功，尚不可诬。",
+                        "source": "南朝宋·刘义庆《世说新语·文学》"
+                    },
+                    {
+                        "text": "我辈沈薶场屋时文中，卒无片语登峰造极，视先生不媿死哉！",
+                        "source": "元·刘壎《隐居通议·诗歌一》"
+                    }
+                ]
+            },
+            {
+                "definition": "比喻学问技艺达到最高境界。",
+                "citations": []
+            },
+            {
+                "definition": "比喻事物发展到极点。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "不知便可登峰造极不？然陶练之功，尚不可诬。",
+                "source": "南朝宋·刘义庆《世说新语·文学》"
+            },
+            {
+                "text": "我辈沈薶场屋时文中，卒无片语登峰造极，视先生不媿死哉！",
+                "source": "元·刘壎《隐居通议·诗歌一》"
+            }
+        ],
+        "synonyms": [
+            "叹为观止",
+            "空前绝后",
+            "超群绝伦",
+            "无与伦比",
+            "至高无上"
+        ],
+        "antonyms": [
+            "屡见不鲜",
+            "平淡无奇"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "reach the summit"
+    },
+    "blocks": {
+        "reading": "dēng fēng zào jí",
+        "sense-1": "登上山峰最高处。",
+        "sense-2": "比喻学问技艺达到最高境界。",
+        "sense-3": "比喻事物发展到极点。",
+        "citation-1": "不知便可登峰造极不？然陶练之功，尚不可诬。 — 南朝宋·刘义庆《世说新语·文学》",
+        "citation-2": "我辈沈薶场屋时文中，卒无片语登峰造极，视先生不媿死哉！ — 元·刘壎《隐居通议·诗歌一》",
+        "synonyms": "叹为观止、空前绝后、超群绝伦、无与伦比、至高无上",
+        "antonyms": "屡见不鲜、平淡无奇"
+    }
+}

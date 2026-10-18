@@ -1,0 +1,86 @@
+{
+    "word": "管中窥豹",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%AE%A1%E4%B8%AD%E7%AA%A5%E8%B1%B9",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "2df6f856a8e7e3054c51e74cd00876c5bf3e9d8f68a2678a2f3c280f7f38a7fe",
+        "bytes": 28378
+    },
+    "parsed": {
+        "found": true,
+        "word": "管中窥豹",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "guǎn",
+                "zhōng",
+                "kuī",
+                "bào"
+            ],
+            "zhuyin": [
+                "ㄍㄨㄢˇ",
+                "ㄓㄨㄥ",
+                "ㄎㄨㄟ",
+                "ㄅㄠˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "从竹管中看豹，只能看到豹身上的一块斑纹。比喻所见狭小片面。",
+                "citations": [
+                    {
+                        "text": "管中窥豹我犹在，海上钓鳌君也沈。",
+                        "source": "唐·归仁《悼罗隐》诗"
+                    },
+                    {
+                        "text": "濠上观鱼非至乐，管中窥豹岂全斑。",
+                        "source": "宋·陆游《江亭》诗"
+                    }
+                ]
+            },
+            {
+                "definition": "比喻从观察到的部分可以推测全貌。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "管中窥豹我犹在，海上钓鳌君也沈。",
+                "source": "唐·归仁《悼罗隐》诗"
+            },
+            {
+                "text": "濠上观鱼非至乐，管中窥豹岂全斑。",
+                "source": "宋·陆游《江亭》诗"
+            }
+        ],
+        "synonyms": [
+            "窥豹一斑",
+            "管窥所及",
+            "以管窥天",
+            "坐井观天",
+            "以蠡测海"
+        ],
+        "antonyms": [
+            "洞若观火",
+            "一目了然",
+            "见多识广",
+            "纵览全局"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "limited view"
+    },
+    "blocks": {
+        "reading": "guǎn zhōng kuī bào",
+        "sense-1": "从竹管中看豹，只能看到豹身上的一块斑纹。比喻所见狭小片面。",
+        "sense-2": "比喻从观察到的部分可以推测全貌。",
+        "citation-1": "管中窥豹我犹在，海上钓鳌君也沈。 — 唐·归仁《悼罗隐》诗",
+        "citation-2": "濠上观鱼非至乐，管中窥豹岂全斑。 — 宋·陆游《江亭》诗",
+        "synonyms": "窥豹一斑、管窥所及、以管窥天、坐井观天、以蠡测海",
+        "antonyms": "洞若观火、一目了然、见多识广、纵览全局"
+    }
+}

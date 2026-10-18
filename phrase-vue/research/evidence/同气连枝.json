@@ -1,0 +1,59 @@
+{
+    "word": "同气连枝",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%90%8C%E6%B0%94%E8%BF%9E%E6%9E%9D",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "e86eba4860756b237ee83b705290588e798aac6f1d19dd4f6ec765ad6721972a",
+        "bytes": 26214
+    },
+    "parsed": {
+        "found": true,
+        "word": "同气连枝",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "tóng",
+                "qì",
+                "lián",
+                "zhī"
+            ],
+            "zhuyin": [
+                "ㄊㄨㄥˊ",
+                "ㄑㄧˋ",
+                "ㄌㄧㄢˊ",
+                "ㄓ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻同胞兄弟姐妹。",
+                "citations": [
+                    {
+                        "text": "尺布斗粟，古者所以兴讥；同气连枝，人情之所不忍。",
+                        "source": "宋·王禹偁《拟追封建成元吉巢王息王制》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "尺布斗粟，古者所以兴讥；同气连枝，人情之所不忍。",
+                "source": "宋·王禹偁《拟追封建成元吉巢王息王制》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "siblings"
+    },
+    "blocks": {
+        "reading": "tóng qì lián zhī",
+        "sense-1": "比喻同胞兄弟姐妹。",
+        "citation-1": "尺布斗粟，古者所以兴讥；同气连枝，人情之所不忍。 — 宋·王禹偁《拟追封建成元吉巢王息王制》"
+    }
+}

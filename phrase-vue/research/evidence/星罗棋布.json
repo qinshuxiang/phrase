@@ -1,0 +1,73 @@
+{
+    "word": "星罗棋布",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%98%9F%E7%BD%97%E6%A3%8B%E5%B8%83",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "1e6a14e09e38f71e2a098d3782dda790f4b3e204c59b5e3d890109646c2ac5d3",
+        "bytes": 26394
+    },
+    "parsed": {
+        "found": true,
+        "word": "星罗棋布",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "xīng",
+                "luó",
+                "qí",
+                "bù"
+            ],
+            "zhuyin": [
+                "ㄒㄧㄥ",
+                "ㄌㄨㄛˊ",
+                "ㄑㄧˊ",
+                "ㄅㄨˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容数量众多且分布密集。",
+                "citations": [
+                    {
+                        "text": "塔殿宫堂，星罗棋布。",
+                        "source": "东魏《中岳嵩阳寺碑》"
+                    },
+                    {
+                        "text": "至于星罗碁布，五法三性……各有攸处，曾未暇也。",
+                        "source": "唐·刘轲《玄奘塔铭》"
+                    }
+                ]
+            },
+            {
+                "definition": "像星辰罗列，如棋子分布，指分布范围广泛。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "塔殿宫堂，星罗棋布。",
+                "source": "东魏《中岳嵩阳寺碑》"
+            },
+            {
+                "text": "至于星罗碁布，五法三性……各有攸处，曾未暇也。",
+                "source": "唐·刘轲《玄奘塔铭》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "scattered all over like stars in the sky"
+    },
+    "blocks": {
+        "reading": "xīng luó qí bù",
+        "sense-1": "形容数量众多且分布密集。",
+        "sense-2": "像星辰罗列，如棋子分布，指分布范围广泛。",
+        "citation-1": "塔殿宫堂，星罗棋布。 — 东魏《中岳嵩阳寺碑》",
+        "citation-2": "至于星罗碁布，五法三性……各有攸处，曾未暇也。 — 唐·刘轲《玄奘塔铭》"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "word": "沧海一粟",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%B2%A7%E6%B5%B7%E4%B8%80%E7%B2%9F",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "30517283683bcba9c5e8b5d99eed60fdfabb9134d6d9ee27004901798c30a46d",
+        "bytes": 26212
+    },
+    "parsed": {
+        "found": true,
+        "word": "沧海一粟",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "cāng",
+                "hǎi",
+                "yī",
+                "sù"
+            ],
+            "zhuyin": [
+                "ㄘㄤ",
+                "ㄏㄞˇ",
+                "ㄧ",
+                "ㄙㄨˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "大海中的一粒谷物。比喻非常渺小。",
+                "citations": [
+                    {
+                        "text": "寄蜉蝣于天地，渺沧海之一粟。",
+                        "source": "宋·苏轼《前赤壁赋》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "寄蜉蝣于天地，渺沧海之一粟。",
+                "source": "宋·苏轼《前赤壁赋》"
+            }
+        ],
+        "synonyms": [
+            "太仓一粟",
+            "微不足道",
+            "九牛一毛"
+        ],
+        "antonyms": [
+            "恒河沙数"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "drop in the ocean"
+    },
+    "blocks": {
+        "reading": "cāng hǎi yī sù",
+        "sense-1": "大海中的一粒谷物。比喻非常渺小。",
+        "citation-1": "寄蜉蝣于天地，渺沧海之一粟。 — 宋·苏轼《前赤壁赋》",
+        "synonyms": "太仓一粟、微不足道、九牛一毛",
+        "antonyms": "恒河沙数"
+    }
+}

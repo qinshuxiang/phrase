@@ -1,0 +1,68 @@
+{
+    "word": "连绵不断",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%BF%9E%E7%BB%B5%E4%B8%8D%E6%96%AD",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "ec585ea4262ce9370b4c91b9dcd41d0eee096518c7389787dcdfb6548b18ebba",
+        "bytes": 25826
+    },
+    "parsed": {
+        "found": true,
+        "word": "连绵不断",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "lián",
+                "mián",
+                "bù",
+                "duàn"
+            ],
+            "zhuyin": [
+                "ㄌㄧㄢˊ",
+                "ㄇㄧㄢˊ",
+                "ㄅㄨˋ",
+                "ㄉㄨㄢˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容事物连续不间断地延续。",
+                "citations": [
+                    {
+                        "text": "谁知细雨蒙蒙，连绵不断，刮来金风瑟瑟，遍体清凉。",
+                        "source": "《三侠五义》第一一三回"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "谁知细雨蒙蒙，连绵不断，刮来金风瑟瑟，遍体清凉。",
+                "source": "《三侠五义》第一一三回"
+            }
+        ],
+        "synonyms": [
+            "源源不断",
+            "连续不断"
+        ],
+        "antonyms": [
+            "断断续续",
+            "一刀两断",
+            "间断不继"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "continuous; unbroken"
+    },
+    "blocks": {
+        "reading": "lián mián bù duàn",
+        "sense-1": "形容事物连续不间断地延续。",
+        "citation-1": "谁知细雨蒙蒙，连绵不断，刮来金风瑟瑟，遍体清凉。 — 《三侠五义》第一一三回",
+        "synonyms": "源源不断、连续不断",
+        "antonyms": "断断续续、一刀两断、间断不继"
+    }
+}

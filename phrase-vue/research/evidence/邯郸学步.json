@@ -1,0 +1,69 @@
+{
+    "word": "邯郸学步",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%82%AF%E9%83%B8%E5%AD%A6%E6%AD%A5",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "41d61109a66bda1c9b7e27551780bcb7fe2c61fc1264166d5249fbc9c5c51e26",
+        "bytes": 27084
+    },
+    "parsed": {
+        "found": true,
+        "word": "邯郸学步",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "hán",
+                "dān",
+                "xué",
+                "bù"
+            ],
+            "zhuyin": [
+                "ㄏㄢˊ",
+                "ㄉㄢ",
+                "ㄒㄩㄝˊ",
+                "ㄅㄨˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻盲目模仿他人，不但学不到真本事，反而失去了自己原有的长处。",
+                "citations": [
+                    {
+                        "text": "论文要得文中天，邯郸学步终不然。",
+                        "source": "宋·姜夔《送项平甫倅池阳》诗"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "论文要得文中天，邯郸学步终不然。",
+                "source": "宋·姜夔《送项平甫倅池阳》诗"
+            }
+        ],
+        "synonyms": [
+            "鹦鹉学舌",
+            "东施效颦",
+            "数典忘祖"
+        ],
+        "antonyms": [
+            "标新立异",
+            "独辟蹊径",
+            "择善而长"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "imitate others slavishly and lose one's own individuality"
+    },
+    "blocks": {
+        "reading": "hán dān xué bù",
+        "sense-1": "比喻盲目模仿他人，不但学不到真本事，反而失去了自己原有的长处。",
+        "citation-1": "论文要得文中天，邯郸学步终不然。 — 宋·姜夔《送项平甫倅池阳》诗",
+        "synonyms": "鹦鹉学舌、东施效颦、数典忘祖",
+        "antonyms": "标新立异、独辟蹊径、择善而长"
+    }
+}

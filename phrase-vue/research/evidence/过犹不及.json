@@ -1,0 +1,67 @@
+{
+    "word": "过犹不及",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%BF%87%E7%8A%B9%E4%B8%8D%E5%8F%8A",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "155930ed10dbad76726e2ba6753313dee51fc88f9b29da87e533c1880b546c21",
+        "bytes": 27292
+    },
+    "parsed": {
+        "found": true,
+        "word": "过犹不及",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "guò",
+                "yóu",
+                "bù",
+                "jí"
+            ],
+            "zhuyin": [
+                "ㄍㄨㄛˋ",
+                "ㄧㄡˊ",
+                "ㄅㄨˋ",
+                "ㄐㄧˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "事情做得过分，就像做得不够一样，都是不合适的。",
+                "citations": [
+                    {
+                        "text": "子贡问：师与商也孰贤？子曰：师也过，商也不及。曰：然则师愈与！子曰：过犹不及。",
+                        "source": "春秋·孔子《论语·先进》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "子贡问：师与商也孰贤？子曰：师也过，商也不及。曰：然则师愈与！子曰：过犹不及。",
+                "source": "春秋·孔子《论语·先进》"
+            }
+        ],
+        "synonyms": [
+            "过为己甚",
+            "矫枉过正"
+        ],
+        "antonyms": [
+            "恰到好处",
+            "恰如其分"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "going beyond the limit is as bad as falling short"
+    },
+    "blocks": {
+        "reading": "guò yóu bù jí",
+        "sense-1": "事情做得过分，就像做得不够一样，都是不合适的。",
+        "citation-1": "子贡问：师与商也孰贤？子曰：师也过，商也不及。曰：然则师愈与！子曰：过犹不及。 — 春秋·孔子《论语·先进》",
+        "synonyms": "过为己甚、矫枉过正",
+        "antonyms": "恰到好处、恰如其分"
+    }
+}

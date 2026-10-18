@@ -1,0 +1,67 @@
+{
+    "word": "耸人听闻",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%80%B8%E4%BA%BA%E5%90%AC%E9%97%BB",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "17a96ba207d622af523b603f8148dcf98b2981eee5ed96d732cc37b11285cd7e",
+        "bytes": 27354
+    },
+    "parsed": {
+        "found": true,
+        "word": "耸人听闻",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "sǒng",
+                "rén",
+                "tīng",
+                "wén"
+            ],
+            "zhuyin": [
+                "ㄙㄨㄥˇ",
+                "ㄖㄣˊ",
+                "ㄊㄧㄥ",
+                "ㄨㄣˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "故意夸大或捏造事实，使人听了感到震惊。",
+                "citations": [
+                    {
+                        "text": "首疏以正心格君为说，且曰：职臣在宪府，不惟不能奉承大臣风旨，亦不敢奉承陛下风旨。固已耸动听闻矣。",
+                        "source": "宋·周密《齐东野语·洪君畴》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "首疏以正心格君为说，且曰：职臣在宪府，不惟不能奉承大臣风旨，亦不敢奉承陛下风旨。固已耸动听闻矣。",
+                "source": "宋·周密《齐东野语·洪君畴》"
+            }
+        ],
+        "synonyms": [
+            "骇人听闻",
+            "危言耸听"
+        ],
+        "antonyms": [
+            "本来面目",
+            "不偏不倚"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "sensational"
+    },
+    "blocks": {
+        "reading": "sǒng rén tīng wén",
+        "sense-1": "故意夸大或捏造事实，使人听了感到震惊。",
+        "citation-1": "首疏以正心格君为说，且曰：职臣在宪府，不惟不能奉承大臣风旨，亦不敢奉承陛下风旨。固已耸动听闻矣。 — 宋·周密《齐东野语·洪君畴》",
+        "synonyms": "骇人听闻、危言耸听",
+        "antonyms": "本来面目、不偏不倚"
+    }
+}

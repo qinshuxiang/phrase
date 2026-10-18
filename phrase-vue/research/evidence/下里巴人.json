@@ -1,0 +1,79 @@
+{
+    "word": "下里巴人",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%8B%E9%87%8C%E5%B7%B4%E4%BA%BA",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "567c8aa25cf2ca32a192b474c6c80be296e30bb5f8bb8bda28f98b673adeec70",
+        "bytes": 27945
+    },
+    "parsed": {
+        "found": true,
+        "word": "下里巴人",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "xià",
+                "lǐ",
+                "bā",
+                "rén"
+            ],
+            "zhuyin": [
+                "ㄒㄧㄚˋ",
+                "ㄌㄧˇ",
+                "ㄅㄚ",
+                "ㄖㄣˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "战国时楚国的民间歌曲",
+                "citations": [
+                    {
+                        "text": "客有歌于郢中者,其始曰下里巴人,国中属而和者数千人。",
+                        "source": "战国楚·宋玉《对楚王问》"
+                    },
+                    {
+                        "text": "谭、娄纯正儒者,那得动意于下里巴人。",
+                        "source": "清·李绿园《歧路灯》"
+                    }
+                ]
+            },
+            {
+                "definition": "后来泛指通俗文艺",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "客有歌于郢中者,其始曰下里巴人,国中属而和者数千人。",
+                "source": "战国楚·宋玉《对楚王问》"
+            },
+            {
+                "text": "谭、娄纯正儒者,那得动意于下里巴人。",
+                "source": "清·李绿园《歧路灯》"
+            }
+        ],
+        "synonyms": [
+            "通俗易懂"
+        ],
+        "antonyms": [
+            "阳春白雪"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "simple and crude folk songs"
+    },
+    "blocks": {
+        "reading": "xià lǐ bā rén",
+        "sense-1": "战国时楚国的民间歌曲",
+        "sense-2": "后来泛指通俗文艺",
+        "citation-1": "客有歌于郢中者,其始曰下里巴人,国中属而和者数千人。 — 战国楚·宋玉《对楚王问》",
+        "citation-2": "谭、娄纯正儒者,那得动意于下里巴人。 — 清·李绿园《歧路灯》",
+        "synonyms": "通俗易懂",
+        "antonyms": "阳春白雪"
+    }
+}

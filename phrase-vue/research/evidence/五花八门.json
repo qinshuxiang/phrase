@@ -1,0 +1,68 @@
+{
+    "word": "五花八门",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%BA%94%E8%8A%B1%E5%85%AB%E9%97%A8",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "67ff3061155ba1fb0ba6c5218f60726208b109bf4085f832b1f35c8c5c086a05",
+        "bytes": 27799
+    },
+    "parsed": {
+        "found": true,
+        "word": "五花八门",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "wǔ",
+                "huā",
+                "bā",
+                "mén"
+            ],
+            "zhuyin": [
+                "ㄨˇ",
+                "ㄏㄨㄚ",
+                "ㄅㄚ",
+                "ㄇㄣˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "原指古代兵法中的五行阵和八门阵，后比喻事物变化多端、种类繁多。",
+                "citations": [
+                    {
+                        "text": "那小戏子一个个戴了貂裘，簪了雉羽，穿极新鲜的靠子，跑上场来，串了一个五花八门。",
+                        "source": "《儒林外史》第四二回"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "那小戏子一个个戴了貂裘，簪了雉羽，穿极新鲜的靠子，跑上场来，串了一个五花八门。",
+                "source": "《儒林外史》第四二回"
+            }
+        ],
+        "synonyms": [
+            "形形色色",
+            "五光十色",
+            "千变万化﹑五光十色"
+        ],
+        "antonyms": [
+            "一成不变",
+            "千篇一律"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "variegated"
+    },
+    "blocks": {
+        "reading": "wǔ huā bā mén",
+        "sense-1": "原指古代兵法中的五行阵和八门阵，后比喻事物变化多端、种类繁多。",
+        "citation-1": "那小戏子一个个戴了貂裘，簪了雉羽，穿极新鲜的靠子，跑上场来，串了一个五花八门。 — 《儒林外史》第四二回",
+        "synonyms": "形形色色、五光十色、千变万化﹑五光十色",
+        "antonyms": "一成不变、千篇一律"
+    }
+}

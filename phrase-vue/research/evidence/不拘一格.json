@@ -1,0 +1,76 @@
+{
+    "word": "不拘一格",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%8D%E6%8B%98%E4%B8%80%E6%A0%BC",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "8649e437129c87a06ad18c33115e812f29ab22b8513dac7aab188abb4480d567",
+        "bytes": 28014
+    },
+    "parsed": {
+        "found": true,
+        "word": "不拘一格",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bù",
+                "jū",
+                "yī",
+                "gé"
+            ],
+            "zhuyin": [
+                "ㄅㄨˋ",
+                "ㄐㄩ",
+                "ㄧ",
+                "ㄍㄜˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "不局限于一个规格、标准",
+                "citations": [
+                    {
+                        "text": "我劝天公重抖擞,不拘一格降人材。",
+                        "source": "清·龚自珍《己亥杂诗》"
+                    },
+                    {
+                        "text": "不但体裁,风格,题材,表现手法可以鼓励勇于创新,甚至连主题,也可以是不拘一格的。",
+                        "source": "秦牧《艺海拾贝·“果王”的美号》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "我劝天公重抖擞,不拘一格降人材。",
+                "source": "清·龚自珍《己亥杂诗》"
+            },
+            {
+                "text": "不但体裁,风格,题材,表现手法可以鼓励勇于创新,甚至连主题,也可以是不拘一格的。",
+                "source": "秦牧《艺海拾贝·“果王”的美号》"
+            }
+        ],
+        "synonyms": [
+            "形形色色",
+            "五花八门"
+        ],
+        "antonyms": [
+            "如出一辙",
+            "千篇一律"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "do not stick to one pattern;be not limited to one type"
+    },
+    "blocks": {
+        "reading": "bù jū yī gé",
+        "sense-1": "不局限于一个规格、标准",
+        "citation-1": "我劝天公重抖擞,不拘一格降人材。 — 清·龚自珍《己亥杂诗》",
+        "citation-2": "不但体裁,风格,题材,表现手法可以鼓励勇于创新,甚至连主题,也可以是不拘一格的。 — 秦牧《艺海拾贝·“果王”的美号》",
+        "synonyms": "形形色色、五花八门",
+        "antonyms": "如出一辙、千篇一律"
+    }
+}

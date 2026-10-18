@@ -1,0 +1,54 @@
+{
+    "word": "深入人心",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%B7%B1%E5%85%A5%E4%BA%BA%E5%BF%83",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "3c056b12c25552f420f11735d66723b892bad4b48deeeba9b9e036884c28fa16",
+        "bytes": 27212
+    },
+    "parsed": {
+        "found": true,
+        "word": "深入人心",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shēn",
+                "rù",
+                "rén",
+                "xīn"
+            ],
+            "zhuyin": [
+                "ㄕㄣ",
+                "ㄖㄨˋ",
+                "ㄖㄣˊ",
+                "ㄒㄧㄣ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "指思想、理论、学说、主张等为人们所理解和接受",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "家喻户晓"
+        ],
+        "antonyms": [
+            "不得人心"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "strike root in the hearts of the people;be deeply rooted among the people;find its way deep into the people's heart"
+    },
+    "blocks": {
+        "reading": "shēn rù rén xīn",
+        "sense-1": "指思想、理论、学说、主张等为人们所理解和接受",
+        "synonyms": "家喻户晓",
+        "antonyms": "不得人心"
+    }
+}

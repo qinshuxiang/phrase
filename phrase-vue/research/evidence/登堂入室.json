@@ -1,0 +1,70 @@
+{
+    "word": "登堂入室",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%99%BB%E5%A0%82%E5%85%A5%E5%AE%A4",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "c5676df9fe6cae1d96b6974b31ae5aabcfb7767d0f97a6380991ffe9be2f7fd7",
+        "bytes": 27669
+    },
+    "parsed": {
+        "found": true,
+        "word": "登堂入室",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "dēng",
+                "táng",
+                "rù",
+                "shì"
+            ],
+            "zhuyin": [
+                "ㄉㄥ",
+                "ㄊㄤˊ",
+                "ㄖㄨˋ",
+                "ㄕˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "登上厅堂,又进入内室。比喻学问由浅入深、循序渐进、达到更高的水平。亦比喻学艺深得师传",
+                "citations": [
+                    {
+                        "text": "皆黄门登堂入室者,实自足以名家。",
+                        "source": "宋·吴炯《五总志》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "皆黄门登堂入室者,实自足以名家。",
+                "source": "宋·吴炯《五总志》"
+            }
+        ],
+        "synonyms": [
+            "登峰造极",
+            "当行出色",
+            "炉火纯青"
+        ],
+        "antonyms": [
+            "浅尝辄止",
+            "一窍不通",
+            "一无所知",
+            "初出茅庐"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "pass through the hall into the inner chamber——reach a higher level in one's studies or fecome more proficient in one's profession"
+    },
+    "blocks": {
+        "reading": "dēng táng rù shì",
+        "sense-1": "登上厅堂,又进入内室。比喻学问由浅入深、循序渐进、达到更高的水平。亦比喻学艺深得师传",
+        "citation-1": "皆黄门登堂入室者,实自足以名家。 — 宋·吴炯《五总志》",
+        "synonyms": "登峰造极、当行出色、炉火纯青",
+        "antonyms": "浅尝辄止、一窍不通、一无所知、初出茅庐"
+    }
+}

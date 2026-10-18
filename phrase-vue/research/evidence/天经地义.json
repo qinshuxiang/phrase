@@ -1,0 +1,84 @@
+{
+    "word": "天经地义",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A4%A9%E7%BB%8F%E5%9C%B0%E4%B9%89",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "2db7cf1764e6dfce6cbebde40aacb9a134c45f80c011f8c0b543e74a109c5c8a",
+        "bytes": 28511
+    },
+    "parsed": {
+        "found": true,
+        "word": "天经地义",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "tiān",
+                "jīng",
+                "dì",
+                "yì"
+            ],
+            "zhuyin": [
+                "ㄊㄧㄢ",
+                "ㄐㄧㄥ",
+                "ㄉㄧˋ",
+                "ㄧˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "天地间理所当然、不可改变的真理。",
+                "citations": [
+                    {
+                        "text": "夫孝，天之经也，地之义也。",
+                        "source": "《孝经·三才》"
+                    },
+                    {
+                        "text": "永言孝思，天经地义。",
+                        "source": "晋·潘岳《世祖武皇帝诔》"
+                    }
+                ]
+            },
+            {
+                "definition": "指绝对正确的道理。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "夫孝，天之经也，地之义也。",
+                "source": "《孝经·三才》"
+            },
+            {
+                "text": "永言孝思，天经地义。",
+                "source": "晋·潘岳《世祖武皇帝诔》"
+            }
+        ],
+        "synonyms": [
+            "千真万确",
+            "不移至理",
+            "理所当然",
+            "金科玉律",
+            "至理名言"
+        ],
+        "antonyms": [
+            "天理难容",
+            "岂有此理"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "universally accepted principle"
+    },
+    "blocks": {
+        "reading": "tiān jīng dì yì",
+        "sense-1": "天地间理所当然、不可改变的真理。",
+        "sense-2": "指绝对正确的道理。",
+        "citation-1": "夫孝，天之经也，地之义也。 — 《孝经·三才》",
+        "citation-2": "永言孝思，天经地义。 — 晋·潘岳《世祖武皇帝诔》",
+        "synonyms": "千真万确、不移至理、理所当然、金科玉律、至理名言",
+        "antonyms": "天理难容、岂有此理"
+    }
+}

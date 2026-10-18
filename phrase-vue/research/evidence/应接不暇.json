@@ -1,0 +1,80 @@
+{
+    "word": "应接不暇",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%BA%94%E6%8E%A5%E4%B8%8D%E6%9A%87",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "188f02c70626355638d8d9813da8c360f59561c14f26a1fb4613d8ad2ba9e437",
+        "bytes": 27692
+    },
+    "parsed": {
+        "found": true,
+        "word": "应接不暇",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yìng",
+                "jiē",
+                "bù",
+                "xiá"
+            ],
+            "zhuyin": [
+                "ㄧㄥˋ",
+                "ㄐㄧㄝ",
+                "ㄅㄨˋ",
+                "ㄒㄧㄚˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容景物繁多，来不及观赏。",
+                "citations": [
+                    {
+                        "text": "镜湖澄澈，清流泻注；山川之美，使人应接不暇。",
+                        "source": "晋·王献之《镜湖帖》"
+                    },
+                    {
+                        "text": "陶尚书谷奉使江南，恃才凌忽，议论间殆，应接不暇。",
+                        "source": "宋·周煇《清波杂志》"
+                    }
+                ]
+            },
+            {
+                "definition": "形容事务繁忙，难以应付。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "镜湖澄澈，清流泻注；山川之美，使人应接不暇。",
+                "source": "晋·王献之《镜湖帖》"
+            },
+            {
+                "text": "陶尚书谷奉使江南，恃才凌忽，议论间殆，应接不暇。",
+                "source": "宋·周煇《清波杂志》"
+            }
+        ],
+        "synonyms": [
+            "目不暇接"
+        ],
+        "antonyms": [
+            "应付自如",
+            "应付裕如"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "scenery"
+    },
+    "blocks": {
+        "reading": "yìng jiē bù xiá",
+        "sense-1": "形容景物繁多，来不及观赏。",
+        "sense-2": "形容事务繁忙，难以应付。",
+        "citation-1": "镜湖澄澈，清流泻注；山川之美，使人应接不暇。 — 晋·王献之《镜湖帖》",
+        "citation-2": "陶尚书谷奉使江南，恃才凌忽，议论间殆，应接不暇。 — 宋·周煇《清波杂志》",
+        "synonyms": "目不暇接",
+        "antonyms": "应付自如、应付裕如"
+    }
+}

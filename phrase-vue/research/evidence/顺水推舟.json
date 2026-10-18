@@ -1,0 +1,57 @@
+{
+    "word": "顺水推舟",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%A1%BA%E6%B0%B4%E6%8E%A8%E8%88%9F",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "99f4fe052a70a7f60d231202571f603c32c32f46004223724a62429a33811cda",
+        "bytes": 27350
+    },
+    "parsed": {
+        "found": true,
+        "word": "顺水推舟",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shùn",
+                "shuǐ",
+                "tuī",
+                "zhōu"
+            ],
+            "zhuyin": [
+                "ㄕㄨㄣˋ",
+                "ㄕㄨㄟˇ",
+                "ㄊㄨㄟ",
+                "ㄓㄡ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "顺着水流的方向推船，比喻顺应情势行事。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "趁风使舵",
+            "因利乘便",
+            "因势利导"
+        ],
+        "antonyms": [
+            "横生枝节",
+            "节外生枝"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "push the boat along with the current"
+    },
+    "blocks": {
+        "reading": "shùn shuǐ tuī zhōu",
+        "sense-1": "顺着水流的方向推船，比喻顺应情势行事。",
+        "synonyms": "趁风使舵、因利乘便、因势利导",
+        "antonyms": "横生枝节、节外生枝"
+    }
+}

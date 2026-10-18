@@ -1,0 +1,53 @@
+{
+    "word": "于事无补",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%BA%8E%E4%BA%8B%E6%97%A0%E8%A1%A5",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "33b463567c95e22b9fce36e3b9a1b147844e5a77b0553ca13cbcb0e1486a1fbd",
+        "bytes": 24182
+    },
+    "parsed": {
+        "found": true,
+        "word": "于事无补",
+        "section": "idiom",
+        "readings": {
+            "pinyin": [
+                "yú",
+                "shì",
+                "wú",
+                "bǔ"
+            ],
+            "zhuyin": [
+                "ㄩˊ",
+                "ㄕˋ",
+                "ㄨˊ",
+                "ㄅㄨˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "对事情毫无补益。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": {
+            "text": "大錯已經鑄成，你再責備他也～。",
+            "source": "于事无补"
+        },
+        "grammar": "",
+        "example": "大错已经铸成，你再责备他也～。",
+        "english": ""
+    },
+    "blocks": {
+        "reading": "yú shì wú bǔ",
+        "sense-1": "对事情毫无补益。",
+        "origin": "大錯已經鑄成，你再責備他也～。",
+        "example": "大错已经铸成，你再责备他也～。"
+    }
+}

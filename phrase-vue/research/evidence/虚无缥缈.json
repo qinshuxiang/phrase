@@ -1,0 +1,65 @@
+{
+    "word": "虚无缥缈",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%99%9A%E6%97%A0%E7%BC%A5%E7%BC%88",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "c9fb76163e1fefa7506bd58f7381be61134086e93aac8fde19355baf147c171d",
+        "bytes": 26825
+    },
+    "parsed": {
+        "found": true,
+        "word": "虚无缥缈",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "xū",
+                "wú",
+                "piǎo",
+                "miǎo"
+            ],
+            "zhuyin": [
+                "ㄒㄩ",
+                "ㄨˊ",
+                "ㄆㄧㄠˇ",
+                "ㄇㄧㄠˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容空虚渺茫，难以捉摸。",
+                "citations": [
+                    {
+                        "text": "忽闻海上有仙山，山在虚无缥缈间。",
+                        "source": "唐·白居易《长恨歌》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "忽闻海上有仙山，山在虚无缥缈间。",
+                "source": "唐·白居易《长恨歌》"
+            }
+        ],
+        "synonyms": [
+            "扑朔迷离"
+        ],
+        "antonyms": [
+            "坚定不移"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "vague and ethereal"
+    },
+    "blocks": {
+        "reading": "xū wú piǎo miǎo",
+        "sense-1": "形容空虚渺茫，难以捉摸。",
+        "citation-1": "忽闻海上有仙山，山在虚无缥缈间。 — 唐·白居易《长恨歌》",
+        "synonyms": "扑朔迷离",
+        "antonyms": "坚定不移"
+    }
+}

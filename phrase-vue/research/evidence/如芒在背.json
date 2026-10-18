@@ -1,0 +1,62 @@
+{
+    "word": "如芒在背",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A6%82%E8%8A%92%E5%9C%A8%E8%83%8C",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "5e6fe6ac1d458df6d71f390473bb02183c86fcdf1b14a081d504e139e23b13c2",
+        "bytes": 28284
+    },
+    "parsed": {
+        "found": true,
+        "word": "如芒在背",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "rú",
+                "máng",
+                "zài",
+                "bèi"
+            ],
+            "zhuyin": [
+                "ㄖㄨˊ",
+                "ㄇㄤˊ",
+                "ㄗㄞˋ",
+                "ㄅㄟˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "如同芒刺扎于背上,形容焦躁的心情",
+                "citations": [
+                    {
+                        "text": "我听了这两句话,又是如芒在背,坐立不安。",
+                        "source": "清·吴趼人《二十年目睹之怪现状》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "我听了这两句话,又是如芒在背,坐立不安。",
+                "source": "清·吴趼人《二十年目睹之怪现状》"
+            }
+        ],
+        "synonyms": [
+            "如芒刺背"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "restless"
+    },
+    "blocks": {
+        "reading": "rú máng zài bèi",
+        "sense-1": "如同芒刺扎于背上,形容焦躁的心情",
+        "citation-1": "我听了这两句话,又是如芒在背,坐立不安。 — 清·吴趼人《二十年目睹之怪现状》",
+        "synonyms": "如芒刺背"
+    }
+}

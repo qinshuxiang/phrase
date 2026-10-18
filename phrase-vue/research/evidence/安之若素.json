@@ -1,0 +1,69 @@
+{
+    "word": "安之若素",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%AE%89%E4%B9%8B%E8%8B%A5%E7%B4%A0",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "6cd0d3233335a5f40b9b3ab3d963dc9d2c8c16ac9502c178f688f3ad044662ad",
+        "bytes": 28112
+    },
+    "parsed": {
+        "found": true,
+        "word": "安之若素",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "ān",
+                "zhī",
+                "ruò",
+                "sù"
+            ],
+            "zhuyin": [
+                "ㄢ",
+                "ㄓ",
+                "ㄖㄨㄛˋ",
+                "ㄙㄨˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "(遇到不顺利或反常的情况等)安然相处,像平常一样对待",
+                "citations": [
+                    {
+                        "text": "有些同志听凭别人宣传主观主义,也安之若素。",
+                        "source": "毛泽东《整顿党的作风》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "有些同志听凭别人宣传主观主义,也安之若素。",
+                "source": "毛泽东《整顿党的作风》"
+            }
+        ],
+        "synonyms": [
+            "泰然处之",
+            "漠然置之",
+            "随遇而安"
+        ],
+        "antonyms": [
+            "惊惶失措",
+            "寝食不安",
+            "见异思迁"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "bear sth. with equanimity;bear sufferings nonchalantly"
+    },
+    "blocks": {
+        "reading": "ān zhī ruò sù",
+        "sense-1": "(遇到不顺利或反常的情况等)安然相处,像平常一样对待",
+        "citation-1": "有些同志听凭别人宣传主观主义,也安之若素。 — 毛泽东《整顿党的作风》",
+        "synonyms": "泰然处之、漠然置之、随遇而安",
+        "antonyms": "惊惶失措、寝食不安、见异思迁"
+    }
+}

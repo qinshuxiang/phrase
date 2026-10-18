@@ -1,0 +1,64 @@
+{
+    "word": "抱残守缺",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%8A%B1%E6%AE%8B%E5%AE%88%E7%BC%BA",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "b90bacfb2dcac02ed6d28351b81a73bfdc70afbde7c04f28330d38163c38645c",
+        "bytes": 28487
+    },
+    "parsed": {
+        "found": true,
+        "word": "抱残守缺",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bào",
+                "cán",
+                "shǒu",
+                "quē"
+            ],
+            "zhuyin": [
+                "ㄅㄠˋ",
+                "ㄘㄢˊ",
+                "ㄕㄡˇ",
+                "ㄑㄩㄝ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "固守陈旧残缺的事物而不愿改变。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "故步自封",
+            "墨守成规",
+            "墨守残缺",
+            "陈陈相因",
+            "因循守旧"
+        ],
+        "antonyms": [
+            "自我作故",
+            "标新立异",
+            "推陈出新",
+            "革故鼎新",
+            "改弦更张",
+            "日新又新",
+            "勇猛精进"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "clinging to outdated notions"
+    },
+    "blocks": {
+        "reading": "bào cán shǒu quē",
+        "sense-1": "固守陈旧残缺的事物而不愿改变。",
+        "synonyms": "故步自封、墨守成规、墨守残缺、陈陈相因、因循守旧",
+        "antonyms": "自我作故、标新立异、推陈出新、革故鼎新、改弦更张、日新又新、勇猛精进"
+    }
+}

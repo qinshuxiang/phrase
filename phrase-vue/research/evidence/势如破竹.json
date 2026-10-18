@@ -1,0 +1,72 @@
+{
+    "word": "势如破竹",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%8A%BF%E5%A6%82%E7%A0%B4%E7%AB%B9",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "114f00cedb40e1038bf5e42e55804a8ce0163125ab4de3a806dd0880000a4fc2",
+        "bytes": 28439
+    },
+    "parsed": {
+        "found": true,
+        "word": "势如破竹",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shì",
+                "rú",
+                "pò",
+                "zhú"
+            ],
+            "zhuyin": [
+                "ㄕˋ",
+                "ㄖㄨˊ",
+                "ㄆㄛˋ",
+                "ㄓㄨˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容作战或工作节节胜利，毫无阻碍。",
+                "citations": [
+                    {
+                        "text": "兵已及此，势如破竹，可进不可退。",
+                        "source": "《资治通鉴·后汉高祖天福十二年》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "兵已及此，势如破竹，可进不可退。",
+                "source": "《资治通鉴·后汉高祖天福十二年》"
+            }
+        ],
+        "synonyms": [
+            "当者披靡",
+            "长驱直入",
+            "势不可当",
+            "所向披靡",
+            "所向无敌"
+        ],
+        "antonyms": [
+            "坚不可摧",
+            "节节败退",
+            "节节失利",
+            "望风披靡"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "irresistible"
+    },
+    "blocks": {
+        "reading": "shì rú pò zhú",
+        "sense-1": "形容作战或工作节节胜利，毫无阻碍。",
+        "citation-1": "兵已及此，势如破竹，可进不可退。 — 《资治通鉴·后汉高祖天福十二年》",
+        "synonyms": "当者披靡、长驱直入、势不可当、所向披靡、所向无敌",
+        "antonyms": "坚不可摧、节节败退、节节失利、望风披靡"
+    }
+}

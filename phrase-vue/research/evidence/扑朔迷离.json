@@ -1,0 +1,66 @@
+{
+    "word": "扑朔迷离",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%89%91%E6%9C%94%E8%BF%B7%E7%A6%BB",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "36be984c30a4700b1ddfb08b7c5db1396512b1e0273b16d6db76f93131172681",
+        "bytes": 27336
+    },
+    "parsed": {
+        "found": true,
+        "word": "扑朔迷离",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "pū",
+                "shuò",
+                "mí",
+                "lí"
+            ],
+            "zhuyin": [
+                "ㄆㄨ",
+                "ㄕㄨㄛˋ",
+                "ㄇㄧˊ",
+                "ㄌㄧˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容事物错综复杂，难以辨明真相。",
+                "citations": [
+                    {
+                        "text": "钩辀格磔浑难语，扑朔迷离两不真。",
+                        "source": "清·梁绍壬《两般秋雨盦随笔·无题诗》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "钩辀格磔浑难语，扑朔迷离两不真。",
+                "source": "清·梁绍壬《两般秋雨盦随笔·无题诗》"
+            }
+        ],
+        "synonyms": [
+            "虚无飘渺",
+            "眼花缭乱"
+        ],
+        "antonyms": [
+            "一清二楚"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "complicated and confusing"
+    },
+    "blocks": {
+        "reading": "pū shuò mí lí",
+        "sense-1": "形容事物错综复杂，难以辨明真相。",
+        "citation-1": "钩辀格磔浑难语，扑朔迷离两不真。 — 清·梁绍壬《两般秋雨盦随笔·无题诗》",
+        "synonyms": "虚无飘渺、眼花缭乱",
+        "antonyms": "一清二楚"
+    }
+}

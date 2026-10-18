@@ -1,0 +1,67 @@
+{
+    "word": "纷至沓来",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%BA%B7%E8%87%B3%E6%B2%93%E6%9D%A5",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "5fa88658d6065e942ba4f896d8f3db1e983b008bc65c30a5f7abe8e13fcd1b0c",
+        "bytes": 27409
+    },
+    "parsed": {
+        "found": true,
+        "word": "纷至沓来",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "fēn",
+                "zhì",
+                "tà",
+                "lái"
+            ],
+            "zhuyin": [
+                "ㄈㄣ",
+                "ㄓˋ",
+                "ㄊㄚˋ",
+                "ㄌㄞˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容接连不断地纷纷到来。",
+                "citations": [
+                    {
+                        "text": "禅位之诏，登极之赦，尊号改元等文，皆出公手，纷至沓来，从容应之，动合体制。",
+                        "source": "宋·楼钥《洪文安公小隐集序》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "禅位之诏，登极之赦，尊号改元等文，皆出公手，纷至沓来，从容应之，动合体制。",
+                "source": "宋·楼钥《洪文安公小隐集序》"
+            }
+        ],
+        "synonyms": [
+            "接踵而至",
+            "络绎不绝",
+            "接踵而来",
+            "熙来攘往",
+            "车水马龙",
+            "川流不息"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "come in a continuous stream"
+    },
+    "blocks": {
+        "reading": "fēn zhì tà lái",
+        "sense-1": "形容接连不断地纷纷到来。",
+        "citation-1": "禅位之诏，登极之赦，尊号改元等文，皆出公手，纷至沓来，从容应之，动合体制。 — 宋·楼钥《洪文安公小隐集序》",
+        "synonyms": "接踵而至、络绎不绝、接踵而来、熙来攘往、车水马龙、川流不息"
+    }
+}

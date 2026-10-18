@@ -1,0 +1,48 @@
+{
+    "word": "一语中的",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%80%E8%AF%AD%E4%B8%AD%E7%9A%84",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "727cc58e719f10c9fea8e3d4e9c9f2e4a5fc5b9b3bb6b7350cb8ecbf7a7fc593",
+        "bytes": 24535
+    },
+    "parsed": {
+        "found": true,
+        "word": "一语中的",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yī",
+                "yǔ",
+                "zhōng",
+                "dì"
+            ],
+            "zhuyin": [
+                "ㄧ",
+                "ㄩˇ",
+                "ㄓㄨㄥ",
+                "ㄉㄜ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "一句话就说中要害。见“ 一语破的",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "hit the mark with one remark"
+    },
+    "blocks": {
+        "reading": "yī yǔ zhōng dì",
+        "sense-1": "一句话就说中要害。见“ 一语破的"
+    }
+}

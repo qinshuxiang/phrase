@@ -1,0 +1,59 @@
+{
+    "word": "万人空巷",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%87%E4%BA%BA%E7%A9%BA%E5%B7%B7",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "f703caac3ef1a9c5cc7640fe2b8ffbc0c7efc07e0556326dcfd772a09825ce12",
+        "bytes": 25796
+    },
+    "parsed": {
+        "found": true,
+        "word": "万人空巷",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "wàn",
+                "rén",
+                "kōng",
+                "xiàng"
+            ],
+            "zhuyin": [
+                "ㄨㄢˋ",
+                "ㄖㄣˊ",
+                "ㄎㄨㄥ",
+                "ㄒㄧㄤˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容盛大集会或新奇事物吸引众人，导致街巷空无一人，全都外出观看的热闹场面。",
+                "citations": [
+                    {
+                        "text": "赖有明朝看潮在，万人空巷斗新妆。",
+                        "source": "宋·苏轼《八月十七复登望海楼》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "赖有明朝看潮在，万人空巷斗新妆。",
+                "source": "宋·苏轼《八月十七复登望海楼》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "the whole town turns out"
+    },
+    "blocks": {
+        "reading": "wàn rén kōng xiàng",
+        "sense-1": "形容盛大集会或新奇事物吸引众人，导致街巷空无一人，全都外出观看的热闹场面。",
+        "citation-1": "赖有明朝看潮在，万人空巷斗新妆。 — 宋·苏轼《八月十七复登望海楼》"
+    }
+}

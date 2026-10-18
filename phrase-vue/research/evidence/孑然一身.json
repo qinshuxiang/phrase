@@ -1,0 +1,56 @@
+{
+    "word": "孑然一身",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%AD%91%E7%84%B6%E4%B8%80%E8%BA%AB",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "dc0c40fbd1d1560a3c3a4e6bb4d82edbf271b2f21d8d8ca4f35cd145d26f3e26",
+        "bytes": 28427
+    },
+    "parsed": {
+        "found": true,
+        "word": "孑然一身",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jié",
+                "rán",
+                "yī",
+                "shēn"
+            ],
+            "zhuyin": [
+                "ㄐㄧㄝ",
+                "ˊ",
+                "ㄖㄢˊ",
+                "ㄧ",
+                "ㄕㄣ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "孤零零一个",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "孤苦伶仃",
+            "形单影只"
+        ],
+        "antonyms": [
+            "成群结队"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "all alone"
+    },
+    "blocks": {
+        "reading": "jié rán yī shēn",
+        "sense-1": "孤零零一个",
+        "synonyms": "孤苦伶仃、形单影只",
+        "antonyms": "成群结队"
+    }
+}

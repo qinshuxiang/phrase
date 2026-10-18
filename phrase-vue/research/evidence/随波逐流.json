@@ -1,0 +1,73 @@
+{
+    "word": "随波逐流",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%9A%8F%E6%B3%A2%E9%80%90%E6%B5%81",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "078f59d7fa0344424fc27a6eca17b7716886b24a14b8234c576d6421a0c6dda8",
+        "bytes": 28583
+    },
+    "parsed": {
+        "found": true,
+        "word": "随波逐流",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "suí",
+                "bō",
+                "zhú",
+                "liú"
+            ],
+            "zhuyin": [
+                "ㄙㄨㄟˊ",
+                "ㄅㄛ",
+                "ㄓㄨˊ",
+                "ㄌㄧㄨˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻没有主见，盲目地随大流。",
+                "citations": [
+                    {
+                        "text": "将欲随波逐流，伴食廊庙，则何以立此身于朝端。",
+                        "source": "明·梁辰鱼《浣纱记·谈议》"
+                    },
+                    {
+                        "text": "所谓乡原，即推原人之情意，随波逐流，佞伪驰骋，苟合求媚于世。",
+                        "source": "宋·孙奕《履斋示儿编·经说·乡原》"
+                    }
+                ]
+            },
+            {
+                "definition": "指言行迎合世俗潮流。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "将欲随波逐流，伴食廊庙，则何以立此身于朝端。",
+                "source": "明·梁辰鱼《浣纱记·谈议》"
+            },
+            {
+                "text": "所谓乡原，即推原人之情意，随波逐流，佞伪驰骋，苟合求媚于世。",
+                "source": "宋·孙奕《履斋示儿编·经说·乡原》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "drift with the tide"
+    },
+    "blocks": {
+        "reading": "suí bō zhú liú",
+        "sense-1": "比喻没有主见，盲目地随大流。",
+        "sense-2": "指言行迎合世俗潮流。",
+        "citation-1": "将欲随波逐流，伴食廊庙，则何以立此身于朝端。 — 明·梁辰鱼《浣纱记·谈议》",
+        "citation-2": "所谓乡原，即推原人之情意，随波逐流，佞伪驰骋，苟合求媚于世。 — 宋·孙奕《履斋示儿编·经说·乡原》"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "word": "风起云涌",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%A3%8E%E8%B5%B7%E4%BA%91%E6%B6%8C",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "3287bcbb20bdcd79382ee6b3d7a9589f036f43dafd89624acd4bffad26b69ec8",
+        "bytes": 26739
+    },
+    "parsed": {
+        "found": true,
+        "word": "风起云涌",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "fēng",
+                "qǐ",
+                "yún",
+                "yǒng"
+            ],
+            "zhuyin": [
+                "ㄈㄥ",
+                "ㄑㄧˇ",
+                "ㄩㄣˊ",
+                "ㄩㄥˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "狂风刮起,云层涌来,形容雄浑磅礴之势",
+                "citations": []
+            },
+            {
+                "definition": "规模宏大,兴旺发达",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "风起潮涌",
+            "方兴未艾"
+        ],
+        "antonyms": [
+            "风流云散"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "like a rising wind and scudding clouds;gather force like a raging storm;rage tempestuously"
+    },
+    "blocks": {
+        "reading": "fēng qǐ yún yǒng",
+        "sense-1": "狂风刮起,云层涌来,形容雄浑磅礴之势",
+        "sense-2": "规模宏大,兴旺发达",
+        "synonyms": "风起潮涌、方兴未艾",
+        "antonyms": "风流云散"
+    }
+}

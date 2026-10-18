@@ -1,0 +1,69 @@
+{
+    "word": "危在旦夕",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%8D%B1%E5%9C%A8%E6%97%A6%E5%A4%95",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "fefdd38cb38c55b89f133a40bb74e6fa6af0c6cebd2d507f6399a8fd1e5992c9",
+        "bytes": 28960
+    },
+    "parsed": {
+        "found": true,
+        "word": "危在旦夕",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "wēi",
+                "zài",
+                "dàn",
+                "xī"
+            ],
+            "zhuyin": [
+                "ㄨㄟ",
+                "ㄗㄞˋ",
+                "ㄉㄢˋ",
+                "ㄒㄧ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "危难很快就要降临。指危险之至",
+                "citations": [
+                    {
+                        "text": "天下危在旦夕,陛下尚自与阉臣共饮耶?",
+                        "source": "《三国演义》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "天下危在旦夕,陛下尚自与阉臣共饮耶?",
+                "source": "《三国演义》"
+            }
+        ],
+        "synonyms": [
+            "危如朝露",
+            "岌岌可危",
+            "朝不保夕"
+        ],
+        "antonyms": [
+            "高枕无忧",
+            "安如磐石",
+            "稳若泰山"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "be in deadly danger;on the verge of death (destruction)"
+    },
+    "blocks": {
+        "reading": "wēi zài dàn xī",
+        "sense-1": "危难很快就要降临。指危险之至",
+        "citation-1": "天下危在旦夕,陛下尚自与阉臣共饮耶? — 《三国演义》",
+        "synonyms": "危如朝露、岌岌可危、朝不保夕",
+        "antonyms": "高枕无忧、安如磐石、稳若泰山"
+    }
+}

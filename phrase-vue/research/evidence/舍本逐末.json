@@ -1,0 +1,67 @@
+{
+    "word": "舍本逐末",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%88%8D%E6%9C%AC%E9%80%90%E6%9C%AB",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "244777b74bc87f8908a8d1cdd235265ec712493a7697f22bee10e0f3e16f6f97",
+        "bytes": 27797
+    },
+    "parsed": {
+        "found": true,
+        "word": "舍本逐末",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shě",
+                "běn",
+                "zhú",
+                "mò"
+            ],
+            "zhuyin": [
+                "ㄕㄜˇ",
+                "ㄅㄣˇ",
+                "ㄓㄨˊ",
+                "ㄇㄛˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "指做事舍弃根本的部分,却过多地追求细枝末节,形容轻重倒置。也说“舍本求末”",
+                "citations": [
+                    {
+                        "text": "如果作者本没有什么新颖独创之见,却勉强去雕砌一些警句、格言之类来等着读者喝采,那是舍本逐末的作法。",
+                        "source": "《义论、考据和辞章》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "如果作者本没有什么新颖独创之见,却勉强去雕砌一些警句、格言之类来等着读者喝采,那是舍本逐末的作法。",
+                "source": "《义论、考据和辞章》"
+            }
+        ],
+        "synonyms": [
+            "舍近求远",
+            "贪小失大",
+            "本末倒置"
+        ],
+        "antonyms": [
+            "追本求源"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "attend to trifles to the neglect of essentials;be penny wise and pound foolish"
+    },
+    "blocks": {
+        "reading": "shě běn zhú mò",
+        "sense-1": "指做事舍弃根本的部分,却过多地追求细枝末节,形容轻重倒置。也说“舍本求末”",
+        "citation-1": "如果作者本没有什么新颖独创之见,却勉强去雕砌一些警句、格言之类来等着读者喝采,那是舍本逐末的作法。 — 《义论、考据和辞章》",
+        "synonyms": "舍近求远、贪小失大、本末倒置",
+        "antonyms": "追本求源"
+    }
+}

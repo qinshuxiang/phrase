@@ -1,0 +1,59 @@
+{
+    "word": "尾大不掉",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%B0%BE%E5%A4%A7%E4%B8%8D%E6%8E%89",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "a47eafbb76133536cd1e765c99d4eb308f732c91acdc733787cc23833c51314b",
+        "bytes": 26896
+    },
+    "parsed": {
+        "found": true,
+        "word": "尾大不掉",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "wěi",
+                "dà",
+                "bù",
+                "diào"
+            ],
+            "zhuyin": [
+                "ㄨㄟˇ",
+                "ㄉㄚˋ",
+                "ㄅㄨˋ",
+                "ㄉㄧㄠˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "兽类尾巴过长,摇摆起来困难。比喻下强上弱难以控制调动",
+                "citations": [
+                    {
+                        "text": "二百余年,自相崇树,虽朝廷有时命帅,而世人多务逐君。习若忘非,尾大不掉,非一朝一夕之故也。",
+                        "source": "《旧唐书·朱克融等传论》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "二百余年,自相崇树,虽朝廷有时命帅,而世人多务逐君。习若忘非,尾大不掉,非一朝一夕之故也。",
+                "source": "《旧唐书·朱克融等传论》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "leadership rendered ineffectual by recalcitrant subordinates"
+    },
+    "blocks": {
+        "reading": "wěi dà bù diào",
+        "sense-1": "兽类尾巴过长,摇摆起来困难。比喻下强上弱难以控制调动",
+        "citation-1": "二百余年,自相崇树,虽朝廷有时命帅,而世人多务逐君。习若忘非,尾大不掉,非一朝一夕之故也。 — 《旧唐书·朱克融等传论》"
+    }
+}

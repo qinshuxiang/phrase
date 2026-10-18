@@ -1,0 +1,59 @@
+{
+    "word": "望其项背",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%9C%9B%E5%85%B6%E9%A1%B9%E8%83%8C",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "9200e4e681782393bafd97c411f2af9d55d845e3f8b9d676b18d9db421c62852",
+        "bytes": 24569
+    },
+    "parsed": {
+        "found": true,
+        "word": "望其项背",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "wàng",
+                "qí",
+                "xiàng",
+                "bèi"
+            ],
+            "zhuyin": [
+                "ㄨㄤˋ",
+                "ㄑㄧˊ",
+                "ㄒㄧㄤˋ",
+                "ㄅㄟˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "能够看到别人的颈项和脊背。比喻有能力赶上或达到对方的水平。",
+                "citations": [
+                    {
+                        "text": "其才力不足望其项背者，辄逡巡不敢复笔。",
+                        "source": "明·朱谋垔《画史会要》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "其才力不足望其项背者，辄逡巡不敢复笔。",
+                "source": "明·朱谋垔《画史会要》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "see sb's back"
+    },
+    "blocks": {
+        "reading": "wàng qí xiàng bèi",
+        "sense-1": "能够看到别人的颈项和脊背。比喻有能力赶上或达到对方的水平。",
+        "citation-1": "其才力不足望其项背者，辄逡巡不敢复笔。 — 明·朱谋垔《画史会要》"
+    }
+}

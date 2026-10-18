@@ -1,0 +1,59 @@
+{
+    "word": "脍炙人口",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%84%8D%E7%82%99%E4%BA%BA%E5%8F%A3",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "0603cd946148ffed1c05e560b55a0835ad51c7b32974b329994397b5f4f1f2c0",
+        "bytes": 26859
+    },
+    "parsed": {
+        "found": true,
+        "word": "脍炙人口",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "kuài",
+                "zhì",
+                "rén",
+                "kǒu"
+            ],
+            "zhuyin": [
+                "ㄎㄨㄞˋ",
+                "ㄓˋ",
+                "ㄖㄣˊ",
+                "ㄎㄡˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "美味人人都爱吃。比喻好的诗文或事物受到人们的广泛赞扬和传诵。",
+                "citations": [
+                    {
+                        "text": "李涛，长沙人也，篇咏甚著，如‘水声长在耳，山色不离门’……皆脍炙人口。",
+                        "source": "五代·王定保《唐摭言·载应不捷声价日振》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "李涛，长沙人也，篇咏甚著，如‘水声长在耳，山色不离门’……皆脍炙人口。",
+                "source": "五代·王定保《唐摭言·载应不捷声价日振》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "win universal praise"
+    },
+    "blocks": {
+        "reading": "kuài zhì rén kǒu",
+        "sense-1": "美味人人都爱吃。比喻好的诗文或事物受到人们的广泛赞扬和传诵。",
+        "citation-1": "李涛，长沙人也，篇咏甚著，如‘水声长在耳，山色不离门’……皆脍炙人口。 — 五代·王定保《唐摭言·载应不捷声价日振》"
+    }
+}

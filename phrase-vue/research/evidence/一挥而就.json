@@ -1,0 +1,69 @@
+{
+    "word": "一挥而就",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%80%E6%8C%A5%E8%80%8C%E5%B0%B1",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "9256e248a6bb91dc3015f1f2fd93835d72f6d6f1d54d256531c87c7b50fa7c64",
+        "bytes": 26763
+    },
+    "parsed": {
+        "found": true,
+        "word": "一挥而就",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yī",
+                "huī",
+                "ér",
+                "jiù"
+            ],
+            "zhuyin": [
+                "ㄧ",
+                "ㄏㄨㄟ",
+                "ㄦˊ",
+                "ㄐㄧㄡˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容才思敏捷，一动笔就能完成。",
+                "citations": [
+                    {
+                        "text": "东坡一挥而就，不日传都下。",
+                        "source": "宋·朱弁《曲洧旧闻》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "东坡一挥而就，不日传都下。",
+                "source": "宋·朱弁《曲洧旧闻》"
+            }
+        ],
+        "synonyms": [
+            "一气呵成",
+            "一蹴而就",
+            "轻而易举"
+        ],
+        "antonyms": [
+            "一笔勾销",
+            "一笔抹煞",
+            "千锤百炼"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "write quickly"
+    },
+    "blocks": {
+        "reading": "yī huī ér jiù",
+        "sense-1": "形容才思敏捷，一动笔就能完成。",
+        "citation-1": "东坡一挥而就，不日传都下。 — 宋·朱弁《曲洧旧闻》",
+        "synonyms": "一气呵成、一蹴而就、轻而易举",
+        "antonyms": "一笔勾销、一笔抹煞、千锤百炼"
+    }
+}

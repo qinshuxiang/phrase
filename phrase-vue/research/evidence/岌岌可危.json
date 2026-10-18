@@ -1,0 +1,72 @@
+{
+    "word": "岌岌可危",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%B2%8C%E5%B2%8C%E5%8F%AF%E5%8D%B1",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "102f00fe2fe295e2d11dd4cdf7c2d9d64c223fe7bf6b6148c662a28fdbc1ce2e",
+        "bytes": 29139
+    },
+    "parsed": {
+        "found": true,
+        "word": "岌岌可危",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jí",
+                "jí",
+                "kě",
+                "wēi"
+            ],
+            "zhuyin": [
+                "ㄐㄧˊ",
+                "ㄐㄧˊ",
+                "ㄎㄜˇ",
+                "ㄨㄟ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容情况极其危险。",
+                "citations": [
+                    {
+                        "text": "现因风涛震撼，土松岸坍，根脚多有刷洗下空，桩折墙塌，岌岌可危。",
+                        "source": "清·薛福成《出使四国日记·光绪十六年五月二十三日》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "现因风涛震撼，土松岸坍，根脚多有刷洗下空，桩折墙塌，岌岌可危。",
+                "source": "清·薛福成《出使四国日记·光绪十六年五月二十三日》"
+            }
+        ],
+        "synonyms": [
+            "摇摇欲坠",
+            "间不容发",
+            "千钧一发",
+            "摇摇欲堕",
+            "危在旦夕",
+            "危如累卵"
+        ],
+        "antonyms": [
+            "固若金汤",
+            "安如磐石",
+            "稳如泰山"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "precarious"
+    },
+    "blocks": {
+        "reading": "jí jí kě wēi",
+        "sense-1": "形容情况极其危险。",
+        "citation-1": "现因风涛震撼，土松岸坍，根脚多有刷洗下空，桩折墙塌，岌岌可危。 — 清·薛福成《出使四国日记·光绪十六年五月二十三日》",
+        "synonyms": "摇摇欲坠、间不容发、千钧一发、摇摇欲堕、危在旦夕、危如累卵",
+        "antonyms": "固若金汤、安如磐石、稳如泰山"
+    }
+}

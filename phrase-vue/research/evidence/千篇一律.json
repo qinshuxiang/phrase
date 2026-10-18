@@ -1,0 +1,70 @@
+{
+    "word": "千篇一律",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%8D%83%E7%AF%87%E4%B8%80%E5%BE%8B",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "b5e3e74b12efacfa342610577a218507b747a9e34908afbf5f30d36dd238954c",
+        "bytes": 29880
+    },
+    "parsed": {
+        "found": true,
+        "word": "千篇一律",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "qiān",
+                "piān",
+                "yī",
+                "lǜ"
+            ],
+            "zhuyin": [
+                "ㄑㄧㄢ",
+                "ㄆㄧㄢ",
+                "ㄧ",
+                "ㄌㄩˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "机械地重复或无变化",
+                "citations": []
+            },
+            {
+                "definition": "以外观(如表面、颜色或款式)无差异",
+                "citations": []
+            },
+            {
+                "definition": "指诗文公式化,泛指互相重复的",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "千人一面",
+            "如出一辙",
+            "一成不变"
+        ],
+        "antonyms": [
+            "千差万别",
+            "形形色色",
+            "变化多端",
+            "千变万化",
+            "五花八门"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "stereotyped"
+    },
+    "blocks": {
+        "reading": "qiān piān yī lǜ",
+        "sense-1": "机械地重复或无变化",
+        "sense-2": "以外观(如表面、颜色或款式)无差异",
+        "sense-3": "指诗文公式化,泛指互相重复的",
+        "synonyms": "千人一面、如出一辙、一成不变",
+        "antonyms": "千差万别、形形色色、变化多端、千变万化、五花八门"
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "word": "夙兴夜寐",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A4%99%E5%85%B4%E5%A4%9C%E5%AF%90",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "e93157676e4783a031548e2f6f536052cf51076ba0b37275dee655936c113c10",
+        "bytes": 29015
+    },
+    "parsed": {
+        "found": true,
+        "word": "夙兴夜寐",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "sù",
+                "xīng",
+                "yè",
+                "mèi"
+            ],
+            "zhuyin": [
+                "ㄙㄨˋ",
+                "ㄒㄧㄥ",
+                "ㄧㄝˋ",
+                "ㄇㄟˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "早起晚睡。形容勤劳。",
+                "citations": [
+                    {
+                        "text": "夙兴夜寐，洒埽庭内，维民之章。",
+                        "source": "《诗·大雅·抑》"
+                    },
+                    {
+                        "text": "夙兴夜处不宁。",
+                        "source": "《仪礼·士虞礼》"
+                    }
+                ]
+            },
+            {
+                "definition": "同「夙兴夜寐」。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "夙兴夜寐，洒埽庭内，维民之章。",
+                "source": "《诗·大雅·抑》"
+            },
+            {
+                "text": "夙兴夜处不宁。",
+                "source": "《仪礼·士虞礼》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "rise early and retire late"
+    },
+    "blocks": {
+        "reading": "sù xīng yè mèi",
+        "sense-1": "早起晚睡。形容勤劳。",
+        "sense-2": "同「夙兴夜寐」。",
+        "citation-1": "夙兴夜寐，洒埽庭内，维民之章。 — 《诗·大雅·抑》",
+        "citation-2": "夙兴夜处不宁。 — 《仪礼·士虞礼》"
+    }
+}

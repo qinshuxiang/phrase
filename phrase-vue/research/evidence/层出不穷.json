@@ -1,0 +1,70 @@
+{
+    "word": "层出不穷",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%B1%82%E5%87%BA%E4%B8%8D%E7%A9%B7",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "14b14b4d8175d7b0d599f2ca37a7c6b8a7d597df29e6da7061396592cc3be44f",
+        "bytes": 28008
+    },
+    "parsed": {
+        "found": true,
+        "word": "层出不穷",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "céng",
+                "chū",
+                "bù",
+                "qióng"
+            ],
+            "zhuyin": [
+                "ㄘㄥˊ",
+                "ㄔㄨ",
+                "ㄅㄨˋ",
+                "ㄑㄩㄥˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "接连不断地出现，没有穷尽。",
+                "citations": [
+                    {
+                        "text": "天下之巧，层出不穷，千变万化，岂一端所可尽乎？",
+                        "source": "清·纪昀《阅微草堂笔记·槐西杂志二》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "天下之巧，层出不穷，千变万化，岂一端所可尽乎？",
+                "source": "清·纪昀《阅微草堂笔记·槐西杂志二》"
+            }
+        ],
+        "synonyms": [
+            "层见叠出",
+            "屡见不鲜",
+            "司空见惯"
+        ],
+        "antonyms": [
+            "寥寥无几",
+            "寥若晨星",
+            "绝难一见",
+            "屈指可数"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "emerge one after another"
+    },
+    "blocks": {
+        "reading": "céng chū bù qióng",
+        "sense-1": "接连不断地出现，没有穷尽。",
+        "citation-1": "天下之巧，层出不穷，千变万化，岂一端所可尽乎？ — 清·纪昀《阅微草堂笔记·槐西杂志二》",
+        "synonyms": "层见叠出、屡见不鲜、司空见惯",
+        "antonyms": "寥寥无几、寥若晨星、绝难一见、屈指可数"
+    }
+}

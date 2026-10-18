@@ -1,0 +1,58 @@
+{
+    "word": "一目了然",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%80%E7%9B%AE%E4%BA%86%E7%84%B6",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "a4064ff146a4e32fdf2e33082ba0cd36310e71bf7117c564ef61e509605b3a16",
+        "bytes": 27533
+    },
+    "parsed": {
+        "found": true,
+        "word": "一目了然",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yī",
+                "mù",
+                "liǎo",
+                "rán"
+            ],
+            "zhuyin": [
+                "ㄧ",
+                "ㄇㄨˋ",
+                "ㄌㄧㄠˇ",
+                "ㄖㄢˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "一眼就看得很清楚",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "一望而知",
+            "了如指掌",
+            "不言而喻"
+        ],
+        "antonyms": [
+            "管中窥豹",
+            "目不暇接",
+            "雾里看花"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "as clear as day; see with half an eye"
+    },
+    "blocks": {
+        "reading": "yī mù liǎo rán",
+        "sense-1": "一眼就看得很清楚",
+        "synonyms": "一望而知、了如指掌、不言而喻",
+        "antonyms": "管中窥豹、目不暇接、雾里看花"
+    }
+}

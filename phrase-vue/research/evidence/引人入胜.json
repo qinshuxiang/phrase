@@ -1,0 +1,48 @@
+{
+    "word": "引人入胜",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%BC%95%E4%BA%BA%E5%85%A5%E8%83%9C",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "bd4d0744950b1f9f4c4ab3d87ac4d4b897c4fa8e1481aa241dba445a63e957de",
+        "bytes": 26610
+    },
+    "parsed": {
+        "found": true,
+        "word": "引人入胜",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yǐn",
+                "rén",
+                "rù",
+                "shèng"
+            ],
+            "zhuyin": [
+                "ㄧㄣˇ",
+                "ㄖㄣˊ",
+                "ㄖㄨˋ",
+                "ㄕㄥˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "风景或文艺作品等优美动人，能吸引人进入美妙的境界。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "fascinating"
+    },
+    "blocks": {
+        "reading": "yǐn rén rù shèng",
+        "sense-1": "风景或文艺作品等优美动人，能吸引人进入美妙的境界。"
+    }
+}

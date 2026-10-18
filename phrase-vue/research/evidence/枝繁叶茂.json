@@ -1,0 +1,64 @@
+{
+    "word": "枝繁叶茂",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%9E%9D%E7%B9%81%E5%8F%B6%E8%8C%82",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "a4df6b852448db69e7146d7aa20b5b845aa1446c043717160c9f1490df3caf22",
+        "bytes": 24665
+    },
+    "parsed": {
+        "found": true,
+        "word": "枝繁叶茂",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zhī",
+                "fán",
+                "yè",
+                "mào"
+            ],
+            "zhuyin": [
+                "ㄓ",
+                "ㄈㄢˊ",
+                "ㄧㄝˋ",
+                "ㄇㄠˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "树木枝叶繁盛茂密。",
+                "citations": [
+                    {
+                        "text": "愿人间天上共效绸缪，贺郎君玉润冰清，祝小姐枝繁叶茂。",
+                        "source": "明·孙柚《琴心记·鱼水重谐》"
+                    }
+                ]
+            },
+            {
+                "definition": "比喻家族兴旺或事业蓬勃发展。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "愿人间天上共效绸缪，贺郎君玉润冰清，祝小姐枝繁叶茂。",
+                "source": "明·孙柚《琴心记·鱼水重谐》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "luxuriant"
+    },
+    "blocks": {
+        "reading": "zhī fán yè mào",
+        "sense-1": "树木枝叶繁盛茂密。",
+        "sense-2": "比喻家族兴旺或事业蓬勃发展。",
+        "citation-1": "愿人间天上共效绸缪，贺郎君玉润冰清，祝小姐枝繁叶茂。 — 明·孙柚《琴心记·鱼水重谐》"
+    }
+}

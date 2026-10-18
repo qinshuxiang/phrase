@@ -1,0 +1,62 @@
+{
+    "word": "大相径庭",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A4%A7%E7%9B%B8%E5%BE%84%E5%BA%AD",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "d4d0888b543001d56ed0e2aa8bcd06970ee7dd1975fd1c0e7733b26eca0edf75",
+        "bytes": 27948
+    },
+    "parsed": {
+        "found": true,
+        "word": "大相径庭",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "dà",
+                "xiāng",
+                "jìng",
+                "tíng"
+            ],
+            "zhuyin": [
+                "ㄉㄚˋ",
+                "ㄒㄧㄤ",
+                "ㄐㄧㄥˋ",
+                "ㄊㄧㄥˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻彼此差别很大,极为不同",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "迥然不同",
+            "泾渭分明",
+            "天差地别",
+            "截然不同"
+        ],
+        "antonyms": [
+            "一模一样",
+            "如出一辙",
+            "相差无几",
+            "并行不悖",
+            "不相上下",
+            "大同小异"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "be widely divergent;be entirely different;be strikingly at variance"
+    },
+    "blocks": {
+        "reading": "dà xiāng jìng tíng",
+        "sense-1": "比喻彼此差别很大,极为不同",
+        "synonyms": "迥然不同、泾渭分明、天差地别、截然不同",
+        "antonyms": "一模一样、如出一辙、相差无几、并行不悖、不相上下、大同小异"
+    }
+}

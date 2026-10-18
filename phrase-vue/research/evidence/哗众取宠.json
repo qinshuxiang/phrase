@@ -1,0 +1,48 @@
+{
+    "word": "哗众取宠",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%93%97%E4%BC%97%E5%8F%96%E5%AE%A0",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "f1f792663372c1dd67681dbf03ec58e86fae57e9793b0cb5d78ce6320a4e36bc",
+        "bytes": 27022
+    },
+    "parsed": {
+        "found": true,
+        "word": "哗众取宠",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "huá",
+                "zhòng",
+                "qǔ",
+                "chǒng"
+            ],
+            "zhuyin": [
+                "ㄏㄨㄚˊ",
+                "ㄓㄨㄥˋ",
+                "ㄑㄩˇ",
+                "ㄔㄨㄥˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "故意卖弄新奇的言论,以取悦大众",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "try to please the public with claptrap"
+    },
+    "blocks": {
+        "reading": "huá zhòng qǔ chǒng",
+        "sense-1": "故意卖弄新奇的言论,以取悦大众"
+    }
+}

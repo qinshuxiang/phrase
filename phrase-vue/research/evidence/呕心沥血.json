@@ -1,0 +1,59 @@
+{
+    "word": "呕心沥血",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%91%95%E5%BF%83%E6%B2%A5%E8%A1%80",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "ce606d130445e195771af91cc7562824d6b6eaa362964f1ce4f8400439f6762c",
+        "bytes": 26838
+    },
+    "parsed": {
+        "found": true,
+        "word": "呕心沥血",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "ǒu",
+                "xīn",
+                "lì",
+                "xuè"
+            ],
+            "zhuyin": [
+                "ㄡˇ",
+                "ㄒㄧㄣ",
+                "ㄌㄧˋ",
+                "ㄒㄩㄝˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容费尽心思和精力。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "费尽心血",
+            "煞费苦心",
+            "挖空心思",
+            "用尽心思",
+            "处心积虑"
+        ],
+        "antonyms": [
+            "无所用心",
+            "粗制滥造"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "exert one's utmost effort"
+    },
+    "blocks": {
+        "reading": "ǒu xīn lì xuè",
+        "sense-1": "形容费尽心思和精力。",
+        "synonyms": "费尽心血、煞费苦心、挖空心思、用尽心思、处心积虑",
+        "antonyms": "无所用心、粗制滥造"
+    }
+}

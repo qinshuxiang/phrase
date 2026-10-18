@@ -1,0 +1,57 @@
+{
+    "word": "嗤之以鼻",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%97%A4%E4%B9%8B%E4%BB%A5%E9%BC%BB",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "783ee28102a99feb80b3c9744a9391f8749646ddfe3c2923bc42c12058e422e7",
+        "bytes": 27596
+    },
+    "parsed": {
+        "found": true,
+        "word": "嗤之以鼻",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "chī",
+                "zhī",
+                "yǐ",
+                "bí"
+            ],
+            "zhuyin": [
+                "ㄔ",
+                "ㄓ",
+                "ㄧˇ",
+                "ㄅㄧˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "用鼻子轻蔑地吭气,表示瞧不起",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "不以为然",
+            "不屑一顾",
+            "视如敝屣"
+        ],
+        "antonyms": [
+            "五体投地",
+            "拍案叫绝"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "give a snort of contempt"
+    },
+    "blocks": {
+        "reading": "chī zhī yǐ bí",
+        "sense-1": "用鼻子轻蔑地吭气,表示瞧不起",
+        "synonyms": "不以为然、不屑一顾、视如敝屣",
+        "antonyms": "五体投地、拍案叫绝"
+    }
+}

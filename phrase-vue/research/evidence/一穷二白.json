@@ -1,0 +1,48 @@
+{
+    "word": "一穷二白",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%80%E7%A9%B7%E4%BA%8C%E7%99%BD",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "81f7bacf4da903fe1b56f6472edd6a138cb5b55fae8602d6e165c790c5ad2b41",
+        "bytes": 23623
+    },
+    "parsed": {
+        "found": true,
+        "word": "一穷二白",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yī",
+                "qióng",
+                "èr",
+                "bái"
+            ],
+            "zhuyin": [
+                "ㄧ",
+                "ㄑㄩㄥˊ",
+                "ㄦˋ",
+                "ㄅㄞˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容经济基础薄弱，文化水平低下。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "poor and blank"
+    },
+    "blocks": {
+        "reading": "yī qióng èr bái",
+        "sense-1": "形容经济基础薄弱，文化水平低下。"
+    }
+}

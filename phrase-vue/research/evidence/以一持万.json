@@ -1,0 +1,63 @@
+{
+    "word": "以一持万",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%BB%A5%E4%B8%80%E6%8C%81%E4%B8%87",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "fb96ff6f2103423b75901e699a355b340b126ccdbff0efde731cb7cd66f0e3cd",
+        "bytes": 25385
+    },
+    "parsed": {
+        "found": true,
+        "word": "以一持万",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yǐ",
+                "yī",
+                "chí",
+                "wàn"
+            ],
+            "zhuyin": [
+                "ㄧˇ",
+                "ㄧ",
+                "ㄔˊ",
+                "ㄨㄢˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "掌握要领而统筹全局。",
+                "citations": [
+                    {
+                        "text": "法先王，统礼义，一制度，以浅持博，以古持今，以一持万。",
+                        "source": "《荀子·儒效》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "法先王，统礼义，一制度，以浅持博，以古持今，以一持万。",
+                "source": "《荀子·儒效》"
+            }
+        ],
+        "synonyms": [
+            "纲举目张",
+            "提纲挈领"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "grasp the key points"
+    },
+    "blocks": {
+        "reading": "yǐ yī chí wàn",
+        "sense-1": "掌握要领而统筹全局。",
+        "citation-1": "法先王，统礼义，一制度，以浅持博，以古持今，以一持万。 — 《荀子·儒效》",
+        "synonyms": "纲举目张、提纲挈领"
+    }
+}

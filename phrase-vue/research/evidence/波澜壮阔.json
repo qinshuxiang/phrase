@@ -1,0 +1,67 @@
+{
+    "word": "波澜壮阔",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%B3%A2%E6%BE%9C%E5%A3%AE%E9%98%94",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "d4356d8b0862b96c5cfbc0ba39dc7cad1c40ed0432c8046beaead9b550e7d8ff",
+        "bytes": 26567
+    },
+    "parsed": {
+        "found": true,
+        "word": "波澜壮阔",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bō",
+                "lán",
+                "zhuàng",
+                "kuò"
+            ],
+            "zhuyin": [
+                "ㄅㄛ",
+                "ㄌㄢˊ",
+                "ㄓㄨㄤˋ",
+                "ㄎㄨㄛˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容气势雄伟，规模宏大。",
+                "citations": [
+                    {
+                        "text": "其年诸短调，波澜壮阔，气象万千，是何神勇。",
+                        "source": "清·陈廷焯《白雨斋词话》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "其年诸短调，波澜壮阔，气象万千，是何神勇。",
+                "source": "清·陈廷焯《白雨斋词话》"
+            }
+        ],
+        "synonyms": [
+            "浩浩荡荡",
+            "气势磅礴",
+            "汹涌澎湃"
+        ],
+        "antonyms": [
+            "一潭死水"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "grand and magnificent"
+    },
+    "blocks": {
+        "reading": "bō lán zhuàng kuò",
+        "sense-1": "形容气势雄伟，规模宏大。",
+        "citation-1": "其年诸短调，波澜壮阔，气象万千，是何神勇。 — 清·陈廷焯《白雨斋词话》",
+        "synonyms": "浩浩荡荡、气势磅礴、汹涌澎湃",
+        "antonyms": "一潭死水"
+    }
+}

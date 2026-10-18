@@ -1,0 +1,55 @@
+{
+    "word": "苦口婆心",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%8B%A6%E5%8F%A3%E5%A9%86%E5%BF%83",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "50ae57a591f33df4ce0f06677c853b793954977fd28f9fe0f19c3c43e2ae0dec",
+        "bytes": 27574
+    },
+    "parsed": {
+        "found": true,
+        "word": "苦口婆心",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "kǔ",
+                "kǒu",
+                "pó",
+                "xīn"
+            ],
+            "zhuyin": [
+                "ㄎㄨˇ",
+                "ㄎㄡˇ",
+                "ㄆㄛˊ",
+                "ㄒㄧㄣ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容像耐心慈祥的老婆婆那样好心好意地反复劝慰",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "苦口相劝",
+            "语重心长"
+        ],
+        "antonyms": [
+            "口蜜腹剑"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "advise in earnest words and with good intention;persuade patiently"
+    },
+    "blocks": {
+        "reading": "kǔ kǒu pó xīn",
+        "sense-1": "形容像耐心慈祥的老婆婆那样好心好意地反复劝慰",
+        "synonyms": "苦口相劝、语重心长",
+        "antonyms": "口蜜腹剑"
+    }
+}

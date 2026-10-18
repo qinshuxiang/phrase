@@ -1,0 +1,62 @@
+{
+    "word": "欲盖弥彰",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%AC%B2%E7%9B%96%E5%BC%A5%E5%BD%B0",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "c0fdbc1c0a91a4ce8499b0a8b5117322e9956f5281816373ebc9d596279aed3c",
+        "bytes": 26479
+    },
+    "parsed": {
+        "found": true,
+        "word": "欲盖弥彰",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yù",
+                "gài",
+                "mí",
+                "zhāng"
+            ],
+            "zhuyin": [
+                "ㄩˋ",
+                "ㄍㄞˋ",
+                "ㄇㄧˊ",
+                "ㄓㄤ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "企图掩盖过失或坏事的真相，反而暴露得更加明显。",
+                "citations": [
+                    {
+                        "text": "或畏人知，横加暴怒，欲盖弥彰，竟有何益！",
+                        "source": "宋·司马光《资治通鉴·唐纪》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "或畏人知，横加暴怒，欲盖弥彰，竟有何益！",
+                "source": "宋·司马光《资治通鉴·唐纪》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [
+            "相得益彰"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "conspicuous cover-up"
+    },
+    "blocks": {
+        "reading": "yù gài mí zhāng",
+        "sense-1": "企图掩盖过失或坏事的真相，反而暴露得更加明显。",
+        "citation-1": "或畏人知，横加暴怒，欲盖弥彰，竟有何益！ — 宋·司马光《资治通鉴·唐纪》",
+        "antonyms": "相得益彰"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "word": "白云苍狗",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%99%BD%E4%BA%91%E8%8B%8D%E7%8B%97",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "dbf39aa25bb3ea3c56f4678c99c8a4614f8a9f6023d4b42ea2ec553345e35853",
+        "bytes": 25815
+    },
+    "parsed": {
+        "found": true,
+        "word": "白云苍狗",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bái",
+                "yún",
+                "cāng",
+                "gǒu"
+            ],
+            "zhuyin": [
+                "ㄅㄞˊ",
+                "ㄩㄣˊ",
+                "ㄘㄤ",
+                "ㄍㄡˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻世事变幻无常，如同云彩瞬间变幻形状。",
+                "citations": [
+                    {
+                        "text": "白云苍狗尘寰感，也到空林释子家。",
+                        "source": "清·姚鼐《慧居寺》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "白云苍狗尘寰感，也到空林释子家。",
+                "source": "清·姚鼐《慧居寺》"
+            }
+        ],
+        "synonyms": [
+            "变化无常",
+            "瞬息万变",
+            "白衣苍狗",
+            "沧海桑田"
+        ],
+        "antonyms": [
+            "一成不变"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "changing clouds"
+    },
+    "blocks": {
+        "reading": "bái yún cāng gǒu",
+        "sense-1": "比喻世事变幻无常，如同云彩瞬间变幻形状。",
+        "citation-1": "白云苍狗尘寰感，也到空林释子家。 — 清·姚鼐《慧居寺》",
+        "synonyms": "变化无常、瞬息万变、白衣苍狗、沧海桑田",
+        "antonyms": "一成不变"
+    }
+}

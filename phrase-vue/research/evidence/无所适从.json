@@ -1,0 +1,80 @@
+{
+    "word": "无所适从",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%97%A0%E6%89%80%E9%80%82%E4%BB%8E",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "155d31838a5622180744f932059079cbf83bd92d0e92f880e5a12aab3e1b66bd",
+        "bytes": 27842
+    },
+    "parsed": {
+        "found": true,
+        "word": "无所适从",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "wú",
+                "suǒ",
+                "shì",
+                "cóng"
+            ],
+            "zhuyin": [
+                "ㄨˊ",
+                "ㄙㄨㄛˇ",
+                "ㄕˋ",
+                "ㄘㄨㄥˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "不知如何依从。比喻处事犹豫不决。",
+                "citations": [
+                    {
+                        "text": "此县界于强虏，皇威未接，无所适从，故成背叛。",
+                        "source": "《北齐书·魏兰根传》"
+                    },
+                    {
+                        "text": "源殊派异，无所适从。",
+                        "source": "宋·姚宽《西溪丛语》"
+                    }
+                ]
+            },
+            {
+                "definition": "面对多种说法或情况而感到困惑。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "此县界于强虏，皇威未接，无所适从，故成背叛。",
+                "source": "《北齐书·魏兰根传》"
+            },
+            {
+                "text": "源殊派异，无所适从。",
+                "source": "宋·姚宽《西溪丛语》"
+            }
+        ],
+        "synonyms": [
+            "不知所措",
+            "莫衷一是"
+        ],
+        "antonyms": [
+            "择善而从"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "at a loss"
+    },
+    "blocks": {
+        "reading": "wú suǒ shì cóng",
+        "sense-1": "不知如何依从。比喻处事犹豫不决。",
+        "sense-2": "面对多种说法或情况而感到困惑。",
+        "citation-1": "此县界于强虏，皇威未接，无所适从，故成背叛。 — 《北齐书·魏兰根传》",
+        "citation-2": "源殊派异，无所适从。 — 宋·姚宽《西溪丛语》",
+        "synonyms": "不知所措、莫衷一是",
+        "antonyms": "择善而从"
+    }
+}

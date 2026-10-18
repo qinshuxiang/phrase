@@ -1,0 +1,68 @@
+{
+    "word": "昙花一现",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%98%99%E8%8A%B1%E4%B8%80%E7%8E%B0",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "97ec3f9289e1f77ed1f2e81e50fb31c936ff46546219523ccbbabe02ee24eb83",
+        "bytes": 27547
+    },
+    "parsed": {
+        "found": true,
+        "word": "昙花一现",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "tán",
+                "huā",
+                "yī",
+                "xiàn"
+            ],
+            "zhuyin": [
+                "ㄊㄢˊ",
+                "ㄏㄨㄚ",
+                "ㄧ",
+                "ㄒㄧㄢˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻稀有的事物或显赫一时的人物出现不久就消逝。",
+                "citations": [
+                    {
+                        "text": "如优昙钵花时一现耳。",
+                        "source": "《长阿含经•游行经》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "如优昙钵花时一现耳。",
+                "source": "《长阿含经•游行经》"
+            }
+        ],
+        "synonyms": [
+            "稍纵即逝",
+            "好景不长",
+            "好景不常"
+        ],
+        "antonyms": [
+            "万古长青",
+            "数见不鲜"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "ephemeral; fleeting"
+    },
+    "blocks": {
+        "reading": "tán huā yī xiàn",
+        "sense-1": "比喻稀有的事物或显赫一时的人物出现不久就消逝。",
+        "citation-1": "如优昙钵花时一现耳。 — 《长阿含经•游行经》",
+        "synonyms": "稍纵即逝、好景不长、好景不常",
+        "antonyms": "万古长青、数见不鲜"
+    }
+}

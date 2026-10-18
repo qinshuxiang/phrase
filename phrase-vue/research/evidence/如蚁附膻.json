@@ -1,0 +1,65 @@
+{
+    "word": "如蚁附膻",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A6%82%E8%9A%81%E9%99%84%E8%86%BB",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "6a3724f4f94271a71998f1d8a03a087452d74efff1826dee2262ee985eac9821",
+        "bytes": 25800
+    },
+    "parsed": {
+        "found": true,
+        "word": "如蚁附膻",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "rú",
+                "yǐ",
+                "fù",
+                "shān"
+            ],
+            "zhuyin": [
+                "ㄖㄨˊ",
+                "ㄧˇ",
+                "ㄈㄨˋ",
+                "ㄕㄢ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻趋炎附势或追逐名利的行为。",
+                "citations": [
+                    {
+                        "text": "夫使外国借债于我，而非有大欲在其后也，则何必互争此权，如蚁附膻，如狗夺骨。",
+                        "source": "梁启超《灭国新法论》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "夫使外国借债于我，而非有大欲在其后也，则何必互争此权，如蚁附膻，如狗夺骨。",
+                "source": "梁启超《灭国新法论》"
+            }
+        ],
+        "synonyms": [
+            "臭味相投",
+            "趋炎附势",
+            "趋附者众",
+            "趋之若鹜"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "like ants clinging to putrid meat"
+    },
+    "blocks": {
+        "reading": "rú yǐ fù shān",
+        "sense-1": "比喻趋炎附势或追逐名利的行为。",
+        "citation-1": "夫使外国借债于我，而非有大欲在其后也，则何必互争此权，如蚁附膻，如狗夺骨。 — 梁启超《灭国新法论》",
+        "synonyms": "臭味相投、趋炎附势、趋附者众、趋之若鹜"
+    }
+}

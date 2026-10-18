@@ -1,0 +1,59 @@
+{
+    "word": "视死如归",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%A7%86%E6%AD%BB%E5%A6%82%E5%BD%92",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "2103e42c73162e66b9959d16a6cd2805fbaeb24328f7ce957611e18473243d24",
+        "bytes": 27248
+    },
+    "parsed": {
+        "found": true,
+        "word": "视死如归",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shì",
+                "sǐ",
+                "rú",
+                "guī"
+            ],
+            "zhuyin": [
+                "ㄕˋ",
+                "ㄙˇ",
+                "ㄖㄨˊ",
+                "ㄍㄨㄟ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "把死亡看作回家一样。形容为了正义事业不怕牺牲生命。",
+                "citations": [
+                    {
+                        "text": "平原广牧，车不结辙，士不旋踵，鼓之而三军之士视死如归。",
+                        "source": "《管子·小匡》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "平原广牧，车不结辙，士不旋踵，鼓之而三军之士视死如归。",
+                "source": "《管子·小匡》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "fearless of death"
+    },
+    "blocks": {
+        "reading": "shì sǐ rú guī",
+        "sense-1": "把死亡看作回家一样。形容为了正义事业不怕牺牲生命。",
+        "citation-1": "平原广牧，车不结辙，士不旋踵，鼓之而三军之士视死如归。 — 《管子·小匡》"
+    }
+}

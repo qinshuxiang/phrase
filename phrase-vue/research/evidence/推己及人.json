@@ -1,0 +1,55 @@
+{
+    "word": "推己及人",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%8E%A8%E5%B7%B1%E5%8F%8A%E4%BA%BA",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "5ca0287d1d99f0345a5f13f5a255f92f763f318c803d4c5aa2b665a09f2e881a",
+        "bytes": 26036
+    },
+    "parsed": {
+        "found": true,
+        "word": "推己及人",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "tuī",
+                "jǐ",
+                "jí",
+                "rén"
+            ],
+            "zhuyin": [
+                "ㄊㄨㄟ",
+                "ㄐㄧˇ",
+                "ㄐㄧˊ",
+                "ㄖㄣˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "用自己的心思来推想别人的心思;替别人所处的境地设想",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "以己度人",
+            "设身处地"
+        ],
+        "antonyms": [
+            "诿过于人"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "treat other people as you would yourself;do as you would be done by others;be considerate as to put oneself in the place of another"
+    },
+    "blocks": {
+        "reading": "tuī jǐ jí rén",
+        "sense-1": "用自己的心思来推想别人的心思;替别人所处的境地设想",
+        "synonyms": "以己度人、设身处地",
+        "antonyms": "诿过于人"
+    }
+}

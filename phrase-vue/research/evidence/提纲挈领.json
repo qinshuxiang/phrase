@@ -1,0 +1,83 @@
+{
+    "word": "提纲挈领",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%8F%90%E7%BA%B2%E6%8C%88%E9%A2%86",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "1dd66b6c8735c9d0b9338a8469b5f382b9cd3d7cf4f7c3f47eaae358d19629b9",
+        "bytes": 27758
+    },
+    "parsed": {
+        "found": true,
+        "word": "提纲挈领",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "tí",
+                "gāng",
+                "qiè",
+                "lǐng"
+            ],
+            "zhuyin": [
+                "ㄊㄧˊ",
+                "ㄍㄤ",
+                "ㄑㄧㄝ",
+                "ˋ",
+                "ㄌㄧㄥˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "提起鱼网的总绳，拎住皮衣的领子。",
+                "citations": [
+                    {
+                        "text": "善张网者引其纲，不一一摄万目而后得。",
+                        "source": "《韩非子·外储说右下》"
+                    },
+                    {
+                        "text": "若挈裘领，拙五指而顿之，顺者不可胜数也。",
+                        "source": "《荀子·劝学》"
+                    }
+                ]
+            },
+            {
+                "definition": "比喻抓住事物的关键要领，进行简明扼要的说明。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "善张网者引其纲，不一一摄万目而后得。",
+                "source": "《韩非子·外储说右下》"
+            },
+            {
+                "text": "若挈裘领，拙五指而顿之，顺者不可胜数也。",
+                "source": "《荀子·劝学》"
+            }
+        ],
+        "synonyms": [
+            "纲举目张",
+            "一针见血",
+            "一语道破﹑要言不烦"
+        ],
+        "antonyms": [
+            "不得要领",
+            "言不及义"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "take a net by the headrope or a coat by the collar"
+    },
+    "blocks": {
+        "reading": "tí gāng qiè lǐng",
+        "sense-1": "提起鱼网的总绳，拎住皮衣的领子。",
+        "sense-2": "比喻抓住事物的关键要领，进行简明扼要的说明。",
+        "citation-1": "善张网者引其纲，不一一摄万目而后得。 — 《韩非子·外储说右下》",
+        "citation-2": "若挈裘领，拙五指而顿之，顺者不可胜数也。 — 《荀子·劝学》",
+        "synonyms": "纲举目张、一针见血、一语道破﹑要言不烦",
+        "antonyms": "不得要领、言不及义"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "word": "束手无策",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%9D%9F%E6%89%8B%E6%97%A0%E7%AD%96",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "0e19de266e86959c11779c9af862170df13badbd35877af2171c5061a7227b3f",
+        "bytes": 28951
+    },
+    "parsed": {
+        "found": true,
+        "word": "束手无策",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shù",
+                "shǒu",
+                "wú",
+                "cè"
+            ],
+            "zhuyin": [
+                "ㄕㄨˋ",
+                "ㄕㄡˇ",
+                "ㄨˊ",
+                "ㄘㄜˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "捆住双手，毫无应对办法。形容遇到困难时无法可施。",
+                "citations": [
+                    {
+                        "text": "元降，诸将束手无策，相与为俘累以去。",
+                        "source": "宋·陆游《南唐书·朱元传论》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "元降，诸将束手无策，相与为俘累以去。",
+                "source": "宋·陆游《南唐书·朱元传论》"
+            }
+        ],
+        "synonyms": [
+            "无能为力",
+            "计无所出",
+            "手足无措",
+            "束手待毙",
+            "束手就擒",
+            "一筹莫展"
+        ],
+        "antonyms": [
+            "得心应手",
+            "左右逢源",
+            "大刀阔斧",
+            "急中生智",
+            "计上心头",
+            "胸有成竹"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "helpless"
+    },
+    "blocks": {
+        "reading": "shù shǒu wú cè",
+        "sense-1": "捆住双手，毫无应对办法。形容遇到困难时无法可施。",
+        "citation-1": "元降，诸将束手无策，相与为俘累以去。 — 宋·陆游《南唐书·朱元传论》",
+        "synonyms": "无能为力、计无所出、手足无措、束手待毙、束手就擒、一筹莫展",
+        "antonyms": "得心应手、左右逢源、大刀阔斧、急中生智、计上心头、胸有成竹"
+    }
+}

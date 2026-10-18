@@ -1,0 +1,59 @@
+{
+    "word": "改弦易辙",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%94%B9%E5%BC%A6%E6%98%93%E8%BE%99",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "80554b2d7a7c2e467f6ec95bf4ecf7c7ca1196bef36650809ab4b8f9f4cc60ce",
+        "bytes": 28020
+    },
+    "parsed": {
+        "found": true,
+        "word": "改弦易辙",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "gǎi",
+                "xián",
+                "yì",
+                "zhé"
+            ],
+            "zhuyin": [
+                "ㄍㄞˇ",
+                "ㄒㄧㄢˊ",
+                "ㄧˋ",
+                "ㄓㄜˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "事物之间不协调犹如曲将变调、车将改道,比喻遇事不顺要灵活变通",
+                "citations": [
+                    {
+                        "text": "况商土瘠,商人贫,可以静理而阜安,不宜改弦而易辙。",
+                        "source": "唐·白居易《王公亮可商州刺史制》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "况商土瘠,商人贫,可以静理而阜安,不宜改弦而易辙。",
+                "source": "唐·白居易《王公亮可商州刺史制》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "dance to another tune"
+    },
+    "blocks": {
+        "reading": "gǎi xián yì zhé",
+        "sense-1": "事物之间不协调犹如曲将变调、车将改道,比喻遇事不顺要灵活变通",
+        "citation-1": "况商土瘠,商人贫,可以静理而阜安,不宜改弦而易辙。 — 唐·白居易《王公亮可商州刺史制》"
+    }
+}

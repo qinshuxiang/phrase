@@ -1,0 +1,63 @@
+{
+    "word": "珠联璧合",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%8F%A0%E8%81%94%E7%92%A7%E5%90%88",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "bfec7bb553c366538948144929cd8f3c75624e006fcfaf43c52f0297a768bfda",
+        "bytes": 26542
+    },
+    "parsed": {
+        "found": true,
+        "word": "珠联璧合",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zhū",
+                "lián",
+                "bì",
+                "hé"
+            ],
+            "zhuyin": [
+                "ㄓㄨ",
+                "ㄌㄧㄢˊ",
+                "ㄅㄧˋ",
+                "ㄏㄜˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "珍珠串联，美玉合璧。比喻杰出的人才或美好的事物汇聚一处，相得益彰。",
+                "citations": [
+                    {
+                        "text": "光辉如珠联璧合。",
+                        "source": "元·王沂《科举程文序》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "光辉如珠联璧合。",
+                "source": "元·王沂《科举程文序》"
+            }
+        ],
+        "synonyms": [
+            "相得益彰",
+            "相辅相成"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "perfect combination"
+    },
+    "blocks": {
+        "reading": "zhū lián bì hé",
+        "sense-1": "珍珠串联，美玉合璧。比喻杰出的人才或美好的事物汇聚一处，相得益彰。",
+        "citation-1": "光辉如珠联璧合。 — 元·王沂《科举程文序》",
+        "synonyms": "相得益彰、相辅相成"
+    }
+}

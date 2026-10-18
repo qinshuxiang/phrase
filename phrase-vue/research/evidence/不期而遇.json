@@ -1,0 +1,56 @@
+{
+    "word": "不期而遇",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%8D%E6%9C%9F%E8%80%8C%E9%81%87",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "804de74b7eafaa2c998e07ccf0ea7ac76b2e8298a142bfc0b6aa1e55b27b7834",
+        "bytes": 27467
+    },
+    "parsed": {
+        "found": true,
+        "word": "不期而遇",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bù",
+                "qī",
+                "ér",
+                "yù"
+            ],
+            "zhuyin": [
+                "ㄅㄨˋ",
+                "ㄑㄧ",
+                "ㄦˊ",
+                "ㄩˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "未经约定而意外相遇",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "不约而同",
+            "萍水相逢",
+            "不谋而合"
+        ],
+        "antonyms": [
+            "失之交臂"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "unexpected encounter;chance on"
+    },
+    "blocks": {
+        "reading": "bù qī ér yù",
+        "sense-1": "未经约定而意外相遇",
+        "synonyms": "不约而同、萍水相逢、不谋而合",
+        "antonyms": "失之交臂"
+    }
+}

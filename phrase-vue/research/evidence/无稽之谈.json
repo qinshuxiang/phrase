@@ -1,0 +1,67 @@
+{
+    "word": "无稽之谈",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%97%A0%E7%A8%BD%E4%B9%8B%E8%B0%88",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "ad29f9bfc24d11d697f198f5428843be78e4b73cf584baf26ee6ce2a26c8be41",
+        "bytes": 27271
+    },
+    "parsed": {
+        "found": true,
+        "word": "无稽之谈",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "wú",
+                "jī",
+                "zhī",
+                "tán"
+            ],
+            "zhuyin": [
+                "ㄨˊ",
+                "ㄐㄧ",
+                "ㄓ",
+                "ㄊㄢˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "毫无根据、无从查考的言论。",
+                "citations": [
+                    {
+                        "text": "凡迂阔难行之论，谬悠无稽之谈，不得一言入其间。",
+                        "source": "宋·孙觌《与范丞相书》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "凡迂阔难行之论，谬悠无稽之谈，不得一言入其间。",
+                "source": "宋·孙觌《与范丞相书》"
+            }
+        ],
+        "synonyms": [
+            "不经之谈",
+            "流言蜚语"
+        ],
+        "antonyms": [
+            "言之凿凿",
+            "言之有理"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "unfounded statement"
+    },
+    "blocks": {
+        "reading": "wú jī zhī tán",
+        "sense-1": "毫无根据、无从查考的言论。",
+        "citation-1": "凡迂阔难行之论，谬悠无稽之谈，不得一言入其间。 — 宋·孙觌《与范丞相书》",
+        "synonyms": "不经之谈、流言蜚语",
+        "antonyms": "言之凿凿、言之有理"
+    }
+}

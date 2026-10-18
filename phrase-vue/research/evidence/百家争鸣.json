@@ -1,0 +1,68 @@
+{
+    "word": "百家争鸣",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%99%BE%E5%AE%B6%E4%BA%89%E9%B8%A3",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "d0de34fd6ae8891c18d8ea4d5ff4f84c968c15ab16a1cd94d5ddad43d659f01d",
+        "bytes": 26689
+    },
+    "parsed": {
+        "found": true,
+        "word": "百家争鸣",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bǎi",
+                "jiā",
+                "zhēng",
+                "míng"
+            ],
+            "zhuyin": [
+                "ㄅㄞˇ",
+                "ㄐㄧㄚ",
+                "ㄓㄥ",
+                "ㄇㄧㄥˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "战国时期学术界各流派自由论辩的风气，现指学术研究中不同学派自由讨论的繁荣景象。",
+                "citations": [
+                    {
+                        "text": "百家争鸣，或传或不传，而言之有故，持之成理者，屈指可尽。",
+                        "source": "清·俞樾《春在堂随笔》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "百家争鸣，或传或不传，而言之有故，持之成理者，屈指可尽。",
+                "source": "清·俞樾《春在堂随笔》"
+            }
+        ],
+        "synonyms": [
+            "各抒己见",
+            "畅所欲言"
+        ],
+        "antonyms": [
+            "噤若寒蝉",
+            "强求一律",
+            "一家之言"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "contention of a hundred schools"
+    },
+    "blocks": {
+        "reading": "bǎi jiā zhēng míng",
+        "sense-1": "战国时期学术界各流派自由论辩的风气，现指学术研究中不同学派自由讨论的繁荣景象。",
+        "citation-1": "百家争鸣，或传或不传，而言之有故，持之成理者，屈指可尽。 — 清·俞樾《春在堂随笔》",
+        "synonyms": "各抒己见、畅所欲言",
+        "antonyms": "噤若寒蝉、强求一律、一家之言"
+    }
+}

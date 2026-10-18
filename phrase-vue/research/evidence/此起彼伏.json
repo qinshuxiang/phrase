@@ -1,0 +1,51 @@
+{
+    "word": "此起彼伏",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%AD%A4%E8%B5%B7%E5%BD%BC%E4%BC%8F",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "a30f2f75f4c60d5b710b788ed54de9a31e77660b8f6a9d38a2e4c15cd86916e5",
+        "bytes": 25739
+    },
+    "parsed": {
+        "found": true,
+        "word": "此起彼伏",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "cǐ",
+                "qǐ",
+                "bǐ",
+                "fú"
+            ],
+            "zhuyin": [
+                "ㄘˇ",
+                "ㄑㄧˇ",
+                "ㄅㄧˇ",
+                "ㄈㄨˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "这里起来,那里伏倒或这边起来,那边伏倒。形容高潮迭起,从未止息",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "此伏彼起"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "rise one after another"
+    },
+    "blocks": {
+        "reading": "cǐ qǐ bǐ fú",
+        "sense-1": "这里起来,那里伏倒或这边起来,那边伏倒。形容高潮迭起,从未止息",
+        "synonyms": "此伏彼起"
+    }
+}

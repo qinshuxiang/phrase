@@ -1,0 +1,55 @@
+{
+    "word": "挖空心思",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%8C%96%E7%A9%BA%E5%BF%83%E6%80%9D",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "2b2a809e77536c757aadd3b808c89296e4a1e470fbd99a4474cb73c7a31f9f1f",
+        "bytes": 27158
+    },
+    "parsed": {
+        "found": true,
+        "word": "挖空心思",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "wā",
+                "kōng",
+                "xīn",
+                "sī"
+            ],
+            "zhuyin": [
+                "ㄨㄚ",
+                "ㄎㄨㄥ",
+                "ㄒㄧㄣ",
+                "ㄙ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "煞费苦心,设计谋划",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "搜索枯肠",
+            "费尽心机"
+        ],
+        "antonyms": [
+            "无所用心"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "rack one’s brains;cudgel one's brains;think hard"
+    },
+    "blocks": {
+        "reading": "wā kōng xīn sī",
+        "sense-1": "煞费苦心,设计谋划",
+        "synonyms": "搜索枯肠、费尽心机",
+        "antonyms": "无所用心"
+    }
+}

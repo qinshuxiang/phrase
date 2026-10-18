@@ -1,0 +1,73 @@
+{
+    "word": "百花齐放",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%99%BE%E8%8A%B1%E9%BD%90%E6%94%BE",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "f6e693ed8fb66da892d3e43372bcf1bdfdf9e0363b3f8a5636c66362e88c47d0",
+        "bytes": 27548
+    },
+    "parsed": {
+        "found": true,
+        "word": "百花齐放",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bǎi",
+                "huā",
+                "qí",
+                "fàng"
+            ],
+            "zhuyin": [
+                "ㄅㄞˇ",
+                "ㄏㄨㄚ",
+                "ㄑㄧˊ",
+                "ㄈㄤˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "千百种花卉同时盛开，争奇斗艳的景象。",
+                "citations": [
+                    {
+                        "text": "百花齐放，皇州春色，尽属春官矣。",
+                        "source": "清·无名氏《〈帝城花样〉自序》"
+                    }
+                ]
+            },
+            {
+                "definition": "比喻艺术创作中不同形式和风格自由发展的繁荣局面。参见“ 百花齐放，百家争鸣",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "百花齐放，皇州春色，尽属春官矣。",
+                "source": "清·无名氏《〈帝城花样〉自序》"
+            }
+        ],
+        "synonyms": [
+            "万紫千红",
+            "姹紫嫣红",
+            "百卉含英"
+        ],
+        "antonyms": [
+            "残花败柳",
+            "一花独放"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "hundred flowers bloom"
+    },
+    "blocks": {
+        "reading": "bǎi huā qí fàng",
+        "sense-1": "千百种花卉同时盛开，争奇斗艳的景象。",
+        "sense-2": "比喻艺术创作中不同形式和风格自由发展的繁荣局面。参见“ 百花齐放，百家争鸣",
+        "citation-1": "百花齐放，皇州春色，尽属春官矣。 — 清·无名氏《〈帝城花样〉自序》",
+        "synonyms": "万紫千红、姹紫嫣红、百卉含英",
+        "antonyms": "残花败柳、一花独放"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "word": "喜闻乐见",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%96%9C%E9%97%BB%E4%B9%90%E8%A7%81",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "a6b1ad11fefacd09222810ca9450c43b70c08a80322e3b8c61bce08382e02b9e",
+        "bytes": 26109
+    },
+    "parsed": {
+        "found": true,
+        "word": "喜闻乐见",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "xǐ",
+                "wén",
+                "lè",
+                "jiàn"
+            ],
+            "zhuyin": [
+                "ㄒㄧˇ",
+                "ㄨㄣˊ",
+                "ㄌㄜˋ",
+                "ㄐㄧㄢˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "人们喜欢听、乐意看的事物。",
+                "citations": [
+                    {
+                        "text": "他的卧薪尝胆的故事，两千多年来为人民所喜闻乐见。",
+                        "source": "《卧薪尝胆的故事》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "他的卧薪尝胆的故事，两千多年来为人民所喜闻乐见。",
+                "source": "《卧薪尝胆的故事》"
+            }
+        ],
+        "synonyms": [
+            "脍炙人口",
+            "喜闻乐道"
+        ],
+        "antonyms": [
+            "痛恨不已"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "enjoy seeing and hearing"
+    },
+    "blocks": {
+        "reading": "xǐ wén lè jiàn",
+        "sense-1": "人们喜欢听、乐意看的事物。",
+        "citation-1": "他的卧薪尝胆的故事，两千多年来为人民所喜闻乐见。 — 《卧薪尝胆的故事》",
+        "synonyms": "脍炙人口、喜闻乐道",
+        "antonyms": "痛恨不已"
+    }
+}

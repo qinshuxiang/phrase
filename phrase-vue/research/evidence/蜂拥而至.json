@@ -1,0 +1,59 @@
+{
+    "word": "蜂拥而至",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%9C%82%E6%8B%A5%E8%80%8C%E8%87%B3",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "8c7c639d93e71694d41fe08cb1bc2c58f8bf88d946faf9499b921393973c4fa1",
+        "bytes": 25631
+    },
+    "parsed": {
+        "found": true,
+        "word": "蜂拥而至",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "fēng",
+                "yǒng",
+                "ér",
+                "zhì"
+            ],
+            "zhuyin": [
+                "ㄈㄥ",
+                "ㄩㄥˇ",
+                "ㄦˊ",
+                "ㄓˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "像蜂群般纷乱地聚集到来。形容许多人乱哄哄地涌向同一地点。",
+                "citations": [
+                    {
+                        "text": "徐承志等他去远，刚要回船，前面尘头滚滚，喊声渐近，又来许多草寇，个个头戴浩然巾，手执器械，蜂拥而至。",
+                        "source": "清·李汝珍《镜花缘》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "徐承志等他去远，刚要回船，前面尘头滚滚，喊声渐近，又来许多草寇，个个头戴浩然巾，手执器械，蜂拥而至。",
+                "source": "清·李汝珍《镜花缘》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "swarm in"
+    },
+    "blocks": {
+        "reading": "fēng yǒng ér zhì",
+        "sense-1": "像蜂群般纷乱地聚集到来。形容许多人乱哄哄地涌向同一地点。",
+        "citation-1": "徐承志等他去远，刚要回船，前面尘头滚滚，喊声渐近，又来许多草寇，个个头戴浩然巾，手执器械，蜂拥而至。 — 清·李汝珍《镜花缘》"
+    }
+}

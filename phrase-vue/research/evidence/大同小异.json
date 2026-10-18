@@ -1,0 +1,71 @@
+{
+    "word": "大同小异",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A4%A7%E5%90%8C%E5%B0%8F%E5%BC%82",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "d57e859310d488013a7e45cc37d698cdbd5315840fedc425e3a8955bf5a928dd",
+        "bytes": 27818
+    },
+    "parsed": {
+        "found": true,
+        "word": "大同小异",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "dà",
+                "tóng",
+                "xiǎo",
+                "yì"
+            ],
+            "zhuyin": [
+                "ㄉㄚˋ",
+                "ㄊㄨㄥˊ",
+                "ㄒㄧㄠˇ",
+                "ㄧˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "指事物大体相同，只有细微差别。",
+                "citations": [
+                    {
+                        "text": "西胡风俗，大同小异。",
+                        "source": "北魏·杨衒之《洛阳伽蓝记·宋云惠生使西域》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "西胡风俗，大同小异。",
+                "source": "北魏·杨衒之《洛阳伽蓝记·宋云惠生使西域》"
+            }
+        ],
+        "synonyms": [
+            "一模一样",
+            "神肖酷似"
+        ],
+        "antonyms": [
+            "大相径庭",
+            "天悬地隔",
+            "天差地别",
+            "天壤之别",
+            "绝不相同",
+            "迥然不同"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "mostly identical"
+    },
+    "blocks": {
+        "reading": "dà tóng xiǎo yì",
+        "sense-1": "指事物大体相同，只有细微差别。",
+        "citation-1": "西胡风俗，大同小异。 — 北魏·杨衒之《洛阳伽蓝记·宋云惠生使西域》",
+        "synonyms": "一模一样、神肖酷似",
+        "antonyms": "大相径庭、天悬地隔、天差地别、天壤之别、绝不相同、迥然不同"
+    }
+}

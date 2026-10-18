@@ -1,0 +1,67 @@
+{
+    "word": "鳞次栉比",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%B3%9E%E6%AC%A1%E6%A0%89%E6%AF%94",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "7b4cce7082396bec97820765bdba5fd8d37180c97055e14db684c679fcac3e59",
+        "bytes": 26535
+    },
+    "parsed": {
+        "found": true,
+        "word": "鳞次栉比",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "lín",
+                "cì",
+                "zhì",
+                "bǐ"
+            ],
+            "zhuyin": [
+                "ㄌㄧㄣˊ",
+                "ㄘˋ",
+                "ㄓˋ",
+                "ㄅㄧˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "像鱼鳞和梳子齿一样紧密整齐地排列。",
+                "citations": [
+                    {
+                        "text": "细视之，乃群小蛤，鳞次相比，绸缪巩固。",
+                        "source": "宋·沈括《梦溪笔谈·神奇》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "细视之，乃群小蛤，鳞次相比，绸缪巩固。",
+                "source": "宋·沈括《梦溪笔谈·神奇》"
+            }
+        ],
+        "synonyms": [
+            "密密麻麻",
+            "密密层层"
+        ],
+        "antonyms": [
+            "参差不齐",
+            "杂乱无章"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "densely packed"
+    },
+    "blocks": {
+        "reading": "lín cì zhì bǐ",
+        "sense-1": "像鱼鳞和梳子齿一样紧密整齐地排列。",
+        "citation-1": "细视之，乃群小蛤，鳞次相比，绸缪巩固。 — 宋·沈括《梦溪笔谈·神奇》",
+        "synonyms": "密密麻麻、密密层层",
+        "antonyms": "参差不齐、杂乱无章"
+    }
+}

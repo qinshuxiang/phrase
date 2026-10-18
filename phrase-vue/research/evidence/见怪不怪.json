@@ -1,0 +1,67 @@
+{
+    "word": "见怪不怪",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%A7%81%E6%80%AA%E4%B8%8D%E6%80%AA",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "0f666b2300b021af60e6cb87b862491269d760f061fed2ed57ef8109bb65a0a3",
+        "bytes": 25906
+    },
+    "parsed": {
+        "found": true,
+        "word": "见怪不怪",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jiàn",
+                "guài",
+                "bù",
+                "guài"
+            ],
+            "zhuyin": [
+                "ㄐㄧㄢˋ",
+                "ㄍㄨㄞˋ",
+                "ㄅㄨˋ",
+                "ㄍㄨㄞˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "见到怪异现象而不觉得奇怪。",
+                "citations": [
+                    {
+                        "text": "畜生之言，何足为信，我已数月来知之矣。见怪不怪，其怪自坏。",
+                        "source": "宋·洪迈《夷坚三志己·姜七家猪》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "畜生之言，何足为信，我已数月来知之矣。见怪不怪，其怪自坏。",
+                "source": "宋·洪迈《夷坚三志己·姜七家猪》"
+            }
+        ],
+        "synonyms": [
+            "以怪为常",
+            "见怪未怪",
+            "司空见惯"
+        ],
+        "antonyms": [
+            "大惊小怪"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "be accustomed to seeing strange things"
+    },
+    "blocks": {
+        "reading": "jiàn guài bù guài",
+        "sense-1": "见到怪异现象而不觉得奇怪。",
+        "citation-1": "畜生之言，何足为信，我已数月来知之矣。见怪不怪，其怪自坏。 — 宋·洪迈《夷坚三志己·姜七家猪》",
+        "synonyms": "以怪为常、见怪未怪、司空见惯",
+        "antonyms": "大惊小怪"
+    }
+}

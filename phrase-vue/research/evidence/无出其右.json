@@ -1,0 +1,64 @@
+{
+    "word": "无出其右",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%97%A0%E5%87%BA%E5%85%B6%E5%8F%B3",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "5a0c812863b921854f850b8e7fb3ed593e75c7d8c471b3c4880c097e7ddbacaa",
+        "bytes": 27045
+    },
+    "parsed": {
+        "found": true,
+        "word": "无出其右",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "wú",
+                "chū",
+                "qí",
+                "yòu"
+            ],
+            "zhuyin": [
+                "ㄨˊ",
+                "ㄔㄨ",
+                "ㄑㄧˊ",
+                "ㄧㄡˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "没有人能超越或胜过。",
+                "citations": [
+                    {
+                        "text": "侪辈无出其右。",
+                        "source": "金·元好问《恒州刺史马君神道碑》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "侪辈无出其右。",
+                "source": "金·元好问《恒州刺史马君神道碑》"
+            }
+        ],
+        "synonyms": [
+            "天下第一",
+            "无以复加",
+            "无与伦比"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "unequaled; matchless"
+    },
+    "blocks": {
+        "reading": "wú chū qí yòu",
+        "sense-1": "没有人能超越或胜过。",
+        "citation-1": "侪辈无出其右。 — 金·元好问《恒州刺史马君神道碑》",
+        "synonyms": "天下第一、无以复加、无与伦比"
+    }
+}

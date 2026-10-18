@@ -1,0 +1,67 @@
+{
+    "word": "模棱两可",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%A8%A1%E6%A3%B1%E4%B8%A4%E5%8F%AF",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "75b8cc6536d323788a3793d3880200285d5e4900c8c7d1cffccbb8b7b3ff51b5",
+        "bytes": 26937
+    },
+    "parsed": {
+        "found": true,
+        "word": "模棱两可",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "mó",
+                "léng",
+                "liǎng",
+                "kě"
+            ],
+            "zhuyin": [
+                "ㄇㄛˊ",
+                "ㄌㄥˊ",
+                "ㄌㄧㄤˇ",
+                "ㄎㄜˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "态度或言辞含糊，不表明明确立场或观点。",
+                "citations": [
+                    {
+                        "text": "坚白异同，模棱两可，是盖大奸似忠，大诈似信。",
+                        "source": "《明史·余珊传》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "坚白异同，模棱两可，是盖大奸似忠，大诈似信。",
+                "source": "《明史·余珊传》"
+            }
+        ],
+        "synonyms": [
+            "不置可否",
+            "模棱两端"
+        ],
+        "antonyms": [
+            "旗帜鲜明",
+            "斩钉截铁"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "ambiguous"
+    },
+    "blocks": {
+        "reading": "mó léng liǎng kě",
+        "sense-1": "态度或言辞含糊，不表明明确立场或观点。",
+        "citation-1": "坚白异同，模棱两可，是盖大奸似忠，大诈似信。 — 《明史·余珊传》",
+        "synonyms": "不置可否、模棱两端",
+        "antonyms": "旗帜鲜明、斩钉截铁"
+    }
+}

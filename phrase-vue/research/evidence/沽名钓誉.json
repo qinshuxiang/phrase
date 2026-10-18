@@ -1,0 +1,67 @@
+{
+    "word": "沽名钓誉",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%B2%BD%E5%90%8D%E9%92%93%E8%AA%89",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "30601dfb674846c3b576b1ace4768f52ebba6d5a8787a8bfd8193fe4f714c080",
+        "bytes": 27715
+    },
+    "parsed": {
+        "found": true,
+        "word": "沽名钓誉",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "gū",
+                "míng",
+                "diào",
+                "yù"
+            ],
+            "zhuyin": [
+                "ㄍㄨ",
+                "ㄇㄧㄥˊ",
+                "ㄉㄧㄠˋ",
+                "ㄩˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "用不正当手段谋取名声和荣誉。",
+                "citations": [
+                    {
+                        "text": "非若沽名钓誉之徒，内有所不足，急于人闻，而专苛察督责，以祈当世之知。",
+                        "source": "金·张建《高陵县张公去思碑》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "非若沽名钓誉之徒，内有所不足，急于人闻，而专苛察督责，以祈当世之知。",
+                "source": "金·张建《高陵县张公去思碑》"
+            }
+        ],
+        "synonyms": [
+            "盗名窃誉",
+            "好大喜功"
+        ],
+        "antonyms": [
+            "名不虚传",
+            "实至名归"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "seek fame"
+    },
+    "blocks": {
+        "reading": "gū míng diào yù",
+        "sense-1": "用不正当手段谋取名声和荣誉。",
+        "citation-1": "非若沽名钓誉之徒，内有所不足，急于人闻，而专苛察督责，以祈当世之知。 — 金·张建《高陵县张公去思碑》",
+        "synonyms": "盗名窃誉、好大喜功",
+        "antonyms": "名不虚传、实至名归"
+    }
+}

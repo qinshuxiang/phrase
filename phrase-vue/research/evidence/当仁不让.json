@@ -1,0 +1,68 @@
+{
+    "word": "当仁不让",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%BD%93%E4%BB%81%E4%B8%8D%E8%AE%A9",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "b9e8251e040f1b3af5a2683df06c317149795a91ecd3b57d78c8f4bcaa699a80",
+        "bytes": 28086
+    },
+    "parsed": {
+        "found": true,
+        "word": "当仁不让",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "dāng",
+                "rén",
+                "bù",
+                "ràng"
+            ],
+            "zhuyin": [
+                "ㄉㄤ",
+                "ㄖㄣˊ",
+                "ㄅㄨˋ",
+                "ㄖㄤˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "遇到应做之事主动承担，不推诿退让。",
+                "citations": [
+                    {
+                        "text": "夫人臣依义显君，竭忠彰主，行之美也。当仁不让，吾何辞哉！",
+                        "source": "汉·班固《后汉书·曹褒传》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "夫人臣依义显君，竭忠彰主，行之美也。当仁不让，吾何辞哉！",
+                "source": "汉·班固《后汉书·曹褒传》"
+            }
+        ],
+        "synonyms": [
+            "理所当然",
+            "义不容辞"
+        ],
+        "antonyms": [
+            "推三阻四",
+            "临阵脱逃",
+            "临难苟免"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "not decline to shoulder a responsibility"
+    },
+    "blocks": {
+        "reading": "dāng rén bù ràng",
+        "sense-1": "遇到应做之事主动承担，不推诿退让。",
+        "citation-1": "夫人臣依义显君，竭忠彰主，行之美也。当仁不让，吾何辞哉！ — 汉·班固《后汉书·曹褒传》",
+        "synonyms": "理所当然、义不容辞",
+        "antonyms": "推三阻四、临阵脱逃、临难苟免"
+    }
+}

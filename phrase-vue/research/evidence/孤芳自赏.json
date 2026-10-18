@@ -1,0 +1,69 @@
+{
+    "word": "孤芳自赏",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%AD%A4%E8%8A%B3%E8%87%AA%E8%B5%8F",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "4640bbb883c84a938c1797c9912bf13227d41f07d87a0d77ebc0f49b2fb290bc",
+        "bytes": 27234
+    },
+    "parsed": {
+        "found": true,
+        "word": "孤芳自赏",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "gū",
+                "fāng",
+                "zì",
+                "shǎng"
+            ],
+            "zhuyin": [
+                "ㄍㄨ",
+                "ㄈㄤ",
+                "ㄗˋ",
+                "ㄕㄤˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻自命清高，自我欣赏。",
+                "citations": [
+                    {
+                        "text": "兰仙，你孤芳自赏，小劫乍经，此去尘寰，须索珍重。",
+                        "source": "清·蒋士铨《空谷香·香生》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "兰仙，你孤芳自赏，小劫乍经，此去尘寰，须索珍重。",
+                "source": "清·蒋士铨《空谷香·香生》"
+            }
+        ],
+        "synonyms": [
+            "顾影自怜",
+            "自命不凡",
+            "自命清高",
+            "自我陶醉"
+        ],
+        "antonyms": [
+            "自惭形秽",
+            "曲学阿世"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "self-admiration"
+    },
+    "blocks": {
+        "reading": "gū fāng zì shǎng",
+        "sense-1": "比喻自命清高，自我欣赏。",
+        "citation-1": "兰仙，你孤芳自赏，小劫乍经，此去尘寰，须索珍重。 — 清·蒋士铨《空谷香·香生》",
+        "synonyms": "顾影自怜、自命不凡、自命清高、自我陶醉",
+        "antonyms": "自惭形秽、曲学阿世"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "word": "作壁上观",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%BD%9C%E5%A3%81%E4%B8%8A%E8%A7%82",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "d49bffa36a63a0cdeb710269464da11701a717c122a406aa2519d209f08171b9",
+        "bytes": 25616
+    },
+    "parsed": {
+        "found": true,
+        "word": "作壁上观",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zuò",
+                "bì",
+                "shàng",
+                "guān"
+            ],
+            "zhuyin": [
+                "ㄗㄨㄛˋ",
+                "ㄅㄧˋ",
+                "ㄕㄤˋ",
+                "ㄍㄨㄢ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "原指交战时站在壁垒上观望。后比喻置身事外，不参与其中。",
+                "citations": [
+                    {
+                        "text": "诸侯军救钜鹿下者十余壁，莫敢纵兵。及楚击秦，诸将皆从壁上观。",
+                        "source": "《史记·项羽本纪》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "诸侯军救钜鹿下者十余壁，莫敢纵兵。及楚击秦，诸将皆从壁上观。",
+                "source": "《史记·项羽本纪》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "stand by and watch"
+    },
+    "blocks": {
+        "reading": "zuò bì shàng guān",
+        "sense-1": "原指交战时站在壁垒上观望。后比喻置身事外，不参与其中。",
+        "citation-1": "诸侯军救钜鹿下者十余壁，莫敢纵兵。及楚击秦，诸将皆从壁上观。 — 《史记·项羽本纪》"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "word": "隔岸观火",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%9A%94%E5%B2%B8%E8%A7%82%E7%81%AB",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "e1c94967f5049688240aaf828f62771cfdd85b0d2cd74972e3061015a30801bd",
+        "bytes": 27940
+    },
+    "parsed": {
+        "found": true,
+        "word": "隔岸观火",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "gé",
+                "àn",
+                "guān",
+                "huǒ"
+            ],
+            "zhuyin": [
+                "ㄍㄜˊ",
+                "ㄢˋ",
+                "ㄍㄨㄢ",
+                "ㄏㄨㄛˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻对别人的危难不加救助，反而站在一旁看热闹。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "watch a fire from the other side of the river"
+    },
+    "blocks": {
+        "reading": "gé àn guān huǒ",
+        "sense-1": "比喻对别人的危难不加救助，反而站在一旁看热闹。"
+    }
+}

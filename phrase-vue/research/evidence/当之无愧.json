@@ -1,0 +1,69 @@
+{
+    "word": "当之无愧",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%BD%93%E4%B9%8B%E6%97%A0%E6%84%A7",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "7d1e8d3669cb07f848bb43b9c9165b5318993b44271a99874bf1f58b410072b5",
+        "bytes": 26757
+    },
+    "parsed": {
+        "found": true,
+        "word": "当之无愧",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "dāng",
+                "zhī",
+                "wú",
+                "kuì"
+            ],
+            "zhuyin": [
+                "ㄉㄤ",
+                "ㄓ",
+                "ㄨˊ",
+                "ㄎㄨㄟˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "完全有资格承担某种荣誉或称号而毫不惭愧。",
+                "citations": [
+                    {
+                        "text": "然惟文公当之无愧。若他人则拟非其伦。",
+                        "source": "宋·魏庆之《诗人玉屑·中兴诸贤》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "然惟文公当之无愧。若他人则拟非其伦。",
+                "source": "宋·魏庆之《诗人玉屑·中兴诸贤》"
+            }
+        ],
+        "synonyms": [
+            "名副其实",
+            "名不虚传",
+            "受之无愧"
+        ],
+        "antonyms": [
+            "名不副实",
+            "虚有其表",
+            "当之有愧"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "deserve"
+    },
+    "blocks": {
+        "reading": "dāng zhī wú kuì",
+        "sense-1": "完全有资格承担某种荣誉或称号而毫不惭愧。",
+        "citation-1": "然惟文公当之无愧。若他人则拟非其伦。 — 宋·魏庆之《诗人玉屑·中兴诸贤》",
+        "synonyms": "名副其实、名不虚传、受之无愧",
+        "antonyms": "名不副实、虚有其表、当之有愧"
+    }
+}

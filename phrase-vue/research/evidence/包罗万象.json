@@ -1,0 +1,69 @@
+{
+    "word": "包罗万象",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%8C%85%E7%BD%97%E4%B8%87%E8%B1%A1",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "262f141d8aed308e2f3877a0cb7cd15d4c9c1d6356b0700a34bc9834c1f6ada3",
+        "bytes": 27820
+    },
+    "parsed": {
+        "found": true,
+        "word": "包罗万象",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bāo",
+                "luó",
+                "wàn",
+                "xiàng"
+            ],
+            "zhuyin": [
+                "ㄅㄠ",
+                "ㄌㄨㄛˊ",
+                "ㄨㄢˋ",
+                "ㄒㄧㄤˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "包含容纳一切事物。形容内容丰富全面。",
+                "citations": [
+                    {
+                        "text": "所以包罗万象，举一千从。",
+                        "source": "《黄帝宅经》卷上"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "所以包罗万象，举一千从。",
+                "source": "《黄帝宅经》卷上"
+            }
+        ],
+        "synonyms": [
+            "一应俱全",
+            "应有尽有",
+            "无所不包"
+        ],
+        "antonyms": [
+            "一无所有",
+            "空空如也",
+            "挂一漏万"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "all-inclusive"
+    },
+    "blocks": {
+        "reading": "bāo luó wàn xiàng",
+        "sense-1": "包含容纳一切事物。形容内容丰富全面。",
+        "citation-1": "所以包罗万象，举一千从。 — 《黄帝宅经》卷上",
+        "synonyms": "一应俱全、应有尽有、无所不包",
+        "antonyms": "一无所有、空空如也、挂一漏万"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "word": "拨云见日",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%8B%A8%E4%BA%91%E8%A7%81%E6%97%A5",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "1161496dc01e48dedc0acb889ddf76d7b48d1324437c07235c843cf359caaa31",
+        "bytes": 26593
+    },
+    "parsed": {
+        "found": true,
+        "word": "拨云见日",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bō",
+                "yún",
+                "jiàn",
+                "rì"
+            ],
+            "zhuyin": [
+                "ㄅㄛ",
+                "ㄩㄣˊ",
+                "ㄐㄧㄢˋ",
+                "ㄖㄧˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "拨开云雾看见太阳。比喻冲破黑暗见到光明。",
+                "citations": [
+                    {
+                        "text": "我投至的见了爷爷，就是拨云见日，昏镜重磨。",
+                        "source": "元·无名氏《陈州粜米》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "我投至的见了爷爷，就是拨云见日，昏镜重磨。",
+                "source": "元·无名氏《陈州粜米》"
+            }
+        ],
+        "synonyms": [
+            "水落石出"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "dispel clouds and see the sun"
+    },
+    "blocks": {
+        "reading": "bō yún jiàn rì",
+        "sense-1": "拨开云雾看见太阳。比喻冲破黑暗见到光明。",
+        "citation-1": "我投至的见了爷爷，就是拨云见日，昏镜重磨。 — 元·无名氏《陈州粜米》",
+        "synonyms": "水落石出"
+    }
+}

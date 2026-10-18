@@ -1,0 +1,18 @@
+{
+    "schema_version": "1.1.0",
+    "data_sha256": "472a0d7b850bab326e68836b778af65b4f8a98462955e72d9d481d9860986142",
+    "bytes": 4235708,
+    "gzip_bytes": 421627,
+    "cards": 859,
+    "entry_refs": 899,
+    "plan_sha256": "8e7f297cfecca71d756a70b139c87ff2f107e08823344bb5e70cf124efbd4446",
+    "plan_words_sha256": "281bf58a8942e1913e39846b444f986fc7654bf4a3dda719b16aacc7cae5423d",
+    "vocab_data_sha256": "0feae6ac96ade1702284b4698d180c7a002b871b4bcd9467ecd0108072aab855",
+    "generated_at": "2026-10-18T00:00:00+08:00",
+    "reviewed_at": "2026-10-18",
+    "lookup_found": 801,
+    "lookup_not_found": 58,
+    "pending_fields": 0,
+    "origin_present": 25,
+    "queries": 5
+}

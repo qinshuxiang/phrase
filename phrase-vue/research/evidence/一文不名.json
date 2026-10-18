@@ -1,0 +1,58 @@
+{
+    "word": "一文不名",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%80%E6%96%87%E4%B8%8D%E5%90%8D",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "629f18d4651c0e1d30275ba4f093b16235b0e3ad0be272e2375f3ad8b05644bf",
+        "bytes": 27078
+    },
+    "parsed": {
+        "found": true,
+        "word": "一文不名",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yī",
+                "wén",
+                "bù",
+                "míng"
+            ],
+            "zhuyin": [
+                "ㄧ",
+                "ㄨㄣˊ",
+                "ㄅㄨˋ",
+                "ㄇㄧㄥˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "一个钱都没有。形容极贫困",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "一无所有",
+            "一贫如洗",
+            "囊空如洗"
+        ],
+        "antonyms": [
+            "万贯家财",
+            "富埒王侯",
+            "腰缠万贯"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "penniless"
+    },
+    "blocks": {
+        "reading": "yī wén bù míng",
+        "sense-1": "一个钱都没有。形容极贫困",
+        "synonyms": "一无所有、一贫如洗、囊空如洗",
+        "antonyms": "万贯家财、富埒王侯、腰缠万贯"
+    }
+}

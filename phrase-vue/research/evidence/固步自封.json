@@ -1,0 +1,61 @@
+{
+    "word": "固步自封",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%9B%BA%E6%AD%A5%E8%87%AA%E5%B0%81",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "3c0505202a1a1d0dcd74cf51622bec7dd3ad0c80b66d0fe896b97744d00b7623",
+        "bytes": 24739
+    },
+    "parsed": {
+        "found": true,
+        "word": "固步自封",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "gù",
+                "bù",
+                "zì",
+                "fēng"
+            ],
+            "zhuyin": [
+                "ㄍㄨˋ",
+                "ㄅㄨˋ",
+                "ㄗˋ",
+                "ㄈㄥ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻安于现状,不求改善",
+                "citations": []
+            },
+            {
+                "definition": "亦作“故步自封”",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "墨守成规",
+            "抱残守缺"
+        ],
+        "antonyms": [
+            "勇往直前",
+            "一往无前"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "refuse to make progress;stand still and cease to move a step forward;be ultraconservative and selfsatisfied with old practices"
+    },
+    "blocks": {
+        "reading": "gù bù zì fēng",
+        "sense-1": "比喻安于现状,不求改善",
+        "sense-2": "亦作“故步自封”",
+        "synonyms": "墨守成规、抱残守缺",
+        "antonyms": "勇往直前、一往无前"
+    }
+}

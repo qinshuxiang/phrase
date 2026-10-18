@@ -1,0 +1,68 @@
+{
+    "word": "开源节流",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%BC%80%E6%BA%90%E8%8A%82%E6%B5%81",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "a365eea6a177f70668fa04a57fa844a604120dc4c0ea4353cd9d920e0159546d",
+        "bytes": 27178
+    },
+    "parsed": {
+        "found": true,
+        "word": "开源节流",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "kāi",
+                "yuán",
+                "jié",
+                "liú"
+            ],
+            "zhuyin": [
+                "ㄎㄞ",
+                "ㄩㄢˊ",
+                "ㄐㄧㄝ",
+                "ˊ",
+                "ㄌㄧㄨˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "开辟财源，节约开支。",
+                "citations": [
+                    {
+                        "text": "军兴十余年，东南财赋之区，概遭蹂躪，开源节流，两穷于术。",
+                        "source": "清·朱克敬《瞑庵杂识》卷二"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "军兴十余年，东南财赋之区，概遭蹂躪，开源节流，两穷于术。",
+                "source": "清·朱克敬《瞑庵杂识》卷二"
+            }
+        ],
+        "synonyms": [
+            "增产节约"
+        ],
+        "antonyms": [
+            "大手大脚",
+            "铺张浪费",
+            "挥霍无度"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "increase income and reduce expenditure"
+    },
+    "blocks": {
+        "reading": "kāi yuán jié liú",
+        "sense-1": "开辟财源，节约开支。",
+        "citation-1": "军兴十余年，东南财赋之区，概遭蹂躪，开源节流，两穷于术。 — 清·朱克敬《瞑庵杂识》卷二",
+        "synonyms": "增产节约",
+        "antonyms": "大手大脚、铺张浪费、挥霍无度"
+    }
+}

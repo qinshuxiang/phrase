@@ -1,0 +1,48 @@
+{
+    "word": "添砖加瓦",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%B7%BB%E7%A0%96%E5%8A%A0%E7%93%A6",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "657bfc8231335b71dc7742e89c7579439ac6996223d0e3dd95c3f5cdbd1df750",
+        "bytes": 23386
+    },
+    "parsed": {
+        "found": true,
+        "word": "添砖加瓦",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "tiān",
+                "zhuān",
+                "jiā",
+                "wǎ"
+            ],
+            "zhuyin": [
+                "ㄊㄧㄢ",
+                "ㄓㄨㄢ",
+                "ㄐㄧㄚ",
+                "ㄨㄚˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻贡献微薄的力量。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "contribute"
+    },
+    "blocks": {
+        "reading": "tiān zhuān jiā wǎ",
+        "sense-1": "比喻贡献微薄的力量。"
+    }
+}

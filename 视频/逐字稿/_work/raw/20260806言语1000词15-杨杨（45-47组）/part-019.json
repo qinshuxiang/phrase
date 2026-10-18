@@ -1,0 +1,1131 @@
+{
+  "text": "读住它不重要。不值得一提就完事了。啊，来,我们看这几个例子啊，这个司空见惯和屡见不鲜，在问题的时候,两个词语都行。是吧，为啥?你看,因为一个他是看得习惯了,一个是表示不新鲜了。你也不知道,到底作者是讲表啥什么意思?对不对?所以这两个成语此时互换它都可以。你就比如说枪支暴力事件在美国已经怎么了司空见怪了是不是把它变成屡见不鲜也没问题同样近几年来这种不讲信用的合同不讲信用恶意推荐拒不执行合同以及这种裁决等现象那这种现象他说屡见不鲜那当然司空见怪是不是也没问题所以他俩比喻问题的时候怎么了互换通用好再来看习以为常习义为常就是经常接触感受到了平常他有一种什么主观上习惯对吧得去形容人的主观上习惯和适应说这样复杂的练兵场景我们早已习义为常了这种复杂的练兵场景对于谁来说对于官兵来说是他们日常经历的事情就是因为见的多了做的多了就常习惯了对不对好再来看这个不足为奇不足为奇啊它是有一种这个事态它是合乎情理的没有必要吃惊吗那么之前我也讲过了它会暗示这个本身它可能这种特别的事情发生的多了或者这种特别的事情它其实有发生的原因就不奇怪了那么某些情况它其实和司空见惯它也同用对不对来你看这个啊说这两年水好了湖里的鱼也多了鲫鱼越传统的石有发生不足为奇大家想它本身这个鲫鱼越传统的这种现象它是不是有点特别本身它有点特别吧但是由于水好了鱼多了基于这个原因那么这个现象就不奇怪了所以这里面有一定的因果关系自然就会有这个结果对不对所以选不足为奇用它来形容那这里面有一定的因果关系就是不足为奇就说这个事我本身可能有点特别的但是文段中有它发生的原因那么就选不足为奇好再来看这个无独有偶无独有偶就是指什么有这个事它很巧合对吧那你看见怪不怪呢这个事它这个成语考的太少就不给大家举例了那这个无独有偶就是很巧合就是有类似的事来大家看无独有昆明的一个茶叶店里一款这种礼盒也存在着类似的问题就是说两个红茶礼盒都是一样的问题有巧合嘛好再来看席烟不茶席烟不茶就是经常会接触就忽略了其中的问题有点中性偏扁的说面对海量的世界文学经典我们常常吸引不查忽略了真谛是需要进行品味的我们经常去拜读世界文学经典就会忽略问题文学真谛怎么了是需要去品味的回味的品读的对不对好再来看这个题来看第一个选什么等一下好这道题正确率60多来这道题呢正确的暗示4D选项因为大家觉得哪一空入手最简单是不是第三个空入手最简单同学们看啊他说即使是怎样的柴米油盐来大家想柴米油盐是不是就是日常生活当中的十分常见的天天都能看见的东西就是平常看着特别普通吗对不对然后说什么放大起来也会神奇就是平常看的很普通十分常见天天都能看放大之后显得特别惊艳来看这两个成语一个是不足为奇一个是司空见惯司空见惯不就是日常见的多了随处可见吗就是能形容修饰日常常见的柴米油盐吗而不足为奇",
+  "segments": [
+    {
+      "text": "读住它不重要。不值得一提就完事了。啊，来,我们看这几个例子啊，这个司空见惯和屡见不鲜，在问题的时候,两个词语都行。是吧，为啥?你看,因为一个他是看得习惯了,一个是表示不新鲜了。你也不知道,到底作者是讲表啥什么意思?对不对?所以这两个成语此时互换它都可以。",
+      "start": 0.0,
+      "end": 27.1,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1919,
+      "compression_ratio": 1.3036
+    },
+    {
+      "text": "你就比如说枪支暴力事件",
+      "start": 27.1,
+      "end": 30.12,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1272,
+      "compression_ratio": 1.4436
+    },
+    {
+      "text": "在美国已经怎么了",
+      "start": 30.12,
+      "end": 31.62,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1272,
+      "compression_ratio": 1.4436
+    },
+    {
+      "text": "司空见怪了",
+      "start": 31.62,
+      "end": 32.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1272,
+      "compression_ratio": 1.4436
+    },
+    {
+      "text": "是不是把它变成屡见不鲜",
+      "start": 32.5,
+      "end": 34.28,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1272,
+      "compression_ratio": 1.4436
+    },
+    {
+      "text": "也没问题",
+      "start": 34.28,
+      "end": 35.160000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1272,
+      "compression_ratio": 1.4436
+    },
+    {
+      "text": "同样近几年来",
+      "start": 35.160000000000004,
+      "end": 37.6,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1272,
+      "compression_ratio": 1.4436
+    },
+    {
+      "text": "这种不讲信用的合同",
+      "start": 37.6,
+      "end": 39.96,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1272,
+      "compression_ratio": 1.4436
+    },
+    {
+      "text": "不讲信用恶意推荐",
+      "start": 39.96,
+      "end": 41.52,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1272,
+      "compression_ratio": 1.4436
+    },
+    {
+      "text": "拒不执行合同",
+      "start": 41.52,
+      "end": 42.6,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1272,
+      "compression_ratio": 1.4436
+    },
+    {
+      "text": "以及这种裁决等现象",
+      "start": 42.6,
+      "end": 44.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1272,
+      "compression_ratio": 1.4436
+    },
+    {
+      "text": "那这种现象",
+      "start": 44.56,
+      "end": 45.3,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1272,
+      "compression_ratio": 1.4436
+    },
+    {
+      "text": "他说屡见不鲜",
+      "start": 45.3,
+      "end": 46.42,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1272,
+      "compression_ratio": 1.4436
+    },
+    {
+      "text": "那当然司空见怪",
+      "start": 46.42,
+      "end": 47.620000000000005,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1272,
+      "compression_ratio": 1.4436
+    },
+    {
+      "text": "是不是也没问题",
+      "start": 47.620000000000005,
+      "end": 48.42,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1272,
+      "compression_ratio": 1.4436
+    },
+    {
+      "text": "所以他俩比喻问题的时候",
+      "start": 48.42,
+      "end": 51.120000000000005,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1272,
+      "compression_ratio": 1.4436
+    },
+    {
+      "text": "怎么了",
+      "start": 51.120000000000005,
+      "end": 51.480000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1272,
+      "compression_ratio": 1.4436
+    },
+    {
+      "text": "互换通用",
+      "start": 51.480000000000004,
+      "end": 52.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1272,
+      "compression_ratio": 1.4436
+    },
+    {
+      "text": "好再来看习以为常",
+      "start": 52.88,
+      "end": 54.78,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1272,
+      "compression_ratio": 1.4436
+    },
+    {
+      "text": "习义为常就是经常接触",
+      "start": 54.78,
+      "end": 57.120000000000005,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1121,
+      "compression_ratio": 1.4737
+    },
+    {
+      "text": "感受到了平常",
+      "start": 57.120000000000005,
+      "end": 58.4,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1121,
+      "compression_ratio": 1.4737
+    },
+    {
+      "text": "他有一种什么主观上习惯",
+      "start": 58.4,
+      "end": 62.22,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1121,
+      "compression_ratio": 1.4737
+    },
+    {
+      "text": "对吧",
+      "start": 62.22,
+      "end": 63.400000000000006,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1121,
+      "compression_ratio": 1.4737
+    },
+    {
+      "text": "得去形容人的主观上习惯和适应",
+      "start": 63.400000000000006,
+      "end": 66.3,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1121,
+      "compression_ratio": 1.4737
+    },
+    {
+      "text": "说这样复杂的练兵场景",
+      "start": 66.3,
+      "end": 70.2,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1121,
+      "compression_ratio": 1.4737
+    },
+    {
+      "text": "我们早已习义为常了",
+      "start": 70.2,
+      "end": 72.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1121,
+      "compression_ratio": 1.4737
+    },
+    {
+      "text": "这种复杂的练兵场景",
+      "start": 72.0,
+      "end": 74.52000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1121,
+      "compression_ratio": 1.4737
+    },
+    {
+      "text": "对于谁来说",
+      "start": 74.52000000000001,
+      "end": 75.38,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1121,
+      "compression_ratio": 1.4737
+    },
+    {
+      "text": "对于官兵来说",
+      "start": 75.38,
+      "end": 76.42,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1121,
+      "compression_ratio": 1.4737
+    },
+    {
+      "text": "是他们日常经历的事情",
+      "start": 76.42,
+      "end": 78.48,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1121,
+      "compression_ratio": 1.4737
+    },
+    {
+      "text": "就是因为见的多了",
+      "start": 78.48,
+      "end": 80.4,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1121,
+      "compression_ratio": 1.4737
+    },
+    {
+      "text": "做的多了",
+      "start": 80.4,
+      "end": 81.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1121,
+      "compression_ratio": 1.4737
+    },
+    {
+      "text": "就常习惯了",
+      "start": 81.32,
+      "end": 83.04,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1121,
+      "compression_ratio": 1.4737
+    },
+    {
+      "text": "对不对",
+      "start": 83.04,
+      "end": 84.76,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1121,
+      "compression_ratio": 1.4737
+    },
+    {
+      "text": "好",
+      "start": 84.76,
+      "end": 85.44000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1516,
+      "compression_ratio": 1.4458
+    },
+    {
+      "text": "再来看这个不足为奇",
+      "start": 85.44000000000001,
+      "end": 87.36,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1516,
+      "compression_ratio": 1.4458
+    },
+    {
+      "text": "不足为奇啊",
+      "start": 87.36,
+      "end": 89.18,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1516,
+      "compression_ratio": 1.4458
+    },
+    {
+      "text": "它是有一种",
+      "start": 89.18,
+      "end": 90.08000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1516,
+      "compression_ratio": 1.4458
+    },
+    {
+      "text": "这个事态",
+      "start": 90.08000000000001,
+      "end": 91.18,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1516,
+      "compression_ratio": 1.4458
+    },
+    {
+      "text": "它是合乎情理的",
+      "start": 91.18,
+      "end": 92.44,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1516,
+      "compression_ratio": 1.4458
+    },
+    {
+      "text": "没有必要吃惊吗",
+      "start": 92.44,
+      "end": 93.96000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1516,
+      "compression_ratio": 1.4458
+    },
+    {
+      "text": "那么之前我也讲过了",
+      "start": 93.96000000000001,
+      "end": 96.62,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1516,
+      "compression_ratio": 1.4458
+    },
+    {
+      "text": "它会暗示这个本身",
+      "start": 96.62,
+      "end": 98.60000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1516,
+      "compression_ratio": 1.4458
+    },
+    {
+      "text": "它可能这种特别的事情",
+      "start": 98.60000000000001,
+      "end": 100.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1516,
+      "compression_ratio": 1.4458
+    },
+    {
+      "text": "发生的多了",
+      "start": 100.72,
+      "end": 101.80000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1516,
+      "compression_ratio": 1.4458
+    },
+    {
+      "text": "或者这种特别的事情",
+      "start": 101.80000000000001,
+      "end": 103.54,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1516,
+      "compression_ratio": 1.4458
+    },
+    {
+      "text": "它其实有发生的原因",
+      "start": 103.54,
+      "end": 105.52000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1516,
+      "compression_ratio": 1.4458
+    },
+    {
+      "text": "就不奇怪了",
+      "start": 105.52000000000001,
+      "end": 107.30000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1516,
+      "compression_ratio": 1.4458
+    },
+    {
+      "text": "那么某些情况",
+      "start": 107.30000000000001,
+      "end": 109.14,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1516,
+      "compression_ratio": 1.4458
+    },
+    {
+      "text": "它其实和司空见惯",
+      "start": 109.14,
+      "end": 110.54,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1516,
+      "compression_ratio": 1.4458
+    },
+    {
+      "text": "它也同用",
+      "start": 110.54,
+      "end": 111.30000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1516,
+      "compression_ratio": 1.4458
+    },
+    {
+      "text": "对不对",
+      "start": 111.30000000000001,
+      "end": 111.86000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1516,
+      "compression_ratio": 1.4458
+    },
+    {
+      "text": "来你看这个啊",
+      "start": 111.86000000000001,
+      "end": 113.28,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1516,
+      "compression_ratio": 1.4458
+    },
+    {
+      "text": "说这两年水好了",
+      "start": 113.28,
+      "end": 115.28,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1396,
+      "compression_ratio": 1.3973
+    },
+    {
+      "text": "湖里的鱼也多了",
+      "start": 115.28,
+      "end": 116.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1396,
+      "compression_ratio": 1.3973
+    },
+    {
+      "text": "鲫鱼越传统的石有发生",
+      "start": 116.88,
+      "end": 119.44,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1396,
+      "compression_ratio": 1.3973
+    },
+    {
+      "text": "不足为奇",
+      "start": 119.44,
+      "end": 120.2,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1396,
+      "compression_ratio": 1.3973
+    },
+    {
+      "text": "大家想",
+      "start": 120.2,
+      "end": 121.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1396,
+      "compression_ratio": 1.3973
+    },
+    {
+      "text": "它本身这个鲫鱼越传统的",
+      "start": 121.72,
+      "end": 125.12,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1396,
+      "compression_ratio": 1.3973
+    },
+    {
+      "text": "这种现象它是不是有点特别",
+      "start": 125.12,
+      "end": 127.18,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1396,
+      "compression_ratio": 1.3973
+    },
+    {
+      "text": "本身它有点特别吧",
+      "start": 127.18,
+      "end": 128.68,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1396,
+      "compression_ratio": 1.3973
+    },
+    {
+      "text": "但是",
+      "start": 128.68,
+      "end": 130.18,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1396,
+      "compression_ratio": 1.3973
+    },
+    {
+      "text": "由于水好了",
+      "start": 130.18,
+      "end": 132.36,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1396,
+      "compression_ratio": 1.3973
+    },
+    {
+      "text": "鱼多了",
+      "start": 132.36,
+      "end": 134.58,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1396,
+      "compression_ratio": 1.3973
+    },
+    {
+      "text": "基于这个原因",
+      "start": 134.58,
+      "end": 136.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1396,
+      "compression_ratio": 1.3973
+    },
+    {
+      "text": "那么这个现象就不奇怪了",
+      "start": 136.56,
+      "end": 138.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1396,
+      "compression_ratio": 1.3973
+    },
+    {
+      "text": "所以这里面有一定的因果关系",
+      "start": 138.72,
+      "end": 141.66,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1396,
+      "compression_ratio": 1.3973
+    },
+    {
+      "text": "自然就会有这个结果",
+      "start": 141.66,
+      "end": 144.14,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1196,
+      "compression_ratio": 1.4672
+    },
+    {
+      "text": "对不对",
+      "start": 144.14,
+      "end": 144.57999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1196,
+      "compression_ratio": 1.4672
+    },
+    {
+      "text": "所以选不足为奇",
+      "start": 144.57999999999998,
+      "end": 146.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1196,
+      "compression_ratio": 1.4672
+    },
+    {
+      "text": "用它来形容",
+      "start": 146.56,
+      "end": 147.68,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1196,
+      "compression_ratio": 1.4672
+    },
+    {
+      "text": "那这里面有一定的因果关系",
+      "start": 147.68,
+      "end": 150.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1196,
+      "compression_ratio": 1.4672
+    },
+    {
+      "text": "就是不足为奇",
+      "start": 150.0,
+      "end": 151.07999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1196,
+      "compression_ratio": 1.4672
+    },
+    {
+      "text": "就说这个事",
+      "start": 151.07999999999998,
+      "end": 152.1,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1196,
+      "compression_ratio": 1.4672
+    },
+    {
+      "text": "我本身可能有点特别的",
+      "start": 152.1,
+      "end": 154.38,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1196,
+      "compression_ratio": 1.4672
+    },
+    {
+      "text": "但是文段中有它发生的原因",
+      "start": 154.38,
+      "end": 156.68,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1196,
+      "compression_ratio": 1.4672
+    },
+    {
+      "text": "那么就选不足为奇",
+      "start": 156.68,
+      "end": 158.82,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1196,
+      "compression_ratio": 1.4672
+    },
+    {
+      "text": "好再来看这个无独有偶",
+      "start": 158.82,
+      "end": 160.48,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1196,
+      "compression_ratio": 1.4672
+    },
+    {
+      "text": "无独有偶就是指什么",
+      "start": 160.48,
+      "end": 162.42,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1196,
+      "compression_ratio": 1.4672
+    },
+    {
+      "text": "有这个事",
+      "start": 162.42,
+      "end": 164.57999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1196,
+      "compression_ratio": 1.4672
+    },
+    {
+      "text": "它很巧合",
+      "start": 164.57999999999998,
+      "end": 165.92,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1196,
+      "compression_ratio": 1.4672
+    },
+    {
+      "text": "对吧",
+      "start": 165.92,
+      "end": 166.34,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1196,
+      "compression_ratio": 1.4672
+    },
+    {
+      "text": "那你看见怪不怪呢",
+      "start": 166.34,
+      "end": 167.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1196,
+      "compression_ratio": 1.4672
+    },
+    {
+      "text": "这个事",
+      "start": 167.56,
+      "end": 167.98,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1196,
+      "compression_ratio": 1.4672
+    },
+    {
+      "text": "它这个成语考的太少",
+      "start": 167.98,
+      "end": 169.46,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1196,
+      "compression_ratio": 1.4672
+    },
+    {
+      "text": "就不给大家举例了",
+      "start": 169.46,
+      "end": 170.48,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1196,
+      "compression_ratio": 1.4672
+    },
+    {
+      "text": "那这个无独有偶就是很巧合",
+      "start": 170.48,
+      "end": 172.92,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1427,
+      "compression_ratio": 1.4253
+    },
+    {
+      "text": "就是有类似的事",
+      "start": 172.92,
+      "end": 174.76,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1427,
+      "compression_ratio": 1.4253
+    },
+    {
+      "text": "来大家看",
+      "start": 174.76,
+      "end": 176.16,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1427,
+      "compression_ratio": 1.4253
+    },
+    {
+      "text": "无独有昆明的一个茶叶",
+      "start": 176.16,
+      "end": 178.73999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1427,
+      "compression_ratio": 1.4253
+    },
+    {
+      "text": "店里一款这种礼盒",
+      "start": 178.73999999999998,
+      "end": 180.67999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1427,
+      "compression_ratio": 1.4253
+    },
+    {
+      "text": "也存在着类似的问题",
+      "start": 180.67999999999998,
+      "end": 182.17999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1427,
+      "compression_ratio": 1.4253
+    },
+    {
+      "text": "就是说两个",
+      "start": 182.17999999999998,
+      "end": 184.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1427,
+      "compression_ratio": 1.4253
+    },
+    {
+      "text": "红茶礼盒都是一样的问题",
+      "start": 184.72,
+      "end": 186.73999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1427,
+      "compression_ratio": 1.4253
+    },
+    {
+      "text": "有巧合嘛",
+      "start": 186.73999999999998,
+      "end": 187.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1427,
+      "compression_ratio": 1.4253
+    },
+    {
+      "text": "好再来看席烟不茶",
+      "start": 187.72,
+      "end": 190.64,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1427,
+      "compression_ratio": 1.4253
+    },
+    {
+      "text": "席烟不茶就是",
+      "start": 190.64,
+      "end": 192.33999999999997,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1427,
+      "compression_ratio": 1.4253
+    },
+    {
+      "text": "经常会接触就忽略了",
+      "start": 192.33999999999997,
+      "end": 194.67999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1427,
+      "compression_ratio": 1.4253
+    },
+    {
+      "text": "其中的问题",
+      "start": 194.67999999999998,
+      "end": 195.54,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1427,
+      "compression_ratio": 1.4253
+    },
+    {
+      "text": "有点中性偏扁的",
+      "start": 195.54,
+      "end": 197.66,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1427,
+      "compression_ratio": 1.4253
+    },
+    {
+      "text": "说面对海量的世界文学经典",
+      "start": 197.66,
+      "end": 200.76,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1533,
+      "compression_ratio": 1.4162
+    },
+    {
+      "text": "我们常常吸引不查",
+      "start": 200.76,
+      "end": 202.38,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1533,
+      "compression_ratio": 1.4162
+    },
+    {
+      "text": "忽略了真谛是需要进行品味的",
+      "start": 202.38,
+      "end": 206.22,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1533,
+      "compression_ratio": 1.4162
+    },
+    {
+      "text": "我们经常去拜读世界文学经典",
+      "start": 206.22,
+      "end": 209.98,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1533,
+      "compression_ratio": 1.4162
+    },
+    {
+      "text": "就会忽略问题",
+      "start": 209.98,
+      "end": 211.48,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1533,
+      "compression_ratio": 1.4162
+    },
+    {
+      "text": "文学真谛怎么了",
+      "start": 211.48,
+      "end": 213.38,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1533,
+      "compression_ratio": 1.4162
+    },
+    {
+      "text": "是需要去品味的",
+      "start": 213.38,
+      "end": 215.04,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1533,
+      "compression_ratio": 1.4162
+    },
+    {
+      "text": "回味的",
+      "start": 215.04,
+      "end": 216.1,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1533,
+      "compression_ratio": 1.4162
+    },
+    {
+      "text": "品读的",
+      "start": 216.1,
+      "end": 216.96,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1533,
+      "compression_ratio": 1.4162
+    },
+    {
+      "text": "对不对",
+      "start": 216.96,
+      "end": 217.7,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1533,
+      "compression_ratio": 1.4162
+    },
+    {
+      "text": "好",
+      "start": 217.7,
+      "end": 218.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1533,
+      "compression_ratio": 1.4162
+    },
+    {
+      "text": "再来看这个题",
+      "start": 218.84,
+      "end": 220.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1533,
+      "compression_ratio": 1.4162
+    },
+    {
+      "text": "来看第一个选什么",
+      "start": 220.84,
+      "end": 222.94,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1533,
+      "compression_ratio": 1.4162
+    },
+    {
+      "text": "等一下",
+      "start": 222.94,
+      "end": 227.24,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1533,
+      "compression_ratio": 1.4162
+    },
+    {
+      "text": "好",
+      "start": 227.24,
+      "end": 244.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1458,
+      "compression_ratio": 0.9636
+    },
+    {
+      "text": "这道题正确率60多",
+      "start": 244.84,
+      "end": 246.4,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1458,
+      "compression_ratio": 0.9636
+    },
+    {
+      "text": "来这道题呢",
+      "start": 246.4,
+      "end": 247.24,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1458,
+      "compression_ratio": 0.9636
+    },
+    {
+      "text": "正确的暗示4D选项",
+      "start": 247.24,
+      "end": 249.26000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1458,
+      "compression_ratio": 0.9636
+    },
+    {
+      "text": "因为大家觉得哪一空入手最简单",
+      "start": 249.26000000000002,
+      "end": 252.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1458,
+      "compression_ratio": 0.9636
+    },
+    {
+      "text": "是不是第三个空入手最简单同学们",
+      "start": 252.88,
+      "end": 257.96,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1628,
+      "compression_ratio": 1.3733
+    },
+    {
+      "text": "看啊",
+      "start": 257.96,
+      "end": 259.71999999999997,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1628,
+      "compression_ratio": 1.3733
+    },
+    {
+      "text": "他说即使是怎样的柴米油盐",
+      "start": 259.71999999999997,
+      "end": 262.64,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1628,
+      "compression_ratio": 1.3733
+    },
+    {
+      "text": "来大家想",
+      "start": 262.64,
+      "end": 263.28,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1628,
+      "compression_ratio": 1.3733
+    },
+    {
+      "text": "柴米油盐",
+      "start": 263.28,
+      "end": 264.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1628,
+      "compression_ratio": 1.3733
+    },
+    {
+      "text": "是不是就是日常生活当中的",
+      "start": 264.88,
+      "end": 267.74,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1628,
+      "compression_ratio": 1.3733
+    },
+    {
+      "text": "十分常见的",
+      "start": 267.74,
+      "end": 269.38,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1628,
+      "compression_ratio": 1.3733
+    },
+    {
+      "text": "天天都能看见的东西",
+      "start": 269.38,
+      "end": 271.34,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1628,
+      "compression_ratio": 1.3733
+    },
+    {
+      "text": "就是平常看着特别普通吗",
+      "start": 271.34,
+      "end": 275.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1628,
+      "compression_ratio": 1.3733
+    },
+    {
+      "text": "对不对",
+      "start": 275.06,
+      "end": 275.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1628,
+      "compression_ratio": 1.3733
+    },
+    {
+      "text": "然后说什么放大起来也会神奇",
+      "start": 275.5,
+      "end": 277.82,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1628,
+      "compression_ratio": 1.3733
+    },
+    {
+      "text": "就是平常看的很普通",
+      "start": 277.82,
+      "end": 280.4,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1628,
+      "compression_ratio": 1.3733
+    },
+    {
+      "text": "十分常见",
+      "start": 280.4,
+      "end": 281.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1628,
+      "compression_ratio": 1.3733
+    },
+    {
+      "text": "天天都能看",
+      "start": 281.56,
+      "end": 282.9,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1061,
+      "compression_ratio": 1.3412
+    },
+    {
+      "text": "放大之后显得特别惊艳",
+      "start": 282.9,
+      "end": 285.08,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1061,
+      "compression_ratio": 1.3412
+    },
+    {
+      "text": "来看这两个成语",
+      "start": 285.08,
+      "end": 287.1,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1061,
+      "compression_ratio": 1.3412
+    },
+    {
+      "text": "一个是不足为奇",
+      "start": 287.1,
+      "end": 288.16,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1061,
+      "compression_ratio": 1.3412
+    },
+    {
+      "text": "一个是司空见惯",
+      "start": 288.16,
+      "end": 289.12,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1061,
+      "compression_ratio": 1.3412
+    },
+    {
+      "text": "司空见惯不就是日常见的多了随处可见吗",
+      "start": 289.12,
+      "end": 293.46,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1061,
+      "compression_ratio": 1.3412
+    },
+    {
+      "text": "就是能形容修饰日常常见的柴米油盐吗",
+      "start": 293.46,
+      "end": 298.28,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1061,
+      "compression_ratio": 1.3412
+    },
+    {
+      "text": "而不足为奇",
+      "start": 298.28,
+      "end": 299.98,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1061,
+      "compression_ratio": 1.3412
+    }
+  ],
+  "index": 19,
+  "start": 5700.0,
+  "duration": 300,
+  "elapsed": 19.4,
+  "ok": true,
+  "initial_prompt": "四海公考，公务员考试，言语理解与表达，逻辑填空，高频实词，成语辨析，语义侧重，感情色彩，搭配对象，适用语境，易混词，例句。简体中文。课件词条：推己及人，司空见惯，屡见不鲜，无独有偶。"
+}

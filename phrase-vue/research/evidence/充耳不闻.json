@@ -1,0 +1,73 @@
+{
+    "word": "充耳不闻",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%85%85%E8%80%B3%E4%B8%8D%E9%97%BB",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "54f69427909269ce12aa7d1380b902f9c7382bd0d778e398a0584c98c9ac9bb7",
+        "bytes": 27197
+    },
+    "parsed": {
+        "found": true,
+        "word": "充耳不闻",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "chōng",
+                "ěr",
+                "bù",
+                "wén"
+            ],
+            "zhuyin": [
+                "ㄔㄨㄥ",
+                "ㄦˇ",
+                "ㄅㄨˋ",
+                "ㄨㄣˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "故意塞住耳朵不听。形容拒绝接受意见。",
+                "citations": [
+                    {
+                        "text": "边陲告急，司转运者，充耳不闻。",
+                        "source": "清·李渔《奈何天·闹封》"
+                    },
+                    {
+                        "text": "杂碎的笑语充耳不闻，笑语也掷不到他的一个角隅来。",
+                        "source": "郑振铎《桂公塘》八"
+                    }
+                ]
+            },
+            {
+                "definition": "形容专注某事而听不见其他声音。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "边陲告急，司转运者，充耳不闻。",
+                "source": "清·李渔《奈何天·闹封》"
+            },
+            {
+                "text": "杂碎的笑语充耳不闻，笑语也掷不到他的一个角隅来。",
+                "source": "郑振铎《桂公塘》八"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "turn a deaf ear"
+    },
+    "blocks": {
+        "reading": "chōng ěr bù wén",
+        "sense-1": "故意塞住耳朵不听。形容拒绝接受意见。",
+        "sense-2": "形容专注某事而听不见其他声音。",
+        "citation-1": "边陲告急，司转运者，充耳不闻。 — 清·李渔《奈何天·闹封》",
+        "citation-2": "杂碎的笑语充耳不闻，笑语也掷不到他的一个角隅来。 — 郑振铎《桂公塘》八"
+    }
+}

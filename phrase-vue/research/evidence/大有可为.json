@@ -1,0 +1,56 @@
+{
+    "word": "大有可为",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A4%A7%E6%9C%89%E5%8F%AF%E4%B8%BA",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "b4372a02fd4707468825fe80f4553c468e93073c37212933e0848599fe072ad5",
+        "bytes": 25600
+    },
+    "parsed": {
+        "found": true,
+        "word": "大有可为",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "dà",
+                "yǒu",
+                "kě",
+                "wéi"
+            ],
+            "zhuyin": [
+                "ㄉㄚˋ",
+                "ㄧㄡˇ",
+                "ㄎㄜˇ",
+                "ㄨㄟˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "具有广阔发展前景的事业或领域。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "大有作为",
+            "前程似锦"
+        ],
+        "antonyms": [
+            "无所作为",
+            "不堪造就"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "promising"
+    },
+    "blocks": {
+        "reading": "dà yǒu kě wéi",
+        "sense-1": "具有广阔发展前景的事业或领域。",
+        "synonyms": "大有作为、前程似锦",
+        "antonyms": "无所作为、不堪造就"
+    }
+}

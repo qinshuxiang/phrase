@@ -1,0 +1,67 @@
+{
+    "word": "鞭辟入里",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%9E%AD%E8%BE%9F%E5%85%A5%E9%87%8C",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "d71f804a7c8a9d61fce5a5d31c3a30edce3ce32c0315ce5110505f0d9d5496c6",
+        "bytes": 25433
+    },
+    "parsed": {
+        "found": true,
+        "word": "鞭辟入里",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "biān",
+                "pì",
+                "rù",
+                "lǐ"
+            ],
+            "zhuyin": [
+                "ㄅㄧㄢ",
+                "ㄅㄧˋ",
+                "ㄖㄨˋ",
+                "ㄌㄧˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容分析问题深刻透彻，切中要害。",
+                "citations": [
+                    {
+                        "text": "汝已见到此层，但未鞭辟入里耳。",
+                        "source": "梁启超《湖南时务学堂课艺批》"
+                    }
+                ]
+            },
+            {
+                "definition": "指言论或见解深刻而全面。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "汝已见到此层，但未鞭辟入里耳。",
+                "source": "梁启超《湖南时务学堂课艺批》"
+            }
+        ],
+        "synonyms": [
+            "鞭辟近里"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "penetrating"
+    },
+    "blocks": {
+        "reading": "biān pì rù lǐ",
+        "sense-1": "形容分析问题深刻透彻，切中要害。",
+        "sense-2": "指言论或见解深刻而全面。",
+        "citation-1": "汝已见到此层，但未鞭辟入里耳。 — 梁启超《湖南时务学堂课艺批》",
+        "synonyms": "鞭辟近里"
+    }
+}

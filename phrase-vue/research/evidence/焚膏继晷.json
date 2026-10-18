@@ -1,0 +1,67 @@
+{
+    "word": "焚膏继晷",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%84%9A%E8%86%8F%E7%BB%A7%E6%99%B7",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "88703753da3c9dfa8f962edfa9e817a94ecddae42954dc9816d433639ac6c63b",
+        "bytes": 27373
+    },
+    "parsed": {
+        "found": true,
+        "word": "焚膏继晷",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "fén",
+                "gāo",
+                "jì",
+                "guǐ"
+            ],
+            "zhuyin": [
+                "ㄈㄣˊ",
+                "ㄍㄠ",
+                "ㄐㄧˋ",
+                "ㄍㄨㄟˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "夜以继日地勤奋学习或工作。",
+                "citations": [
+                    {
+                        "text": "所谓焚膏继晷者，非为身计，正为门户计。",
+                        "source": "宋·周密《齐东野语·讥不肖子》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "所谓焚膏继晷者，非为身计，正为门户计。",
+                "source": "宋·周密《齐东野语·讥不肖子》"
+            }
+        ],
+        "synonyms": [
+            "通宵达旦",
+            "夜以继日"
+        ],
+        "antonyms": [
+            "饱食终日",
+            "无所事事"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "burn lamp oil to continue daylight"
+    },
+    "blocks": {
+        "reading": "fén gāo jì guǐ",
+        "sense-1": "夜以继日地勤奋学习或工作。",
+        "citation-1": "所谓焚膏继晷者，非为身计，正为门户计。 — 宋·周密《齐东野语·讥不肖子》",
+        "synonyms": "通宵达旦、夜以继日",
+        "antonyms": "饱食终日、无所事事"
+    }
+}

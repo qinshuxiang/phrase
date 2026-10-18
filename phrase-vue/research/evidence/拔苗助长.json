@@ -1,0 +1,52 @@
+{
+    "word": "拔苗助长",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%8B%94%E8%8B%97%E5%8A%A9%E9%95%BF",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "39637e35c25076d41d2c039f3ac1339f4d33344547b3447d30ac06282179b3bd",
+        "bytes": 25088
+    },
+    "parsed": {
+        "found": true,
+        "word": "拔苗助长",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bá",
+                "miáo",
+                "zhù",
+                "zhǎng"
+            ],
+            "zhuyin": [
+                "ㄅㄚˊ",
+                "ㄇㄧㄠˊ",
+                "ㄓㄨˋ",
+                "ㄓㄤˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻违背事物发展规律，急于求成，反而坏事。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "揠苗助长",
+            "急功近利"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "spoil things by excessive enthusiasm"
+    },
+    "blocks": {
+        "reading": "bá miáo zhù zhǎng",
+        "sense-1": "比喻违背事物发展规律，急于求成，反而坏事。",
+        "synonyms": "揠苗助长、急功近利"
+    }
+}

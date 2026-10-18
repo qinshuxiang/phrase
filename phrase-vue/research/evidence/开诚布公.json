@@ -1,0 +1,70 @@
+{
+    "word": "开诚布公",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%BC%80%E8%AF%9A%E5%B8%83%E5%85%AC",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "4ac5da666cba5c84bfab15670a10c5028e067f9d2c9f92fee98a3b427c0ad80a",
+        "bytes": 28234
+    },
+    "parsed": {
+        "found": true,
+        "word": "开诚布公",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "kāi",
+                "chéng",
+                "bù",
+                "gōng"
+            ],
+            "zhuyin": [
+                "ㄎㄞ",
+                "ㄔㄥˊ",
+                "ㄅㄨˋ",
+                "ㄍㄨㄥ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "敞开心胸，坦诚相待，公正无私地表明态度。",
+                "citations": [
+                    {
+                        "text": "集思广益真宰相，开诚布公肝胆倾。",
+                        "source": "宋·许月卿《次韵陈肇芳竿赠李相士》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "集思广益真宰相，开诚布公肝胆倾。",
+                "source": "宋·许月卿《次韵陈肇芳竿赠李相士》"
+            }
+        ],
+        "synonyms": [
+            "待人以诚",
+            "开诚相见",
+            "襟怀坦白",
+            "坦怀相待﹑推心置腹﹑肝胆相照﹑开心见诚"
+        ],
+        "antonyms": [
+            "勾心斗角",
+            "尔虞我诈",
+            "钩心斗角﹑尔虞我诈"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "open and sincere"
+    },
+    "blocks": {
+        "reading": "kāi chéng bù gōng",
+        "sense-1": "敞开心胸，坦诚相待，公正无私地表明态度。",
+        "citation-1": "集思广益真宰相，开诚布公肝胆倾。 — 宋·许月卿《次韵陈肇芳竿赠李相士》",
+        "synonyms": "待人以诚、开诚相见、襟怀坦白、坦怀相待﹑推心置腹﹑肝胆相照﹑开心见诚",
+        "antonyms": "勾心斗角、尔虞我诈、钩心斗角﹑尔虞我诈"
+    }
+}

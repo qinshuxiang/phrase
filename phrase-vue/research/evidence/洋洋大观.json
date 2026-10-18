@@ -1,0 +1,67 @@
+{
+    "word": "洋洋大观",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%B4%8B%E6%B4%8B%E5%A4%A7%E8%A7%82",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "e362254e9615740533236d9dc858c7697843f92709a0a08d08f14879b7c7b73f",
+        "bytes": 25429
+    },
+    "parsed": {
+        "found": true,
+        "word": "洋洋大观",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yáng",
+                "yáng",
+                "dà",
+                "guān"
+            ],
+            "zhuyin": [
+                "ㄧㄤˊ",
+                "ㄧㄤˊ",
+                "ㄉㄚˋ",
+                "ㄍㄨㄢ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容事物丰富多彩、气势宏大的景象。",
+                "citations": [
+                    {
+                        "text": "登眺海山，洋洋大观，一望千里。",
+                        "source": "《水浒后传》第三九回"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "登眺海山，洋洋大观，一望千里。",
+                "source": "《水浒后传》第三九回"
+            }
+        ],
+        "synonyms": [
+            "蔚为大观",
+            "洋洋洒洒",
+            "声势浩大"
+        ],
+        "antonyms": [
+            "微不足道"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "grand sight"
+    },
+    "blocks": {
+        "reading": "yáng yáng dà guān",
+        "sense-1": "形容事物丰富多彩、气势宏大的景象。",
+        "citation-1": "登眺海山，洋洋大观，一望千里。 — 《水浒后传》第三九回",
+        "synonyms": "蔚为大观、洋洋洒洒、声势浩大",
+        "antonyms": "微不足道"
+    }
+}

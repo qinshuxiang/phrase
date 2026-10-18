@@ -1,0 +1,65 @@
+{
+    "word": "运筹帷幄",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%BF%90%E7%AD%B9%E5%B8%B7%E5%B9%84",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "db59dbd83a60f432a7754ebb5fbfab3a5a87be9c90c85fcc772f8c9d253702c0",
+        "bytes": 26737
+    },
+    "parsed": {
+        "found": true,
+        "word": "运筹帷幄",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yùn",
+                "chóu",
+                "wéi",
+                "wò"
+            ],
+            "zhuyin": [
+                "ㄩㄣˋ",
+                "ㄔㄡˊ",
+                "ㄨㄟˊ",
+                "ㄨㄛˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "在军帐中谋划作战策略。",
+                "citations": [
+                    {
+                        "text": "夫运筹帷幄之中，决胜千里之外，吾不如子房。",
+                        "source": "汉·班固《汉书·高帝纪下》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "夫运筹帷幄之中，决胜千里之外，吾不如子房。",
+                "source": "汉·班固《汉书·高帝纪下》"
+            }
+        ],
+        "synonyms": [
+            "握筹布画",
+            "运筹决策",
+            "筹谋",
+            "策划"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "devise strategies within a command tent"
+    },
+    "blocks": {
+        "reading": "yùn chóu wéi wò",
+        "sense-1": "在军帐中谋划作战策略。",
+        "citation-1": "夫运筹帷幄之中，决胜千里之外，吾不如子房。 — 汉·班固《汉书·高帝纪下》",
+        "synonyms": "握筹布画、运筹决策、筹谋、策划"
+    }
+}

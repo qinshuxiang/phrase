@@ -1,0 +1,72 @@
+{
+    "word": "每况愈下",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%AF%8F%E5%86%B5%E6%84%88%E4%B8%8B",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "d8cee9b6a530529aff6879c0b7f2c996bf21fb78f38a12aeed2cafffa9d627eb",
+        "bytes": 27794
+    },
+    "parsed": {
+        "found": true,
+        "word": "每况愈下",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "měi",
+                "kuàng",
+                "yù",
+                "xià"
+            ],
+            "zhuyin": [
+                "ㄇㄟˇ",
+                "ㄎㄨㄤˋ",
+                "ㄩˋ",
+                "ㄒㄧㄚˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "情况越来越坏。",
+                "citations": [
+                    {
+                        "text": "子瞻自言平生不善唱曲，故间有不入腔处。非尽如此，后山乃比之教坊司雷大使舞，是何每况愈下，盖其谬耳！",
+                        "source": "宋·胡仔《苕溪渔隐诗话后集·东坡一》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "子瞻自言平生不善唱曲，故间有不入腔处。非尽如此，后山乃比之教坊司雷大使舞，是何每况愈下，盖其谬耳！",
+                "source": "宋·胡仔《苕溪渔隐诗话后集·东坡一》"
+            }
+        ],
+        "synonyms": [
+            "日暮途穷",
+            "江河日下",
+            "日走下坡"
+        ],
+        "antonyms": [
+            "蒸蒸日上",
+            "百尺竿头",
+            "步步高升",
+            "扶摇直上",
+            "欣欣向荣",
+            "日新月异"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "steadily deteriorate"
+    },
+    "blocks": {
+        "reading": "měi kuàng yù xià",
+        "sense-1": "情况越来越坏。",
+        "citation-1": "子瞻自言平生不善唱曲，故间有不入腔处。非尽如此，后山乃比之教坊司雷大使舞，是何每况愈下，盖其谬耳！ — 宋·胡仔《苕溪渔隐诗话后集·东坡一》",
+        "synonyms": "日暮途穷、江河日下、日走下坡",
+        "antonyms": "蒸蒸日上、百尺竿头、步步高升、扶摇直上、欣欣向荣、日新月异"
+    }
+}

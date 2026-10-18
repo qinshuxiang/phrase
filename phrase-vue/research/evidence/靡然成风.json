@@ -1,0 +1,59 @@
+{
+    "word": "靡然成风",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%9D%A1%E7%84%B6%E6%88%90%E9%A3%8E",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "ebb387ffc36a770adb0eec2af5e3872d5e54bae43d01b646293506e2f88bdf3b",
+        "bytes": 21814
+    },
+    "parsed": {
+        "found": true,
+        "word": "靡然成风",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "mí",
+                "rán",
+                "chéng",
+                "fēng"
+            ],
+            "zhuyin": [
+                "ㄇㄧˇ",
+                "ㄖㄢˊ",
+                "ㄔㄥˊ",
+                "ㄈㄥ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容纷纷效法，形成一种风气。",
+                "citations": [
+                    {
+                        "text": "谈虚论寂，靡然成风。",
+                        "source": "《明史·张岳传》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "谈虚论寂，靡然成风。",
+                "source": "《明史·张岳传》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "follow suit"
+    },
+    "blocks": {
+        "reading": "mí rán chéng fēng",
+        "sense-1": "形容纷纷效法，形成一种风气。",
+        "citation-1": "谈虚论寂，靡然成风。 — 《明史·张岳传》"
+    }
+}

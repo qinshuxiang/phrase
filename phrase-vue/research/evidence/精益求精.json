@@ -1,0 +1,48 @@
+{
+    "word": "精益求精",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%B2%BE%E7%9B%8A%E6%B1%82%E7%B2%BE",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "4005c7f0a76f8022f4d0b6b4d79b9d1d4e15f237cc4ccc2ab733cfbd5945e6fc",
+        "bytes": 28286
+    },
+    "parsed": {
+        "found": true,
+        "word": "精益求精",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jīng",
+                "yì",
+                "qiú",
+                "jīng"
+            ],
+            "zhuyin": [
+                "ㄐㄧㄥ",
+                "ㄧˋ",
+                "ㄑㄧㄡˊ",
+                "ㄐㄧㄥ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "已经很好了,还要求更好",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "constantly improve sth."
+    },
+    "blocks": {
+        "reading": "jīng yì qiú jīng",
+        "sense-1": "已经很好了,还要求更好"
+    }
+}

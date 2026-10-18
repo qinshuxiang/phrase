@@ -1,0 +1,66 @@
+{
+    "word": "微言大义",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%BE%AE%E8%A8%80%E5%A4%A7%E4%B9%89",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "6c97f9030cad692d039890745b019983084cf1386c2f0e68760437362ea096ba",
+        "bytes": 25700
+    },
+    "parsed": {
+        "found": true,
+        "word": "微言大义",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "wēi",
+                "yán",
+                "dà",
+                "yì"
+            ],
+            "zhuyin": [
+                "ㄨㄟ",
+                "ㄧㄢˊ",
+                "ㄉㄚˋ",
+                "ㄧˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "精微言辞中蕴含的深刻道理。",
+                "citations": [
+                    {
+                        "text": "古者六经之学，专门名家，各守师说，圣贤之微言大义，纲举目张。",
+                        "source": "汉·刘歆《移书让太常博士》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "古者六经之学，专门名家，各守师说，圣贤之微言大义，纲举目张。",
+                "source": "汉·刘歆《移书让太常博士》"
+            }
+        ],
+        "synonyms": [
+            "言近旨远",
+            "言简意赅"
+        ],
+        "antonyms": [
+            "空洞无物"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "subtle words with profound meaning"
+    },
+    "blocks": {
+        "reading": "wēi yán dà yì",
+        "sense-1": "精微言辞中蕴含的深刻道理。",
+        "citation-1": "古者六经之学，专门名家，各守师说，圣贤之微言大义，纲举目张。 — 汉·刘歆《移书让太常博士》",
+        "synonyms": "言近旨远、言简意赅",
+        "antonyms": "空洞无物"
+    }
+}

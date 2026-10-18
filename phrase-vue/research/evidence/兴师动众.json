@@ -1,0 +1,73 @@
+{
+    "word": "兴师动众",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%85%B4%E5%B8%88%E5%8A%A8%E4%BC%97",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "41537c16d689e710c2b922e23f3d30e920ad0176373193b761a98b40f3d191f6",
+        "bytes": 28135
+    },
+    "parsed": {
+        "found": true,
+        "word": "兴师动众",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "xīng",
+                "shī",
+                "dòng",
+                "zhòng"
+            ],
+            "zhuyin": [
+                "ㄒㄧㄥ",
+                "ㄕ",
+                "ㄉㄨㄥˋ",
+                "ㄓㄨㄥˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "为进行战争而动员百姓。",
+                "citations": [
+                    {
+                        "text": "反虏故东郡太守翟义擅兴师动众。",
+                        "source": "汉·班固《汉书·翟方进传》"
+                    },
+                    {
+                        "text": "今儿偶然吃了一次亏，妈妈就这样兴师动众。",
+                        "source": "清·曹雪芹《红楼梦》"
+                    }
+                ]
+            },
+            {
+                "definition": "形容为做某件事而动员很多人。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "反虏故东郡太守翟义擅兴师动众。",
+                "source": "汉·班固《汉书·翟方进传》"
+            },
+            {
+                "text": "今儿偶然吃了一次亏，妈妈就这样兴师动众。",
+                "source": "清·曹雪芹《红楼梦》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "mobilize troops"
+    },
+    "blocks": {
+        "reading": "xīng shī dòng zhòng",
+        "sense-1": "为进行战争而动员百姓。",
+        "sense-2": "形容为做某件事而动员很多人。",
+        "citation-1": "反虏故东郡太守翟义擅兴师动众。 — 汉·班固《汉书·翟方进传》",
+        "citation-2": "今儿偶然吃了一次亏，妈妈就这样兴师动众。 — 清·曹雪芹《红楼梦》"
+    }
+}

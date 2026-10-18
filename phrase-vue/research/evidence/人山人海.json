@@ -1,0 +1,71 @@
+{
+    "word": "人山人海",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "871e78c4e6e733018c1c0b63f580cdbf5df8d1d105a59f438a0aaabf02140239",
+        "bytes": 29100
+    },
+    "parsed": {
+        "found": true,
+        "word": "人山人海",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "rén",
+                "shān",
+                "rén",
+                "hǎi"
+            ],
+            "zhuyin": [
+                "ㄖㄣˊ",
+                "ㄕㄢ",
+                "ㄖㄣˊ",
+                "ㄏㄞˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容汇聚的人极多",
+                "citations": [
+                    {
+                        "text": "那粉头是西京来新打踅的行院,色艺双绝,赚得人山人海价看。",
+                        "source": "《水浒传》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "那粉头是西京来新打踅的行院,色艺双绝,赚得人山人海价看。",
+                "source": "《水浒传》"
+            }
+        ],
+        "synonyms": [
+            "川流不息",
+            "人头攒动",
+            "水泄不通"
+        ],
+        "antonyms": [
+            "荒无人烟",
+            "人迹罕至",
+            "寥寥无几",
+            "只影全无",
+            "三三两两"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "huge crowds of people"
+    },
+    "blocks": {
+        "reading": "rén shān rén hǎi",
+        "sense-1": "形容汇聚的人极多",
+        "citation-1": "那粉头是西京来新打踅的行院,色艺双绝,赚得人山人海价看。 — 《水浒传》",
+        "synonyms": "川流不息、人头攒动、水泄不通",
+        "antonyms": "荒无人烟、人迹罕至、寥寥无几、只影全无、三三两两"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "word": "危言耸听",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%8D%B1%E8%A8%80%E8%80%B8%E5%90%AC",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "64eff97214fba1b5c5c346e5508aa4da2e702060003afbdd38964149a687eeac",
+        "bytes": 26401
+    },
+    "parsed": {
+        "found": true,
+        "word": "危言耸听",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "wēi",
+                "yán",
+                "sǒng",
+                "tīng"
+            ],
+            "zhuyin": [
+                "ㄨㄟ",
+                "ㄧㄢˊ",
+                "ㄙㄨㄥˇ",
+                "ㄊㄧㄥ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "故意说夸大惊人的话使人震惊。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "alarmist talk"
+    },
+    "blocks": {
+        "reading": "wēi yán sǒng tīng",
+        "sense-1": "故意说夸大惊人的话使人震惊。"
+    }
+}

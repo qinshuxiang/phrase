@@ -1,0 +1,82 @@
+{
+    "word": "心旷神怡",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%BF%83%E6%97%B7%E7%A5%9E%E6%80%A1",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "5c12958111c3bd7ed819d94bd2ca4d675f2014fa7d8f39a8e0593c5b04e313e4",
+        "bytes": 28303
+    },
+    "parsed": {
+        "found": true,
+        "word": "心旷神怡",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "xīn",
+                "kuàng",
+                "shén",
+                "yí"
+            ],
+            "zhuyin": [
+                "ㄒㄧㄣ",
+                "ㄎㄨㄤˋ",
+                "ㄕㄣ",
+                "ㄧˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "心境开阔，精神愉悦。",
+                "citations": [
+                    {
+                        "text": "登斯楼也，则有心旷神怡，宠辱皆忘，把酒临风，其喜洋洋者矣。",
+                        "source": "宋·范仲淹《岳阳楼记》"
+                    },
+                    {
+                        "text": "翌日往游百泉，用作竟夜之谈，出所为诗，读至……已为心旷神怡。",
+                        "source": "唐·田颖《博浪沙行序》"
+                    }
+                ]
+            },
+            {
+                "definition": "形容心情舒畅愉快的状态。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "登斯楼也，则有心旷神怡，宠辱皆忘，把酒临风，其喜洋洋者矣。",
+                "source": "宋·范仲淹《岳阳楼记》"
+            },
+            {
+                "text": "翌日往游百泉，用作竟夜之谈，出所为诗，读至……已为心旷神怡。",
+                "source": "唐·田颖《博浪沙行序》"
+            }
+        ],
+        "synonyms": [
+            "赏心悦目",
+            "悠然自得"
+        ],
+        "antonyms": [
+            "心如火焚",
+            "心烦意乱",
+            "心慌意乱"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "refreshed"
+    },
+    "blocks": {
+        "reading": "xīn kuàng shén yí",
+        "sense-1": "心境开阔，精神愉悦。",
+        "sense-2": "形容心情舒畅愉快的状态。",
+        "citation-1": "登斯楼也，则有心旷神怡，宠辱皆忘，把酒临风，其喜洋洋者矣。 — 宋·范仲淹《岳阳楼记》",
+        "citation-2": "翌日往游百泉，用作竟夜之谈，出所为诗，读至……已为心旷神怡。 — 唐·田颖《博浪沙行序》",
+        "synonyms": "赏心悦目、悠然自得",
+        "antonyms": "心如火焚、心烦意乱、心慌意乱"
+    }
+}

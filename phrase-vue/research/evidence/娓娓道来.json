@@ -1,0 +1,30 @@
+{
+    "word": "娓娓道来",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A8%93%E5%A8%93%E9%81%93%E6%9D%A5",
+        "retrieved_at": "2026-10-18",
+        "http_status": 404,
+        "page_sha256": "9e9aef6ab4e3424171edcc971185631af8e059fa7aff38a134b6da4d8ee011df",
+        "bytes": 24
+    },
+    "parsed": {
+        "found": false,
+        "word": "娓娓道来",
+        "section": null,
+        "readings": {
+            "pinyin": [],
+            "zhuyin": []
+        },
+        "senses": [],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": ""
+    },
+    "blocks": {}
+}

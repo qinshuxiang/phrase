@@ -1,0 +1,70 @@
+{
+    "word": "事与愿违",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%BA%8B%E4%B8%8E%E6%84%BF%E8%BF%9D",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "5050a912374408c4e2c02501199e87f659a9a5977ab2d68a8264cbf5eea1d37f",
+        "bytes": 27538
+    },
+    "parsed": {
+        "found": true,
+        "word": "事与愿违",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shì",
+                "yǔ",
+                "yuàn",
+                "wéi"
+            ],
+            "zhuyin": [
+                "ㄕˋ",
+                "ㄩˋ",
+                "ㄩㄢˋ",
+                "ㄨㄟˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "事情的发展与愿望相违背。",
+                "citations": [
+                    {
+                        "text": "嗟我愤叹，曾莫能俦。事与愿违，遘兹淹留。",
+                        "source": "三国魏·嵇康《幽愤》诗"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "嗟我愤叹，曾莫能俦。事与愿违，遘兹淹留。",
+                "source": "三国魏·嵇康《幽愤》诗"
+            }
+        ],
+        "synonyms": [
+            "大失所望",
+            "适得其反"
+        ],
+        "antonyms": [
+            "得心应手",
+            "万事亨通",
+            "称心如意",
+            "如愿以偿",
+            "从心所欲"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "things go contrary to one's wishes"
+    },
+    "blocks": {
+        "reading": "shì yǔ yuàn wéi",
+        "sense-1": "事情的发展与愿望相违背。",
+        "citation-1": "嗟我愤叹，曾莫能俦。事与愿违，遘兹淹留。 — 三国魏·嵇康《幽愤》诗",
+        "synonyms": "大失所望、适得其反",
+        "antonyms": "得心应手、万事亨通、称心如意、如愿以偿、从心所欲"
+    }
+}

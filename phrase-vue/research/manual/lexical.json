@@ -1,0 +1,122 @@
+{
+    "既往开来": {
+        "status": "variant",
+        "variant_of": "继往开来",
+        "note": "规范词形为「继往开来」。「既往」是名词，指过去；「继往」是动宾短语，与「开来」构成对偶，故「既往开来」为误写。",
+        "blocks": {
+            "variant": "继(既)往开来：继，继承。继承前人的事业，开辟未来的道路。"
+        },
+        "sources": [
+            {
+                "name": "人民日报总编室易错字指南（学习强国转载）",
+                "url": "https://article.xuexi.cn/articles/index.html?art_id=12292939206210737756",
+                "quote": "继(既)往开来：继，继承，前人的事业，开拓未来。"
+            }
+        ]
+    },
+    "雕梁画柱": {
+        "status": "variant",
+        "variant_of": "雕梁画栋",
+        "note": "「雕梁画柱」为「雕梁画栋」的或体写法，教育部《成语典》在「雕梁画栋」条下明确标注「也作雕梁画柱」。",
+        "blocks": {
+            "variant": "也作「雕梁畫柱」、「畫棟雕梁」、「畫梁雕棟」。"
+        },
+        "sources": [
+            {
+                "name": "教育部《成语典》",
+                "url": "https://dict.idioms.moe.edu.tw/idiomView.jsp?ID=14890&webMd=1&la=0",
+                "quote": "也作「雕梁畫柱」、「畫棟雕梁」、「畫梁雕棟」。"
+            }
+        ]
+    },
+    "沉渣泛起": {
+        "status": "standard",
+        "variant_of": null,
+        "note": "汉典未收该词条；多部在线汉语词典与百科均列为成语，另有或体「沉滓泛起」。",
+        "blocks": {
+            "reading": "chén zhā fàn qǐ",
+            "sense-1": "已经沉到水底的渣滓又漂浮了起来。比喻已经绝迹了的腐朽、陈旧事物又重新出现。"
+        },
+        "sources": [
+            {
+                "name": "好查汉语词典",
+                "url": "https://www.hao86.com/ciyu_view_9d1ed943ac9d1ed9/",
+                "quote": "已经沉到水底的渣滓又漂浮了起来。比喻已经绝迹了的腐朽、陈旧事物又重新出现。"
+            }
+        ]
+    },
+    "双峰并至": {
+        "status": "uncertain",
+        "variant_of": null,
+        "note": "汉典与教育部《成语典》均未收录，未见稳定的词典释义；暂按未定处理，事实字段留空，仅保留库内释义归纳的差异说明。",
+        "blocks": {},
+        "sources": []
+    },
+    "成风化人": {
+        "status": "modern_phrase",
+        "variant_of": null,
+        "note": "汉典未收；为现代固定表达，指以良好风气教化人，多见于公共文化政策语境。",
+        "blocks": {},
+        "sources": []
+    },
+    "笃行不怠": {
+        "status": "modern_phrase",
+        "variant_of": null,
+        "note": "汉典未收；为现代书面表达，指踏实实行、不懈怠。",
+        "blocks": {},
+        "sources": []
+    },
+    "毋庸讳言": {
+        "status": "modern_phrase",
+        "variant_of": null,
+        "note": "汉典未收；为现代书面惯用短语，指用不着忌讳，可以直说。",
+        "blocks": {},
+        "sources": []
+    },
+    "相去甚远": {
+        "status": "modern_phrase",
+        "variant_of": null,
+        "note": "汉典未收；为现代常用四字短语，指差距很大，不作成语条目处理。",
+        "blocks": {},
+        "sources": []
+    },
+    "娓娓道来": {
+        "status": "modern_phrase",
+        "variant_of": null,
+        "note": "汉典未收；为现代常用四字短语，指连续不倦地讲述。",
+        "blocks": {},
+        "sources": []
+    },
+    "一叶障目": {
+        "status": "standard",
+        "variant_of": null,
+        "note": "汉典该页只有成语简表、未给出结构化拼音字段；读音与释义据汉典词条摘要与维基词典补录。",
+        "blocks": {
+            "reading": "yī yè zhàng mù",
+            "sense-1": "眼睛被一片树叶挡住，指看不到事物的全貌。"
+        },
+        "sources": [
+            {
+                "name": "汉典（词条摘要）",
+                "url": "https://www.zdic.net/hans/%E4%B8%80%E5%8F%B6%E9%9A%9C%E7%9B%AE",
+                "quote": "拼音 yī yè zhàng mù 注音 ㄧ ㄧㄝˋ ㄓㄤˋ ㄇㄨˋ。解释：眼睛被一片树叶挡住，指看不到事物的全貌。"
+            }
+        ]
+    },
+    "互为表里": {
+        "status": "standard",
+        "variant_of": null,
+        "note": "汉典该页只有成语简表、未给出结构化拼音字段；读音与释义据中华字典与百度百科词条补录。",
+        "blocks": {
+            "reading": "hù wéi biǎo lǐ",
+            "sense-1": "甲为乙的外表，乙为甲的内里。比喻互相依存，互相接受。"
+        },
+        "sources": [
+            {
+                "name": "中华字典",
+                "url": "https://www.zhzidian.com/chengyu/022TK6432023.html",
+                "quote": "成语读音 hù wéi biǎo lǐ。成语意思解释：甲为乙的外表；乙为甲的内里；乙为甲的外表；甲为乙的内里。比喻互相依存；互相接受。"
+            }
+        ]
+    }
+}

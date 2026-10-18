@@ -1,0 +1,67 @@
+{
+    "word": "适得其反",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%80%82%E5%BE%97%E5%85%B6%E5%8F%8D",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "9889885bda84f86d90486ee9b1a71cd73f3a07cdd129be111e7e41ce943eb238",
+        "bytes": 26711
+    },
+    "parsed": {
+        "found": true,
+        "word": "适得其反",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shì",
+                "dé",
+                "qí",
+                "fǎn"
+            ],
+            "zhuyin": [
+                "ㄕˋ",
+                "ㄉㄜ",
+                "ㄑㄧˊ",
+                "ㄈㄢˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "结果与预期的愿望正好相反。",
+                "citations": [
+                    {
+                        "text": "不知此适得其反也。",
+                        "source": "清·魏源《筹海篇·议守上》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "不知此适得其反也。",
+                "source": "清·魏源《筹海篇·议守上》"
+            }
+        ],
+        "synonyms": [
+            "事与愿违"
+        ],
+        "antonyms": [
+            "尽如人意",
+            "称心如意",
+            "如愿以偿"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "counterproductive"
+    },
+    "blocks": {
+        "reading": "shì dé qí fǎn",
+        "sense-1": "结果与预期的愿望正好相反。",
+        "citation-1": "不知此适得其反也。 — 清·魏源《筹海篇·议守上》",
+        "synonyms": "事与愿违",
+        "antonyms": "尽如人意、称心如意、如愿以偿"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "word": "临渴掘井",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%B4%E6%B8%B4%E6%8E%98%E4%BA%95",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "7792c440f5469fd098b364df7e5a0f892d9baba883eed6d60591fe259ccb734e",
+        "bytes": 28005
+    },
+    "parsed": {
+        "found": true,
+        "word": "临渴掘井",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "lín",
+                "kě",
+                "jué",
+                "jǐng"
+            ],
+            "zhuyin": [
+                "ㄌㄧㄣˊ",
+                "ㄎㄜˇ",
+                "ㄐㄩㄝˊ",
+                "ㄐㄧㄥˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻事到临头才想办法解决",
+                "citations": [
+                    {
+                        "text": "夫病已成而后药之，乱已成而后治之，譬犹渴而穿井，斗而铸锥，不亦晚乎？",
+                        "source": "春秋齐·《素问·四气调神大论》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "夫病已成而后药之，乱已成而后治之，譬犹渴而穿井，斗而铸锥，不亦晚乎？",
+                "source": "春秋齐·《素问·四气调神大论》"
+            }
+        ],
+        "synonyms": [
+            "措手不及",
+            "临阵磨枪"
+        ],
+        "antonyms": [
+            "常备不懈",
+            "曲突徙薪",
+            "有备无患",
+            "未雨绸缪"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "dig a well when thirsty"
+    },
+    "blocks": {
+        "reading": "lín kě jué jǐng",
+        "sense-1": "比喻事到临头才想办法解决",
+        "citation-1": "夫病已成而后药之，乱已成而后治之，譬犹渴而穿井，斗而铸锥，不亦晚乎？ — 春秋齐·《素问·四气调神大论》",
+        "synonyms": "措手不及、临阵磨枪",
+        "antonyms": "常备不懈、曲突徙薪、有备无患、未雨绸缪"
+    }
+}

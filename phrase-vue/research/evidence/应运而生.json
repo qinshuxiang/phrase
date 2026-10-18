@@ -1,0 +1,64 @@
+{
+    "word": "应运而生",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%BA%94%E8%BF%90%E8%80%8C%E7%94%9F",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "04d6d5e4c1ec9a6ba6e252d3a2fe95bc616d407cb17305e81fad5b251938e77b",
+        "bytes": 26174
+    },
+    "parsed": {
+        "found": true,
+        "word": "应运而生",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yìng",
+                "yùn",
+                "ér",
+                "shēng"
+            ],
+            "zhuyin": [
+                "ㄧㄥˋ",
+                "ㄩㄣˋ",
+                "ㄦˊ",
+                "ㄕㄥ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "顺应天命降生世间。",
+                "citations": [
+                    {
+                        "text": "大哉神圣，与时回薄。应运而生，继天而作。",
+                        "source": "唐·王勃《益州夫子庙碑》"
+                    }
+                ]
+            },
+            {
+                "definition": "顺应时机而出现或产生。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "大哉神圣，与时回薄。应运而生，继天而作。",
+                "source": "唐·王勃《益州夫子庙碑》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "be born at the right moment"
+    },
+    "blocks": {
+        "reading": "yìng yùn ér shēng",
+        "sense-1": "顺应天命降生世间。",
+        "sense-2": "顺应时机而出现或产生。",
+        "citation-1": "大哉神圣，与时回薄。应运而生，继天而作。 — 唐·王勃《益州夫子庙碑》"
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "word": "量力而行",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%87%8F%E5%8A%9B%E8%80%8C%E8%A1%8C",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "ea03a0ea418b9381229e41e5e792b99ebc4fa7df7f0d41103f88d0d5e8093bda",
+        "bytes": 28750
+    },
+    "parsed": {
+        "found": true,
+        "word": "量力而行",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "liàng",
+                "lì",
+                "ér",
+                "xíng"
+            ],
+            "zhuyin": [
+                "ㄌㄧㄤˋ",
+                "ㄌㄧˋ",
+                "ㄦˊ",
+                "ㄒㄧㄥˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "按照自己能力大小去做事",
+                "citations": [
+                    {
+                        "text": "朕当量力而行,然定可否。",
+                        "source": "唐·吴兢《开元升平源》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "朕当量力而行,然定可否。",
+                "source": "唐·吴兢《开元升平源》"
+            }
+        ],
+        "synonyms": [
+            "实事求是",
+            "量入为出",
+            "量体裁衣"
+        ],
+        "antonyms": [
+            "不自量力",
+            "蚍蜉撼树",
+            "力不从心",
+            "力所不及",
+            "好高骛远"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "act according to one’s capability; do what one is capable to"
+    },
+    "blocks": {
+        "reading": "liàng lì ér xíng",
+        "sense-1": "按照自己能力大小去做事",
+        "citation-1": "朕当量力而行,然定可否。 — 唐·吴兢《开元升平源》",
+        "synonyms": "实事求是、量入为出、量体裁衣",
+        "antonyms": "不自量力、蚍蜉撼树、力不从心、力所不及、好高骛远"
+    }
+}

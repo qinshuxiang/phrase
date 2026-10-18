@@ -1,0 +1,67 @@
+{
+    "word": "投其所好",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%8A%95%E5%85%B6%E6%89%80%E5%A5%BD",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "e76a60fb33891042b6374c4ab97079ac2f9ec41dcde9e3e7a837bd80898791ae",
+        "bytes": 27952
+    },
+    "parsed": {
+        "found": true,
+        "word": "投其所好",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "tóu",
+                "qí",
+                "suǒ",
+                "hào"
+            ],
+            "zhuyin": [
+                "ㄊㄡˊ",
+                "ㄑㄧˊ",
+                "ㄙㄨㄛˇ",
+                "ㄏㄠˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "投合他人心意中所喜好的",
+                "citations": [
+                    {
+                        "text": "一听素臣之言,投其所好,心窝中一阵奇痒。",
+                        "source": "《野叟曝言》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "一听素臣之言,投其所好,心窝中一阵奇痒。",
+                "source": "《野叟曝言》"
+            }
+        ],
+        "synonyms": [
+            "曲意逢迎",
+            "善解人意",
+            "曲意奉迎"
+        ],
+        "antonyms": [
+            "不卑不亢"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "cater to another's pleasure;hit on what sb. likes"
+    },
+    "blocks": {
+        "reading": "tóu qí suǒ hào",
+        "sense-1": "投合他人心意中所喜好的",
+        "citation-1": "一听素臣之言,投其所好,心窝中一阵奇痒。 — 《野叟曝言》",
+        "synonyms": "曲意逢迎、善解人意、曲意奉迎",
+        "antonyms": "不卑不亢"
+    }
+}

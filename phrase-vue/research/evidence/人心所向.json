@@ -1,0 +1,67 @@
+{
+    "word": "人心所向",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%BA%BA%E5%BF%83%E6%89%80%E5%90%91",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "6f45e39e66fe77cb4c42811cbdd1b653b5743f29348d9f8b8de5a00385b2abaf",
+        "bytes": 28088
+    },
+    "parsed": {
+        "found": true,
+        "word": "人心所向",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "rén",
+                "xīn",
+                "suǒ",
+                "xiàng"
+            ],
+            "zhuyin": [
+                "ㄖㄣˊ",
+                "ㄒㄧㄣ",
+                "ㄙㄨㄛˇ",
+                "ㄒㄧㄤˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "指众人的思想归向",
+                "citations": [
+                    {
+                        "text": "南方各省既倡义于前,北方将领亦主张于后。人心所向,天命可知。",
+                        "source": "《清史稿·宣统皇帝纪》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "南方各省既倡义于前,北方将领亦主张于后。人心所向,天命可知。",
+                "source": "《清史稿·宣统皇帝纪》"
+            }
+        ],
+        "synonyms": [
+            "众望所归",
+            "深得人心"
+        ],
+        "antonyms": [
+            "众叛亲离",
+            "怨声载道"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "the popular sentiment"
+    },
+    "blocks": {
+        "reading": "rén xīn suǒ xiàng",
+        "sense-1": "指众人的思想归向",
+        "citation-1": "南方各省既倡义于前,北方将领亦主张于后。人心所向,天命可知。 — 《清史稿·宣统皇帝纪》",
+        "synonyms": "众望所归、深得人心",
+        "antonyms": "众叛亲离、怨声载道"
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "word": "茫然若失",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%8C%AB%E7%84%B6%E8%8B%A5%E5%A4%B1",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "2562c38ac3823f33a8d500630f54d2e2bac0144eccbb63b7d785da26fbb7ca32",
+        "bytes": 26627
+    },
+    "parsed": {
+        "found": true,
+        "word": "茫然若失",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "máng",
+                "rán",
+                "ruò",
+                "shī"
+            ],
+            "zhuyin": [
+                "ㄇㄤˊ",
+                "ㄖㄢˊ",
+                "ㄖㄨㄛˋ",
+                "ㄕ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "困惑、不知所措而没有生气",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "若有所失"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "blank 指表情"
+    },
+    "blocks": {
+        "reading": "máng rán ruò shī",
+        "sense-1": "困惑、不知所措而没有生气",
+        "synonyms": "若有所失"
+    }
+}

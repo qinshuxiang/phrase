@@ -1,0 +1,59 @@
+{
+    "word": "只言片语",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%8F%AA%E8%A8%80%E7%89%87%E8%AF%AD",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "0e0fadbdba520a173ad2f6c2d3a25d25116fcbdc8d73b77accc64af761f21b43",
+        "bytes": 24804
+    },
+    "parsed": {
+        "found": true,
+        "word": "只言片语",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zhī",
+                "yán",
+                "piàn",
+                "yǔ"
+            ],
+            "zhuyin": [
+                "ㄓ",
+                "ㄧㄢˊ",
+                "ㄆㄧㄢˋ",
+                "ㄩˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "零碎、不完整的词句或话语。",
+                "citations": [
+                    {
+                        "text": "很多都是从那些石油部长们进出会场的神情和只言片语中得出的。",
+                        "source": "《环球时报》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "很多都是从那些石油部长们进出会场的神情和只言片语中得出的。",
+                "source": "《环球时报》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "fragmentary words"
+    },
+    "blocks": {
+        "reading": "zhī yán piàn yǔ",
+        "sense-1": "零碎、不完整的词句或话语。",
+        "citation-1": "很多都是从那些石油部长们进出会场的神情和只言片语中得出的。 — 《环球时报》"
+    }
+}

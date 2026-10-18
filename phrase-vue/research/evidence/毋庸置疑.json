@@ -1,0 +1,48 @@
+{
+    "word": "毋庸置疑",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%AF%8B%E5%BA%B8%E7%BD%AE%E7%96%91",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "84c87933d468f3e09e50edbab15d7b40da334753901cfd2e6f3f537f1be0082f",
+        "bytes": 24152
+    },
+    "parsed": {
+        "found": true,
+        "word": "毋庸置疑",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "wú",
+                "yōng",
+                "zhì",
+                "yí"
+            ],
+            "zhuyin": [
+                "ㄨˊ",
+                "ㄩㄥ",
+                "ㄓˋ",
+                "ㄧˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "<p>毋庸：无须，不必。指事实非常明显或理由非常充足，没有必要持怀疑态度。</p>",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": ""
+    },
+    "blocks": {
+        "reading": "wú yōng zhì yí",
+        "sense-1": "<p>毋庸：无须，不必。指事实非常明显或理由非常充足，没有必要持怀疑态度。</p>"
+    }
+}

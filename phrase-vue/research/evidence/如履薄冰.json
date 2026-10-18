@@ -1,0 +1,68 @@
+{
+    "word": "如履薄冰",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A6%82%E5%B1%A5%E8%96%84%E5%86%B0",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "b27f76cd360b803953371d66e037c9fb6558df88879f76efa05d1f45d9755e59",
+        "bytes": 28372
+    },
+    "parsed": {
+        "found": true,
+        "word": "如履薄冰",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "rú",
+                "lǚ",
+                "bó",
+                "bīng"
+            ],
+            "zhuyin": [
+                "ㄖㄨˊ",
+                "ㄌㄩˇ",
+                "ㄅㄠˊ",
+                "ㄅㄧㄥ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "像踩在薄冰上。比喻随时都会发生危险,做事极为小心谨慎",
+                "citations": [
+                    {
+                        "text": "忠恪祗顺,如履薄冰。",
+                        "source": "三国魏·曹操《请爵荀彧表》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "忠恪祗顺,如履薄冰。",
+                "source": "三国魏·曹操《请爵荀彧表》"
+            }
+        ],
+        "synonyms": [
+            "胆战心惊",
+            "小心翼翼",
+            "战战兢兢",
+            "如临深渊"
+        ],
+        "antonyms": [
+            "如履平地"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "tread on eggs"
+    },
+    "blocks": {
+        "reading": "rú lǚ bó bīng",
+        "sense-1": "像踩在薄冰上。比喻随时都会发生危险,做事极为小心谨慎",
+        "citation-1": "忠恪祗顺,如履薄冰。 — 三国魏·曹操《请爵荀彧表》",
+        "synonyms": "胆战心惊、小心翼翼、战战兢兢、如临深渊",
+        "antonyms": "如履平地"
+    }
+}

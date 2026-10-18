@@ -1,0 +1,48 @@
+{
+    "word": "拾人牙慧",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%8B%BE%E4%BA%BA%E7%89%99%E6%85%A7",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "fa5805c557da8f16a488e69e16d909404999146022f71de9ae0ed761a7fca337",
+        "bytes": 28550
+    },
+    "parsed": {
+        "found": true,
+        "word": "拾人牙慧",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shí",
+                "rén",
+                "yá",
+                "huì"
+            ],
+            "zhuyin": [
+                "ㄕˊ",
+                "ㄖㄣˊ",
+                "ㄧㄚˊ",
+                "ㄏㄨㄟˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "拾取别人的片言只语当做自己的话",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "pich up what others say"
+    },
+    "blocks": {
+        "reading": "shí rén yá huì",
+        "sense-1": "拾取别人的片言只语当做自己的话"
+    }
+}

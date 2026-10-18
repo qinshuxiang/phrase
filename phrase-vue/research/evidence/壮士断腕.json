@@ -1,0 +1,48 @@
+{
+    "word": "壮士断腕",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A3%AE%E5%A3%AB%E6%96%AD%E8%85%95",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "9849d2c264ace2d1c1976d3ca53a330afca8d19b83f6024db18d87c4d65b1ce6",
+        "bytes": 23792
+    },
+    "parsed": {
+        "found": true,
+        "word": "壮士断腕",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zhuàng",
+                "shì",
+                "duàn",
+                "wàn"
+            ],
+            "zhuyin": [
+                "ㄓㄨㄤˋ",
+                "ㄕˋ",
+                "ㄉㄨㄢˋ",
+                "ㄨㄢˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "见「 壮士解腕",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "hero cuts off his wrist"
+    },
+    "blocks": {
+        "reading": "zhuàng shì duàn wàn",
+        "sense-1": "见「 壮士解腕"
+    }
+}

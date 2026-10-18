@@ -1,0 +1,66 @@
+{
+    "word": "风云变幻",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%A3%8E%E4%BA%91%E5%8F%98%E5%B9%BB",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "e947ef81a55dbacc4d963bb73ba90f010e2556e12b42cd69d916b4cd8c84599e",
+        "bytes": 26556
+    },
+    "parsed": {
+        "found": true,
+        "word": "风云变幻",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "fēng",
+                "yún",
+                "biàn",
+                "huàn"
+            ],
+            "zhuyin": [
+                "ㄈㄥ",
+                "ㄩㄣˊ",
+                "ㄅㄧㄢˋ",
+                "ㄏㄨㄢˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "风云变化不定。比喻事物变化复杂或局势动荡不安。",
+                "citations": [
+                    {
+                        "text": "荣枯贵贱如转丸，风云变幻诚多端。",
+                        "source": "明·冯梦龙《古今小说·杨八老越国奇逢》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "荣枯贵贱如转丸，风云变幻诚多端。",
+                "source": "明·冯梦龙《古今小说·杨八老越国奇逢》"
+            }
+        ],
+        "synonyms": [
+            "风云突变",
+            "云谲风诡"
+        ],
+        "antonyms": [
+            "一成不变"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "unexpected change of events"
+    },
+    "blocks": {
+        "reading": "fēng yún biàn huàn",
+        "sense-1": "风云变化不定。比喻事物变化复杂或局势动荡不安。",
+        "citation-1": "荣枯贵贱如转丸，风云变幻诚多端。 — 明·冯梦龙《古今小说·杨八老越国奇逢》",
+        "synonyms": "风云突变、云谲风诡",
+        "antonyms": "一成不变"
+    }
+}

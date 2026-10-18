@@ -1,0 +1,67 @@
+{
+    "word": "天方夜谭",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A4%A9%E6%96%B9%E5%A4%9C%E8%B0%AD",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "584797e5aa4e08de2fae55a5c40579d1172a239d972578ba85c29dc64b26c82f",
+        "bytes": 26794
+    },
+    "parsed": {
+        "found": true,
+        "word": "天方夜谭",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "tiān",
+                "fāng",
+                "yè",
+                "tán"
+            ],
+            "zhuyin": [
+                "ㄊㄧㄢ",
+                "ㄈㄤ",
+                "ㄧㄝˋ",
+                "ㄊㄢˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "阿拉伯民间故事集《一千零一夜》的别称，以丰富想象和神话色彩著称。",
+                "citations": [
+                    {
+                        "text": "郑子云的话在他看来是书呆子的呓语，咬文嚼字、天方夜谭、理想主义。",
+                        "source": "张洁《沉重的翅膀》"
+                    }
+                ]
+            },
+            {
+                "definition": "比喻虚幻荒诞的言论。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "郑子云的话在他看来是书呆子的呓语，咬文嚼字、天方夜谭、理想主义。",
+                "source": "张洁《沉重的翅膀》"
+            }
+        ],
+        "synonyms": [
+            "无稽之谈"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "Arabian Nights"
+    },
+    "blocks": {
+        "reading": "tiān fāng yè tán",
+        "sense-1": "阿拉伯民间故事集《一千零一夜》的别称，以丰富想象和神话色彩著称。",
+        "sense-2": "比喻虚幻荒诞的言论。",
+        "citation-1": "郑子云的话在他看来是书呆子的呓语，咬文嚼字、天方夜谭、理想主义。 — 张洁《沉重的翅膀》",
+        "synonyms": "无稽之谈"
+    }
+}

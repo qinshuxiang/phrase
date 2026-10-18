@@ -1,0 +1,61 @@
+{
+    "word": "有目共睹",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%9C%89%E7%9B%AE%E5%85%B1%E7%9D%B9",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "9035d145f87e4d90fccc3cb1279d4dd9845b2855005aebef0784bd0e153e3e70",
+        "bytes": 28496
+    },
+    "parsed": {
+        "found": true,
+        "word": "有目共睹",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yǒu",
+                "mù",
+                "gòng",
+                "dǔ"
+            ],
+            "zhuyin": [
+                "ㄧㄡˇ",
+                "ㄇㄨˋ",
+                "ㄍㄨㄥˋ",
+                "ㄉㄨˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "人人都看得见。比喻事实非常明显",
+                "citations": []
+            },
+            {
+                "definition": "也说“有目共见”",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "众目睽睽",
+            "众所周知",
+            "一目了然"
+        ],
+        "antonyms": [
+            "有目无睹"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "be there for all to see;be obvious to all"
+    },
+    "blocks": {
+        "reading": "yǒu mù gòng dǔ",
+        "sense-1": "人人都看得见。比喻事实非常明显",
+        "sense-2": "也说“有目共见”",
+        "synonyms": "众目睽睽、众所周知、一目了然",
+        "antonyms": "有目无睹"
+    }
+}

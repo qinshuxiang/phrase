@@ -1,0 +1,72 @@
+{
+    "word": "怙恶不悛",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%80%99%E6%81%B6%E4%B8%8D%E6%82%9B",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "0c2a66c76e06c30b29a494c789afffdf36651659be80f8f325d8679bf93d0920",
+        "bytes": 27949
+    },
+    "parsed": {
+        "found": true,
+        "word": "怙恶不悛",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "hù",
+                "è",
+                "bù",
+                "quān"
+            ],
+            "zhuyin": [
+                "ㄏㄨˋ",
+                "ㄝˋ",
+                "ㄅㄨˋ",
+                "ㄑㄨㄢ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "坚持作恶，不肯悔改。",
+                "citations": [
+                    {
+                        "text": "若授以远方牧民之官，其或怙恶不悛，恃远肆毒，小民罹殃，卒莫上诉。",
+                        "source": "《宋史·王化基传》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "若授以远方牧民之官，其或怙恶不悛，恃远肆毒，小民罹殃，卒莫上诉。",
+                "source": "《宋史·王化基传》"
+            }
+        ],
+        "synonyms": [
+            "死不改悔",
+            "罪大恶极",
+            "恶性难改"
+        ],
+        "antonyms": [
+            "翻然悔悟",
+            "痛改前非",
+            "改过自新",
+            "洗心革面",
+            "从善如流",
+            "闻过则喜"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "persist in evil"
+    },
+    "blocks": {
+        "reading": "hù è bù quān",
+        "sense-1": "坚持作恶，不肯悔改。",
+        "citation-1": "若授以远方牧民之官，其或怙恶不悛，恃远肆毒，小民罹殃，卒莫上诉。 — 《宋史·王化基传》",
+        "synonyms": "死不改悔、罪大恶极、恶性难改",
+        "antonyms": "翻然悔悟、痛改前非、改过自新、洗心革面、从善如流、闻过则喜"
+    }
+}

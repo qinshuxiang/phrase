@@ -1,0 +1,48 @@
+{
+    "word": "人迹罕至",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%BA%BA%E8%BF%B9%E7%BD%95%E8%87%B3",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "66a71db32753801f8d699e5c8ef43032abe266880410c223583ae125e00611ce",
+        "bytes": 24729
+    },
+    "parsed": {
+        "found": true,
+        "word": "人迹罕至",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "rén",
+                "jì",
+                "hǎn",
+                "zhì"
+            ],
+            "zhuyin": [
+                "ㄖㄣˊ",
+                "ㄐㄧˋ",
+                "ㄏㄢˇ",
+                "ㄓˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "人的足迹很少到达。指荒凉偏僻的地方",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "untraversed"
+    },
+    "blocks": {
+        "reading": "rén jì hǎn zhì",
+        "sense-1": "人的足迹很少到达。指荒凉偏僻的地方"
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "word": "等量齐观",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%AD%89%E9%87%8F%E9%BD%90%E8%A7%82",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "c232039e4abf2fb04d147661739f6db27291e0d13602d409d33c9e1aa8c410ea",
+        "bytes": 26621
+    },
+    "parsed": {
+        "found": true,
+        "word": "等量齐观",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "děng",
+                "liàng",
+                "qí",
+                "guān"
+            ],
+            "zhuyin": [
+                "ㄉㄥˇ",
+                "ㄌㄧㄤˋ",
+                "ㄑㄧˊ",
+                "ㄍㄨㄢ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "对有差异的事物同等看待。",
+                "citations": [
+                    {
+                        "text": "若李沧溟者，诸体少完善，惟七绝差胜，祇堪与谢四溟之五律等量齐观。",
+                        "source": "清·周中孚《郑堂札记》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "若李沧溟者，诸体少完善，惟七绝差胜，祇堪与谢四溟之五律等量齐观。",
+                "source": "清·周中孚《郑堂札记》"
+            }
+        ],
+        "synonyms": [
+            "相提并论",
+            "混为一谈",
+            "比量齐观﹑同等看待",
+            "一视同仁"
+        ],
+        "antonyms": [
+            "大相径庭",
+            "迥然不同",
+            "分门别类",
+            "厚此薄彼﹑轻重有别"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "equate"
+    },
+    "blocks": {
+        "reading": "děng liàng qí guān",
+        "sense-1": "对有差异的事物同等看待。",
+        "citation-1": "若李沧溟者，诸体少完善，惟七绝差胜，祇堪与谢四溟之五律等量齐观。 — 清·周中孚《郑堂札记》",
+        "synonyms": "相提并论、混为一谈、比量齐观﹑同等看待、一视同仁",
+        "antonyms": "大相径庭、迥然不同、分门别类、厚此薄彼﹑轻重有别"
+    }
+}

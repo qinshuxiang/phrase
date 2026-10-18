@@ -1,0 +1,73 @@
+{
+    "word": "条分缕析",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%9D%A1%E5%88%86%E7%BC%95%E6%9E%90",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "f141c19daeedf0ec700c5949c9086f6b57a38b809cab9482f982c9c8faea38e3",
+        "bytes": 26028
+    },
+    "parsed": {
+        "found": true,
+        "word": "条分缕析",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "tiáo",
+                "fēn",
+                "lǚ",
+                "xī"
+            ],
+            "zhuyin": [
+                "ㄊㄧㄠˊ",
+                "ㄈㄣ",
+                "ㄌㄩˇ",
+                "ㄒㄧ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容分析细密且有条理。",
+                "citations": [
+                    {
+                        "text": "而传说则条分缕析，以某异为某事之应，更旁引曲证，以伸其说。",
+                        "source": "《明史·五行志一》"
+                    },
+                    {
+                        "text": "理义在事情之条分缕析，接于我之心知，能辨之而悦之。",
+                        "source": "清·戴震《孟子字义疏证·理》"
+                    }
+                ]
+            },
+            {
+                "definition": "进行有条理的细密分析。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "而传说则条分缕析，以某异为某事之应，更旁引曲证，以伸其说。",
+                "source": "《明史·五行志一》"
+            },
+            {
+                "text": "理义在事情之条分缕析，接于我之心知，能辨之而悦之。",
+                "source": "清·戴震《孟子字义疏证·理》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "methodical and detailed analysis"
+    },
+    "blocks": {
+        "reading": "tiáo fēn lǚ xī",
+        "sense-1": "形容分析细密且有条理。",
+        "sense-2": "进行有条理的细密分析。",
+        "citation-1": "而传说则条分缕析，以某异为某事之应，更旁引曲证，以伸其说。 — 《明史·五行志一》",
+        "citation-2": "理义在事情之条分缕析，接于我之心知，能辨之而悦之。 — 清·戴震《孟子字义疏证·理》"
+    }
+}

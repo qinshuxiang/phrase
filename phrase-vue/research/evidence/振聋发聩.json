@@ -1,0 +1,64 @@
+{
+    "word": "振聋发聩",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%8C%AF%E8%81%8B%E5%8F%91%E8%81%A9",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "7aab0cb3f85b6f213581b11280493be95a154e1a29d66edc521d7bfe1f1de539",
+        "bytes": 26491
+    },
+    "parsed": {
+        "found": true,
+        "word": "振聋发聩",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zhèn",
+                "lóng",
+                "fā",
+                "kuì"
+            ],
+            "zhuyin": [
+                "ㄓㄣˋ",
+                "ㄌㄨㄥˊ",
+                "ㄈㄚ",
+                "ㄎㄨㄟˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻用言语文字唤醒糊涂麻木的人。",
+                "citations": [
+                    {
+                        "text": "此数言振聋发聩，想当时必有迂儒曲士以经学谈诗者。",
+                        "source": "清·袁枚《随园诗话补遗》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "此数言振聋发聩，想当时必有迂儒曲士以经学谈诗者。",
+                "source": "清·袁枚《随园诗话补遗》"
+            }
+        ],
+        "synonyms": [
+            "醍醐灌顶",
+            "震耳欲聋",
+            "振警愚顽"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "awaken the deaf"
+    },
+    "blocks": {
+        "reading": "zhèn lóng fā kuì",
+        "sense-1": "比喻用言语文字唤醒糊涂麻木的人。",
+        "citation-1": "此数言振聋发聩，想当时必有迂儒曲士以经学谈诗者。 — 清·袁枚《随园诗话补遗》",
+        "synonyms": "醍醐灌顶、震耳欲聋、振警愚顽"
+    }
+}

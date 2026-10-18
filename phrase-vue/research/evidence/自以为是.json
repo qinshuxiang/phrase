@@ -1,0 +1,69 @@
+{
+    "word": "自以为是",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%87%AA%E4%BB%A5%E4%B8%BA%E6%98%AF",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "91469db411454eafc356ef8e729239f62fa5c2c6bf0e3cc31435a1652553e535",
+        "bytes": 26827
+    },
+    "parsed": {
+        "found": true,
+        "word": "自以为是",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zì",
+                "yǐ",
+                "wéi",
+                "shì"
+            ],
+            "zhuyin": [
+                "ㄗˋ",
+                "ㄧˇ",
+                "ㄨㄟˊ",
+                "ㄕˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "认为自己的观点正确，不接受他人意见。",
+                "citations": [
+                    {
+                        "text": "自以为是，而不可与入尧舜之道。",
+                        "source": "《孟子·尽心下》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "自以为是，而不可与入尧舜之道。",
+                "source": "《孟子·尽心下》"
+            }
+        ],
+        "synonyms": [
+            "一意孤行",
+            "执迷不悟",
+            "夜郎自大"
+        ],
+        "antonyms": [
+            "妄自菲薄",
+            "自惭形秽",
+            "自暴自弃"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "self-righteous"
+    },
+    "blocks": {
+        "reading": "zì yǐ wéi shì",
+        "sense-1": "认为自己的观点正确，不接受他人意见。",
+        "citation-1": "自以为是，而不可与入尧舜之道。 — 《孟子·尽心下》",
+        "synonyms": "一意孤行、执迷不悟、夜郎自大",
+        "antonyms": "妄自菲薄、自惭形秽、自暴自弃"
+    }
+}

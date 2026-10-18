@@ -1,0 +1,83 @@
+{
+    "word": "束之高阁",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%9D%9F%E4%B9%8B%E9%AB%98%E9%98%81",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "86bf621cd0c817de302933bf49b6b1808d8e1d3208615263669aa42f1b9f00e2",
+        "bytes": 28375
+    },
+    "parsed": {
+        "found": true,
+        "word": "束之高阁",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shù",
+                "zhī",
+                "gāo",
+                "gé"
+            ],
+            "zhuyin": [
+                "ㄕㄨˋ",
+                "ㄓ",
+                "ㄍㄠ",
+                "ㄍㄜˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "将物品捆扎后置于高阁。比喻弃置不用。",
+                "citations": [
+                    {
+                        "text": "此辈宜束之高阁，俟天下太平，然后议其任耳。",
+                        "source": "唐·房玄龄《晋书·庾翼传》"
+                    },
+                    {
+                        "text": "《春秋》三《传》束高阁，独抱遗经究终始。",
+                        "source": "唐·韩愈《寄卢仝》"
+                    }
+                ]
+            },
+            {
+                "definition": "搁置不理。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "此辈宜束之高阁，俟天下太平，然后议其任耳。",
+                "source": "唐·房玄龄《晋书·庾翼传》"
+            },
+            {
+                "text": "《春秋》三《传》束高阁，独抱遗经究终始。",
+                "source": "唐·韩愈《寄卢仝》"
+            }
+        ],
+        "synonyms": [
+            "置之度外",
+            "置之不理"
+        ],
+        "antonyms": [
+            "爱不释手",
+            "掌上明珠",
+            "片刻不离",
+            "付诸实施"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "shelve"
+    },
+    "blocks": {
+        "reading": "shù zhī gāo gé",
+        "sense-1": "将物品捆扎后置于高阁。比喻弃置不用。",
+        "sense-2": "搁置不理。",
+        "citation-1": "此辈宜束之高阁，俟天下太平，然后议其任耳。 — 唐·房玄龄《晋书·庾翼传》",
+        "citation-2": "《春秋》三《传》束高阁，独抱遗经究终始。 — 唐·韩愈《寄卢仝》",
+        "synonyms": "置之度外、置之不理",
+        "antonyms": "爱不释手、掌上明珠、片刻不离、付诸实施"
+    }
+}

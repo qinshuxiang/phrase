@@ -1,0 +1,70 @@
+{
+    "word": "巧言令色",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%B7%A7%E8%A8%80%E4%BB%A4%E8%89%B2",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "feb810b395a244f2a5a7671b16ca2237d708b02a52f8c76fa4f3515c9e9e20a2",
+        "bytes": 27782
+    },
+    "parsed": {
+        "found": true,
+        "word": "巧言令色",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "qiǎo",
+                "yán",
+                "lìng",
+                "sè"
+            ],
+            "zhuyin": [
+                "ㄑㄧㄠˇ",
+                "ㄧㄢˊ",
+                "ㄌㄧㄥˋ",
+                "ㄙㄜˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "用动听的言语和伪善的面目取悦于人",
+                "citations": [
+                    {
+                        "text": "巧言令色,鲜矣仁。",
+                        "source": "《论语·学而》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "巧言令色,鲜矣仁。",
+                "source": "《论语·学而》"
+            }
+        ],
+        "synonyms": [
+            "花言巧语",
+            "甜言蜜语"
+        ],
+        "antonyms": [
+            "推心置腹",
+            "开诚布公",
+            "疾言厉色",
+            "声色俱厉",
+            "辞严义正"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "artful words and insinuating countenance"
+    },
+    "blocks": {
+        "reading": "qiǎo yán lìng sè",
+        "sense-1": "用动听的言语和伪善的面目取悦于人",
+        "citation-1": "巧言令色,鲜矣仁。 — 《论语·学而》",
+        "synonyms": "花言巧语、甜言蜜语",
+        "antonyms": "推心置腹、开诚布公、疾言厉色、声色俱厉、辞严义正"
+    }
+}

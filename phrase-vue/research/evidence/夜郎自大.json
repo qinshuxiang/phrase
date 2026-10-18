@@ -1,0 +1,60 @@
+{
+    "word": "夜郎自大",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A4%9C%E9%83%8E%E8%87%AA%E5%A4%A7",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "ee0b447e8250c119a1a3b349aaea7cfb895e09b9d9c0b3e1b9d68ff564d4e7ed",
+        "bytes": 28684
+    },
+    "parsed": {
+        "found": true,
+        "word": "夜郎自大",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yè",
+                "láng",
+                "zì",
+                "dà"
+            ],
+            "zhuyin": [
+                "ㄧㄝˋ",
+                "ㄌㄤˊ",
+                "ㄗˋ",
+                "ㄉㄚˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "滇王与汉使者言曰:“汉孰与我大?”及夜郎侯亦然。以道不通故,各自以为一州主,不知汉广大。——《史记·西南夷列传》",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "自高自大",
+            "不可一世",
+            "井蛙语海",
+            "鸴鸠笑鹏",
+            "妄自尊大"
+        ],
+        "antonyms": [
+            "谦虚谨慎",
+            "大智若愚",
+            "虚怀若谷"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "ludicrous conceit of the king of Yelang—parochial arrogance"
+    },
+    "blocks": {
+        "reading": "yè láng zì dà",
+        "sense-1": "滇王与汉使者言曰:“汉孰与我大?”及夜郎侯亦然。以道不通故,各自以为一州主,不知汉广大。——《史记·西南夷列传》",
+        "synonyms": "自高自大、不可一世、井蛙语海、鸴鸠笑鹏、妄自尊大",
+        "antonyms": "谦虚谨慎、大智若愚、虚怀若谷"
+    }
+}

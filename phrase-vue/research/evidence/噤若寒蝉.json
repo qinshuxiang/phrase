@@ -1,0 +1,69 @@
+{
+    "word": "噤若寒蝉",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%99%A4%E8%8B%A5%E5%AF%92%E8%9D%89",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "61fa576807dd0ed74d30c833caac847c16c739a4bc9b8e6b119b3534cee8e18e",
+        "bytes": 26951
+    },
+    "parsed": {
+        "found": true,
+        "word": "噤若寒蝉",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jìn",
+                "ruò",
+                "hán",
+                "chán"
+            ],
+            "zhuyin": [
+                "ㄐㄧㄣˋ",
+                "ㄖㄨㄛˋ",
+                "ㄏㄢˊ",
+                "ㄔㄢˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容因恐惧而不敢作声。",
+                "citations": [
+                    {
+                        "text": "尝怪士处明时，事贤主，履高位，噤若寒蝉，或至导谀以误国。",
+                        "source": "宋·张守《题锁树谏图后》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "尝怪士处明时，事贤主，履高位，噤若寒蝉，或至导谀以误国。",
+                "source": "宋·张守《题锁树谏图后》"
+            }
+        ],
+        "synonyms": [
+            "缄口结舌",
+            "守口如瓶"
+        ],
+        "antonyms": [
+            "滔滔不绝",
+            "口若悬河",
+            "侃侃而谈",
+            "直言不讳"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "silent as a cicada in cold weather"
+    },
+    "blocks": {
+        "reading": "jìn ruò hán chán",
+        "sense-1": "形容因恐惧而不敢作声。",
+        "citation-1": "尝怪士处明时，事贤主，履高位，噤若寒蝉，或至导谀以误国。 — 宋·张守《题锁树谏图后》",
+        "synonyms": "缄口结舌、守口如瓶",
+        "antonyms": "滔滔不绝、口若悬河、侃侃而谈、直言不讳"
+    }
+}

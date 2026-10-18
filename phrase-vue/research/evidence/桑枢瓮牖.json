@@ -1,0 +1,54 @@
+{
+    "word": "桑枢瓮牖",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%A1%91%E6%9E%A2%E7%93%AE%E7%89%96",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "f2c0e8a0f3c8d4127a286cae5b4bc222c20f25a4f66c208f1038352b7346e171",
+        "bytes": 24148
+    },
+    "parsed": {
+        "found": true,
+        "word": "桑枢瓮牖",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "sāng",
+                "shū",
+                "wèng",
+                "yǒu"
+            ],
+            "zhuyin": []
+        },
+        "senses": [
+            {
+                "definition": "用桑木做门轴，用破瓮做窗户。形容家境贫寒。",
+                "citations": [
+                    {
+                        "text": "久淹在桑枢瓮牖，几时能勾画阁楼台？",
+                        "source": "元·关汉卿《裴度还带》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "久淹在桑枢瓮牖，几时能勾画阁楼台？",
+                "source": "元·关汉卿《裴度还带》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "poor dwelling"
+    },
+    "blocks": {
+        "reading": "sāng shū wèng yǒu",
+        "sense-1": "用桑木做门轴，用破瓮做窗户。形容家境贫寒。",
+        "citation-1": "久淹在桑枢瓮牖，几时能勾画阁楼台？ — 元·关汉卿《裴度还带》"
+    }
+}

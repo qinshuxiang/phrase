@@ -1,0 +1,73 @@
+{
+    "word": "同流合污",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%90%8C%E6%B5%81%E5%90%88%E6%B1%A1",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "85ba6d5c10b18d62d1eb2d3104f0c018b8c935fb441140a7923c846043570b75",
+        "bytes": 28540
+    },
+    "parsed": {
+        "found": true,
+        "word": "同流合污",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "tóng",
+                "liú",
+                "hé",
+                "wū"
+            ],
+            "zhuyin": [
+                "ㄊㄨㄥˊ",
+                "ㄌㄧㄨˊ",
+                "ㄏㄜˊ",
+                "ㄨ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "同于俗流,合于污乱。引伸比喻同化于邪恶或与恶人共同作恶",
+                "citations": [
+                    {
+                        "text": "痛心于政治清明之无望,不忍为同流合污之苟安。",
+                        "source": "蔡元培《为罗文干遭非法逮捕辞职》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "痛心于政治清明之无望,不忍为同流合污之苟安。",
+                "source": "蔡元培《为罗文干遭非法逮捕辞职》"
+            }
+        ],
+        "synonyms": [
+            "同恶相济",
+            "狼狈为奸",
+            "随波逐流",
+            "随俗浮沉",
+            "与世浮沉"
+        ],
+        "antonyms": [
+            "泾渭分明",
+            "明哲保身",
+            "洁身自好",
+            "洁身自爱",
+            "耻与为伍"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "associate with an evil person;wallow in the mire with sb."
+    },
+    "blocks": {
+        "reading": "tóng liú hé wū",
+        "sense-1": "同于俗流,合于污乱。引伸比喻同化于邪恶或与恶人共同作恶",
+        "citation-1": "痛心于政治清明之无望,不忍为同流合污之苟安。 — 蔡元培《为罗文干遭非法逮捕辞职》",
+        "synonyms": "同恶相济、狼狈为奸、随波逐流、随俗浮沉、与世浮沉",
+        "antonyms": "泾渭分明、明哲保身、洁身自好、洁身自爱、耻与为伍"
+    }
+}

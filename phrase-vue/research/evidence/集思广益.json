@@ -1,0 +1,68 @@
+{
+    "word": "集思广益",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%9B%86%E6%80%9D%E5%B9%BF%E7%9B%8A",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "015bbedae62a236dfedaf6fbe91cc96f7bd50d2e22afc25486859fe4d4fb440b",
+        "bytes": 27704
+    },
+    "parsed": {
+        "found": true,
+        "word": "集思广益",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jí",
+                "sī",
+                "guǎng",
+                "yì"
+            ],
+            "zhuyin": [
+                "ㄐㄧˊ",
+                "ㄙ",
+                "ㄍㄨㄤˇ",
+                "ㄧˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "集中众人的智慧，广泛吸收有益的意见。",
+                "citations": [
+                    {
+                        "text": "集思广益真宰相，开诚布公肝胆倾。",
+                        "source": "宋·许月卿《次韵陈肇芳竿赠李相士》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "集思广益真宰相，开诚布公肝胆倾。",
+                "source": "宋·许月卿《次韵陈肇芳竿赠李相士》"
+            }
+        ],
+        "synonyms": [
+            "广开言路",
+            "群策群力"
+        ],
+        "antonyms": [
+            "独断专行",
+            "孤行己见",
+            "一意孤行"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "pool collective wisdom"
+    },
+    "blocks": {
+        "reading": "jí sī guǎng yì",
+        "sense-1": "集中众人的智慧，广泛吸收有益的意见。",
+        "citation-1": "集思广益真宰相，开诚布公肝胆倾。 — 宋·许月卿《次韵陈肇芳竿赠李相士》",
+        "synonyms": "广开言路、群策群力",
+        "antonyms": "独断专行、孤行己见、一意孤行"
+    }
+}

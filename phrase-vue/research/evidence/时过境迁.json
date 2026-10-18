@@ -1,0 +1,67 @@
+{
+    "word": "时过境迁",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%97%B6%E8%BF%87%E5%A2%83%E8%BF%81",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "9689806b5690e34b80d2d22f6d832c595f77ce3dc83cde671747ef512e85289a",
+        "bytes": 26535
+    },
+    "parsed": {
+        "found": true,
+        "word": "时过境迁",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shí",
+                "guò",
+                "jìng",
+                "qiān"
+            ],
+            "zhuyin": [
+                "ㄕˊ",
+                "ㄍㄨㄛˋ",
+                "ㄐㄧㄥˋ",
+                "ㄑㄧㄢ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "时间流逝，环境改变。",
+                "citations": [
+                    {
+                        "text": "而时过境迁之后，作史者犹慷他人慨，龂龂焉辨得失于鸡虫。",
+                        "source": "梁启超《论正统》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "而时过境迁之后，作史者犹慷他人慨，龂龂焉辨得失于鸡虫。",
+                "source": "梁启超《论正统》"
+            }
+        ],
+        "synonyms": [
+            "时移俗易",
+            "明日黄花"
+        ],
+        "antonyms": [
+            "一如既往",
+            "依然如故"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "circumstances change with time"
+    },
+    "blocks": {
+        "reading": "shí guò jìng qiān",
+        "sense-1": "时间流逝，环境改变。",
+        "citation-1": "而时过境迁之后，作史者犹慷他人慨，龂龂焉辨得失于鸡虫。 — 梁启超《论正统》",
+        "synonyms": "时移俗易、明日黄花",
+        "antonyms": "一如既往、依然如故"
+    }
+}

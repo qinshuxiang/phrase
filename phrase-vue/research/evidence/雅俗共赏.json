@@ -1,0 +1,69 @@
+{
+    "word": "雅俗共赏",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%9B%85%E4%BF%97%E5%85%B1%E8%B5%8F",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "6ce7b85881e20949d84ca867a7ee699e65541969f3dc1ca0da30143486da2411",
+        "bytes": 27204
+    },
+    "parsed": {
+        "found": true,
+        "word": "雅俗共赏",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yǎ",
+                "sú",
+                "gòng",
+                "shǎng"
+            ],
+            "zhuyin": [
+                "ㄧㄚˇ",
+                "ㄙㄨˊ",
+                "ㄍㄨㄥˋ",
+                "ㄕㄤˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "兼具优美与通俗的特质，能为不同文化层次的人所欣赏。",
+                "citations": [
+                    {
+                        "text": "闻得有绵驹善歌，雅俗共赏。",
+                        "source": "明·孙仁孺《东郭记·绵驹》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "闻得有绵驹善歌，雅俗共赏。",
+                "source": "明·孙仁孺《东郭记·绵驹》"
+            }
+        ],
+        "synonyms": [
+            "喜闻乐见",
+            "有口皆碑"
+        ],
+        "antonyms": [
+            "下里巴人",
+            "阳春白雪",
+            "曲高和寡",
+            "上下同弃"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "appeal to all"
+    },
+    "blocks": {
+        "reading": "yǎ sú gòng shǎng",
+        "sense-1": "兼具优美与通俗的特质，能为不同文化层次的人所欣赏。",
+        "citation-1": "闻得有绵驹善歌，雅俗共赏。 — 明·孙仁孺《东郭记·绵驹》",
+        "synonyms": "喜闻乐见、有口皆碑",
+        "antonyms": "下里巴人、阳春白雪、曲高和寡、上下同弃"
+    }
+}

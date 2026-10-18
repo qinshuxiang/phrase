@@ -1,0 +1,68 @@
+{
+    "word": "子虚乌有",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%AD%90%E8%99%9A%E4%B9%8C%E6%9C%89",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "a07a239c0620ddeb15ee364eacb11ff0681ade2700da71faa7b0d27b29db211a",
+        "bytes": 26557
+    },
+    "parsed": {
+        "found": true,
+        "word": "子虚乌有",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zǐ",
+                "xū",
+                "wū",
+                "yǒu"
+            ],
+            "zhuyin": [
+                "ㄗˇ",
+                "ㄒㄩ",
+                "ㄨ",
+                "ㄧㄡˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "虚构不实的事物。",
+                "citations": [
+                    {
+                        "text": "文艳用寡，子虚乌有，寓言淫丽，托风终始，多识博物，有可观采，蔚为辞宗，赋颂之首。",
+                        "source": "《汉书·叙传下》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "文艳用寡，子虚乌有，寓言淫丽，托风终始，多识博物，有可观采，蔚为辞宗，赋颂之首。",
+                "source": "《汉书·叙传下》"
+            }
+        ],
+        "synonyms": [
+            "捕风捉影",
+            "荒诞不经"
+        ],
+        "antonyms": [
+            "千真万确",
+            "铁证如山",
+            "勿庸置疑"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "fictitious; nonexistent"
+    },
+    "blocks": {
+        "reading": "zǐ xū wū yǒu",
+        "sense-1": "虚构不实的事物。",
+        "citation-1": "文艳用寡，子虚乌有，寓言淫丽，托风终始，多识博物，有可观采，蔚为辞宗，赋颂之首。 — 《汉书·叙传下》",
+        "synonyms": "捕风捉影、荒诞不经",
+        "antonyms": "千真万确、铁证如山、勿庸置疑"
+    }
+}

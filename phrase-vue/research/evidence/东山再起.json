@@ -1,0 +1,76 @@
+{
+    "word": "东山再起",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%9C%E5%B1%B1%E5%86%8D%E8%B5%B7",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "93b15c72905734dfc81166ff1ef9c695e2581082077c4714745c779472898863",
+        "bytes": 28366
+    },
+    "parsed": {
+        "found": true,
+        "word": "东山再起",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "dōng",
+                "shān",
+                "zài",
+                "qǐ"
+            ],
+            "zhuyin": [
+                "ㄉㄨㄥ",
+                "ㄕㄢ",
+                "ㄗㄞˋ",
+                "ㄑㄧˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "退隐后再度出任官职。",
+                "citations": [
+                    {
+                        "text": "或者圣恩高厚，想起来，还有东山再起之日，也未可知。",
+                        "source": "清·文康《儿女英雄传》"
+                    }
+                ]
+            },
+            {
+                "definition": "失势后重新恢复地位。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "或者圣恩高厚，想起来，还有东山再起之日，也未可知。",
+                "source": "清·文康《儿女英雄传》"
+            }
+        ],
+        "synonyms": [
+            "重整旗鼓",
+            "卷土重来",
+            "死灰复燃",
+            "重振旗鼓"
+        ],
+        "antonyms": [
+            "风流云散",
+            "一去不返",
+            "过眼烟云",
+            "息影园林﹑一蹶不振"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "resume power"
+    },
+    "blocks": {
+        "reading": "dōng shān zài qǐ",
+        "sense-1": "退隐后再度出任官职。",
+        "sense-2": "失势后重新恢复地位。",
+        "citation-1": "或者圣恩高厚，想起来，还有东山再起之日，也未可知。 — 清·文康《儿女英雄传》",
+        "synonyms": "重整旗鼓、卷土重来、死灰复燃、重振旗鼓",
+        "antonyms": "风流云散、一去不返、过眼烟云、息影园林﹑一蹶不振"
+    }
+}

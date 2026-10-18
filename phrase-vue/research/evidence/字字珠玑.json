@@ -1,0 +1,52 @@
+{
+    "word": "字字珠玑",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%AD%97%E5%AD%97%E7%8F%A0%E7%8E%91",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "388a2d6555e36a400580512114b5f263b9f709f93c40c3d992122c21c34cb2ad",
+        "bytes": 22678
+    },
+    "parsed": {
+        "found": true,
+        "word": "字字珠玑",
+        "section": "idiom",
+        "readings": {
+            "pinyin": [
+                "zì",
+                "zì",
+                "zhū",
+                "jī"
+            ],
+            "zhuyin": [
+                "ㄗˋ",
+                "ㄗˋ",
+                "ㄓㄨ",
+                "ㄐㄧ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "珠玑：珠子。每个字都像珍珠一样。比喻说话、文章的词句十分优美。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": {
+            "text": "清·文康《儿女英雄传》：“任凭是篇篇锦绣，字字珠玑，会不上一名进士。”",
+            "source": "字字珠玑"
+        },
+        "grammar": "",
+        "example": "",
+        "english": ""
+    },
+    "blocks": {
+        "reading": "zì zì zhū jī",
+        "sense-1": "珠玑：珠子。每个字都像珍珠一样。比喻说话、文章的词句十分优美。",
+        "origin": "清·文康《儿女英雄传》：“任凭是篇篇锦绣，字字珠玑，会不上一名进士。”"
+    }
+}

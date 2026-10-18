@@ -1,0 +1,67 @@
+{
+    "word": "事必躬亲",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%BA%8B%E5%BF%85%E8%BA%AC%E4%BA%B2",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "b2a36ba4d036090d11515f3e09f580ae1142b423b877e5f8fdf88fa9af98d7b3",
+        "bytes": 26358
+    },
+    "parsed": {
+        "found": true,
+        "word": "事必躬亲",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shì",
+                "bì",
+                "gōng",
+                "qīn"
+            ],
+            "zhuyin": [
+                "ㄕˋ",
+                "ㄅㄧˋ",
+                "ㄍㄨㄥ",
+                "ㄑㄧㄣ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "凡事必定亲自处理。",
+                "citations": [
+                    {
+                        "text": "躬亲其事，身履其勤。",
+                        "source": "《后汉书·舆服志上》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "躬亲其事，身履其勤。",
+                "source": "《后汉书·舆服志上》"
+            }
+        ],
+        "synonyms": [
+            "身体力行",
+            "一本正经"
+        ],
+        "antonyms": [
+            "游手好闲",
+            "好吃懒做"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "do everything oneself"
+    },
+    "blocks": {
+        "reading": "shì bì gōng qīn",
+        "sense-1": "凡事必定亲自处理。",
+        "citation-1": "躬亲其事，身履其勤。 — 《后汉书·舆服志上》",
+        "synonyms": "身体力行、一本正经",
+        "antonyms": "游手好闲、好吃懒做"
+    }
+}

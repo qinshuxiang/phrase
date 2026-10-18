@@ -1,0 +1,59 @@
+{
+    "word": "千姿百态",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%8D%83%E5%A7%BF%E7%99%BE%E6%80%81",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "a98626b44e084255d3570773be8075f635a51fbb4cdc70271a3eacea48641a46",
+        "bytes": 21824
+    },
+    "parsed": {
+        "found": true,
+        "word": "千姿百态",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "qiān",
+                "zī",
+                "bǎi",
+                "tài"
+            ],
+            "zhuyin": [
+                "ㄑㄧㄢ",
+                "ㄗ",
+                "ㄅㄞˇ",
+                "ㄊㄞˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容姿态丰富多样。",
+                "citations": [
+                    {
+                        "text": "望不尽，千姿万态独秀峰。",
+                        "source": "贺敬之《桂林山水歌》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "望不尽，千姿万态独秀峰。",
+                "source": "贺敬之《桂林山水歌》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "various poses and styles"
+    },
+    "blocks": {
+        "reading": "qiān zī bǎi tài",
+        "sense-1": "形容姿态丰富多样。",
+        "citation-1": "望不尽，千姿万态独秀峰。 — 贺敬之《桂林山水歌》"
+    }
+}

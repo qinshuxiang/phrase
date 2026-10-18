@@ -1,0 +1,66 @@
+{
+    "word": "掩耳盗铃",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%8E%A9%E8%80%B3%E7%9B%97%E9%93%83",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "7904175e3b079506d44674fec5aee73486ac1312197e82eb8ab73e46f69307b5",
+        "bytes": 27578
+    },
+    "parsed": {
+        "found": true,
+        "word": "掩耳盗铃",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yǎn",
+                "ěr",
+                "dào",
+                "líng"
+            ],
+            "zhuyin": [
+                "ㄧㄢˇ",
+                "ㄦˇ",
+                "ㄉㄠˋ",
+                "ㄌㄧㄥˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻自欺欺人的行为。",
+                "citations": [
+                    {
+                        "text": "成书不出姓名，以避近民之讥，此与掩耳盗铃之见何异？",
+                        "source": "宋·朱熹《答江德功书》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "成书不出姓名，以避近民之讥，此与掩耳盗铃之见何异？",
+                "source": "宋·朱熹《答江德功书》"
+            }
+        ],
+        "synonyms": [
+            "弄巧成拙",
+            "自欺欺人"
+        ],
+        "antonyms": [
+            "开诚布公"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "deceive oneself"
+    },
+    "blocks": {
+        "reading": "yǎn ěr dào líng",
+        "sense-1": "比喻自欺欺人的行为。",
+        "citation-1": "成书不出姓名，以避近民之讥，此与掩耳盗铃之见何异？ — 宋·朱熹《答江德功书》",
+        "synonyms": "弄巧成拙、自欺欺人",
+        "antonyms": "开诚布公"
+    }
+}

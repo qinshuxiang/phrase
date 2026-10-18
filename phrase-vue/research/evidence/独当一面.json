@@ -1,0 +1,81 @@
+{
+    "word": "独当一面",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%8B%AC%E5%BD%93%E4%B8%80%E9%9D%A2",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "8408bc49e3e9f45242faac476ae4d470a062c028b3accb4b3cfd4c098500d0c1",
+        "bytes": 26957
+    },
+    "parsed": {
+        "found": true,
+        "word": "独当一面",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "dú",
+                "dāng",
+                "yī",
+                "miàn"
+            ],
+            "zhuyin": [
+                "ㄉㄨˊ",
+                "ㄉㄤ",
+                "ㄧ",
+                "ㄇㄧㄢˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "单独承担一个方面的重任。",
+                "citations": [
+                    {
+                        "text": "并未见他办过实事，怎么就好叫他独当一面，去办这个大事呢？",
+                        "source": "清·吴趼人《二十年目睹之怪现状》"
+                    },
+                    {
+                        "text": "颜以本军独当一面。",
+                        "source": "后晋·刘昫《旧唐书·李光颜传》"
+                    }
+                ]
+            },
+            {
+                "definition": "特指单独迎战一面敌人。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "并未见他办过实事，怎么就好叫他独当一面，去办这个大事呢？",
+                "source": "清·吴趼人《二十年目睹之怪现状》"
+            },
+            {
+                "text": "颜以本军独当一面。",
+                "source": "后晋·刘昫《旧唐书·李光颜传》"
+            }
+        ],
+        "synonyms": [
+            "独立自主",
+            "自力更生"
+        ],
+        "antonyms": [
+            "俯仰由人",
+            "仰人鼻息"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "shoulder responsibility alone"
+    },
+    "blocks": {
+        "reading": "dú dāng yī miàn",
+        "sense-1": "单独承担一个方面的重任。",
+        "sense-2": "特指单独迎战一面敌人。",
+        "citation-1": "并未见他办过实事，怎么就好叫他独当一面，去办这个大事呢？ — 清·吴趼人《二十年目睹之怪现状》",
+        "citation-2": "颜以本军独当一面。 — 后晋·刘昫《旧唐书·李光颜传》",
+        "synonyms": "独立自主、自力更生",
+        "antonyms": "俯仰由人、仰人鼻息"
+    }
+}

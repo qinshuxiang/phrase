@@ -1,0 +1,72 @@
+{
+    "word": "无计可施",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%97%A0%E8%AE%A1%E5%8F%AF%E6%96%BD",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "213c95eeb8b44768d499d0172138932a583725d86567412cea7be4ab38607027",
+        "bytes": 28015
+    },
+    "parsed": {
+        "found": true,
+        "word": "无计可施",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "wú",
+                "jì",
+                "kě",
+                "shī"
+            ],
+            "zhuyin": [
+                "ㄨˊ",
+                "ㄐㄧˋ",
+                "ㄎㄜˇ",
+                "ㄕ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "想不出任何解决办法。",
+                "citations": [
+                    {
+                        "text": "却说糜芳闻荆州有失，正无计可施。",
+                        "source": "《三国演义》第七六回"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "却说糜芳闻荆州有失，正无计可施。",
+                "source": "《三国演义》第七六回"
+            }
+        ],
+        "synonyms": [
+            "束手无策",
+            "走投无路",
+            "计无可施"
+        ],
+        "antonyms": [
+            "得心应手",
+            "一帆风顺",
+            "机锋百出",
+            "急中生智",
+            "千方百计",
+            "想方设法"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "no way out"
+    },
+    "blocks": {
+        "reading": "wú jì kě shī",
+        "sense-1": "想不出任何解决办法。",
+        "citation-1": "却说糜芳闻荆州有失，正无计可施。 — 《三国演义》第七六回",
+        "synonyms": "束手无策、走投无路、计无可施",
+        "antonyms": "得心应手、一帆风顺、机锋百出、急中生智、千方百计、想方设法"
+    }
+}

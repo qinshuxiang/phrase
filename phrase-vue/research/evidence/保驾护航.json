@@ -1,0 +1,43 @@
+{
+    "word": "保驾护航",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%BF%9D%E9%A9%BE%E6%8A%A4%E8%88%AA",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "ce68a213a1e922638e5bcb8dd2cd3b3d3ef49a8f4093a0b0dba8610fd348f44d",
+        "bytes": 20628
+    },
+    "parsed": {
+        "found": true,
+        "word": "保驾护航",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bǎo",
+                "jià",
+                "hù",
+                "háng"
+            ],
+            "zhuyin": []
+        },
+        "senses": [
+            {
+                "definition": "保护并护送，确保安全。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "escort and protect"
+    },
+    "blocks": {
+        "reading": "bǎo jià hù háng",
+        "sense-1": "保护并护送，确保安全。"
+    }
+}

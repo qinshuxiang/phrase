@@ -1,0 +1,63 @@
+{
+    "word": "夸夸其谈",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A4%B8%E5%A4%B8%E5%85%B6%E8%B0%88",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "9d007cc51be5cbbb0a2141f5a8dd61d83694075efad46ac8e294b8a6372b3890",
+        "bytes": 27286
+    },
+    "parsed": {
+        "found": true,
+        "word": "夸夸其谈",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "kuā",
+                "kuā",
+                "qí",
+                "tán"
+            ],
+            "zhuyin": [
+                "ㄎㄨㄚ",
+                "ㄎㄨㄚ",
+                "ㄑㄧˊ",
+                "ㄊㄢˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "说话浮夸不切实际。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "娓娓而谈",
+            "侃侃而谈",
+            "高谈阔论",
+            "大言不惭"
+        ],
+        "antonyms": [
+            "默不做声",
+            "噤若寒蝉",
+            "默不作声",
+            "默默无言",
+            "沉默寡言",
+            "守口如瓶",
+            "言之有物"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "boastful talk"
+    },
+    "blocks": {
+        "reading": "kuā kuā qí tán",
+        "sense-1": "说话浮夸不切实际。",
+        "synonyms": "娓娓而谈、侃侃而谈、高谈阔论、大言不惭",
+        "antonyms": "默不做声、噤若寒蝉、默不作声、默默无言、沉默寡言、守口如瓶、言之有物"
+    }
+}

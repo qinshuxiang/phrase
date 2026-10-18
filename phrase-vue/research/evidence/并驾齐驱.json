@@ -1,0 +1,59 @@
+{
+    "word": "并驾齐驱",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%B9%B6%E9%A9%BE%E9%BD%90%E9%A9%B1",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "72345722d38a52c6ee4708ac9e455949f1e3d3903b6e0f8b5bfb12c281de0513",
+        "bytes": 28396
+    },
+    "parsed": {
+        "found": true,
+        "word": "并驾齐驱",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bìng",
+                "jià",
+                "qí",
+                "qū"
+            ],
+            "zhuyin": [
+                "ㄅㄧㄥˋ",
+                "ㄐㄧㄚˋ",
+                "ㄑㄧˊ",
+                "ㄑㄩ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "本指几匹马并排拉着车一齐奔跑,现喻齐头并进,不分前后高低",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "并肩前进",
+            "齐头并进",
+            "不相上下",
+            "势均力敌"
+        ],
+        "antonyms": [
+            "背道而驰",
+            "迥然不同",
+            "天渊之别﹑强弱悬殊﹑相去万里"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "keep pace with;keep up with;keep abreast of"
+    },
+    "blocks": {
+        "reading": "bìng jià qí qū",
+        "sense-1": "本指几匹马并排拉着车一齐奔跑,现喻齐头并进,不分前后高低",
+        "synonyms": "并肩前进、齐头并进、不相上下、势均力敌",
+        "antonyms": "背道而驰、迥然不同、天渊之别﹑强弱悬殊﹑相去万里"
+    }
+}

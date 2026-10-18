@@ -1,0 +1,52 @@
+{
+    "word": "卷帙浩繁",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%8D%B7%E5%B8%99%E6%B5%A9%E7%B9%81",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "82ce055b6f88bda7f472504eea9fddd07e28f5e3fe9459a30d24e6ad391be0c1",
+        "bytes": 23863
+    },
+    "parsed": {
+        "found": true,
+        "word": "卷帙浩繁",
+        "section": "idiom",
+        "readings": {
+            "pinyin": [
+                "juàn",
+                "zhì",
+                "hào",
+                "fán"
+            ],
+            "zhuyin": [
+                "ㄐㄩㄢˋ",
+                "ㄓˋ",
+                "ㄏㄠˋ",
+                "ㄈㄢˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "卷帙：书籍或书籍的篇章。形容书籍很多或一部书的部头很大。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": {
+            "text": "清·李绿园《歧路灯》第九十六回：“卷帙浩繁，也恐一时纸价腾贵，赀力不给。”",
+            "source": "卷帙浩繁"
+        },
+        "grammar": "",
+        "example": "",
+        "english": ""
+    },
+    "blocks": {
+        "reading": "juàn zhì hào fán",
+        "sense-1": "卷帙：书籍或书籍的篇章。形容书籍很多或一部书的部头很大。",
+        "origin": "清·李绿园《歧路灯》第九十六回：“卷帙浩繁，也恐一时纸价腾贵，赀力不给。”"
+    }
+}

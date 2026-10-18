@@ -1,0 +1,68 @@
+{
+    "word": "人云亦云",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%BA%BA%E4%BA%91%E4%BA%A6%E4%BA%91",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "23fa6cd865f2929c4357307ccc68cf3dd465b4b043974cb7cbfd1f27db635156",
+        "bytes": 28611
+    },
+    "parsed": {
+        "found": true,
+        "word": "人云亦云",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "rén",
+                "yún",
+                "yì",
+                "yún"
+            ],
+            "zhuyin": [
+                "ㄖㄣˊ",
+                "ㄩㄣˊ",
+                "ㄧˋ",
+                "ㄩㄣˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "云:说。形容遇事无主见,顺随别人的意见",
+                "citations": [
+                    {
+                        "text": "人云亦云,人否亦否,何为者耶?",
+                        "source": "清·叶燮《原诗》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "人云亦云,人否亦否,何为者耶?",
+                "source": "清·叶燮《原诗》"
+            }
+        ],
+        "synonyms": [
+            "吠影吠声",
+            "拾人牙慧",
+            "随声附和"
+        ],
+        "antonyms": [
+            "自成一家",
+            "独树一帜"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "to say what everybody says"
+    },
+    "blocks": {
+        "reading": "rén yún yì yún",
+        "sense-1": "云:说。形容遇事无主见,顺随别人的意见",
+        "citation-1": "人云亦云,人否亦否,何为者耶? — 清·叶燮《原诗》",
+        "synonyms": "吠影吠声、拾人牙慧、随声附和",
+        "antonyms": "自成一家、独树一帜"
+    }
+}

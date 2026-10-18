@@ -1,0 +1,59 @@
+{
+    "word": "孜孜以求",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%AD%9C%E5%AD%9C%E4%BB%A5%E6%B1%82",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "aae893de462c91759b2d78f5e51f1046412a535e3da2c82031b986ba120044cb",
+        "bytes": 23334
+    },
+    "parsed": {
+        "found": true,
+        "word": "孜孜以求",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zī",
+                "zī",
+                "yǐ",
+                "qiú"
+            ],
+            "zhuyin": [
+                "ㄗ",
+                "ㄗ",
+                "ㄧˇ",
+                "ㄑㄧㄡˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "勤勉不懈地追求。",
+                "citations": [
+                    {
+                        "text": "文学总是以部分反映整体的，如何尽力增强这部分的意义，如何使情节典型化……这对所有从事创作的人说，都是共同的，都是孜孜以求的。",
+                        "source": "杜鹏程《关于情节》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "文学总是以部分反映整体的，如何尽力增强这部分的意义，如何使情节典型化……这对所有从事创作的人说，都是共同的，都是孜孜以求的。",
+                "source": "杜鹏程《关于情节》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "diligently pursue"
+    },
+    "blocks": {
+        "reading": "zī zī yǐ qiú",
+        "sense-1": "勤勉不懈地追求。",
+        "citation-1": "文学总是以部分反映整体的，如何尽力增强这部分的意义，如何使情节典型化……这对所有从事创作的人说，都是共同的，都是孜孜以求的。 — 杜鹏程《关于情节》"
+    }
+}

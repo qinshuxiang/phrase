@@ -1,0 +1,59 @@
+{
+    "word": "因势利导",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%9B%A0%E5%8A%BF%E5%88%A9%E5%AF%BC",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "f660ed6477f4b83245334e8c6e22ce48b6c114ba1b9effedd31d668dca1606e9",
+        "bytes": 26951
+    },
+    "parsed": {
+        "found": true,
+        "word": "因势利导",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yīn",
+                "shì",
+                "lì",
+                "dǎo"
+            ],
+            "zhuyin": [
+                "ㄧㄣ",
+                "ㄕˋ",
+                "ㄌㄧˋ",
+                "ㄉㄠˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "顺应事物发展的趋势而加以引导。",
+                "citations": [
+                    {
+                        "text": "彼三晋之兵素悍勇而轻齐，齐号为怯，善战者因其势而利导之。",
+                        "source": "《史记·孙子吴起列传》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "彼三晋之兵素悍勇而轻齐，齐号为怯，善战者因其势而利导之。",
+                "source": "《史记·孙子吴起列传》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "guide according to circumstances"
+    },
+    "blocks": {
+        "reading": "yīn shì lì dǎo",
+        "sense-1": "顺应事物发展的趋势而加以引导。",
+        "citation-1": "彼三晋之兵素悍勇而轻齐，齐号为怯，善战者因其势而利导之。 — 《史记·孙子吴起列传》"
+    }
+}

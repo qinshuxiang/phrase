@@ -1,0 +1,28 @@
+
+> phrase-vue@2.0.0 verify:knowledge
+> node scripts/verify-knowledge.mjs --strict
+
+{
+    "passed": true,
+    "strict": true,
+    "cards": 859,
+    "distinct_words": 859,
+    "entry_refs": 899,
+    "groups_covered": 108,
+    "lookup_found": 801,
+    "lookup_not_found": 58,
+    "origin_present": 25,
+    "origin_missing": 834,
+    "synonyms_present": 617,
+    "antonyms_present": 557,
+    "citations_present": 582,
+    "readings_present": 796,
+    "derived_fields": 1718,
+    "pending_fields": 0,
+    "conflicts": 0,
+    "bytes": 4235708,
+    "gzip_bytes": 421627,
+    "current_distinct_words": 997,
+    "current_without_card": 138,
+    "data_sha256": "472a0d7b850bab326e68836b778af65b4f8a98462955e72d9d481d9860986142"
+}

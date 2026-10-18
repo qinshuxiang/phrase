@@ -1,0 +1,74 @@
+{
+    "word": "量体裁衣",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%87%8F%E4%BD%93%E8%A3%81%E8%A1%A3",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "e8743c98cf928ae7d87119b53ae056f7ad583072418b5418f33f09fdc0796714",
+        "bytes": 26523
+    },
+    "parsed": {
+        "found": true,
+        "word": "量体裁衣",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "liàng",
+                "tǐ",
+                "cái",
+                "yī"
+            ],
+            "zhuyin": [
+                "ㄌㄧㄤˋ",
+                "ㄊㄧˇ",
+                "ㄘㄞˊ",
+                "ㄧ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "按照身材尺寸裁剪衣服。",
+                "citations": [
+                    {
+                        "text": "宜者称也，顾此言衣，非言人也。量体裁衣，部则不宜，而若惟此衣为宜，即若他人之衣皆不宜也。",
+                        "source": "清·王筠《菉友臆说》"
+                    }
+                ]
+            },
+            {
+                "definition": "比喻根据实际情况采取相应措施。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "宜者称也，顾此言衣，非言人也。量体裁衣，部则不宜，而若惟此衣为宜，即若他人之衣皆不宜也。",
+                "source": "清·王筠《菉友臆说》"
+            }
+        ],
+        "synonyms": [
+            "量力而行",
+            "量入为出",
+            "实事求是"
+        ],
+        "antonyms": [
+            "力不从心",
+            "不自量力",
+            "力所不及"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "tailor clothes to fit"
+    },
+    "blocks": {
+        "reading": "liàng tǐ cái yī",
+        "sense-1": "按照身材尺寸裁剪衣服。",
+        "sense-2": "比喻根据实际情况采取相应措施。",
+        "citation-1": "宜者称也，顾此言衣，非言人也。量体裁衣，部则不宜，而若惟此衣为宜，即若他人之衣皆不宜也。 — 清·王筠《菉友臆说》",
+        "synonyms": "量力而行、量入为出、实事求是",
+        "antonyms": "力不从心、不自量力、力所不及"
+    }
+}

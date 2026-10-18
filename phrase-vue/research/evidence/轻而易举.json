@@ -1,0 +1,68 @@
+{
+    "word": "轻而易举",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%BD%BB%E8%80%8C%E6%98%93%E4%B8%BE",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "187b03934d4ea517fc6d232f618bf5df4b6f9f8f77df87d4b0d8fb92d3bff13c",
+        "bytes": 27398
+    },
+    "parsed": {
+        "found": true,
+        "word": "轻而易举",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "qīng",
+                "ér",
+                "yì",
+                "jǔ"
+            ],
+            "zhuyin": [
+                "ㄑㄧㄥ",
+                "ㄦˊ",
+                "ㄧˋ",
+                "ㄐㄩˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容事情容易办到，毫不费力。",
+                "citations": [
+                    {
+                        "text": "言人皆言德甚轻而易举，然人莫能举也。",
+                        "source": "宋·朱熹《诗集传》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "言人皆言德甚轻而易举，然人莫能举也。",
+                "source": "宋·朱熹《诗集传》"
+            }
+        ],
+        "synonyms": [
+            "易如反掌",
+            "唾手可得"
+        ],
+        "antonyms": [
+            "来之不易",
+            "寸步难行",
+            "难若登天"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "easy to do"
+    },
+    "blocks": {
+        "reading": "qīng ér yì jǔ",
+        "sense-1": "形容事情容易办到，毫不费力。",
+        "citation-1": "言人皆言德甚轻而易举，然人莫能举也。 — 宋·朱熹《诗集传》",
+        "synonyms": "易如反掌、唾手可得",
+        "antonyms": "来之不易、寸步难行、难若登天"
+    }
+}

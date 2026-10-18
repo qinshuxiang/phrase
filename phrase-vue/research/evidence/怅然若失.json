@@ -1,0 +1,69 @@
+{
+    "word": "怅然若失",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%80%85%E7%84%B6%E8%8B%A5%E5%A4%B1",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "d750a7fa1b7804444174f2c9998dddffb7f1b7fd4593b27cd835777a47e4d903",
+        "bytes": 25981
+    },
+    "parsed": {
+        "found": true,
+        "word": "怅然若失",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "chàng",
+                "rán",
+                "ruò",
+                "shī"
+            ],
+            "zhuyin": [
+                "ㄔㄤˋ",
+                "ㄖㄢˊ",
+                "ㄖㄨㄛˋ",
+                "ㄕ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容因失意而闷闷不乐，好像丢失了什么东西的样子。",
+                "citations": [
+                    {
+                        "text": "解车休马，罢酒彻乐，而心忽然若有所丧，怅然若有所亡也。",
+                        "source": "《淮南子·原道训》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "解车休马，罢酒彻乐，而心忽然若有所丧，怅然若有所亡也。",
+                "source": "《淮南子·原道训》"
+            }
+        ],
+        "synonyms": [
+            "闷闷不乐",
+            "若有所失",
+            "惊惶失措"
+        ],
+        "antonyms": [
+            "怡然自得",
+            "若无其事",
+            "泰然自若"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "dispirited"
+    },
+    "blocks": {
+        "reading": "chàng rán ruò shī",
+        "sense-1": "形容因失意而闷闷不乐，好像丢失了什么东西的样子。",
+        "citation-1": "解车休马，罢酒彻乐，而心忽然若有所丧，怅然若有所亡也。 — 《淮南子·原道训》",
+        "synonyms": "闷闷不乐、若有所失、惊惶失措",
+        "antonyms": "怡然自得、若无其事、泰然自若"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "word": "惩前毖后",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%83%A9%E5%89%8D%E6%AF%96%E5%90%8E",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "33862446d40afe078420e029b1a1e86e592a8d053643b555ab6ab36e359c6537",
+        "bytes": 26680
+    },
+    "parsed": {
+        "found": true,
+        "word": "惩前毖后",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "chéng",
+                "qián",
+                "bì",
+                "hòu"
+            ],
+            "zhuyin": [
+                "ㄔㄥˊ",
+                "ㄑㄧㄢˊ",
+                "ㄅㄧˋ",
+                "ㄏㄡˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "从过去的错误中吸取教训，防止以后再犯。",
+                "citations": [
+                    {
+                        "text": "惩前毖后，预为先事之图可也。",
+                        "source": "明·张居正《答河道吴自湖计河漕书》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "惩前毖后，预为先事之图可也。",
+                "source": "明·张居正《答河道吴自湖计河漕书》"
+            }
+        ],
+        "synonyms": [
+            "小惩大诫"
+        ],
+        "antonyms": [
+            "重蹈覆辙"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "learn from past mistakes"
+    },
+    "blocks": {
+        "reading": "chéng qián bì hòu",
+        "sense-1": "从过去的错误中吸取教训，防止以后再犯。",
+        "citation-1": "惩前毖后，预为先事之图可也。 — 明·张居正《答河道吴自湖计河漕书》",
+        "synonyms": "小惩大诫",
+        "antonyms": "重蹈覆辙"
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "word": "貌合神离",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%B2%8C%E5%90%88%E7%A5%9E%E7%A6%BB",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "9e0192c85e0fce616e2a81162225e2164460c11862e5f22a2b03889a0c61f5ec",
+        "bytes": 28867
+    },
+    "parsed": {
+        "found": true,
+        "word": "貌合神离",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "mào",
+                "hé",
+                "shén",
+                "lí"
+            ],
+            "zhuyin": [
+                "ㄇㄠˋ",
+                "ㄏㄜˊ",
+                "ㄕㄣˊ",
+                "ㄌㄧˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "表面上关系密切，实际上内心各有打算。",
+                "citations": [
+                    {
+                        "text": "口亲心疏，貌合行离。",
+                        "source": "晋·葛洪《抱朴子·勤求》"
+                    },
+                    {
+                        "text": "晏欧词，雅近正中，然貌合神离，所失甚远。",
+                        "source": "清·陈廷焯《白雨斋词话》"
+                    }
+                ]
+            },
+            {
+                "definition": "表面上看起来相似，实际上本质不同。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "口亲心疏，貌合行离。",
+                "source": "晋·葛洪《抱朴子·勤求》"
+            },
+            {
+                "text": "晏欧词，雅近正中，然貌合神离，所失甚远。",
+                "source": "清·陈廷焯《白雨斋词话》"
+            }
+        ],
+        "synonyms": [
+            "同床异梦",
+            "貌合心离",
+            "同床异梦﹑离心离德"
+        ],
+        "antonyms": [
+            "心心相印",
+            "披肝沥胆﹑同心同德﹑同舟共济﹑情投意合﹑心心相印﹑形疏心契﹑志同道合"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "seemingly in harmony but actually at odds"
+    },
+    "blocks": {
+        "reading": "mào hé shén lí",
+        "sense-1": "表面上关系密切，实际上内心各有打算。",
+        "sense-2": "表面上看起来相似，实际上本质不同。",
+        "citation-1": "口亲心疏，貌合行离。 — 晋·葛洪《抱朴子·勤求》",
+        "citation-2": "晏欧词，雅近正中，然貌合神离，所失甚远。 — 清·陈廷焯《白雨斋词话》",
+        "synonyms": "同床异梦、貌合心离、同床异梦﹑离心离德",
+        "antonyms": "心心相印、披肝沥胆﹑同心同德﹑同舟共济﹑情投意合﹑心心相印﹑形疏心契﹑志同道合"
+    }
+}

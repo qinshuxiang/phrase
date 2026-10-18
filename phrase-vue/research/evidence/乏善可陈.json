@@ -1,0 +1,48 @@
+{
+    "word": "乏善可陈",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B9%8F%E5%96%84%E5%8F%AF%E9%99%88",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "3976d3e090ad44cf9b4f3fcaa5e564c50c6eb0836ca3a9ecd96ea721cf54744e",
+        "bytes": 23180
+    },
+    "parsed": {
+        "found": true,
+        "word": "乏善可陈",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "fá",
+                "shàn",
+                "kě",
+                "chén"
+            ],
+            "zhuyin": [
+                "ㄈㄚˊ",
+                "ㄕㄢˋ",
+                "ㄎㄜˇ",
+                "ㄔㄣˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "<p>陈：述说。表示一件事物没有什么优点可以述说。</p>",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": ""
+    },
+    "blocks": {
+        "reading": "fá shàn kě chén",
+        "sense-1": "<p>陈：述说。表示一件事物没有什么优点可以述说。</p>"
+    }
+}

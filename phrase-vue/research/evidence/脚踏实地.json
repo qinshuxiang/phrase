@@ -1,0 +1,81 @@
+{
+    "word": "脚踏实地",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%84%9A%E8%B8%8F%E5%AE%9E%E5%9C%B0",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "edef6284ed688fb43b2aabbe0ed7520c8924ac4c05ce40b3461a225ee1baa500",
+        "bytes": 28028
+    },
+    "parsed": {
+        "found": true,
+        "word": "脚踏实地",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jiǎo",
+                "tà",
+                "shí",
+                "dì"
+            ],
+            "zhuyin": [
+                "ㄐㄧㄠˇ",
+                "ㄊㄚˋ",
+                "ㄕˊ",
+                "ㄉㄧˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "做事认真踏实，不虚浮。",
+                "citations": [
+                    {
+                        "text": "公尝问康节曰：某何如人？曰：君实脚踏实地人也。",
+                        "source": "宋·邵伯温《闻见前录》"
+                    },
+                    {
+                        "text": "我把你这个泼怪！你上来！这高处，脚踏实地好打！",
+                        "source": "明·吴承恩《西游记》"
+                    }
+                ]
+            },
+            {
+                "definition": "双脚稳稳地踩在地面上。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "公尝问康节曰：某何如人？曰：君实脚踏实地人也。",
+                "source": "宋·邵伯温《闻见前录》"
+            },
+            {
+                "text": "我把你这个泼怪！你上来！这高处，脚踏实地好打！",
+                "source": "明·吴承恩《西游记》"
+            }
+        ],
+        "synonyms": [
+            "足履实地",
+            "实事求是"
+        ],
+        "antonyms": [
+            "弄虚作假",
+            "好高骛远"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "down-to-earth"
+    },
+    "blocks": {
+        "reading": "jiǎo tà shí dì",
+        "sense-1": "做事认真踏实，不虚浮。",
+        "sense-2": "双脚稳稳地踩在地面上。",
+        "citation-1": "公尝问康节曰：某何如人？曰：君实脚踏实地人也。 — 宋·邵伯温《闻见前录》",
+        "citation-2": "我把你这个泼怪！你上来！这高处，脚踏实地好打！ — 明·吴承恩《西游记》",
+        "synonyms": "足履实地、实事求是",
+        "antonyms": "弄虚作假、好高骛远"
+    }
+}

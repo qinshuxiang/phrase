@@ -1,0 +1,68 @@
+{
+    "word": "阳奉阴违",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%98%B3%E5%A5%89%E9%98%B4%E8%BF%9D",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "696e1150c5d255a79c39bd9d5974d948f586c9bef33d765fe0273cdba3d212bc",
+        "bytes": 27325
+    },
+    "parsed": {
+        "found": true,
+        "word": "阳奉阴违",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yáng",
+                "fèng",
+                "yīn",
+                "wéi"
+            ],
+            "zhuyin": [
+                "ㄧㄤˊ",
+                "ㄈㄥˋ",
+                "ㄧㄣ",
+                "ㄨㄟˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "表面顺从，暗地里违背。",
+                "citations": [
+                    {
+                        "text": "如有日与胥徒比，而阳奉阴违、名去实存者，断以白简随其后。",
+                        "source": "明·范景文《革大户行召募疏》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "如有日与胥徒比，而阳奉阴违、名去实存者，断以白简随其后。",
+                "source": "明·范景文《革大户行召募疏》"
+            }
+        ],
+        "synonyms": [
+            "表里不一",
+            "两面三刀",
+            "口是心非"
+        ],
+        "antonyms": [
+            "心口如一",
+            "表里如一"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "overtly agree but covertly oppose"
+    },
+    "blocks": {
+        "reading": "yáng fèng yīn wéi",
+        "sense-1": "表面顺从，暗地里违背。",
+        "citation-1": "如有日与胥徒比，而阳奉阴违、名去实存者，断以白简随其后。 — 明·范景文《革大户行召募疏》",
+        "synonyms": "表里不一、两面三刀、口是心非",
+        "antonyms": "心口如一、表里如一"
+    }
+}

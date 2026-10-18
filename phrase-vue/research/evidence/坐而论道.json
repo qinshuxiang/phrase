@@ -1,0 +1,86 @@
+{
+    "word": "坐而论道",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%9D%90%E8%80%8C%E8%AE%BA%E9%81%93",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "77388d934aa760a809a19df2b5bd7c1cd4c9337ba35e2ecdf9ce5b1219c3da85",
+        "bytes": 27784
+    },
+    "parsed": {
+        "found": true,
+        "word": "坐而论道",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zuò",
+                "ér",
+                "lùn",
+                "dào"
+            ],
+            "zhuyin": [
+                "ㄗㄨㄛˋ",
+                "ㄦˊ",
+                "ㄌㄨㄣˋ",
+                "ㄉㄠˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "古代指王公大臣陪同君主商议政事。",
+                "citations": [
+                    {
+                        "text": "坐而论道，谓之王公；作而行之，谓之士大夫。",
+                        "source": "《周礼•考工记序》"
+                    },
+                    {
+                        "text": "道非怱遽可言，坐而论道，则神闲意定。",
+                        "source": "宋•晁说之《晁氏客语》"
+                    }
+                ]
+            },
+            {
+                "definition": "脱离实际的空谈。",
+                "citations": []
+            },
+            {
+                "definition": "坐着谈论事理。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "坐而论道，谓之王公；作而行之，谓之士大夫。",
+                "source": "《周礼•考工记序》"
+            },
+            {
+                "text": "道非怱遽可言，坐而论道，则神闲意定。",
+                "source": "宋•晁说之《晁氏客语》"
+            }
+        ],
+        "synonyms": [
+            "纸上谈兵",
+            "徒托空言"
+        ],
+        "antonyms": [
+            "身体力行",
+            "事必躬亲"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "discuss state affairs"
+    },
+    "blocks": {
+        "reading": "zuò ér lùn dào",
+        "sense-1": "古代指王公大臣陪同君主商议政事。",
+        "sense-2": "脱离实际的空谈。",
+        "sense-3": "坐着谈论事理。",
+        "citation-1": "坐而论道，谓之王公；作而行之，谓之士大夫。 — 《周礼•考工记序》",
+        "citation-2": "道非怱遽可言，坐而论道，则神闲意定。 — 宋•晁说之《晁氏客语》",
+        "synonyms": "纸上谈兵、徒托空言",
+        "antonyms": "身体力行、事必躬亲"
+    }
+}

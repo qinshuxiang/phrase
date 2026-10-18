@@ -1,0 +1,63 @@
+{
+    "word": "寅吃卯粮",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%AF%85%E5%90%83%E5%8D%AF%E7%B2%AE",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "bd7f45e197bd53cc65d3b5a6778b356587d6211aab5842fbd125c9bbe211510e",
+        "bytes": 26684
+    },
+    "parsed": {
+        "found": true,
+        "word": "寅吃卯粮",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yín",
+                "chī",
+                "mǎo",
+                "liáng"
+            ],
+            "zhuyin": [
+                "ㄧㄣˊ",
+                "ㄔ",
+                "ㄇㄠˇ",
+                "ㄌㄧㄤˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻财务透支，提前消耗未来的收入。",
+                "citations": [
+                    {
+                        "text": "我们只吃一分口粮，哪里会有多少钱？就是我们总爷，也是寅吃卯粮，先缺后空。",
+                        "source": "《官场现形记》第十五回"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "我们只吃一分口粮，哪里会有多少钱？就是我们总爷，也是寅吃卯粮，先缺后空。",
+                "source": "《官场现形记》第十五回"
+            }
+        ],
+        "synonyms": [
+            "寅支卯粮",
+            "入不敷出"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "anticipate income"
+    },
+    "blocks": {
+        "reading": "yín chī mǎo liáng",
+        "sense-1": "比喻财务透支，提前消耗未来的收入。",
+        "citation-1": "我们只吃一分口粮，哪里会有多少钱？就是我们总爷，也是寅吃卯粮，先缺后空。 — 《官场现形记》第十五回",
+        "synonyms": "寅支卯粮、入不敷出"
+    }
+}

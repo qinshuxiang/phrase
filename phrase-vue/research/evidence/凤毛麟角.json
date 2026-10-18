@@ -1,0 +1,73 @@
+{
+    "word": "凤毛麟角",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%87%A4%E6%AF%9B%E9%BA%9F%E8%A7%92",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "4551afe6037a4149ad24046e02e85a9faec974af933529a8ab53b01589f9a4b5",
+        "bytes": 28384
+    },
+    "parsed": {
+        "found": true,
+        "word": "凤毛麟角",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "fèng",
+                "máo",
+                "lín",
+                "jiǎo"
+            ],
+            "zhuyin": [
+                "ㄈㄥˋ",
+                "ㄇㄠˊ",
+                "ㄌㄧㄣˊ",
+                "ㄐㄧㄠˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻珍贵稀少的人才或事物。",
+                "citations": [
+                    {
+                        "text": "康对山之文，天下慕向之，如凤毛麟角。",
+                        "source": "明·何良俊《四友斋丛说•文》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "康对山之文，天下慕向之，如凤毛麟角。",
+                "source": "明·何良俊《四友斋丛说•文》"
+            }
+        ],
+        "synonyms": [
+            "百里挑一",
+            "寥寥无几",
+            "寥若晨星",
+            "屈指可数"
+        ],
+        "antonyms": [
+            "俯拾即是",
+            "多如牛毛",
+            "比比皆是",
+            "漫山遍野",
+            "汗牛充栋",
+            "车载斗量"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "phoenix feathers and unicorn horns"
+    },
+    "blocks": {
+        "reading": "fèng máo lín jiǎo",
+        "sense-1": "比喻珍贵稀少的人才或事物。",
+        "citation-1": "康对山之文，天下慕向之，如凤毛麟角。 — 明·何良俊《四友斋丛说•文》",
+        "synonyms": "百里挑一、寥寥无几、寥若晨星、屈指可数",
+        "antonyms": "俯拾即是、多如牛毛、比比皆是、漫山遍野、汗牛充栋、车载斗量"
+    }
+}

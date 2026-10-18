@@ -1,0 +1,67 @@
+{
+    "word": "望洋兴叹",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%9C%9B%E6%B4%8B%E5%85%B4%E5%8F%B9",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "5d17692e9d5e3e1699de35d6d40f024b5e927d948b9463c1c25e9e0782cfcdce",
+        "bytes": 26405
+    },
+    "parsed": {
+        "found": true,
+        "word": "望洋兴叹",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "wàng",
+                "yáng",
+                "xīng",
+                "tàn"
+            ],
+            "zhuyin": [
+                "ㄨㄤˋ",
+                "ㄧㄤˊ",
+                "ㄒㄧㄥ",
+                "ㄊㄢˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻因能力不足而感到无可奈何。",
+                "citations": [
+                    {
+                        "text": "真能笼乾坤万里于一咏之内，千古吟人，望洋兴叹。",
+                        "source": "元·刘埙《隐居通议·诗歌五》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "真能笼乾坤万里于一咏之内，千古吟人，望洋兴叹。",
+                "source": "元·刘埙《隐居通议·诗歌五》"
+            }
+        ],
+        "synonyms": [
+            "仰天长叹",
+            "无能为力",
+            "无可奈何"
+        ],
+        "antonyms": [
+            "妄自尊大"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "feel powerless"
+    },
+    "blocks": {
+        "reading": "wàng yáng xīng tàn",
+        "sense-1": "比喻因能力不足而感到无可奈何。",
+        "citation-1": "真能笼乾坤万里于一咏之内，千古吟人，望洋兴叹。 — 元·刘埙《隐居通议·诗歌五》",
+        "synonyms": "仰天长叹、无能为力、无可奈何",
+        "antonyms": "妄自尊大"
+    }
+}

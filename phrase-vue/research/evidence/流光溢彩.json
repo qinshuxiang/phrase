@@ -1,0 +1,48 @@
+{
+    "word": "流光溢彩",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%B5%81%E5%85%89%E6%BA%A2%E5%BD%A9",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "6cda754cf16a6b31d1b97cc9326385f7cf5cdb45877a0f1ea5960f2db887f9dc",
+        "bytes": 21477
+    },
+    "parsed": {
+        "found": true,
+        "word": "流光溢彩",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "liú",
+                "guāng",
+                "yì",
+                "cǎi"
+            ],
+            "zhuyin": [
+                "ㄌㄧㄡˊ",
+                "ㄍㄨㄤ",
+                "ㄧˋ",
+                "ㄘㄞˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "<p>流光：流动、闪烁的光彩，溢彩：色彩象要溢出来。多用于形容车灯、霓虹等，有时候也用来形容时装表演和珠宝。</p>",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": ""
+    },
+    "blocks": {
+        "reading": "liú guāng yì cǎi",
+        "sense-1": "<p>流光：流动、闪烁的光彩，溢彩：色彩象要溢出来。多用于形容车灯、霓虹等，有时候也用来形容时装表演和珠宝。</p>"
+    }
+}

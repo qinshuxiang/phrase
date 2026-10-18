@@ -1,0 +1,48 @@
+{
+    "word": "不绝如缕",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%8D%E7%BB%9D%E5%A6%82%E7%BC%95",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "fae91b9e3af6a0fd6db616055f889161487b842107a7ae4f5a0327600bbb004a",
+        "bytes": 25373
+    },
+    "parsed": {
+        "found": true,
+        "word": "不绝如缕",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bù",
+                "jué",
+                "rú",
+                "lǚ"
+            ],
+            "zhuyin": [
+                "ㄅㄨˋ",
+                "ㄐㄩㄝˊ",
+                "ㄖㄨˊ",
+                "ㄌㄩˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容情势危急，像即将断绝的细线。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "hanging by a thread"
+    },
+    "blocks": {
+        "reading": "bù jué rú lǚ",
+        "sense-1": "形容情势危急，像即将断绝的细线。"
+    }
+}

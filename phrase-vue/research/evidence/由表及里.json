@@ -1,0 +1,42 @@
+{
+    "word": "由表及里",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%94%B1%E8%A1%A8%E5%8F%8A%E9%87%8C",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "5a99d8f95c149a9189d4ea9a624209f7999c48bca3daab9a629356fa0accb68b",
+        "bytes": 21213
+    },
+    "parsed": {
+        "found": true,
+        "word": "由表及里",
+        "section": "idiom",
+        "readings": {
+            "pinyin": [],
+            "zhuyin": []
+        },
+        "senses": [
+            {
+                "definition": "表：表面；里：本质。从表面现象看到本质。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": {
+            "text": "看問題要由表及裏。",
+            "source": "由表及里"
+        },
+        "grammar": "",
+        "example": "看问题要由表及里。",
+        "english": ""
+    },
+    "blocks": {
+        "sense-1": "表：表面；里：本质。从表面现象看到本质。",
+        "origin": "看問題要由表及裏。",
+        "example": "看问题要由表及里。"
+    }
+}

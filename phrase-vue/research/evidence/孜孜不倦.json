@@ -1,0 +1,59 @@
+{
+    "word": "孜孜不倦",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%AD%9C%E5%AD%9C%E4%B8%8D%E5%80%A6",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "29e34784bd67fb02e74ddc4b9b2abce223b9f83e2fe64089577bbb519d9a1efd",
+        "bytes": 28236
+    },
+    "parsed": {
+        "found": true,
+        "word": "孜孜不倦",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zī",
+                "zī",
+                "bù",
+                "juàn"
+            ],
+            "zhuyin": [
+                "ㄗ",
+                "ㄗ",
+                "ㄅㄨˋ",
+                "ㄐㄩㄢˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "勤奋努力而不懈怠。",
+                "citations": [
+                    {
+                        "text": "乃更潜心典籍，孜孜不倦。年逾八十，犹手自校书。",
+                        "source": "《三国志·蜀志·向朗传》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "乃更潜心典籍，孜孜不倦。年逾八十，犹手自校书。",
+                "source": "《三国志·蜀志·向朗传》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "diligently"
+    },
+    "blocks": {
+        "reading": "zī zī bù juàn",
+        "sense-1": "勤奋努力而不懈怠。",
+        "citation-1": "乃更潜心典籍，孜孜不倦。年逾八十，犹手自校书。 — 《三国志·蜀志·向朗传》"
+    }
+}

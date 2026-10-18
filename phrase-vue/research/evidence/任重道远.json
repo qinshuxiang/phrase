@@ -1,0 +1,81 @@
+{
+    "word": "任重道远",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%BB%BB%E9%87%8D%E9%81%93%E8%BF%9C",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "5fb7befad0c38f05483178c545c4c0995c58eb937404418dc54341005cd9a3bd",
+        "bytes": 27738
+    },
+    "parsed": {
+        "found": true,
+        "word": "任重道远",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "rèn",
+                "zhòng",
+                "dào",
+                "yuǎn"
+            ],
+            "zhuyin": [
+                "ㄖㄣˋ",
+                "ㄓㄨㄥˋ",
+                "ㄉㄠˋ",
+                "ㄩㄢˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "负担沉重且路途遥远。",
+                "citations": [
+                    {
+                        "text": "背法而治，此任重道远而无牛马；济大川而无舡楫也。",
+                        "source": "《商君书·弱民》"
+                    },
+                    {
+                        "text": "任重道远，死而后已。",
+                        "source": "《后汉书·祭遵传》"
+                    }
+                ]
+            },
+            {
+                "definition": "比喻责任重大且需长期努力。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "背法而治，此任重道远而无牛马；济大川而无舡楫也。",
+                "source": "《商君书·弱民》"
+            },
+            {
+                "text": "任重道远，死而后已。",
+                "source": "《后汉书·祭遵传》"
+            }
+        ],
+        "synonyms": [
+            "全力以赴",
+            "负重致远"
+        ],
+        "antonyms": [
+            "无所事事",
+            "无所作为"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "heavy burden and long road"
+    },
+    "blocks": {
+        "reading": "rèn zhòng dào yuǎn",
+        "sense-1": "负担沉重且路途遥远。",
+        "sense-2": "比喻责任重大且需长期努力。",
+        "citation-1": "背法而治，此任重道远而无牛马；济大川而无舡楫也。 — 《商君书·弱民》",
+        "citation-2": "任重道远，死而后已。 — 《后汉书·祭遵传》",
+        "synonyms": "全力以赴、负重致远",
+        "antonyms": "无所事事、无所作为"
+    }
+}

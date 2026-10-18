@@ -1,0 +1,63 @@
+{
+    "word": "有恃无恐",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%9C%89%E6%81%83%E6%97%A0%E6%81%90",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "a30b69d7a338872cf6dbf0c486940391542e803821aa47c12a43e83a0c7ecd7b",
+        "bytes": 26502
+    },
+    "parsed": {
+        "found": true,
+        "word": "有恃无恐",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yǒu",
+                "shì",
+                "wú",
+                "kǒng"
+            ],
+            "zhuyin": [
+                "ㄧㄡˇ",
+                "ㄕˋ",
+                "ㄨˊ",
+                "ㄎㄨㄥˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "因有所倚仗而无所畏惧。",
+                "citations": [
+                    {
+                        "text": "臣秉钺于外，庶乎有恃无恐。",
+                        "source": "宋·魏了翁《陛辞奏定国论别人才回天怒图民怨》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "臣秉钺于外，庶乎有恃无恐。",
+                "source": "宋·魏了翁《陛辞奏定国论别人才回天怒图民怨》"
+            }
+        ],
+        "synonyms": [
+            "仗势欺人",
+            "狗仗人势"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "emboldened by support"
+    },
+    "blocks": {
+        "reading": "yǒu shì wú kǒng",
+        "sense-1": "因有所倚仗而无所畏惧。",
+        "citation-1": "臣秉钺于外，庶乎有恃无恐。 — 宋·魏了翁《陛辞奏定国论别人才回天怒图民怨》",
+        "synonyms": "仗势欺人、狗仗人势"
+    }
+}

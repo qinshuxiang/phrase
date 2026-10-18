@@ -1,0 +1,56 @@
+{
+    "word": "不一而足",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%8D%E4%B8%80%E8%80%8C%E8%B6%B3",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "9a1cfe1e60b7a683bec4003d39087165cd8b8a1a7f9e6dd0b58e48f02728d753",
+        "bytes": 28219
+    },
+    "parsed": {
+        "found": true,
+        "word": "不一而足",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bù",
+                "yī",
+                "ér",
+                "zú"
+            ],
+            "zhuyin": [
+                "ㄅㄨˋ",
+                "ㄧ",
+                "ㄦˊ",
+                "ㄗㄨˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "不一一列举就足够了。形容很多",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "层出不穷",
+            "所在多有"
+        ],
+        "antonyms": [
+            "屈指可数",
+            "寥寥无几"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "too many to be enumerated;and so on"
+    },
+    "blocks": {
+        "reading": "bù yī ér zú",
+        "sense-1": "不一一列举就足够了。形容很多",
+        "synonyms": "层出不穷、所在多有",
+        "antonyms": "屈指可数、寥寥无几"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "word": "孤注一掷",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "7c4272d1ffca93d514e93cd2346359601da983cf7ef41140a82aebc26592a418",
+        "bytes": 27506
+    },
+    "parsed": {
+        "found": true,
+        "word": "孤注一掷",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "gū",
+                "zhù",
+                "yī",
+                "zhì"
+            ],
+            "zhuyin": [
+                "ㄍㄨ",
+                "ㄓㄨˋ",
+                "ㄧ",
+                "ㄓˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "赌徒押上所有筹码作最后一搏。比喻在危急时投入全部力量冒险行事。",
+                "citations": [
+                    {
+                        "text": "于是乎『为国生事』之说起焉，『孤注一掷』之喻出焉。",
+                        "source": "宋·辛弃疾《九议》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "于是乎『为国生事』之说起焉，『孤注一掷』之喻出焉。",
+                "source": "宋·辛弃疾《九议》"
+            }
+        ],
+        "synonyms": [
+            "铤而走险",
+            "垂死挣扎",
+            "背城借一",
+            "破釜沉舟"
+        ],
+        "antonyms": [
+            "举棋不定",
+            "瞻前顾后"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "stake all on a single throw"
+    },
+    "blocks": {
+        "reading": "gū zhù yī zhì",
+        "sense-1": "赌徒押上所有筹码作最后一搏。比喻在危急时投入全部力量冒险行事。",
+        "citation-1": "于是乎『为国生事』之说起焉，『孤注一掷』之喻出焉。 — 宋·辛弃疾《九议》",
+        "synonyms": "铤而走险、垂死挣扎、背城借一、破釜沉舟",
+        "antonyms": "举棋不定、瞻前顾后"
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "word": "独木难支",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%8B%AC%E6%9C%A8%E9%9A%BE%E6%94%AF",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "766f971f1b1334e464a77bbf5c2e9d0640545e39bf2d35682c1e0a7cdf790102",
+        "bytes": 26951
+    },
+    "parsed": {
+        "found": true,
+        "word": "独木难支",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "dú",
+                "mù",
+                "nán",
+                "zhī"
+            ],
+            "zhuyin": [
+                "ㄉㄨˊ",
+                "ㄇㄨˋ",
+                "ㄋㄢˋ",
+                "ㄓ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "一根木头难以支撑房屋。比喻个人力量难以维持全局。",
+                "citations": [
+                    {
+                        "text": "屡欲思报此恨，为独木难支，不能向前。",
+                        "source": "《封神演义》第九三回"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "屡欲思报此恨，为独木难支，不能向前。",
+                "source": "《封神演义》第九三回"
+            }
+        ],
+        "synonyms": [
+            "力不从心",
+            "回天乏术",
+            "独力难持",
+            "孤掌难鸣"
+        ],
+        "antonyms": [
+            "力挽狂澜",
+            "砥柱中流",
+            "回天之力",
+            "众擎易举"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "cannot sustain alone"
+    },
+    "blocks": {
+        "reading": "dú mù nán zhī",
+        "sense-1": "一根木头难以支撑房屋。比喻个人力量难以维持全局。",
+        "citation-1": "屡欲思报此恨，为独木难支，不能向前。 — 《封神演义》第九三回",
+        "synonyms": "力不从心、回天乏术、独力难持、孤掌难鸣",
+        "antonyms": "力挽狂澜、砥柱中流、回天之力、众擎易举"
+    }
+}

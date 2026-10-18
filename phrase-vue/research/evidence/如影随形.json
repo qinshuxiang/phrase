@@ -1,0 +1,73 @@
+{
+    "word": "如影随形",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A6%82%E5%BD%B1%E9%9A%8F%E5%BD%A2",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "cef57ff4c4134b3ab904082fd4dd37085129c21f38153434d9f4e6f0f923e302",
+        "bytes": 28285
+    },
+    "parsed": {
+        "found": true,
+        "word": "如影随形",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "rú",
+                "yǐng",
+                "suí",
+                "xíng"
+            ],
+            "zhuyin": [
+                "ㄖㄨˊ",
+                "ㄧㄥˇ",
+                "ㄙㄨㄟˊ",
+                "ㄒㄧㄥˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻关系密切不可分离。",
+                "citations": [
+                    {
+                        "text": "故天之应人，如影之随形，响之效声者也。",
+                        "source": "汉·刘向《说苑·君道》"
+                    },
+                    {
+                        "text": "其问祸淫福善，莫不如影随形，焕若丹青，明如日月。",
+                        "source": "宋·邵伯温《闻见前录》卷六"
+                    }
+                ]
+            },
+            {
+                "definition": "形容事物紧密相随。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "故天之应人，如影之随形，响之效声者也。",
+                "source": "汉·刘向《说苑·君道》"
+            },
+            {
+                "text": "其问祸淫福善，莫不如影随形，焕若丹青，明如日月。",
+                "source": "宋·邵伯温《闻见前录》卷六"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "follow like a shadow"
+    },
+    "blocks": {
+        "reading": "rú yǐng suí xíng",
+        "sense-1": "比喻关系密切不可分离。",
+        "sense-2": "形容事物紧密相随。",
+        "citation-1": "故天之应人，如影之随形，响之效声者也。 — 汉·刘向《说苑·君道》",
+        "citation-2": "其问祸淫福善，莫不如影随形，焕若丹青，明如日月。 — 宋·邵伯温《闻见前录》卷六"
+    }
+}

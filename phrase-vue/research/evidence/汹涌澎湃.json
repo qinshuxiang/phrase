@@ -1,0 +1,66 @@
+{
+    "word": "汹涌澎湃",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%B1%B9%E6%B6%8C%E6%BE%8E%E6%B9%83",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "7cc928931807789af70d225b988ae116313bf66c0024d8c6415f3affd6585cd8",
+        "bytes": 25572
+    },
+    "parsed": {
+        "found": true,
+        "word": "汹涌澎湃",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "xiōng",
+                "yǒng",
+                "péng",
+                "pài"
+            ],
+            "zhuyin": [
+                "ㄒㄩㄥ",
+                "ㄩㄥˇ",
+                "ㄆㄥˊ",
+                "ㄆㄞˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "原义是指洪水猛然上涌的样子,现在则常用来形容人群的活动声势浩大,不可阻挡",
+                "citations": [
+                    {
+                        "text": "沸手暴怒,汹涌澎湃。",
+                        "source": "汉·司马相如《上林赋》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "沸手暴怒,汹涌澎湃。",
+                "source": "汉·司马相如《上林赋》"
+            }
+        ],
+        "synonyms": [
+            "波澜壮阔",
+            "声势浩大"
+        ],
+        "antonyms": [
+            "风平浪静"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "tempestuous"
+    },
+    "blocks": {
+        "reading": "xiōng yǒng péng pài",
+        "sense-1": "原义是指洪水猛然上涌的样子,现在则常用来形容人群的活动声势浩大,不可阻挡",
+        "citation-1": "沸手暴怒,汹涌澎湃。 — 汉·司马相如《上林赋》",
+        "synonyms": "波澜壮阔、声势浩大",
+        "antonyms": "风平浪静"
+    }
+}

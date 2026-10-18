@@ -1,0 +1,58 @@
+{
+    "word": "并行不悖",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%B9%B6%E8%A1%8C%E4%B8%8D%E6%82%96",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "8749cb49ce7e50113ad9841c6742ef860e40de268f48b9da6bfec64e7e89873e",
+        "bytes": 28251
+    },
+    "parsed": {
+        "found": true,
+        "word": "并行不悖",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bìng",
+                "xíng",
+                "bù",
+                "bèi"
+            ],
+            "zhuyin": [
+                "ㄅㄧㄥˋ",
+                "ㄒㄧㄥˊ",
+                "ㄅㄨˋ",
+                "ㄅㄟˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "彼此同时进行,不相妨碍",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "双管齐下",
+            "并驾齐驱",
+            "不相妨碍"
+        ],
+        "antonyms": [
+            "自相矛盾",
+            "大相迳庭",
+            "势不两立"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "do not interfere with one another;be not mutually exclusive"
+    },
+    "blocks": {
+        "reading": "bìng xíng bù bèi",
+        "sense-1": "彼此同时进行,不相妨碍",
+        "synonyms": "双管齐下、并驾齐驱、不相妨碍",
+        "antonyms": "自相矛盾、大相迳庭、势不两立"
+    }
+}

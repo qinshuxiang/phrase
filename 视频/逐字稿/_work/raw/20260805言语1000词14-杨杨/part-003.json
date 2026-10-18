@@ -1,0 +1,1130 @@
+{
+  "text": "来人的广告，到处都是，这里面就选自于他的贬义了，所以铺天盖地，大家记住啊，第一点，中性，也可贬义�这是感情色彩，第二点，他除了表示传播以外，更多的形容是什么，形容的是这个东西，到处都是，明白了吧，再来看道听途说，道听途说，是从道上听来的，能让人相信吗，不能，对不，所以它是形容来源不靠谱不可靠没有经过亲眼的验证所以你就记这个来源是不靠谱的好再来看这个啊接谈相义一个谈也是一个义就是百姓在街头上议论纷纷形容什么呢就是大街小巷里老百姓私下闲聊的这种场景这叫做接谈相义好最后拜官也使拜官野史一个野史就告诉我们了它不是正史对不对这个野史是斯家记载的这种一文锁事然后你就记它是指什么古代的民间的一些小说或者是民间流传的一文锁事它不是官方的它非官方好吧好大家来看一下这个例子看以讹传讹以讹传讹呢大部分说的是谣言说什么当用户询问老人坐火车的时候是否有新规部分大模型以讹传讹继续扩散虚假的信息那这些汇老服务进步核查发现在AI的内容当中也包括了铁路部分的已经落地的汇老服务只不过是AI在生成的时候将虚构的与真实的混杂在一起了以及将错误的信息以讹传讹的这种现象应该引起开发者的注意这个第一的这个这个啊他给到我们是什么是AI的大模型在回答老年程彻问题的时候把虚假的对吧和真实的混杂生成了进一步扩散了不实的谣言越传越错误导了大众又以讹传讹来形容对不对好再来看这个例子啊说工作人员表示嗯怎么了我看一下我这个消息一下顿了啊嗯嗯怎么了没事吧我看大家都是画问号嗯好然后再来看第二第二的这个题啊说呃工作人员表示网上关于他取消男厕所的这个说法完全是什么完全是谣言对不对也有一些网友没了解真相以讹传讹我们最近也收到了这种骚扰包括什么私信啊电话呀真诚的建议我们绝对听这个不就是网传商场取消难搜索这个事儿它是假的那不少网友就不明真相的跟风转发了这种行为就是谣言越传越错我们可以用以讹传讹对吧哎这两件事儿就体现了将错误的信息谣言经过不断转述持续扩散的这种现象那么这种现象在过程当中失真了就是越传越错用以讹传讹好再来看五孔不入五孔不入就是指到处的渗透钻空子他有点中性偏扁来看这个例子说当手机中碎片化娱乐化的信息五孔不入的侵入我们生活时来大家看首先你看到了碎片化娱乐化的这种信息这样的一个形容词他就是不是一个很好的信息碎片化就是不是完整的对吧比如说一些短视频呢有一些几秒当中的这种视频呢这种信息那么他本身不好而且他说侵入侵入这个词就有强行侵占不受欢迎的负面色彩所以这种内容他就是一个杂乱的一些不好的内容那么随时随地侵占人们的生活的方方面面没有一处可以避开所以用无孔不入再来看这个第二这个题说电信网络诈骗也如病毒般迭代升级无孔不入电信诈骗的手段是特别隐秘的花样特别多像什么像病毒渗透生活的各个角落所以就强调了这种渗透性是有空子就钻无处不在那这里面无孔不入他就是多含典易了好再来看这个铺天盖地铺天盖地也是中性的也可以贬义它是形容这个事物到处都是那么少数也可以形容传播的范围大",
+  "segments": [
+    {
+      "text": "来人的广告，到处都是，这里面就选自于他的贬义了，所以铺天盖地，大家记住啊，第一点，中性，也可贬义�这是感情色彩，第二点，他除了表示传播以外，更多的形容是什么，形容的是这个东西，到处都是，明白了吧，再来看道听途说，道听途说，是从道上听来的，能让人相信吗，不能，对不，",
+      "start": 0.0,
+      "end": 30.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0887,
+      "compression_ratio": 1.4296
+    },
+    {
+      "text": "所以它是形容来源不靠谱",
+      "start": 30.0,
+      "end": 33.4,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1528,
+      "compression_ratio": 1.359
+    },
+    {
+      "text": "不可靠",
+      "start": 33.4,
+      "end": 34.24,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1528,
+      "compression_ratio": 1.359
+    },
+    {
+      "text": "没有经过亲眼的验证",
+      "start": 34.24,
+      "end": 36.82,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1528,
+      "compression_ratio": 1.359
+    },
+    {
+      "text": "所以你就记这个来源是不靠谱的",
+      "start": 36.82,
+      "end": 40.04,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1528,
+      "compression_ratio": 1.359
+    },
+    {
+      "text": "好再来看这个啊",
+      "start": 40.04,
+      "end": 41.92,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1528,
+      "compression_ratio": 1.359
+    },
+    {
+      "text": "接谈相义",
+      "start": 41.92,
+      "end": 43.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1528,
+      "compression_ratio": 1.359
+    },
+    {
+      "text": "一个谈也是一个义",
+      "start": 43.06,
+      "end": 44.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1528,
+      "compression_ratio": 1.359
+    },
+    {
+      "text": "就是百姓在街头上议论纷纷",
+      "start": 44.72,
+      "end": 48.74,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1528,
+      "compression_ratio": 1.359
+    },
+    {
+      "text": "形容什么呢",
+      "start": 48.74,
+      "end": 50.08,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1528,
+      "compression_ratio": 1.359
+    },
+    {
+      "text": "就是大街小巷里",
+      "start": 50.08,
+      "end": 51.58,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1528,
+      "compression_ratio": 1.359
+    },
+    {
+      "text": "老百姓私下闲聊的这种场景",
+      "start": 51.58,
+      "end": 54.620000000000005,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1528,
+      "compression_ratio": 1.359
+    },
+    {
+      "text": "这叫做接谈相义",
+      "start": 54.620000000000005,
+      "end": 56.760000000000005,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1528,
+      "compression_ratio": 1.359
+    },
+    {
+      "text": "好最后",
+      "start": 56.760000000000005,
+      "end": 57.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1528,
+      "compression_ratio": 1.359
+    },
+    {
+      "text": "拜官也使",
+      "start": 57.5,
+      "end": 58.86,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1528,
+      "compression_ratio": 1.359
+    },
+    {
+      "text": "拜官野史",
+      "start": 58.86,
+      "end": 60.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1993,
+      "compression_ratio": 1.4492
+    },
+    {
+      "text": "一个野史就告诉我们了",
+      "start": 60.06,
+      "end": 61.64,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1993,
+      "compression_ratio": 1.4492
+    },
+    {
+      "text": "它不是正史",
+      "start": 61.64,
+      "end": 62.48,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1993,
+      "compression_ratio": 1.4492
+    },
+    {
+      "text": "对不对",
+      "start": 62.48,
+      "end": 63.24,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1993,
+      "compression_ratio": 1.4492
+    },
+    {
+      "text": "这个野史是斯家记载的",
+      "start": 63.24,
+      "end": 66.28,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1993,
+      "compression_ratio": 1.4492
+    },
+    {
+      "text": "这种一文锁事",
+      "start": 66.28,
+      "end": 67.96,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1993,
+      "compression_ratio": 1.4492
+    },
+    {
+      "text": "然后你就记",
+      "start": 67.96,
+      "end": 69.7,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1993,
+      "compression_ratio": 1.4492
+    },
+    {
+      "text": "它是指什么",
+      "start": 69.7,
+      "end": 70.62,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1993,
+      "compression_ratio": 1.4492
+    },
+    {
+      "text": "古代的民间的一些小说",
+      "start": 70.62,
+      "end": 73.28,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1993,
+      "compression_ratio": 1.4492
+    },
+    {
+      "text": "或者是民间流传的一文锁事",
+      "start": 73.28,
+      "end": 76.16,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1993,
+      "compression_ratio": 1.4492
+    },
+    {
+      "text": "它不是官方的",
+      "start": 76.16,
+      "end": 78.02,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1993,
+      "compression_ratio": 1.4492
+    },
+    {
+      "text": "它非官方",
+      "start": 78.02,
+      "end": 79.24,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1993,
+      "compression_ratio": 1.4492
+    },
+    {
+      "text": "好吧",
+      "start": 79.24,
+      "end": 79.76,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1993,
+      "compression_ratio": 1.4492
+    },
+    {
+      "text": "好",
+      "start": 79.76,
+      "end": 80.36,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1993,
+      "compression_ratio": 1.4492
+    },
+    {
+      "text": "大家来看一下这个例子",
+      "start": 80.36,
+      "end": 82.46000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1993,
+      "compression_ratio": 1.4492
+    },
+    {
+      "text": "看以讹传讹",
+      "start": 82.46000000000001,
+      "end": 83.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1993,
+      "compression_ratio": 1.4492
+    },
+    {
+      "text": "以讹传讹呢",
+      "start": 83.72,
+      "end": 85.2,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1993,
+      "compression_ratio": 1.4492
+    },
+    {
+      "text": "大部分说的是谣言",
+      "start": 85.2,
+      "end": 87.66,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1993,
+      "compression_ratio": 1.4492
+    },
+    {
+      "text": "说什么",
+      "start": 87.66,
+      "end": 88.36,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1993,
+      "compression_ratio": 1.4492
+    },
+    {
+      "text": "当用户询问老人坐火车的时候",
+      "start": 88.36,
+      "end": 91.52,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0863,
+      "compression_ratio": 1.3147
+    },
+    {
+      "text": "是否有新规",
+      "start": 91.52,
+      "end": 92.34,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0863,
+      "compression_ratio": 1.3147
+    },
+    {
+      "text": "部分大模型以讹传讹",
+      "start": 92.34,
+      "end": 94.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0863,
+      "compression_ratio": 1.3147
+    },
+    {
+      "text": "继续扩散虚假的信息",
+      "start": 94.72,
+      "end": 97.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0863,
+      "compression_ratio": 1.3147
+    },
+    {
+      "text": "那这些汇老服务进步核查发现在AI的内容当中",
+      "start": 97.72,
+      "end": 101.9,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0863,
+      "compression_ratio": 1.3147
+    },
+    {
+      "text": "也包括了铁路部分的已经落地的汇老服务",
+      "start": 101.9,
+      "end": 106.44,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0863,
+      "compression_ratio": 1.3147
+    },
+    {
+      "text": "只不过是AI在生成的时候",
+      "start": 106.44,
+      "end": 108.68,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0863,
+      "compression_ratio": 1.3147
+    },
+    {
+      "text": "将虚构的与真实的混杂在一起了",
+      "start": 108.68,
+      "end": 111.03999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0863,
+      "compression_ratio": 1.3147
+    },
+    {
+      "text": "以及将错误的信息以讹传讹的这种现象",
+      "start": 111.03999999999999,
+      "end": 115.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0863,
+      "compression_ratio": 1.3147
+    },
+    {
+      "text": "应该引起开发者的注意",
+      "start": 115.5,
+      "end": 117.44,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0863,
+      "compression_ratio": 1.3147
+    },
+    {
+      "text": "这个第一的这个",
+      "start": 117.44,
+      "end": 119.78,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2164,
+      "compression_ratio": 1.248
+    },
+    {
+      "text": "这个啊",
+      "start": 119.78,
+      "end": 120.53999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2164,
+      "compression_ratio": 1.248
+    },
+    {
+      "text": "他给到我们是什么",
+      "start": 120.53999999999999,
+      "end": 121.75999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2164,
+      "compression_ratio": 1.248
+    },
+    {
+      "text": "是AI的大模型",
+      "start": 121.75999999999999,
+      "end": 123.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2164,
+      "compression_ratio": 1.248
+    },
+    {
+      "text": "在回答老年",
+      "start": 123.56,
+      "end": 125.03999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2164,
+      "compression_ratio": 1.248
+    },
+    {
+      "text": "程彻问题的时候",
+      "start": 125.03999999999999,
+      "end": 126.3,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2164,
+      "compression_ratio": 1.248
+    },
+    {
+      "text": "把虚假的",
+      "start": 126.3,
+      "end": 127.8,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2164,
+      "compression_ratio": 1.248
+    },
+    {
+      "text": "对吧",
+      "start": 127.8,
+      "end": 128.52,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2164,
+      "compression_ratio": 1.248
+    },
+    {
+      "text": "和真实的混杂生成了",
+      "start": 128.52,
+      "end": 131.16,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2164,
+      "compression_ratio": 1.248
+    },
+    {
+      "text": "进一步扩散了",
+      "start": 131.16,
+      "end": 133.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2164,
+      "compression_ratio": 1.248
+    },
+    {
+      "text": "不实的谣言",
+      "start": 133.0,
+      "end": 134.94,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2164,
+      "compression_ratio": 1.248
+    },
+    {
+      "text": "越传越错",
+      "start": 134.94,
+      "end": 137.66,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2164,
+      "compression_ratio": 1.248
+    },
+    {
+      "text": "误导了大众",
+      "start": 137.66,
+      "end": 138.46,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2164,
+      "compression_ratio": 1.248
+    },
+    {
+      "text": "又以讹传讹来形容",
+      "start": 138.46,
+      "end": 140.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2164,
+      "compression_ratio": 1.248
+    },
+    {
+      "text": "对不对",
+      "start": 140.32,
+      "end": 140.8,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2164,
+      "compression_ratio": 1.248
+    },
+    {
+      "text": "好再来看这个例子啊",
+      "start": 140.8,
+      "end": 142.42,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2164,
+      "compression_ratio": 1.248
+    },
+    {
+      "text": "说工作人员表示",
+      "start": 142.42,
+      "end": 143.92,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2164,
+      "compression_ratio": 1.248
+    },
+    {
+      "text": "嗯",
+      "start": 143.92,
+      "end": 145.16,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2164,
+      "compression_ratio": 1.248
+    },
+    {
+      "text": "怎么了",
+      "start": 145.16,
+      "end": 145.68,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2164,
+      "compression_ratio": 1.248
+    },
+    {
+      "text": "我看一下",
+      "start": 145.68,
+      "end": 146.24,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2164,
+      "compression_ratio": 1.248
+    },
+    {
+      "text": "我这个消息一下顿了啊",
+      "start": 146.24,
+      "end": 150.02,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2142,
+      "compression_ratio": 1.276
+    },
+    {
+      "text": "嗯",
+      "start": 150.02,
+      "end": 150.18,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2142,
+      "compression_ratio": 1.276
+    },
+    {
+      "text": "嗯",
+      "start": 150.18,
+      "end": 153.20000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2142,
+      "compression_ratio": 1.276
+    },
+    {
+      "text": "怎么了",
+      "start": 153.20000000000002,
+      "end": 153.54000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2142,
+      "compression_ratio": 1.276
+    },
+    {
+      "text": "没事吧",
+      "start": 153.54000000000002,
+      "end": 154.22,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2142,
+      "compression_ratio": 1.276
+    },
+    {
+      "text": "我看大家都是画问号",
+      "start": 154.22,
+      "end": 156.86,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2142,
+      "compression_ratio": 1.276
+    },
+    {
+      "text": "嗯",
+      "start": 156.86,
+      "end": 158.16,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2142,
+      "compression_ratio": 1.276
+    },
+    {
+      "text": "好",
+      "start": 158.16,
+      "end": 159.70000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2142,
+      "compression_ratio": 1.276
+    },
+    {
+      "text": "然后再来看第二",
+      "start": 159.70000000000002,
+      "end": 161.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2142,
+      "compression_ratio": 1.276
+    },
+    {
+      "text": "第二的这个题啊",
+      "start": 161.0,
+      "end": 162.36,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2142,
+      "compression_ratio": 1.276
+    },
+    {
+      "text": "说呃",
+      "start": 162.36,
+      "end": 163.44,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2142,
+      "compression_ratio": 1.276
+    },
+    {
+      "text": "工作人员表示",
+      "start": 163.44,
+      "end": 164.42000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2142,
+      "compression_ratio": 1.276
+    },
+    {
+      "text": "网上关于他取消男厕所的这个说法完全是什么",
+      "start": 164.42000000000002,
+      "end": 168.86,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2142,
+      "compression_ratio": 1.276
+    },
+    {
+      "text": "完全是谣言",
+      "start": 168.86,
+      "end": 170.8,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2142,
+      "compression_ratio": 1.276
+    },
+    {
+      "text": "对不对",
+      "start": 170.8,
+      "end": 171.24,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2142,
+      "compression_ratio": 1.276
+    },
+    {
+      "text": "也有一些网友没了解真相",
+      "start": 171.24,
+      "end": 173.64000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2142,
+      "compression_ratio": 1.276
+    },
+    {
+      "text": "以讹传讹",
+      "start": 173.64000000000001,
+      "end": 174.36,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2142,
+      "compression_ratio": 1.276
+    },
+    {
+      "text": "我们最近也收到了这种骚扰",
+      "start": 174.36,
+      "end": 176.66000000000003,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1067,
+      "compression_ratio": 1.3646
+    },
+    {
+      "text": "包括什么私信啊",
+      "start": 176.66000000000003,
+      "end": 178.22000000000003,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1067,
+      "compression_ratio": 1.3646
+    },
+    {
+      "text": "电话呀",
+      "start": 178.22000000000003,
+      "end": 178.94000000000003,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1067,
+      "compression_ratio": 1.3646
+    },
+    {
+      "text": "真诚的建议",
+      "start": 178.94000000000003,
+      "end": 179.82000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1067,
+      "compression_ratio": 1.3646
+    },
+    {
+      "text": "我们绝对听",
+      "start": 179.82000000000002,
+      "end": 180.96,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1067,
+      "compression_ratio": 1.3646
+    },
+    {
+      "text": "这个不就是网传商场取消难搜索",
+      "start": 180.96,
+      "end": 184.62,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1067,
+      "compression_ratio": 1.3646
+    },
+    {
+      "text": "这个事儿它是假的",
+      "start": 184.62,
+      "end": 187.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1067,
+      "compression_ratio": 1.3646
+    },
+    {
+      "text": "那不少网友就不明真相的跟风转发了",
+      "start": 187.06,
+      "end": 190.22000000000003,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1067,
+      "compression_ratio": 1.3646
+    },
+    {
+      "text": "这种行为就是谣言越传越错",
+      "start": 190.22000000000003,
+      "end": 193.66000000000003,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1067,
+      "compression_ratio": 1.3646
+    },
+    {
+      "text": "我们可以用以讹传讹",
+      "start": 193.66000000000003,
+      "end": 195.52,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1067,
+      "compression_ratio": 1.3646
+    },
+    {
+      "text": "对吧",
+      "start": 195.52,
+      "end": 196.10000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1067,
+      "compression_ratio": 1.3646
+    },
+    {
+      "text": "哎",
+      "start": 196.10000000000002,
+      "end": 196.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1067,
+      "compression_ratio": 1.3646
+    },
+    {
+      "text": "这两件事儿就体现了将错误的信息",
+      "start": 196.56,
+      "end": 199.72000000000003,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1067,
+      "compression_ratio": 1.3646
+    },
+    {
+      "text": "谣言经过不断转述",
+      "start": 199.72000000000003,
+      "end": 201.82000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1067,
+      "compression_ratio": 1.3646
+    },
+    {
+      "text": "持续扩散的这种现象",
+      "start": 201.82000000000002,
+      "end": 203.74,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1067,
+      "compression_ratio": 1.3646
+    },
+    {
+      "text": "那么这种现象在过程当中失真了",
+      "start": 203.74,
+      "end": 207.02,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1138,
+      "compression_ratio": 1.3976
+    },
+    {
+      "text": "就是越传越错",
+      "start": 207.02,
+      "end": 208.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1138,
+      "compression_ratio": 1.3976
+    },
+    {
+      "text": "用以讹传讹",
+      "start": 208.56,
+      "end": 210.10000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1138,
+      "compression_ratio": 1.3976
+    },
+    {
+      "text": "好再来看五孔不入",
+      "start": 210.10000000000002,
+      "end": 211.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1138,
+      "compression_ratio": 1.3976
+    },
+    {
+      "text": "五孔不入就是指到处的渗透钻空子",
+      "start": 211.72,
+      "end": 215.86,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1138,
+      "compression_ratio": 1.3976
+    },
+    {
+      "text": "他有点中性偏扁",
+      "start": 215.86,
+      "end": 217.52,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1138,
+      "compression_ratio": 1.3976
+    },
+    {
+      "text": "来看这个例子",
+      "start": 217.52,
+      "end": 219.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1138,
+      "compression_ratio": 1.3976
+    },
+    {
+      "text": "说当手机中碎片化娱乐化的信息",
+      "start": 219.0,
+      "end": 223.18,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1138,
+      "compression_ratio": 1.3976
+    },
+    {
+      "text": "五孔不入的侵入我们生活时",
+      "start": 223.18,
+      "end": 226.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1138,
+      "compression_ratio": 1.3976
+    },
+    {
+      "text": "来大家看",
+      "start": 226.06,
+      "end": 226.98000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1138,
+      "compression_ratio": 1.3976
+    },
+    {
+      "text": "首先你看到了碎片化娱乐化的这种信息",
+      "start": 226.98000000000002,
+      "end": 230.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1138,
+      "compression_ratio": 1.3976
+    },
+    {
+      "text": "这样的一个形容词",
+      "start": 230.88,
+      "end": 232.48000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1138,
+      "compression_ratio": 1.3976
+    },
+    {
+      "text": "他就是不是一个很好的信息",
+      "start": 232.48,
+      "end": 234.51999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0878,
+      "compression_ratio": 1.4717
+    },
+    {
+      "text": "碎片化就是不是完整的",
+      "start": 234.51999999999998,
+      "end": 237.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0878,
+      "compression_ratio": 1.4717
+    },
+    {
+      "text": "对吧",
+      "start": 237.5,
+      "end": 237.95999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0878,
+      "compression_ratio": 1.4717
+    },
+    {
+      "text": "比如说一些短视频呢",
+      "start": 237.95999999999998,
+      "end": 239.29999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0878,
+      "compression_ratio": 1.4717
+    },
+    {
+      "text": "有一些几秒当中的这种视频呢",
+      "start": 239.29999999999998,
+      "end": 241.95999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0878,
+      "compression_ratio": 1.4717
+    },
+    {
+      "text": "这种信息",
+      "start": 241.95999999999998,
+      "end": 242.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0878,
+      "compression_ratio": 1.4717
+    },
+    {
+      "text": "那么他本身不好",
+      "start": 242.88,
+      "end": 244.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0878,
+      "compression_ratio": 1.4717
+    },
+    {
+      "text": "而且他说侵入",
+      "start": 244.56,
+      "end": 245.73999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0878,
+      "compression_ratio": 1.4717
+    },
+    {
+      "text": "侵入这个词就有强行侵占",
+      "start": 245.73999999999998,
+      "end": 248.98,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0878,
+      "compression_ratio": 1.4717
+    },
+    {
+      "text": "不受欢迎的负面色彩",
+      "start": 248.98,
+      "end": 250.73999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0878,
+      "compression_ratio": 1.4717
+    },
+    {
+      "text": "所以这种内容",
+      "start": 250.73999999999998,
+      "end": 252.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0878,
+      "compression_ratio": 1.4717
+    },
+    {
+      "text": "他就是一个杂乱的一些不好的内容",
+      "start": 252.5,
+      "end": 255.23999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0878,
+      "compression_ratio": 1.4717
+    },
+    {
+      "text": "那么随时随地侵占人们的生活的方方面面",
+      "start": 255.23999999999998,
+      "end": 259.78,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0878,
+      "compression_ratio": 1.4717
+    },
+    {
+      "text": "没有一处可以避开",
+      "start": 259.78,
+      "end": 261.52,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0878,
+      "compression_ratio": 1.4717
+    },
+    {
+      "text": "所以用无孔不入",
+      "start": 261.52,
+      "end": 262.94,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1131,
+      "compression_ratio": 1.3819
+    },
+    {
+      "text": "再来看这个第二这个题",
+      "start": 262.94,
+      "end": 264.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1131,
+      "compression_ratio": 1.3819
+    },
+    {
+      "text": "说电信网络诈骗也如病毒般迭代升级",
+      "start": 264.84,
+      "end": 269.2,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1131,
+      "compression_ratio": 1.3819
+    },
+    {
+      "text": "无孔不入",
+      "start": 269.2,
+      "end": 270.41999999999996,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1131,
+      "compression_ratio": 1.3819
+    },
+    {
+      "text": "电信诈骗的手段是特别隐秘的",
+      "start": 270.41999999999996,
+      "end": 274.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1131,
+      "compression_ratio": 1.3819
+    },
+    {
+      "text": "花样特别多",
+      "start": 274.32,
+      "end": 275.26,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1131,
+      "compression_ratio": 1.3819
+    },
+    {
+      "text": "像什么",
+      "start": 275.26,
+      "end": 275.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1131,
+      "compression_ratio": 1.3819
+    },
+    {
+      "text": "像病毒渗透生活的各个角落",
+      "start": 275.84,
+      "end": 278.79999999999995,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1131,
+      "compression_ratio": 1.3819
+    },
+    {
+      "text": "所以就强调了这种渗透性是有空子就钻",
+      "start": 278.79999999999995,
+      "end": 282.85999999999996,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1131,
+      "compression_ratio": 1.3819
+    },
+    {
+      "text": "无处不在",
+      "start": 282.85999999999996,
+      "end": 284.15999999999997,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1131,
+      "compression_ratio": 1.3819
+    },
+    {
+      "text": "那这里面无孔不入",
+      "start": 284.15999999999997,
+      "end": 285.96,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1131,
+      "compression_ratio": 1.3819
+    },
+    {
+      "text": "他就是多含典易了",
+      "start": 285.96,
+      "end": 287.53999999999996,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1131,
+      "compression_ratio": 1.3819
+    },
+    {
+      "text": "好",
+      "start": 287.53999999999996,
+      "end": 288.44,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1131,
+      "compression_ratio": 1.3819
+    },
+    {
+      "text": "再来看这个铺天盖地",
+      "start": 288.44,
+      "end": 290.18,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1131,
+      "compression_ratio": 1.3819
+    },
+    {
+      "text": "铺天盖地也是中性的",
+      "start": 290.18,
+      "end": 292.46,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1552,
+      "compression_ratio": 1.0424
+    },
+    {
+      "text": "也可以贬义",
+      "start": 292.46,
+      "end": 293.7,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1552,
+      "compression_ratio": 1.0424
+    },
+    {
+      "text": "它是形容这个事物到处都是",
+      "start": 293.7,
+      "end": 296.74,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1552,
+      "compression_ratio": 1.0424
+    },
+    {
+      "text": "那么少数也可以形容传播的范围大",
+      "start": 296.74,
+      "end": 299.7,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1552,
+      "compression_ratio": 1.0424
+    }
+  ],
+  "index": 3,
+  "start": 900.0,
+  "duration": 300,
+  "elapsed": 31.4,
+  "ok": true
+}

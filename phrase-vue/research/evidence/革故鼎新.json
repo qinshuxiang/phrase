@@ -1,0 +1,70 @@
+{
+    "word": "革故鼎新",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%9D%A9%E6%95%85%E9%BC%8E%E6%96%B0",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "e1d1e8ced2c686f8ede9092f28038c17f102814a523c7399ab0a3d3e2fb8453c",
+        "bytes": 28963
+    },
+    "parsed": {
+        "found": true,
+        "word": "革故鼎新",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "gé",
+                "gù",
+                "dǐng",
+                "xīn"
+            ],
+            "zhuyin": [
+                "ㄍㄜˊ",
+                "ㄍㄨˋ",
+                "ㄉㄧㄥˇ",
+                "ㄒㄧㄣ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "革除旧弊,创立新制",
+                "citations": [
+                    {
+                        "text": "夫以革故鼎新,大来小往,得丧而不形于色,进退而不失其正者,鲜矣。",
+                        "source": "唐·张说《梁国公姚崇神道碑》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "夫以革故鼎新,大来小往,得丧而不形于色,进退而不失其正者,鲜矣。",
+                "source": "唐·张说《梁国公姚崇神道碑》"
+            }
+        ],
+        "synonyms": [
+            "除旧布新",
+            "吐故纳新",
+            "改弦易辙",
+            "除旧更新"
+        ],
+        "antonyms": [
+            "陈陈相因",
+            "抱残守缺",
+            "因循守旧"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "discard the old ways of life in favor of the new"
+    },
+    "blocks": {
+        "reading": "gé gù dǐng xīn",
+        "sense-1": "革除旧弊,创立新制",
+        "citation-1": "夫以革故鼎新,大来小往,得丧而不形于色,进退而不失其正者,鲜矣。 — 唐·张说《梁国公姚崇神道碑》",
+        "synonyms": "除旧布新、吐故纳新、改弦易辙、除旧更新",
+        "antonyms": "陈陈相因、抱残守缺、因循守旧"
+    }
+}

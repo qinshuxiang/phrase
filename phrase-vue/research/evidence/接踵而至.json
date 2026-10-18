@@ -1,0 +1,80 @@
+{
+    "word": "接踵而至",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%8E%A5%E8%B8%B5%E8%80%8C%E8%87%B3",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "a5562c1e5468032f209c86ec9d97584cd9b1a1e91cfe593fb5c32aa2c66d2216",
+        "bytes": 30393
+    },
+    "parsed": {
+        "found": true,
+        "word": "接踵而至",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jiē",
+                "zhǒng",
+                "ér",
+                "zhì"
+            ],
+            "zhuyin": [
+                "ㄐㄧㄝ",
+                "ㄓㄨㄥˇ",
+                "ㄦˊ",
+                "ㄓˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容人或事物连续不断地到来。",
+                "citations": [
+                    {
+                        "text": "李嗣源军行五日至大梁，王瓚开门迎降。是日唐主大军接踵而至。",
+                        "source": "《新编五代史平话·唐史下》"
+                    },
+                    {
+                        "text": "当此内忧外患，接踵而来，老夫子系天下人望，我倒可惜他多此一段闲情逸致！",
+                        "source": "清·曾朴《孽海花》第二五回"
+                    }
+                ]
+            },
+            {
+                "definition": "见“ 接踵而至",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "李嗣源军行五日至大梁，王瓚开门迎降。是日唐主大军接踵而至。",
+                "source": "《新编五代史平话·唐史下》"
+            },
+            {
+                "text": "当此内忧外患，接踵而来，老夫子系天下人望，我倒可惜他多此一段闲情逸致！",
+                "source": "清·曾朴《孽海花》第二五回"
+            }
+        ],
+        "synonyms": [
+            "联翩而至",
+            "川流不息",
+            "接二连三",
+            "纷至沓来",
+            "络绎不绝"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "follow hard upon"
+    },
+    "blocks": {
+        "reading": "jiē zhǒng ér zhì",
+        "sense-1": "形容人或事物连续不断地到来。",
+        "sense-2": "见“ 接踵而至",
+        "citation-1": "李嗣源军行五日至大梁，王瓚开门迎降。是日唐主大军接踵而至。 — 《新编五代史平话·唐史下》",
+        "citation-2": "当此内忧外患，接踵而来，老夫子系天下人望，我倒可惜他多此一段闲情逸致！ — 清·曾朴《孽海花》第二五回",
+        "synonyms": "联翩而至、川流不息、接二连三、纷至沓来、络绎不绝"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "word": "分庭抗礼",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%88%86%E5%BA%AD%E6%8A%97%E7%A4%BC",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "5bc4ce3411e046158ecf0599611ee246e85fb9786a81f69740a6134835d2f477",
+        "bytes": 27924
+    },
+    "parsed": {
+        "found": true,
+        "word": "分庭抗礼",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "fēn",
+                "tíng",
+                "kàng",
+                "lǐ"
+            ],
+            "zhuyin": [
+                "ㄈㄣ",
+                "ㄊㄧㄥˊ",
+                "ㄎㄤˋ",
+                "ㄌㄧˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "古代宾主相见时，以平等礼节相对待。",
+                "citations": [
+                    {
+                        "text": "万乘之主，千乘之君，见夫子未尝不分庭伉礼。",
+                        "source": "《庄子·渔父》"
+                    },
+                    {
+                        "text": "课其实录，则豫章、仆射，宜分庭抗礼。",
+                        "source": "南朝梁·钟嵘《诗品》"
+                    }
+                ]
+            },
+            {
+                "definition": "彼此地位相当或势力相抗衡。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "万乘之主，千乘之君，见夫子未尝不分庭伉礼。",
+                "source": "《庄子·渔父》"
+            },
+            {
+                "text": "课其实录，则豫章、仆射，宜分庭抗礼。",
+                "source": "南朝梁·钟嵘《诗品》"
+            }
+        ],
+        "synonyms": [
+            "平分秋色",
+            "平起平坐"
+        ],
+        "antonyms": [
+            "和衷共济",
+            "和衷共济﹑自甘雌伏"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "stand up to sb. as an equal"
+    },
+    "blocks": {
+        "reading": "fēn tíng kàng lǐ",
+        "sense-1": "古代宾主相见时，以平等礼节相对待。",
+        "sense-2": "彼此地位相当或势力相抗衡。",
+        "citation-1": "万乘之主，千乘之君，见夫子未尝不分庭伉礼。 — 《庄子·渔父》",
+        "citation-2": "课其实录，则豫章、仆射，宜分庭抗礼。 — 南朝梁·钟嵘《诗品》",
+        "synonyms": "平分秋色、平起平坐",
+        "antonyms": "和衷共济、和衷共济﹑自甘雌伏"
+    }
+}

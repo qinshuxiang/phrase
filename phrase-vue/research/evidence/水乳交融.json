@@ -1,0 +1,71 @@
+{
+    "word": "水乳交融",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%B0%B4%E4%B9%B3%E4%BA%A4%E8%9E%8D",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "a3f1914a740f8a802c1f0c3f9fde88b64ce5a74d5d39e8d87103636e21af7165",
+        "bytes": 28742
+    },
+    "parsed": {
+        "found": true,
+        "word": "水乳交融",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shuǐ",
+                "rǔ",
+                "jiāo",
+                "róng"
+            ],
+            "zhuyin": [
+                "ㄕㄨㄟˇ",
+                "ㄖㄨˇ",
+                "ㄐㄧㄠ",
+                "ㄖㄨㄥˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "像水和乳汁那样融合在一起,比喻关系非常融洽或结合得很紧密",
+                "citations": [
+                    {
+                        "text": "我们和这一切古老而又新鲜的东西异常水乳交融。",
+                        "source": "《花城》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "我们和这一切古老而又新鲜的东西异常水乳交融。",
+                "source": "《花城》"
+            }
+        ],
+        "synonyms": [
+            "浑然一体",
+            "难分难解",
+            "胶漆相投",
+            "如胶似漆",
+            "似漆如胶"
+        ],
+        "antonyms": [
+            "若即若离",
+            "格格不入",
+            "针锋相对"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "as well blended as milk and water"
+    },
+    "blocks": {
+        "reading": "shuǐ rǔ jiāo róng",
+        "sense-1": "像水和乳汁那样融合在一起,比喻关系非常融洽或结合得很紧密",
+        "citation-1": "我们和这一切古老而又新鲜的东西异常水乳交融。 — 《花城》",
+        "synonyms": "浑然一体、难分难解、胶漆相投、如胶似漆、似漆如胶",
+        "antonyms": "若即若离、格格不入、针锋相对"
+    }
+}

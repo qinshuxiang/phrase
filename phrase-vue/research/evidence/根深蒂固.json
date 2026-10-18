@@ -1,0 +1,60 @@
+{
+    "word": "根深蒂固",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%A0%B9%E6%B7%B1%E8%92%82%E5%9B%BA",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "0bc1d3c0a8bfbf776eac21832ec2bde7416b8c9b3a9b3dfc782dadc869e9fa42",
+        "bytes": 28148
+    },
+    "parsed": {
+        "found": true,
+        "word": "根深蒂固",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "gēn",
+                "shēn",
+                "dì",
+                "gù"
+            ],
+            "zhuyin": [
+                "ㄍㄣ",
+                "ㄕㄣ",
+                "ㄉㄧˋ",
+                "ㄍㄨˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "根基牢固,不可动摇",
+                "citations": []
+            },
+            {
+                "definition": "已变成性格的中心,难于或不能改变、减少或消灭",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "坚不可摧",
+            "积重难返"
+        ],
+        "antonyms": [
+            "摇摇欲坠"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "fast;firm;durable"
+    },
+    "blocks": {
+        "reading": "gēn shēn dì gù",
+        "sense-1": "根基牢固,不可动摇",
+        "sense-2": "已变成性格的中心,难于或不能改变、减少或消灭",
+        "synonyms": "坚不可摧、积重难返",
+        "antonyms": "摇摇欲坠"
+    }
+}

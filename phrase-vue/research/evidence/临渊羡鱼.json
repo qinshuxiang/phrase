@@ -1,0 +1,62 @@
+{
+    "word": "临渊羡鱼",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%B4%E6%B8%8A%E7%BE%A1%E9%B1%BC",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "02d3a9d4cf061a0b79cca7eceaed7775a13b59e1f8768561d2b31dffdcaf5139",
+        "bytes": 26323
+    },
+    "parsed": {
+        "found": true,
+        "word": "临渊羡鱼",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "lín",
+                "yuān",
+                "xiàn",
+                "yú"
+            ],
+            "zhuyin": [
+                "ㄌㄧㄣˊ",
+                "ㄩㄢ",
+                "ㄒㄧㄢˋ",
+                "ㄩˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "站在水边想得到鱼。比喻只有愿望而无实际行动。",
+                "citations": [
+                    {
+                        "text": "临渊羡鱼，不如退而结网。",
+                        "source": "汉·班固《汉书·董仲舒传》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "临渊羡鱼，不如退而结网。",
+                "source": "汉·班固《汉书·董仲舒传》"
+            }
+        ],
+        "synonyms": [
+            "临河羡鱼"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "covet fish by the waterside"
+    },
+    "blocks": {
+        "reading": "lín yuān xiàn yú",
+        "sense-1": "站在水边想得到鱼。比喻只有愿望而无实际行动。",
+        "citation-1": "临渊羡鱼，不如退而结网。 — 汉·班固《汉书·董仲舒传》",
+        "synonyms": "临河羡鱼"
+    }
+}

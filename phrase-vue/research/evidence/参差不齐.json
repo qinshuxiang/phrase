@@ -1,0 +1,73 @@
+{
+    "word": "参差不齐",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%8F%82%E5%B7%AE%E4%B8%8D%E9%BD%90",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "1666c3fe84b683a3a9fd96c228c070a72546e10b10005c9cdf5ab0591edd73fe",
+        "bytes": 27470
+    },
+    "parsed": {
+        "found": true,
+        "word": "参差不齐",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "cēn",
+                "cī",
+                "bù",
+                "qí"
+            ],
+            "zhuyin": [
+                "ㄘㄣ",
+                "ㄘ",
+                "ㄅㄨˋ",
+                "ㄑㄧˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "长短高低不一致。",
+                "citations": [
+                    {
+                        "text": "仲尼以来，国君将相，卿士名臣，参差不齐，壹概诸圣。",
+                        "source": "《汉书·扬雄传下》"
+                    },
+                    {
+                        "text": "又何独疑兹肤之奇诡，与人之贤不肖、寿夭、贵贱参差不齐者哉。",
+                        "source": "唐·柳宗元《复吴子松说》"
+                    }
+                ]
+            },
+            {
+                "definition": "事物排列不整齐。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "仲尼以来，国君将相，卿士名臣，参差不齐，壹概诸圣。",
+                "source": "《汉书·扬雄传下》"
+            },
+            {
+                "text": "又何独疑兹肤之奇诡，与人之贤不肖、寿夭、贵贱参差不齐者哉。",
+                "source": "唐·柳宗元《复吴子松说》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "uneven"
+    },
+    "blocks": {
+        "reading": "cēn cī bù qí",
+        "sense-1": "长短高低不一致。",
+        "sense-2": "事物排列不整齐。",
+        "citation-1": "仲尼以来，国君将相，卿士名臣，参差不齐，壹概诸圣。 — 《汉书·扬雄传下》",
+        "citation-2": "又何独疑兹肤之奇诡，与人之贤不肖、寿夭、贵贱参差不齐者哉。 — 唐·柳宗元《复吴子松说》"
+    }
+}

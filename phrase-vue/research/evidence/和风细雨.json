@@ -1,0 +1,73 @@
+{
+    "word": "和风细雨",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%92%8C%E9%A3%8E%E7%BB%86%E9%9B%A8",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "bac346077c28c3de1a5702be69548357c093bc4b9f9ae341eb899387a3eccd07",
+        "bytes": 26504
+    },
+    "parsed": {
+        "found": true,
+        "word": "和风细雨",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "hé",
+                "fēng",
+                "xì",
+                "yǔ"
+            ],
+            "zhuyin": [
+                "ㄏㄜˊ",
+                "ㄈㄥ",
+                "ㄒㄧˋ",
+                "ㄩˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "温和的风和细小的雨。",
+                "citations": [
+                    {
+                        "text": "花阴转，重门闭，正不寒不暖，和风细雨，困人天气。",
+                        "source": "宋·张先《八宝装》词"
+                    }
+                ]
+            },
+            {
+                "definition": "比喻处事态度温和而不粗暴。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "花阴转，重门闭，正不寒不暖，和风细雨，困人天气。",
+                "source": "宋·张先《八宝装》词"
+            }
+        ],
+        "synonyms": [
+            "和颜悦色",
+            "温文尔雅"
+        ],
+        "antonyms": [
+            "咄咄逼人",
+            "暴风疾雨",
+            "暴风骤雨"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "gentle breeze and mild rain"
+    },
+    "blocks": {
+        "reading": "hé fēng xì yǔ",
+        "sense-1": "温和的风和细小的雨。",
+        "sense-2": "比喻处事态度温和而不粗暴。",
+        "citation-1": "花阴转，重门闭，正不寒不暖，和风细雨，困人天气。 — 宋·张先《八宝装》词",
+        "synonyms": "和颜悦色、温文尔雅",
+        "antonyms": "咄咄逼人、暴风疾雨、暴风骤雨"
+    }
+}

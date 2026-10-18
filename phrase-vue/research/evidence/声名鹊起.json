@@ -1,0 +1,59 @@
+{
+    "word": "声名鹊起",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A3%B0%E5%90%8D%E9%B9%8A%E8%B5%B7",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "a387475ded6f885affa867eaf1b8b6a65307479fc4354427a71f46ba093c45b4",
+        "bytes": 23792
+    },
+    "parsed": {
+        "found": true,
+        "word": "声名鹊起",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shēng",
+                "míng",
+                "què",
+                "qǐ"
+            ],
+            "zhuyin": [
+                "ㄕㄥ",
+                "ㄇㄧㄥˊ",
+                "ㄑㄩㄝˋ",
+                "ㄑㄧˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容名声迅速提升。",
+                "citations": [
+                    {
+                        "text": "先在徐班，以年未五十，故无所表见，至洪班则声名鹊起，班中人称为戏忠臣。",
+                        "source": "清·李斗《扬州画舫录·新城北录下》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "先在徐班，以年未五十，故无所表见，至洪班则声名鹊起，班中人称为戏忠臣。",
+                "source": "清·李斗《扬州画舫录·新城北录下》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "become famous"
+    },
+    "blocks": {
+        "reading": "shēng míng què qǐ",
+        "sense-1": "形容名声迅速提升。",
+        "citation-1": "先在徐班，以年未五十，故无所表见，至洪班则声名鹊起，班中人称为戏忠臣。 — 清·李斗《扬州画舫录·新城北录下》"
+    }
+}

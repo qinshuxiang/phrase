@@ -1,0 +1,59 @@
+{
+    "word": "雨后春笋",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%9B%A8%E5%90%8E%E6%98%A5%E7%AC%8B",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "1a118a477cb0281b49faebd156182b1f3f9cf8e35d05f6bdc04c98a74aea7657",
+        "bytes": 26618
+    },
+    "parsed": {
+        "found": true,
+        "word": "雨后春笋",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yǔ",
+                "hòu",
+                "chūn",
+                "sǔn"
+            ],
+            "zhuyin": [
+                "ㄩˇ",
+                "ㄏㄡˋ",
+                "ㄔㄨㄣ",
+                "ㄙㄨㄣˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "春雨过后快速生长的竹笋。比喻新生事物大量涌现，蓬勃发展。",
+                "citations": [
+                    {
+                        "text": "荒林春雨足，新笋迸龙雏。",
+                        "source": "宋·张耒《食笋》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "荒林春雨足，新笋迸龙雏。",
+                "source": "宋·张耒《食笋》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "bamboo shoots after spring rain"
+    },
+    "blocks": {
+        "reading": "yǔ hòu chūn sǔn",
+        "sense-1": "春雨过后快速生长的竹笋。比喻新生事物大量涌现，蓬勃发展。",
+        "citation-1": "荒林春雨足，新笋迸龙雏。 — 宋·张耒《食笋》"
+    }
+}

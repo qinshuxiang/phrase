@@ -1,0 +1,72 @@
+{
+    "word": "无与伦比",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%97%A0%E4%B8%8E%E4%BC%A6%E6%AF%94",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "951df49cbf407945e2730f98c705a26ecc2f89e83bb59837aa68eb3e02b19657",
+        "bytes": 28080
+    },
+    "parsed": {
+        "found": true,
+        "word": "无与伦比",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "wú",
+                "yǔ",
+                "lún",
+                "bǐ"
+            ],
+            "zhuyin": [
+                "ㄨˊ",
+                "ㄩˇ",
+                "ㄌㄨㄣˊ",
+                "ㄅㄧˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "没有能与之相比的。",
+                "citations": [
+                    {
+                        "text": "自秦汉已还，勋力之盛，无与伦比。",
+                        "source": "后晋·刘昫《旧唐书·郭子仪传》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "自秦汉已还，勋力之盛，无与伦比。",
+                "source": "后晋·刘昫《旧唐书·郭子仪传》"
+            }
+        ],
+        "synonyms": [
+            "前所未有",
+            "无可比拟",
+            "无可匹敌",
+            "无出其后"
+        ],
+        "antonyms": [
+            "不相上下",
+            "等量齐观",
+            "同日而语",
+            "相提并论",
+            "势均力敌"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "incomparable; unparalleled"
+    },
+    "blocks": {
+        "reading": "wú yǔ lún bǐ",
+        "sense-1": "没有能与之相比的。",
+        "citation-1": "自秦汉已还，勋力之盛，无与伦比。 — 后晋·刘昫《旧唐书·郭子仪传》",
+        "synonyms": "前所未有、无可比拟、无可匹敌、无出其后",
+        "antonyms": "不相上下、等量齐观、同日而语、相提并论、势均力敌"
+    }
+}

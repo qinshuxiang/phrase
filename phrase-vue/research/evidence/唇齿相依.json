@@ -1,0 +1,67 @@
+{
+    "word": "唇齿相依",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%94%87%E9%BD%BF%E7%9B%B8%E4%BE%9D",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "08b7bab380f476b944afd888a286fb6defb19f5b43041e8c773d3a95663270a0",
+        "bytes": 27595
+    },
+    "parsed": {
+        "found": true,
+        "word": "唇齿相依",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "chún",
+                "chǐ",
+                "xiāng",
+                "yī"
+            ],
+            "zhuyin": [
+                "ㄔㄨㄣˊ",
+                "ㄔˇ",
+                "ㄒㄧㄤ",
+                "ㄧ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "嘴唇和牙齿互相依靠。比喻互相依存,关系密切",
+                "citations": [
+                    {
+                        "text": "王师屡征而未有所克者,盖以",
+                        "source": "吴、蜀唇齿相依,凭阻山水,有难拔之势故也。——《三国志·魏书·鲍勋传》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "王师屡征而未有所克者,盖以",
+                "source": "吴、蜀唇齿相依,凭阻山水,有难拔之势故也。——《三国志·魏书·鲍勋传》"
+            }
+        ],
+        "synonyms": [
+            "唇亡齿寒",
+            "辅车相依"
+        ],
+        "antonyms": [
+            "不共戴天",
+            "势不两立"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "be closely related and mutually dependent like the lips and teeth"
+    },
+    "blocks": {
+        "reading": "chún chǐ xiāng yī",
+        "sense-1": "嘴唇和牙齿互相依靠。比喻互相依存,关系密切",
+        "citation-1": "王师屡征而未有所克者,盖以 — 吴、蜀唇齿相依,凭阻山水,有难拔之势故也。——《三国志·魏书·鲍勋传》",
+        "synonyms": "唇亡齿寒、辅车相依",
+        "antonyms": "不共戴天、势不两立"
+    }
+}

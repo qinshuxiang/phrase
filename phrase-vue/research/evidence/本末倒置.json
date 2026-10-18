@@ -1,0 +1,68 @@
+{
+    "word": "本末倒置",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%9C%AC%E6%9C%AB%E5%80%92%E7%BD%AE",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "f57e5387e4598cf4c5c4e4cdb86bf80f30aad094a8e0e0e196362f5e40d554ac",
+        "bytes": 28869
+    },
+    "parsed": {
+        "found": true,
+        "word": "本末倒置",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "běn",
+                "mò",
+                "dào",
+                "zhì"
+            ],
+            "zhuyin": [
+                "ㄅㄣˇ",
+                "ㄇㄛˋ",
+                "ㄉㄠˋ",
+                "ㄓˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "本:树根。末:树梢。置:放。比喻把主要的和次要的、根本的和非根本的关系弄颠倒了",
+                "citations": [
+                    {
+                        "text": "然非知治之审,则亦未尝不本末倒置。",
+                        "source": "金·无名氏《绥德州新学记》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "然非知治之审,则亦未尝不本末倒置。",
+                "source": "金·无名氏《绥德州新学记》"
+            }
+        ],
+        "synonyms": [
+            "舍本求末",
+            "轻重倒置",
+            "舍本逐末"
+        ],
+        "antonyms": [
+            "以一持万",
+            "本末相顺"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "put the cart before the horse"
+    },
+    "blocks": {
+        "reading": "běn mò dào zhì",
+        "sense-1": "本:树根。末:树梢。置:放。比喻把主要的和次要的、根本的和非根本的关系弄颠倒了",
+        "citation-1": "然非知治之审,则亦未尝不本末倒置。 — 金·无名氏《绥德州新学记》",
+        "synonyms": "舍本求末、轻重倒置、舍本逐末",
+        "antonyms": "以一持万、本末相顺"
+    }
+}

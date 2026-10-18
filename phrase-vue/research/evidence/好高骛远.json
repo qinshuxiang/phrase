@@ -1,0 +1,69 @@
+{
+    "word": "好高骛远",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A5%BD%E9%AB%98%E9%AA%9B%E8%BF%9C",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "fb91aeffea6c78965d2d07a6d37d26bd70bc6e8a48d1a45f8a4642e8edd563a8",
+        "bytes": 27508
+    },
+    "parsed": {
+        "found": true,
+        "word": "好高骛远",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "hào",
+                "gāo",
+                "wù",
+                "yuǎn"
+            ],
+            "zhuyin": [
+                "ㄏㄠˋ",
+                "ㄍㄠ",
+                "ㄨˋ",
+                "ㄩㄢˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "不切实际地追求过高过远的目标。",
+                "citations": [
+                    {
+                        "text": "其根大约在好高骛远，事事求出人头地。",
+                        "source": "清·吕留良《与钱孝直书》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "其根大约在好高骛远，事事求出人头地。",
+                "source": "清·吕留良《与钱孝直书》"
+            }
+        ],
+        "synonyms": [
+            "好大喜功",
+            "急功近利"
+        ],
+        "antonyms": [
+            "踏踏实实",
+            "脚踏实地",
+            "实事求是",
+            "安分守己"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "aim too high"
+    },
+    "blocks": {
+        "reading": "hào gāo wù yuǎn",
+        "sense-1": "不切实际地追求过高过远的目标。",
+        "citation-1": "其根大约在好高骛远，事事求出人头地。 — 清·吕留良《与钱孝直书》",
+        "synonyms": "好大喜功、急功近利",
+        "antonyms": "踏踏实实、脚踏实地、实事求是、安分守己"
+    }
+}

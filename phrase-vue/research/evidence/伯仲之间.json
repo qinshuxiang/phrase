@@ -1,0 +1,67 @@
+{
+    "word": "伯仲之间",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%BC%AF%E4%BB%B2%E4%B9%8B%E9%97%B4",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "77b4a7b846fbc65d1d79fabc533eafb668e6bdd1d2ad467e902a7e08425dbeda",
+        "bytes": 26894
+    },
+    "parsed": {
+        "found": true,
+        "word": "伯仲之间",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bó",
+                "zhòng",
+                "zhī",
+                "jiān"
+            ],
+            "zhuyin": [
+                "ㄅㄛˊ",
+                "ㄓㄨㄥˋ",
+                "ㄓ",
+                "ㄐㄧㄢ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容人或事物不相上下，难以分出高低优劣。",
+                "citations": [
+                    {
+                        "text": "傅毅之于班固，伯仲之间耳。",
+                        "source": "三国魏·曹丕《典论·论文》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "傅毅之于班固，伯仲之间耳。",
+                "source": "三国魏·曹丕《典论·论文》"
+            }
+        ],
+        "synonyms": [
+            "不相上下"
+        ],
+        "antonyms": [
+            "天渊之别",
+            "天壤之别",
+            "天壤之别﹑宵壤之别"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "almost on a par"
+    },
+    "blocks": {
+        "reading": "bó zhòng zhī jiān",
+        "sense-1": "形容人或事物不相上下，难以分出高低优劣。",
+        "citation-1": "傅毅之于班固，伯仲之间耳。 — 三国魏·曹丕《典论·论文》",
+        "synonyms": "不相上下",
+        "antonyms": "天渊之别、天壤之别、天壤之别﹑宵壤之别"
+    }
+}

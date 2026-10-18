@@ -1,0 +1,69 @@
+{
+    "word": "老生常谈",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%80%81%E7%94%9F%E5%B8%B8%E8%B0%88",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "0cd7a5a763ae02dfd1538bc169cd57004d2c179ee2f17d14a96c5963c1ddacd2",
+        "bytes": 27589
+    },
+    "parsed": {
+        "found": true,
+        "word": "老生常谈",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "lǎo",
+                "shēng",
+                "cháng",
+                "tán"
+            ],
+            "zhuyin": [
+                "ㄌㄠˇ",
+                "ㄕㄥ",
+                "ㄔㄤˊ",
+                "ㄊㄢˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "原指年老书生的平凡议论，后泛指讲惯了的陈旧言论。",
+                "citations": [
+                    {
+                        "text": "若乃前事已往，后来追证，课彼虚说，成此游词，多见其老生常谈，徒烦翰墨者矣。",
+                        "source": "唐·刘知几《史通·书志》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "若乃前事已往，后来追证，课彼虚说，成此游词，多见其老生常谈，徒烦翰墨者矣。",
+                "source": "唐·刘知几《史通·书志》"
+            }
+        ],
+        "synonyms": [
+            "陈词滥调",
+            "老调重弹",
+            "千篇一律",
+            "陈旧见解"
+        ],
+        "antonyms": [
+            "标新立异",
+            "真知灼见"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "platitude"
+    },
+    "blocks": {
+        "reading": "lǎo shēng cháng tán",
+        "sense-1": "原指年老书生的平凡议论，后泛指讲惯了的陈旧言论。",
+        "citation-1": "若乃前事已往，后来追证，课彼虚说，成此游词，多见其老生常谈，徒烦翰墨者矣。 — 唐·刘知几《史通·书志》",
+        "synonyms": "陈词滥调、老调重弹、千篇一律、陈旧见解",
+        "antonyms": "标新立异、真知灼见"
+    }
+}

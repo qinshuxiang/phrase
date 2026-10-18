@@ -1,0 +1,84 @@
+{
+    "word": "连篇累牍",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%BF%9E%E7%AF%87%E7%B4%AF%E7%89%8D",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "bbb340a806a5224ce1caca630c0d18c8082d89d16f7c6efbf1240b2460c360f3",
+        "bytes": 28465
+    },
+    "parsed": {
+        "found": true,
+        "word": "连篇累牍",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "lián",
+                "piān",
+                "lěi",
+                "dú"
+            ],
+            "zhuyin": [
+                "ㄌㄧㄢˊ",
+                "ㄆㄧㄢ",
+                "ㄌㄟˇ",
+                "ㄉㄨˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容文章篇幅冗长，内容重复繁琐。",
+                "citations": [
+                    {
+                        "text": "连篇累牍，不出月露之形；积案盈箱，唯是风云之状。",
+                        "source": "《隋书·李谔传》"
+                    },
+                    {
+                        "text": "学诗有三节：其初不识好恶，连篇累牍，肆笔而成。",
+                        "source": "宋·严羽《沧浪诗话·诗法》"
+                    }
+                ]
+            },
+            {
+                "definition": "指写作时文字过多，不加节制。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "连篇累牍，不出月露之形；积案盈箱，唯是风云之状。",
+                "source": "《隋书·李谔传》"
+            },
+            {
+                "text": "学诗有三节：其初不识好恶，连篇累牍，肆笔而成。",
+                "source": "宋·严羽《沧浪诗话·诗法》"
+            }
+        ],
+        "synonyms": [
+            "拖泥带水",
+            "长篇大论"
+        ],
+        "antonyms": [
+            "言简意赅",
+            "简明扼要",
+            "要言不烦",
+            "片纸只字",
+            "片言只语"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "lengthy and tedious"
+    },
+    "blocks": {
+        "reading": "lián piān lěi dú",
+        "sense-1": "形容文章篇幅冗长，内容重复繁琐。",
+        "sense-2": "指写作时文字过多，不加节制。",
+        "citation-1": "连篇累牍，不出月露之形；积案盈箱，唯是风云之状。 — 《隋书·李谔传》",
+        "citation-2": "学诗有三节：其初不识好恶，连篇累牍，肆笔而成。 — 宋·严羽《沧浪诗话·诗法》",
+        "synonyms": "拖泥带水、长篇大论",
+        "antonyms": "言简意赅、简明扼要、要言不烦、片纸只字、片言只语"
+    }
+}

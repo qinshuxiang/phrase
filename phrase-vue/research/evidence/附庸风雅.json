@@ -1,0 +1,59 @@
+{
+    "word": "附庸风雅",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%99%84%E5%BA%B8%E9%A3%8E%E9%9B%85",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "47e19edd98efe3f6949abda79c32cbf78fd8bc5bce9028d9b9f3e54c0ff1e397",
+        "bytes": 26016
+    },
+    "parsed": {
+        "found": true,
+        "word": "附庸风雅",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "fù",
+                "yōng",
+                "fēng",
+                "yǎ"
+            ],
+            "zhuyin": [
+                "ㄈㄨˋ",
+                "ㄩㄥ",
+                "ㄈㄥ",
+                "ㄧㄚˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "指缺乏文化修养的人为了装点门面而结交文人雅士，参与文化活动。",
+                "citations": [
+                    {
+                        "text": "妆点山林大架子，附庸风雅小名家。",
+                        "source": "清·蒋士铨《临川梦·隐奸》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "妆点山林大架子，附庸风雅小名家。",
+                "source": "清·蒋士铨《临川梦·隐奸》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "pretend to be cultured"
+    },
+    "blocks": {
+        "reading": "fù yōng fēng yǎ",
+        "sense-1": "指缺乏文化修养的人为了装点门面而结交文人雅士，参与文化活动。",
+        "citation-1": "妆点山林大架子，附庸风雅小名家。 — 清·蒋士铨《临川梦·隐奸》"
+    }
+}

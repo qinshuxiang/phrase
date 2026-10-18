@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "node": "v24.18.0",
+  "clean_npm_ci": true,
+  "installation": "npm ci --ignore-scripts --no-audit --no-fund",
+  "production_build": true,
+  "identical_dist_files": 1056,
+  "package_lock_sha256": "680b7766a12e2e0c6e35956647f62298a61312be807fa8c427eba7dbf45f6fb3"
+}

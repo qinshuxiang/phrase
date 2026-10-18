@@ -1,0 +1,48 @@
+{
+    "word": "耳濡目染",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%80%B3%E6%BF%A1%E7%9B%AE%E6%9F%93",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "9544789cd1367179acc5d87ad745065f2e485e839097034d74fcbf3e9e5f073a",
+        "bytes": 27913
+    },
+    "parsed": {
+        "found": true,
+        "word": "耳濡目染",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "ěr",
+                "rú",
+                "mù",
+                "rǎn"
+            ],
+            "zhuyin": [
+                "ㄦˇ",
+                "ㄖㄨˊ",
+                "ㄇㄨˋ",
+                "ㄖㄢˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容听得多了,见得多了,自然而然受到影响",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "be unconsciously influenced by what one frequently hears and sees"
+    },
+    "blocks": {
+        "reading": "ěr rú mù rǎn",
+        "sense-1": "形容听得多了,见得多了,自然而然受到影响"
+    }
+}

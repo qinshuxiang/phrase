@@ -1,0 +1,71 @@
+{
+    "word": "各行其是",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%90%84%E8%A1%8C%E5%85%B6%E6%98%AF",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "2b165cf728ef794a50a584ff17b6076110d03c3d73bb5a86a026e7dc4fd66e24",
+        "bytes": 29296
+    },
+    "parsed": {
+        "found": true,
+        "word": "各行其是",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "gè",
+                "xíng",
+                "qí",
+                "shì"
+            ],
+            "zhuyin": [
+                "ㄍㄜˋ",
+                "ㄏㄤˊ",
+                "ㄑㄧˊ",
+                "ㄕˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "每个人都觉得自己的做法是对的,根本不考虑别人的意见",
+                "citations": [
+                    {
+                        "text": "我之求死,你之求生,是各行其是。",
+                        "source": "清·吴趼人《痛史》二十一回"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "我之求死,你之求生,是各行其是。",
+                "source": "清·吴趼人《痛史》二十一回"
+            }
+        ],
+        "synonyms": [
+            "各谋其是",
+            "各不相谋",
+            "各执一词",
+            "各自进行",
+            "各自为政"
+        ],
+        "antonyms": [
+            "戮力同心",
+            "同心同德",
+            "同心协力"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "Each goes his own way;Each does what he thinks is right."
+    },
+    "blocks": {
+        "reading": "gè xíng qí shì",
+        "sense-1": "每个人都觉得自己的做法是对的,根本不考虑别人的意见",
+        "citation-1": "我之求死,你之求生,是各行其是。 — 清·吴趼人《痛史》二十一回",
+        "synonyms": "各谋其是、各不相谋、各执一词、各自进行、各自为政",
+        "antonyms": "戮力同心、同心同德、同心协力"
+    }
+}

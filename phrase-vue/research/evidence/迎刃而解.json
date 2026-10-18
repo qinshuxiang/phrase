@@ -1,0 +1,68 @@
+{
+    "word": "迎刃而解",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%BF%8E%E5%88%83%E8%80%8C%E8%A7%A3",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "bb90234dce60e5e874129f0c710430c5846cf9deec15df72442dfa61ec148ef8",
+        "bytes": 29053
+    },
+    "parsed": {
+        "found": true,
+        "word": "迎刃而解",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yíng",
+                "rèn",
+                "ér",
+                "jiě"
+            ],
+            "zhuyin": [
+                "ㄧㄥˊ",
+                "ㄖㄣˋ",
+                "ㄦˊ",
+                "ㄐㄧㄝ",
+                "ˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "只要用刀在竹子上劈开了口儿,下面的一段就迎着刀口自己裂开。比喻主要的问题解决了,其他有关的问题就容易解决。也比喻问题的顺利解决",
+                "citations": [
+                    {
+                        "text": "今兵威已振,譬如破竹,数节之后,皆迎刃而解,无复着手处也。",
+                        "source": "《晋书·杜预传》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "今兵威已振,譬如破竹,数节之后,皆迎刃而解,无复着手处也。",
+                "source": "《晋书·杜预传》"
+            }
+        ],
+        "synonyms": [
+            "易如反掌",
+            "迎刃冰解",
+            "水到渠成"
+        ],
+        "antonyms": [
+            "百思不解"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "problems can be readily solved as a bamboo is split all the way down once it has been chopped open"
+    },
+    "blocks": {
+        "reading": "yíng rèn ér jiě",
+        "sense-1": "只要用刀在竹子上劈开了口儿,下面的一段就迎着刀口自己裂开。比喻主要的问题解决了,其他有关的问题就容易解决。也比喻问题的顺利解决",
+        "citation-1": "今兵威已振,譬如破竹,数节之后,皆迎刃而解,无复着手处也。 — 《晋书·杜预传》",
+        "synonyms": "易如反掌、迎刃冰解、水到渠成",
+        "antonyms": "百思不解"
+    }
+}

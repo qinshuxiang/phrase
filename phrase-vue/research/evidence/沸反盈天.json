@@ -1,0 +1,67 @@
+{
+    "word": "沸反盈天",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%B2%B8%E5%8F%8D%E7%9B%88%E5%A4%A9",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "ace8915d663925a296b581699b9680c60d82bdf03458f24971a8dc5c0b2fb1de",
+        "bytes": 27234
+    },
+    "parsed": {
+        "found": true,
+        "word": "沸反盈天",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "fèi",
+                "fǎn",
+                "yíng",
+                "tiān"
+            ],
+            "zhuyin": [
+                "ㄈㄟˋ",
+                "ㄈㄢˇ",
+                "ㄧㄥˊ",
+                "ㄊㄧㄢ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容人声喧嚣杂乱。沸反,像水一样翻腾",
+                "citations": [
+                    {
+                        "text": "你自己荐她来,又合伙劫她去,闹得沸反盈天的,大家看了成个什么样子?",
+                        "source": "鲁迅《祝福》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "你自己荐她来,又合伙劫她去,闹得沸反盈天的,大家看了成个什么样子?",
+                "source": "鲁迅《祝福》"
+            }
+        ],
+        "synonyms": [
+            "人声鼎沸",
+            "蜩螗沸羹"
+        ],
+        "antonyms": [
+            "鸦雀无声",
+            "万籁俱寂"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "niosy"
+    },
+    "blocks": {
+        "reading": "fèi fǎn yíng tiān",
+        "sense-1": "形容人声喧嚣杂乱。沸反,像水一样翻腾",
+        "citation-1": "你自己荐她来,又合伙劫她去,闹得沸反盈天的,大家看了成个什么样子? — 鲁迅《祝福》",
+        "synonyms": "人声鼎沸、蜩螗沸羹",
+        "antonyms": "鸦雀无声、万籁俱寂"
+    }
+}

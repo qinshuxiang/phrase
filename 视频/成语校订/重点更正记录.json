@@ -1,0 +1,286 @@
+[
+  {
+    "lesson": "14",
+    "words": "以讹传讹、铺天盖地、街谈巷议",
+    "transcript": "20260805言语1000词14-杨杨.txt",
+    "line": 5,
+    "original_fragment": "都是指非正式的非官方发布的内容",
+    "correction": "分别描述失实传播、声势范围和民间议论，不能把整组限定为非官方信息。",
+    "dictionary_reference": null,
+    "basis": "本地课程上下文与语义审校（未逐条联网查证）"
+  },
+  {
+    "lesson": "14",
+    "words": "脍炙人口",
+    "transcript": "20260805言语1000词14-杨杨.txt",
+    "line": 67,
+    "original_fragment": "专门指文艺文学方面的作品",
+    "correction": "常用于优秀诗文、作品，也可用于广为传诵的事迹，不写成唯一搭配。",
+    "dictionary_reference": null,
+    "basis": "本地课程上下文与语义审校（未逐条联网查证）"
+  },
+  {
+    "lesson": "14",
+    "words": "众口铄金、三人成虎",
+    "transcript": "20260805言语1000词14-杨杨.txt",
+    "line": 57,
+    "original_fragment": "众口铄金要比三人成虎的程度",
+    "correction": "按混淆是非的舆论力量与谣言被当真来辨析，去除必然的程度高低。",
+    "dictionary_reference": null,
+    "basis": "本地课程上下文与语义审校（未逐条联网查证）"
+  },
+  {
+    "lesson": "14",
+    "words": "销声匿迹",
+    "transcript": "20260805言语1000词14-杨杨.txt",
+    "line": 93,
+    "original_fragment": "主动的去躲藏",
+    "correction": "不再公开出现或久无踪迹，不要求主观主动躲藏。",
+    "dictionary_reference": "https://dict.idioms.moe.edu.tw/idiomView.jsp?ID=6900&la=0&webMd=2",
+    "basis": "联网词典及语义审校"
+  },
+  {
+    "lesson": "14",
+    "words": "昭然若揭",
+    "transcript": "20260805言语1000词14-杨杨.txt",
+    "line": 151,
+    "original_fragment": "纯贬义",
+    "correction": "通常用于揭露阴谋用意，说明常见色彩而不写成所有场合的绝对限制。",
+    "dictionary_reference": null,
+    "basis": "本地课程上下文与语义审校（未逐条联网查证）"
+  },
+  {
+    "lesson": "15",
+    "words": "驾轻就熟、轻车熟路",
+    "transcript": "20260806言语1000词15-杨杨（45-47组）.txt",
+    "line": 115,
+    "original_fragment": "侧重于技能",
+    "correction": "二者意义接近，可说明常见侧重，不设不可互用的硬边界。",
+    "dictionary_reference": null,
+    "basis": "本地课程上下文与语义审校（未逐条联网查证）"
+  },
+  {
+    "lesson": "15",
+    "words": "感同身受",
+    "transcript": "20260806言语1000词15-杨杨（45-47组）.txt",
+    "line": 153,
+    "original_fragment": "共情",
+    "correction": "保留现代亲历般感受的用法，并交代旧有代人致谢义。",
+    "dictionary_reference": null,
+    "basis": "本地课程上下文与语义审校（未逐条联网查证）"
+  },
+  {
+    "lesson": "17",
+    "words": "数不胜数、不可胜数、不计其数",
+    "transcript": "20260808言语1000词17-葛蓉.txt",
+    "line": 161,
+    "original_fragment": "程度更重一些",
+    "correction": "词义相近，去除固定的程度排序。",
+    "dictionary_reference": null,
+    "basis": "本地课程上下文与语义审校（未逐条联网查证）"
+  },
+  {
+    "lesson": "17",
+    "words": "车载斗量",
+    "transcript": "20260808言语1000词17-葛蓉.txt",
+    "line": 153,
+    "original_fragment": "有点小骄傲",
+    "correction": "核心是数量多、不稀罕，不固有自豪感。",
+    "dictionary_reference": null,
+    "basis": "本地课程上下文与语义审校（未逐条联网查证）"
+  },
+  {
+    "lesson": "17",
+    "words": "卷帙浩繁",
+    "transcript": "20260808言语1000词17-葛蓉.txt",
+    "line": 175,
+    "original_fragment": "书厚",
+    "correction": "改为卷册很多或篇幅很大，不以物理厚度概括全部词义。",
+    "dictionary_reference": null,
+    "basis": "本地课程上下文与语义审校（未逐条联网查证）"
+  },
+  {
+    "lesson": "17",
+    "words": "星罗棋布",
+    "transcript": "20260808言语1000词17-葛蓉.txt",
+    "line": 201,
+    "original_fragment": "像罗盘一样",
+    "correction": "棋是棋子，罗是罗列，意象不指罗盘。",
+    "dictionary_reference": null,
+    "basis": "本地课程上下文与语义审校（未逐条联网查证）"
+  },
+  {
+    "lesson": "18",
+    "words": "鬼斧神工",
+    "transcript": "20260809言语1000词18-葛蓉（加课）.txt",
+    "line": 145,
+    "original_fragment": "一般形容大自然",
+    "correction": "同时说明人工艺术与自然景观的用法，删除只能自然的限制。",
+    "dictionary_reference": "https://dict.revised.moe.edu.tw/dictView.jsp?ID=73242&la=0&powerMode=0",
+    "basis": "联网词典及语义审校"
+  },
+  {
+    "lesson": "18",
+    "words": "赏心悦目",
+    "transcript": "20260809言语1000词18-葛蓉（加课）.txt",
+    "line": 209,
+    "original_fragment": "主语是人",
+    "correction": "可用于形容使人愉快的事物，如赏心悦目的景色，不机械限制主语。",
+    "dictionary_reference": null,
+    "basis": "本地课程上下文与语义审校（未逐条联网查证）"
+  },
+  {
+    "lesson": "19",
+    "words": "微言大义",
+    "transcript": "20260810言语1000词19-葛蓉.txt",
+    "line": 247,
+    "original_fragment": "字数少",
+    "correction": "微指精微、精深，不只是字数少。",
+    "dictionary_reference": null,
+    "basis": "本地课程上下文与语义审校（未逐条联网查证）"
+  },
+  {
+    "lesson": "20",
+    "words": "身无长物",
+    "transcript": "20260811言语1000词20-葛蓉.txt",
+    "line": 79,
+    "original_fragment": "身无常物",
+    "correction": "统一词形为身无长物，长是多余，不是特长。",
+    "dictionary_reference": null,
+    "basis": "本地课程上下文与语义审校（未逐条联网查证）"
+  },
+  {
+    "lesson": "20",
+    "words": "养尊处优",
+    "transcript": "20260811言语1000词20-葛蓉.txt",
+    "line": 107,
+    "original_fragment": "娇生惯养",
+    "correction": "改为地位尊贵、生活优裕，不等同被溺爱。",
+    "dictionary_reference": "https://dict.idioms.moe.edu.tw/bookView.jsp?ID=1402",
+    "basis": "联网词典及语义审校"
+  },
+  {
+    "lesson": "20",
+    "words": "踌躇满志、意气风发",
+    "transcript": "20260811言语1000词20-葛蓉.txt",
+    "line": 255,
+    "original_fragment": "即将成功。意气风发啥意思？已经成功",
+    "correction": "分别说明自得满足与昂扬振奋，去除即将成功、已经成功的时间划分。",
+    "dictionary_reference": "https://dict.idioms.moe.edu.tw/idiomView.jsp?ID=597&la=1&webMd=2",
+    "basis": "联网词典及语义审校"
+  },
+  {
+    "lesson": "21",
+    "words": "额手称庆",
+    "transcript": "20260812言语1000词21-葛蓉.txt",
+    "line": 169,
+    "original_fragment": "打一打你的小额头",
+    "correction": "额手是举手至额，表示庆幸或庆贺，并非必须拍打额头。",
+    "dictionary_reference": null,
+    "basis": "本地课程上下文与语义审校（未逐条联网查证）"
+  },
+  {
+    "lesson": "21",
+    "words": "优胜劣汰、弱肉强食",
+    "transcript": "20260812言语1000词21-葛蓉.txt",
+    "line": 177,
+    "original_fragment": "一个是自然，一个是社会",
+    "correction": "分别按择优淘劣与强凌弱解释，两者不限于单一领域。",
+    "dictionary_reference": "https://dict.concised.moe.edu.tw/dictView.jsp?ID=36490&la=0&powerMode=0",
+    "basis": "联网词典及语义审校"
+  },
+  {
+    "lesson": "21",
+    "words": "耸人听闻、骇人听闻",
+    "transcript": "20260812言语1000词21-葛蓉.txt",
+    "line": 187,
+    "original_fragment": "一个假的一个真的",
+    "correction": "按夸大捏造的表达与事件本身惊人辨析；不把成语当成真假核验结果。",
+    "dictionary_reference": null,
+    "basis": "本地课程上下文与语义审校（未逐条联网查证）"
+  },
+  {
+    "lesson": "21",
+    "words": "不刊之论、不易之论",
+    "transcript": "20260812言语1000词21-葛蓉.txt",
+    "line": 189,
+    "original_fragment": "不刊之论程度更重",
+    "correction": "刊是削除、修改；二者近义，不以要上刀子构造固定等级。",
+    "dictionary_reference": "https://dict.revised.moe.edu.tw/dictView.jsp?ID=20782&la=1&powerMode=0",
+    "basis": "联网词典及语义审校"
+  },
+  {
+    "lesson": "21",
+    "words": "曲高和寡",
+    "transcript": "20260812言语1000词21-葛蓉.txt",
+    "line": 193,
+    "original_fragment": "偏有点贬义",
+    "correction": "高深而知音少，不固定标为贬义。",
+    "dictionary_reference": null,
+    "basis": "本地课程上下文与语义审校（未逐条联网查证）"
+  },
+  {
+    "lesson": "21",
+    "words": "李代桃僵",
+    "transcript": "20260812言语1000词21-葛蓉.txt",
+    "line": 205,
+    "original_fragment": "代人受过",
+    "correction": "补充替代、牺牲局部保全整体等含义，不仅有代人受过。",
+    "dictionary_reference": null,
+    "basis": "本地课程上下文与语义审校（未逐条联网查证）"
+  },
+  {
+    "lesson": "21",
+    "words": "推陈出新、另辟蹊径",
+    "transcript": "20260812言语1000词21-葛蓉.txt",
+    "line": 219,
+    "original_fragment": "推陈出新是和过去的",
+    "correction": "分别说明革新与另创新路，不硬分为对比自己和对比他人。",
+    "dictionary_reference": null,
+    "basis": "本地课程上下文与语义审校（未逐条联网查证）"
+  },
+  {
+    "lesson": "15",
+    "words": "妇孺皆知、家喻户晓",
+    "slides": "../视频/逐字稿/_work/ocr/20260806言语1000词15-杨杨（45-47组）/slides.jsonl",
+    "line": 21,
+    "sample_seconds": 3900,
+    "original_fragment": "强调简单",
+    "correction": "两者均可表示广为人知，不硬分为常识简单与名气很大。",
+    "dictionary_reference": null,
+    "basis": "抽样课件与语义审校"
+  },
+  {
+    "lesson": "18",
+    "words": "雅俗共赏",
+    "slides": "../视频/逐字稿/_work/ocr/20260809言语1000词18-葛蓉（加课）/slides.jsonl",
+    "line": 28,
+    "sample_seconds": 5160,
+    "original_fragment": "老少皆宜",
+    "correction": "雅俗指不同文化品位的欣赏者，不等同年龄。",
+    "dictionary_reference": null,
+    "basis": "抽样课件与语义审校"
+  },
+  {
+    "lesson": "19",
+    "words": "推心置腹、开诚布公",
+    "slides": "../视频/逐字稿/_work/ocr/20260810言语1000词19-葛蓉/slides.jsonl",
+    "line": 9,
+    "sample_seconds": 1740,
+    "original_fragment": "私下沟通",
+    "correction": "按真诚相待、坦白无私辨析，不硬分私下与公开。",
+    "dictionary_reference": null,
+    "basis": "抽样课件与语义审校"
+  },
+  {
+    "lesson": "19",
+    "words": "不绝如缕",
+    "slides": "../视频/逐字稿/_work/ocr/20260810言语1000词19-葛蓉/slides.jsonl",
+    "line": 26,
+    "sample_seconds": 4800,
+    "original_fragment": "声音、文化等不断",
+    "correction": "补足细微悠长、似断非断和局势危急义。",
+    "dictionary_reference": "https://dict.idioms.moe.edu.tw/idiomView.jsp?ID=7018&la=0&webMd=2",
+    "basis": "抽样课件与语义审校"
+  }
+]

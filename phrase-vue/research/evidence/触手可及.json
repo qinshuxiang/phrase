@@ -1,0 +1,54 @@
+{
+    "word": "触手可及",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%A7%A6%E6%89%8B%E5%8F%AF%E5%8F%8A",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "a26ca66637f883f2473483257796d7b0f8bc9c09740e3e295faddf012f4fc901",
+        "bytes": 24452
+    },
+    "parsed": {
+        "found": true,
+        "word": "触手可及",
+        "section": "idiom",
+        "readings": {
+            "pinyin": [
+                "chù",
+                "shǒu",
+                "kě",
+                "jí"
+            ],
+            "zhuyin": [
+                "ㄔㄨˋ",
+                "ㄕㄡˇ",
+                "ㄎㄜˇ",
+                "ㄐㄧˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "近在手边，一伸手就可以接触到。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": {
+            "text": "這東西就在你身邊，你觸手可及就可以拿到。",
+            "source": "触手可及"
+        },
+        "grammar": "连动式；作宾语、定语；形容很容易",
+        "example": "这东西就在你身边，你触手可及就可以拿到。",
+        "english": ""
+    },
+    "blocks": {
+        "reading": "chù shǒu kě jí",
+        "sense-1": "近在手边，一伸手就可以接触到。",
+        "origin": "這東西就在你身邊，你觸手可及就可以拿到。",
+        "grammar": "连动式；作宾语、定语；形容很容易",
+        "example": "这东西就在你身边，你触手可及就可以拿到。"
+    }
+}

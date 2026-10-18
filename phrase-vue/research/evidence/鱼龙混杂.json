@@ -1,0 +1,84 @@
+{
+    "word": "鱼龙混杂",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%B1%BC%E9%BE%99%E6%B7%B7%E6%9D%82",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "02d8883b3af6b0f7be91afb716177f1ff1c34c2d0a387a2c2781699ec8040113",
+        "bytes": 28466
+    },
+    "parsed": {
+        "found": true,
+        "word": "鱼龙混杂",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yú",
+                "lóng",
+                "hùn",
+                "zá"
+            ],
+            "zhuyin": [
+                "ㄩˊ",
+                "ㄌㄨㄥˊ",
+                "ㄏㄨㄣˋ",
+                "ㄗㄚˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "鱼和龙混杂在一起。",
+                "citations": [
+                    {
+                        "text": "风搅长空浪搅风，鱼龙混杂一川中。",
+                        "source": "唐·无名氏《渔父》"
+                    },
+                    {
+                        "text": "现在人多手乱，鱼龙混杂，倒是这么着，他们也洗洗清。",
+                        "source": "《红楼梦》第九四回"
+                    }
+                ]
+            },
+            {
+                "definition": "比喻好人与坏人混杂在一起。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "风搅长空浪搅风，鱼龙混杂一川中。",
+                "source": "唐·无名氏《渔父》"
+            },
+            {
+                "text": "现在人多手乱，鱼龙混杂，倒是这么着，他们也洗洗清。",
+                "source": "《红楼梦》第九四回"
+            }
+        ],
+        "synonyms": [
+            "鱼目混珠",
+            "滥竽充数",
+            "泥沙俱下",
+            "牛骥同皂",
+            "龙蛇混杂"
+        ],
+        "antonyms": [
+            "泾渭分明",
+            "黑白分明"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "fish and dragon mixed"
+    },
+    "blocks": {
+        "reading": "yú lóng hùn zá",
+        "sense-1": "鱼和龙混杂在一起。",
+        "sense-2": "比喻好人与坏人混杂在一起。",
+        "citation-1": "风搅长空浪搅风，鱼龙混杂一川中。 — 唐·无名氏《渔父》",
+        "citation-2": "现在人多手乱，鱼龙混杂，倒是这么着，他们也洗洗清。 — 《红楼梦》第九四回",
+        "synonyms": "鱼目混珠、滥竽充数、泥沙俱下、牛骥同皂、龙蛇混杂",
+        "antonyms": "泾渭分明、黑白分明"
+    }
+}

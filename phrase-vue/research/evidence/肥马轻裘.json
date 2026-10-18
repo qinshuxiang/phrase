@@ -1,0 +1,69 @@
+{
+    "word": "肥马轻裘",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%82%A5%E9%A9%AC%E8%BD%BB%E8%A3%98",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "21e6970cbb901683056593e53662549f3d011239ee13dbe0f86f69fe99cd4168",
+        "bytes": 26161
+    },
+    "parsed": {
+        "found": true,
+        "word": "肥马轻裘",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "féi",
+                "mǎ",
+                "qīng",
+                "qiú"
+            ],
+            "zhuyin": [
+                "ㄈㄟˊ",
+                "ㄇㄚˇ",
+                "ㄑㄧㄥ",
+                "ㄑㄧㄡˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容生活豪华奢侈。",
+                "citations": [
+                    {
+                        "text": "肥马轻裘还且有，粗歌薄酒亦相随。",
+                        "source": "唐·白居易《闲适》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "肥马轻裘还且有，粗歌薄酒亦相随。",
+                "source": "唐·白居易《闲适》"
+            }
+        ],
+        "synonyms": [
+            "腰缠万贯",
+            "积玉堆金",
+            "富埒王侯"
+        ],
+        "antonyms": [
+            "家徒四壁",
+            "一贫如洗",
+            "衣衫褴褛"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "luxurious life"
+    },
+    "blocks": {
+        "reading": "féi mǎ qīng qiú",
+        "sense-1": "形容生活豪华奢侈。",
+        "citation-1": "肥马轻裘还且有，粗歌薄酒亦相随。 — 唐·白居易《闲适》",
+        "synonyms": "腰缠万贯、积玉堆金、富埒王侯",
+        "antonyms": "家徒四壁、一贫如洗、衣衫褴褛"
+    }
+}

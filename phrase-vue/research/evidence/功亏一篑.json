@@ -1,0 +1,69 @@
+{
+    "word": "功亏一篑",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%8A%9F%E4%BA%8F%E4%B8%80%E7%AF%91",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "63a8f890b33a9a0ff0a4dc1738af6a1bb1346c34109bd2c63ae50a2c8879f645",
+        "bytes": 27959
+    },
+    "parsed": {
+        "found": true,
+        "word": "功亏一篑",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "gōng",
+                "kuī",
+                "yī",
+                "kuì"
+            ],
+            "zhuyin": [
+                "ㄍㄨㄥ",
+                "ㄎㄨㄟ",
+                "ㄧ",
+                "ㄎㄨㄟˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻事情只差最后一步努力而未能完成。",
+                "citations": [
+                    {
+                        "text": "夫为山九仞，功亏一篑。全壶实难，故君子贵之。",
+                        "source": "宋·司马光《投壶新格》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "夫为山九仞，功亏一篑。全壶实难，故君子贵之。",
+                "source": "宋·司马光《投壶新格》"
+            }
+        ],
+        "synonyms": [
+            "半途而废",
+            "功败垂成",
+            "前功尽弃"
+        ],
+        "antonyms": [
+            "大功告成",
+            "坚持不懈",
+            "善始善终"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "fall short of success for lack of a final effort"
+    },
+    "blocks": {
+        "reading": "gōng kuī yī kuì",
+        "sense-1": "比喻事情只差最后一步努力而未能完成。",
+        "citation-1": "夫为山九仞，功亏一篑。全壶实难，故君子贵之。 — 宋·司马光《投壶新格》",
+        "synonyms": "半途而废、功败垂成、前功尽弃",
+        "antonyms": "大功告成、坚持不懈、善始善终"
+    }
+}

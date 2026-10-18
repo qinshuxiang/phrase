@@ -1,0 +1,41 @@
+{
+    "word": "飞阁流丹",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%A3%9E%E9%98%81%E6%B5%81%E4%B8%B9",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "91d11647634c7249059fabe12805b35a1f75cc3fce538ba4110522fa478d9716",
+        "bytes": 21210
+    },
+    "parsed": {
+        "found": true,
+        "word": "飞阁流丹",
+        "section": "idiom",
+        "readings": {
+            "pinyin": [],
+            "zhuyin": []
+        },
+        "senses": [
+            {
+                "definition": "飞阁：架空建造的阁道；流丹：彩饰的漆鲜艳欲流。凌空建造的阁道涂有鲜艳欲流的丹漆。形容建筑物的精巧美丽。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": {
+            "text": "唐·王勃《滕王阁序》：“层峦耸翠，上出重霄，飞阁流丹，下临无地。”",
+            "source": "飞阁流丹"
+        },
+        "grammar": "",
+        "example": "",
+        "english": ""
+    },
+    "blocks": {
+        "sense-1": "飞阁：架空建造的阁道；流丹：彩饰的漆鲜艳欲流。凌空建造的阁道涂有鲜艳欲流的丹漆。形容建筑物的精巧美丽。",
+        "origin": "唐·王勃《滕王阁序》：“层峦耸翠，上出重霄，飞阁流丹，下临无地。”"
+    }
+}

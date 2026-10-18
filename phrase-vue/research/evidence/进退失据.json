@@ -1,0 +1,83 @@
+{
+    "word": "进退失据",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%BF%9B%E9%80%80%E5%A4%B1%E6%8D%AE",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "e1dfd11fe66648a849d3e546bfa016b71be034500d469705fb4b5ff7c0f44bd3",
+        "bytes": 27290
+    },
+    "parsed": {
+        "found": true,
+        "word": "进退失据",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jìn",
+                "tuì",
+                "shī",
+                "jù"
+            ],
+            "zhuyin": [
+                "ㄐㄧㄣˋ",
+                "ㄊㄨㄟˋ",
+                "ㄕ",
+                "ㄐㄩˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "前进和后退都失去依据，形容处境困难，进退两难。",
+                "citations": [
+                    {
+                        "text": "叔业进退失据，遂走。",
+                        "source": "宋·司马光《资治通鉴·齐纪六》"
+                    },
+                    {
+                        "text": "若沈吟不断，进退失据，将求为丹徒布衣且不可得。",
+                        "source": "清·张廷玉《明史·尹昌隆传》"
+                    }
+                ]
+            },
+            {
+                "definition": "形容处境窘迫，无所适从。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "叔业进退失据，遂走。",
+                "source": "宋·司马光《资治通鉴·齐纪六》"
+            },
+            {
+                "text": "若沈吟不断，进退失据，将求为丹徒布衣且不可得。",
+                "source": "清·张廷玉《明史·尹昌隆传》"
+            }
+        ],
+        "synonyms": [
+            "无所适从",
+            "进退两难",
+            "进退维谷",
+            "骑虎难下"
+        ],
+        "antonyms": [
+            "进退中绳",
+            "进退有常"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "be in a dilemma"
+    },
+    "blocks": {
+        "reading": "jìn tuì shī jù",
+        "sense-1": "前进和后退都失去依据，形容处境困难，进退两难。",
+        "sense-2": "形容处境窘迫，无所适从。",
+        "citation-1": "叔业进退失据，遂走。 — 宋·司马光《资治通鉴·齐纪六》",
+        "citation-2": "若沈吟不断，进退失据，将求为丹徒布衣且不可得。 — 清·张廷玉《明史·尹昌隆传》",
+        "synonyms": "无所适从、进退两难、进退维谷、骑虎难下",
+        "antonyms": "进退中绳、进退有常"
+    }
+}

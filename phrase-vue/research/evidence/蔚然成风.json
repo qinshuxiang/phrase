@@ -1,0 +1,62 @@
+{
+    "word": "蔚然成风",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%94%9A%E7%84%B6%E6%88%90%E9%A3%8E",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "65f1d6258591ecafb5c036507d213903f53a990f3f5b32553ec8c80b22f88114",
+        "bytes": 26005
+    },
+    "parsed": {
+        "found": true,
+        "word": "蔚然成风",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "wèi",
+                "rán",
+                "chéng",
+                "fēng"
+            ],
+            "zhuyin": [
+                "ㄨㄟˋ",
+                "ㄖㄢˊ",
+                "ㄔㄥˊ",
+                "ㄈㄥ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容某种事物逐渐发展盛行，形成一种良好风气。",
+                "citations": [
+                    {
+                        "text": "日本国内，自望族以至一般文士，摹仿唐诗蔚然成风。",
+                        "source": "范文澜·蔡美彪等《中国通史》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "日本国内，自望族以至一般文士，摹仿唐诗蔚然成风。",
+                "source": "范文澜·蔡美彪等《中国通史》"
+            }
+        ],
+        "synonyms": [
+            "蔚成风气"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "become common practice"
+    },
+    "blocks": {
+        "reading": "wèi rán chéng fēng",
+        "sense-1": "形容某种事物逐渐发展盛行，形成一种良好风气。",
+        "citation-1": "日本国内，自望族以至一般文士，摹仿唐诗蔚然成风。 — 范文澜·蔡美彪等《中国通史》",
+        "synonyms": "蔚成风气"
+    }
+}

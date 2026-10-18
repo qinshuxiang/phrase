@@ -1,0 +1,71 @@
+{
+    "word": "妄自菲薄",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A6%84%E8%87%AA%E8%8F%B2%E8%96%84",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "27a7f9870238e3c9aef145215e61d440ae4e6314f673d201d3fc7947bc5d5c8e",
+        "bytes": 28955
+    },
+    "parsed": {
+        "found": true,
+        "word": "妄自菲薄",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "wàng",
+                "zì",
+                "fěi",
+                "bó"
+            ],
+            "zhuyin": [
+                "ㄨㄤˋ",
+                "ㄗˋ",
+                "ㄈㄟˇ",
+                "ㄅㄛˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "不知自重,轻视自身价值",
+                "citations": [
+                    {
+                        "text": "天地生才有限,不宜妄自菲薄。",
+                        "source": "《老残游记》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "天地生才有限,不宜妄自菲薄。",
+                "source": "《老残游记》"
+            }
+        ],
+        "synonyms": [
+            "自惭形秽",
+            "自轻自贱",
+            "自卑过甚",
+            "自暴自弃"
+        ],
+        "antonyms": [
+            "目中无人",
+            "目空一切",
+            "不可一世",
+            "妄自尊大"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "undervalue yourself;improperly belittle oneself;unduly humble oneself"
+    },
+    "blocks": {
+        "reading": "wàng zì fěi bó",
+        "sense-1": "不知自重,轻视自身价值",
+        "citation-1": "天地生才有限,不宜妄自菲薄。 — 《老残游记》",
+        "synonyms": "自惭形秽、自轻自贱、自卑过甚、自暴自弃",
+        "antonyms": "目中无人、目空一切、不可一世、妄自尊大"
+    }
+}

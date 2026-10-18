@@ -1,0 +1,76 @@
+{
+    "word": "改弦更张",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%94%B9%E5%BC%A6%E6%9B%B4%E5%BC%A0",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "1b7fbdb7a9713021fd23977315e9ecd1febee2bad047bad060ecf77d8a44b36e",
+        "bytes": 28809
+    },
+    "parsed": {
+        "found": true,
+        "word": "改弦更张",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "gǎi",
+                "xián",
+                "gēng",
+                "zhāng"
+            ],
+            "zhuyin": [
+                "ㄍㄞˇ",
+                "ㄒㄧㄢˊ",
+                "ㄍㄥ",
+                "ㄓㄤ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "弦的松紧与调的高低不合,应收紧或放松,使声音和谐。引申为改革变更",
+                "citations": [
+                    {
+                        "text": "琴瑟时未调,改弦当更张。矧乃治天下,此要安可忘。",
+                        "source": "南朝宋·何承天《鼓吹铙歌·上邪篇》"
+                    },
+                    {
+                        "text": "今者革命政府不恤改弦更张,以求与人民合作。",
+                        "source": "孙中山《历年政治宣言》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "琴瑟时未调,改弦当更张。矧乃治天下,此要安可忘。",
+                "source": "南朝宋·何承天《鼓吹铙歌·上邪篇》"
+            },
+            {
+                "text": "今者革命政府不恤改弦更张,以求与人民合作。",
+                "source": "孙中山《历年政治宣言》"
+            }
+        ],
+        "synonyms": [
+            "改邪归正",
+            "改变方式",
+            "改弦易辙"
+        ],
+        "antonyms": [
+            "旧调重弹"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "cut loose from the past and make a fresh start"
+    },
+    "blocks": {
+        "reading": "gǎi xián gēng zhāng",
+        "sense-1": "弦的松紧与调的高低不合,应收紧或放松,使声音和谐。引申为改革变更",
+        "citation-1": "琴瑟时未调,改弦当更张。矧乃治天下,此要安可忘。 — 南朝宋·何承天《鼓吹铙歌·上邪篇》",
+        "citation-2": "今者革命政府不恤改弦更张,以求与人民合作。 — 孙中山《历年政治宣言》",
+        "synonyms": "改邪归正、改变方式、改弦易辙",
+        "antonyms": "旧调重弹"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "word": "力有未逮",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%8A%9B%E6%9C%89%E6%9C%AA%E9%80%AE",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "21141d3ae0ab278fb54fd941bf5ff5690769f7c540c9a8e9e487178dd41afe3e",
+        "bytes": 25066
+    },
+    "parsed": {
+        "found": true,
+        "word": "力有未逮",
+        "section": "idiom",
+        "readings": {
+            "pinyin": [
+                "lì",
+                "yǒu",
+                "wèi",
+                "dài"
+            ],
+            "zhuyin": [
+                "ㄌㄧˋ",
+                "ㄧㄡˇ",
+                "ㄨㄟˋ",
+                "ㄉㄞˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "指能力做不到。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": {
+            "text": "他一直希望能化解這兩家的仇恨，但～，他們仍然爭吵不休。",
+            "source": "力有未逮"
+        },
+        "grammar": "",
+        "example": "他一直希望能化解这两家的仇恨，但～，他们仍然争吵不休。",
+        "english": ""
+    },
+    "blocks": {
+        "reading": "lì yǒu wèi dài",
+        "sense-1": "指能力做不到。",
+        "origin": "他一直希望能化解這兩家的仇恨，但～，他們仍然爭吵不休。",
+        "example": "他一直希望能化解这两家的仇恨，但～，他们仍然争吵不休。"
+    }
+}

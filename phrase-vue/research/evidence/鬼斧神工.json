@@ -1,0 +1,48 @@
+{
+    "word": "鬼斧神工",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%AC%BC%E6%96%A7%E7%A5%9E%E5%B7%A5",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "82a8b097c096b754d6f9fab94ee2a590077c9e94c5387ff7282b2c83db043dc9",
+        "bytes": 26189
+    },
+    "parsed": {
+        "found": true,
+        "word": "鬼斧神工",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "guǐ",
+                "fǔ",
+                "shén",
+                "gōng"
+            ],
+            "zhuyin": [
+                "ㄍㄨㄟˇ",
+                "ㄈㄨˇ",
+                "ㄕㄣˊ",
+                "ㄍㄨㄥ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容建筑、雕塑等技能的精巧,非人工所能为。也说“神工鬼斧”",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "uncanny workmanship;superlative craftsmanship;be extraordinary as if done by the spirits"
+    },
+    "blocks": {
+        "reading": "guǐ fǔ shén gōng",
+        "sense-1": "形容建筑、雕塑等技能的精巧,非人工所能为。也说“神工鬼斧”"
+    }
+}

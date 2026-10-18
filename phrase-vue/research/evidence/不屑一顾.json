@@ -1,0 +1,69 @@
+{
+    "word": "不屑一顾",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%8D%E5%B1%91%E4%B8%80%E9%A1%BE",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "929cffffd5880b2d2cf46b91a5598f03a6c7990a46c169d9f4146f8c3b5dec98",
+        "bytes": 27101
+    },
+    "parsed": {
+        "found": true,
+        "word": "不屑一顾",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bù",
+                "xiè",
+                "yī",
+                "gù"
+            ],
+            "zhuyin": [
+                "ㄅㄨˋ",
+                "ㄒㄧㄝ",
+                "ˋ",
+                "ㄧ",
+                "ㄍㄨˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "极度轻视，认为不值得一看。",
+                "citations": [
+                    {
+                        "text": "夫禄之以天下而系马千驷，常人思以其身易之而不可得，而伊尹不屑一顾视焉。",
+                        "source": "明·方孝孺《送吏部员外郎龚彦佐序》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "夫禄之以天下而系马千驷，常人思以其身易之而不可得，而伊尹不屑一顾视焉。",
+                "source": "明·方孝孺《送吏部员外郎龚彦佐序》"
+            }
+        ],
+        "synonyms": [
+            "不足挂齿",
+            "嗤之以鼻"
+        ],
+        "antonyms": [
+            "刮目相看",
+            "举足轻重",
+            "斤斤计较"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "disdain to cast a look"
+    },
+    "blocks": {
+        "reading": "bù xiè yī gù",
+        "sense-1": "极度轻视，认为不值得一看。",
+        "citation-1": "夫禄之以天下而系马千驷，常人思以其身易之而不可得，而伊尹不屑一顾视焉。 — 明·方孝孺《送吏部员外郎龚彦佐序》",
+        "synonyms": "不足挂齿、嗤之以鼻",
+        "antonyms": "刮目相看、举足轻重、斤斤计较"
+    }
+}

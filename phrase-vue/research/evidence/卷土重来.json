@@ -1,0 +1,57 @@
+{
+    "word": "卷土重来",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%8D%B7%E5%9C%9F%E9%87%8D%E6%9D%A5",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "5bef602bcf5ddc567a1968c845c23f5ae16dd0c377486adfa4cbc09e03cefdd7",
+        "bytes": 27406
+    },
+    "parsed": {
+        "found": true,
+        "word": "卷土重来",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "juǎn",
+                "tǔ",
+                "chóng",
+                "lái"
+            ],
+            "zhuyin": [
+                "ㄐㄩㄢˇ",
+                "ㄊㄨˇ",
+                "ㄔㄨㄥˊ",
+                "ㄌㄞˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容失败后组织力量,恢复势力,重新猛扑过来",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "死灰复燃",
+            "重起炉灶",
+            "东山再起"
+        ],
+        "antonyms": [
+            "偃旗息鼓",
+            "万劫不复"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "stage a comeback"
+    },
+    "blocks": {
+        "reading": "juǎn tǔ chóng lái",
+        "sense-1": "形容失败后组织力量,恢复势力,重新猛扑过来",
+        "synonyms": "死灰复燃、重起炉灶、东山再起",
+        "antonyms": "偃旗息鼓、万劫不复"
+    }
+}

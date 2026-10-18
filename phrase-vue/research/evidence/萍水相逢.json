@@ -1,0 +1,72 @@
+{
+    "word": "萍水相逢",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%90%8D%E6%B0%B4%E7%9B%B8%E9%80%A2",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "2113631a298c9da903051d1ebdd1fc3d5d88774633109561f96b2d5eac3714f2",
+        "bytes": 29193
+    },
+    "parsed": {
+        "found": true,
+        "word": "萍水相逢",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "píng",
+                "shuǐ",
+                "xiāng",
+                "féng"
+            ],
+            "zhuyin": [
+                "ㄆㄧㄥˊ",
+                "ㄕㄨㄟˇ",
+                "ㄒㄧㄤ",
+                "ㄈㄥˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻素不相识之人偶然相遇",
+                "citations": [
+                    {
+                        "text": "俺与你萍水相逢,出身相救,实出恻隐之心。",
+                        "source": "清·冯梦龙《警世通言》"
+                    }
+                ]
+            },
+            {
+                "definition": "亦作“萍水相遇”",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "俺与你萍水相逢,出身相救,实出恻隐之心。",
+                "source": "清·冯梦龙《警世通言》"
+            }
+        ],
+        "synonyms": [
+            "不期而遇",
+            "一面之交",
+            "不期而遇﹑邂逅相逢"
+        ],
+        "antonyms": [
+            "莫逆之交"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "(of strangers) meet by chance like patches of drifting duckweed"
+    },
+    "blocks": {
+        "reading": "píng shuǐ xiāng féng",
+        "sense-1": "比喻素不相识之人偶然相遇",
+        "sense-2": "亦作“萍水相遇”",
+        "citation-1": "俺与你萍水相逢,出身相救,实出恻隐之心。 — 清·冯梦龙《警世通言》",
+        "synonyms": "不期而遇、一面之交、不期而遇﹑邂逅相逢",
+        "antonyms": "莫逆之交"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "word": "异军突起",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%BC%82%E5%86%9B%E7%AA%81%E8%B5%B7",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "35901ef3131da74cbd8aac733c1837e55db4ab66836f5472629e1e095923c6bb",
+        "bytes": 26072
+    },
+    "parsed": {
+        "found": true,
+        "word": "异军突起",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yì",
+                "jūn",
+                "tū",
+                "qǐ"
+            ],
+            "zhuyin": [
+                "ㄧˋ",
+                "ㄐㄩㄣ",
+                "ㄊㄨ",
+                "ㄑㄧˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻新生力量突然出现或兴起。",
+                "citations": [
+                    {
+                        "text": "异军苍头特起。",
+                        "source": "汉·司马迁《史记·项羽本纪》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "异军苍头特起。",
+                "source": "汉·司马迁《史记·项羽本纪》"
+            }
+        ],
+        "synonyms": [
+            "别树一帜",
+            "独树一帜",
+            "别开生面"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "sudden emergence of new force"
+    },
+    "blocks": {
+        "reading": "yì jūn tū qǐ",
+        "sense-1": "比喻新生力量突然出现或兴起。",
+        "citation-1": "异军苍头特起。 — 汉·司马迁《史记·项羽本纪》",
+        "synonyms": "别树一帜、独树一帜、别开生面"
+    }
+}

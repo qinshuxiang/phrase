@@ -1,0 +1,76 @@
+{
+    "word": "司空见惯",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%8F%B8%E7%A9%BA%E8%A7%81%E6%83%AF",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "2c00714d8a669dd3815b20e4e28ff1985eeed4b446d14c7f194315623e22aa96",
+        "bytes": 29555
+    },
+    "parsed": {
+        "found": true,
+        "word": "司空见惯",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "sī",
+                "kōng",
+                "jiàn",
+                "guàn"
+            ],
+            "zhuyin": [
+                "ㄙ",
+                "ㄎㄨㄥ",
+                "ㄐㄧㄢˋ",
+                "ㄍㄨㄢˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容经常见到的事物，不足为奇。",
+                "citations": [
+                    {
+                        "text": "春风一曲《杜韦娘》。司空见惯浑闲事，断尽江南刺史肠。",
+                        "source": "唐·孟棨《本事诗·情感》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "春风一曲《杜韦娘》。司空见惯浑闲事，断尽江南刺史肠。",
+                "source": "唐·孟棨《本事诗·情感》"
+            }
+        ],
+        "synonyms": [
+            "不足为奇",
+            "多如牛毛",
+            "屡见不鲜",
+            "习以为常",
+            "数见不鲜",
+            "层见叠出"
+        ],
+        "antonyms": [
+            "盖世无双",
+            "独一无二",
+            "天下无双",
+            "见所未见",
+            "绝无仅有",
+            "触目惊心",
+            "少见多怪"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "common occurrence"
+    },
+    "blocks": {
+        "reading": "sī kōng jiàn guàn",
+        "sense-1": "形容经常见到的事物，不足为奇。",
+        "citation-1": "春风一曲《杜韦娘》。司空见惯浑闲事，断尽江南刺史肠。 — 唐·孟棨《本事诗·情感》",
+        "synonyms": "不足为奇、多如牛毛、屡见不鲜、习以为常、数见不鲜、层见叠出",
+        "antonyms": "盖世无双、独一无二、天下无双、见所未见、绝无仅有、触目惊心、少见多怪"
+    }
+}

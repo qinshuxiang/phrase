@@ -1,0 +1,70 @@
+{
+    "word": "销声匿迹",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%94%80%E5%A3%B0%E5%8C%BF%E8%BF%B9",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "debcd0f7637911921735a9fe6c865adbbe1b21f4f4e4a2a939ed7e07ab063e6e",
+        "bytes": 28060
+    },
+    "parsed": {
+        "found": true,
+        "word": "销声匿迹",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "xiāo",
+                "shēng",
+                "nì",
+                "jì"
+            ],
+            "zhuyin": [
+                "ㄒㄧㄠ",
+                "ㄕㄥ",
+                "ㄋㄧˋ",
+                "ㄐㄧˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "指隐藏起来,不公开露面",
+                "citations": [
+                    {
+                        "text": "他生平最是趋炎附势的,如何肯销声匿迹?",
+                        "source": "清·李宝嘉《官场现形记》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "他生平最是趋炎附势的,如何肯销声匿迹?",
+                "source": "清·李宝嘉《官场现形记》"
+            }
+        ],
+        "synonyms": [
+            "隐姓埋名",
+            "无影无踪",
+            "销声敛迹"
+        ],
+        "antonyms": [
+            "死灰复燃",
+            "东山再起",
+            "大事招摇",
+            "四处招摇"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "occultation;disappear from the scene;keep silent and lie low"
+    },
+    "blocks": {
+        "reading": "xiāo shēng nì jì",
+        "sense-1": "指隐藏起来,不公开露面",
+        "citation-1": "他生平最是趋炎附势的,如何肯销声匿迹? — 清·李宝嘉《官场现形记》",
+        "synonyms": "隐姓埋名、无影无踪、销声敛迹",
+        "antonyms": "死灰复燃、东山再起、大事招摇、四处招摇"
+    }
+}

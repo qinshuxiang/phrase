@@ -1,0 +1,58 @@
+{
+    "word": "朝令夕改",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%9C%9D%E4%BB%A4%E5%A4%95%E6%94%B9",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "66a748bc9550ad4d600264f2bc4d4e36f902e1886e4d65b5aa5487b6a1d75e25",
+        "bytes": 28302
+    },
+    "parsed": {
+        "found": true,
+        "word": "朝令夕改",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zhāo",
+                "lìng",
+                "xī",
+                "gǎi"
+            ],
+            "zhuyin": [
+                "ㄓㄠ",
+                "ㄌㄧㄥˋ",
+                "ㄒㄧ",
+                "ㄍㄞˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "指政令或办法时常更改,一会儿一个样。也说“朝令暮改”",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "朝三暮四",
+            "朝秦暮楚"
+        ],
+        "antonyms": [
+            "一如既往",
+            "一成不变",
+            "萧规曹随",
+            "言出法随"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "issue an order in the morning and rescind it in the evening"
+    },
+    "blocks": {
+        "reading": "zhāo lìng xī gǎi",
+        "sense-1": "指政令或办法时常更改,一会儿一个样。也说“朝令暮改”",
+        "synonyms": "朝三暮四、朝秦暮楚",
+        "antonyms": "一如既往、一成不变、萧规曹随、言出法随"
+    }
+}

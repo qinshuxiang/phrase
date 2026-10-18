@@ -1,0 +1,67 @@
+{
+    "word": "釜底抽薪",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%87%9C%E5%BA%95%E6%8A%BD%E8%96%AA",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "3ae8a492148510937957147f9f784b852294042fb047359dddf87ee4b65260a0",
+        "bytes": 28367
+    },
+    "parsed": {
+        "found": true,
+        "word": "釜底抽薪",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "fǔ",
+                "dǐ",
+                "chōu",
+                "xīn"
+            ],
+            "zhuyin": [
+                "ㄈㄨˇ",
+                "ㄉㄧˇ",
+                "ㄔㄡ",
+                "ㄒㄧㄣ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "把柴火从锅底抽掉。比喻从根本上解决问题。军事上是指从根本上打败敌人的谋略",
+                "citations": [
+                    {
+                        "text": "如今有个道理,是“釜底抽薪”之法。",
+                        "source": "清·吴敬梓《儒林外史》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "如今有个道理,是“釜底抽薪”之法。",
+                "source": "清·吴敬梓《儒林外史》"
+            }
+        ],
+        "synonyms": [
+            "抽薪止沸"
+        ],
+        "antonyms": [
+            "火上浇油",
+            "沸汤沸止",
+            "扬汤止沸"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "take away the firewood from under the cauldron;(fig) take a drastic measure to deal with a situation"
+    },
+    "blocks": {
+        "reading": "fǔ dǐ chōu xīn",
+        "sense-1": "把柴火从锅底抽掉。比喻从根本上解决问题。军事上是指从根本上打败敌人的谋略",
+        "citation-1": "如今有个道理,是“釜底抽薪”之法。 — 清·吴敬梓《儒林外史》",
+        "synonyms": "抽薪止沸",
+        "antonyms": "火上浇油、沸汤沸止、扬汤止沸"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "word": "趋炎附势",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%B6%8B%E7%82%8E%E9%99%84%E5%8A%BF",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "f77df55228f825af9818220e0b7cfc736099877c08753d5412cc6e0549cb310f",
+        "bytes": 26886
+    },
+    "parsed": {
+        "found": true,
+        "word": "趋炎附势",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "qū",
+                "yán",
+                "fù",
+                "shì"
+            ],
+            "zhuyin": [
+                "ㄑㄩ",
+                "ㄧㄢˊ",
+                "ㄈㄨˋ",
+                "ㄕˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "奉承依附有权有势的人。",
+                "citations": [
+                    {
+                        "text": "自从元老登庸后，天下诸狐尽带令。盖趋炎附势自古然矣。",
+                        "source": "宋·陈善《扪虱新话·趋炎附势自古而然》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "自从元老登庸后，天下诸狐尽带令。盖趋炎附势自古然矣。",
+                "source": "宋·陈善《扪虱新话·趋炎附势自古而然》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "fawn on the powerful"
+    },
+    "blocks": {
+        "reading": "qū yán fù shì",
+        "sense-1": "奉承依附有权有势的人。",
+        "citation-1": "自从元老登庸后，天下诸狐尽带令。盖趋炎附势自古然矣。 — 宋·陈善《扪虱新话·趋炎附势自古而然》"
+    }
+}

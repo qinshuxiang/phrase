@@ -1,0 +1,57 @@
+{
+    "word": "了如指掌",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%BA%86%E5%A6%82%E6%8C%87%E6%8E%8C",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "16c49448ae356fea339be91c7d69f192430fa8776e58cb368fe69c7998980d78",
+        "bytes": 28622
+    },
+    "parsed": {
+        "found": true,
+        "word": "了如指掌",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "liǎo",
+                "rú",
+                "zhǐ",
+                "zhǎng"
+            ],
+            "zhuyin": [
+                "ㄌㄧㄠˇ",
+                "ㄖㄨˊ",
+                "ㄓˇ",
+                "ㄓㄤˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容对情况极为清楚",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "一目了然",
+            "一清二楚",
+            "洞若观火"
+        ],
+        "antonyms": [
+            "疑团莫释",
+            "一团漆黑"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "have sth.at one’s fingertips; know as one know his ten fingers; know like a book; know as well as a beggar knows his bag"
+    },
+    "blocks": {
+        "reading": "liǎo rú zhǐ zhǎng",
+        "sense-1": "形容对情况极为清楚",
+        "synonyms": "一目了然、一清二楚、洞若观火",
+        "antonyms": "疑团莫释、一团漆黑"
+    }
+}

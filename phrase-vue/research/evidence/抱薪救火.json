@@ -1,0 +1,69 @@
+{
+    "word": "抱薪救火",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%8A%B1%E8%96%AA%E6%95%91%E7%81%AB",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "6302fa08c678a24bd64f73794b2517f7d56648bce8989b90dad544456e7c6ec6",
+        "bytes": 28824
+    },
+    "parsed": {
+        "found": true,
+        "word": "抱薪救火",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bào",
+                "xīn",
+                "jiù",
+                "huǒ"
+            ],
+            "zhuyin": [
+                "ㄅㄠˋ",
+                "ㄒㄧㄣ",
+                "ㄐㄧㄡˋ",
+                "ㄏㄨㄛˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "抱着柴草救火。比喻欲除其害,反助其势",
+                "citations": [
+                    {
+                        "text": "且夫以地事秦,譬犹抱薪救火,薪不尽,火不灭。",
+                        "source": "《史记·魏世家》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "且夫以地事秦,譬犹抱薪救火,薪不尽,火不灭。",
+                "source": "《史记·魏世家》"
+            }
+        ],
+        "synonyms": [
+            "火上浇油",
+            "饮鸩止渴",
+            "火上浇油﹑扬汤止沸"
+        ],
+        "antonyms": [
+            "雪中送炭",
+            "根除祸患",
+            "釜底抽薪"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "carry faggots to put out a fire;take oil to extinguish the fire"
+    },
+    "blocks": {
+        "reading": "bào xīn jiù huǒ",
+        "sense-1": "抱着柴草救火。比喻欲除其害,反助其势",
+        "citation-1": "且夫以地事秦,譬犹抱薪救火,薪不尽,火不灭。 — 《史记·魏世家》",
+        "synonyms": "火上浇油、饮鸩止渴、火上浇油﹑扬汤止沸",
+        "antonyms": "雪中送炭、根除祸患、釜底抽薪"
+    }
+}

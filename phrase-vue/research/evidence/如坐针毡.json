@@ -1,0 +1,59 @@
+{
+    "word": "如坐针毡",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A6%82%E5%9D%90%E9%92%88%E6%AF%A1",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "aa1ec09b21d5e857a796407f10c06ad6a1dc3d429c364880939d1711738e4a63",
+        "bytes": 27057
+    },
+    "parsed": {
+        "found": true,
+        "word": "如坐针毡",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "rú",
+                "zuò",
+                "zhēn",
+                "zhān"
+            ],
+            "zhuyin": [
+                "ㄖㄨˊ",
+                "ㄗㄨㄛˋ",
+                "ㄓㄣ",
+                "ㄓㄢ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容心神不宁、坐立不安的状态。",
+                "citations": [
+                    {
+                        "text": "王子服等四人面面相觑，如坐针毡。",
+                        "source": "《三国演义》第二三回"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "王子服等四人面面相觑，如坐针毡。",
+                "source": "《三国演义》第二三回"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "on pins and needles"
+    },
+    "blocks": {
+        "reading": "rú zuò zhēn zhān",
+        "sense-1": "形容心神不宁、坐立不安的状态。",
+        "citation-1": "王子服等四人面面相觑，如坐针毡。 — 《三国演义》第二三回"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "word": "沉渣泛起",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%B2%89%E6%B8%A3%E6%B3%9B%E8%B5%B7",
+        "retrieved_at": "2026-10-18",
+        "http_status": 404,
+        "page_sha256": "9e9aef6ab4e3424171edcc971185631af8e059fa7aff38a134b6da4d8ee011df",
+        "bytes": 24
+    },
+    "parsed": {
+        "found": false,
+        "word": "沉渣泛起",
+        "section": null,
+        "readings": {
+            "pinyin": [],
+            "zhuyin": []
+        },
+        "senses": [],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": ""
+    },
+    "blocks": {}
+}

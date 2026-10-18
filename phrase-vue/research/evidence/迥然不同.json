@@ -1,0 +1,71 @@
+{
+    "word": "迥然不同",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%BF%A5%E7%84%B6%E4%B8%8D%E5%90%8C",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "7670d599e92936e39821827f4b1b352b8b19d5b542ced6c31e7dc392950c4d73",
+        "bytes": 29323
+    },
+    "parsed": {
+        "found": true,
+        "word": "迥然不同",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jiǒng",
+                "rán",
+                "bù",
+                "tóng"
+            ],
+            "zhuyin": [
+                "ㄐㄩㄥˇ",
+                "ㄖㄢˊ",
+                "ㄅㄨˋ",
+                "ㄊㄨㄥˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容差别很大，完全不一样。",
+                "citations": [
+                    {
+                        "text": "知吾儒之所谓道者，与释氏迥然不同，则如朝闻夕死之说矣。",
+                        "source": "宋·朱熹《答程允夫书》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "知吾儒之所谓道者，与释氏迥然不同，则如朝闻夕死之说矣。",
+                "source": "宋·朱熹《答程允夫书》"
+            }
+        ],
+        "synonyms": [
+            "大相径庭",
+            "判然不同",
+            "截然不同",
+            "截然有异"
+        ],
+        "antonyms": [
+            "毫无二致",
+            "不相上下",
+            "半斤八两",
+            "一模一样"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "entirely different"
+    },
+    "blocks": {
+        "reading": "jiǒng rán bù tóng",
+        "sense-1": "形容差别很大，完全不一样。",
+        "citation-1": "知吾儒之所谓道者，与释氏迥然不同，则如朝闻夕死之说矣。 — 宋·朱熹《答程允夫书》",
+        "synonyms": "大相径庭、判然不同、截然不同、截然有异",
+        "antonyms": "毫无二致、不相上下、半斤八两、一模一样"
+    }
+}

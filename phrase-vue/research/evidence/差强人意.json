@@ -1,0 +1,55 @@
+{
+    "word": "差强人意",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%B7%AE%E5%BC%BA%E4%BA%BA%E6%84%8F",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "e8b41697275c9381c507df91bcadf58b64bb0ef9b940d0ca7a28b38774e043f9",
+        "bytes": 27361
+    },
+    "parsed": {
+        "found": true,
+        "word": "差强人意",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "chā",
+                "qiáng",
+                "rén",
+                "yì"
+            ],
+            "zhuyin": [
+                "ㄔㄚ",
+                "ㄑㄧㄤˇ",
+                "ㄖㄣˊ",
+                "ㄧˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "还算能振奋心意。比喻大致令人满意",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "心满意足",
+            "称心如意"
+        ],
+        "antonyms": [
+            "大失所望"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "be barely satisfactory;be satisfactory in a manner;just passable"
+    },
+    "blocks": {
+        "reading": "chā qiáng rén yì",
+        "sense-1": "还算能振奋心意。比喻大致令人满意",
+        "synonyms": "心满意足、称心如意",
+        "antonyms": "大失所望"
+    }
+}

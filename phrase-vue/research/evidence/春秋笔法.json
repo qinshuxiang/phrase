@@ -1,0 +1,59 @@
+{
+    "word": "春秋笔法",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%98%A5%E7%A7%8B%E7%AC%94%E6%B3%95",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "04ea2066ebbca4baaae8f1d80e55e40ef6823cac6a91132d6770d5863da85fce",
+        "bytes": 24271
+    },
+    "parsed": {
+        "found": true,
+        "word": "春秋笔法",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "chūn",
+                "qiū",
+                "bǐ",
+                "fá"
+            ],
+            "zhuyin": [
+                "ㄔㄨㄣ",
+                "ㄑㄧㄡ",
+                "ㄅㄧˇ",
+                "ㄈㄚˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "文字曲折而隐含褒贬的写作手法。",
+                "citations": [
+                    {
+                        "text": "朱文公《通鉴纲目》以正名为先……盖钝用春秋笔法也。",
+                        "source": "宋·俞文豹《吹剑录》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "朱文公《通鉴纲目》以正名为先……盖钝用春秋笔法也。",
+                "source": "宋·俞文豹《吹剑录》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "praise and blame through subtle wording"
+    },
+    "blocks": {
+        "reading": "chūn qiū bǐ fá",
+        "sense-1": "文字曲折而隐含褒贬的写作手法。",
+        "citation-1": "朱文公《通鉴纲目》以正名为先……盖钝用春秋笔法也。 — 宋·俞文豹《吹剑录》"
+    }
+}

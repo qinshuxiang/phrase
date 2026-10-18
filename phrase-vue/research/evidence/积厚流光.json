@@ -1,0 +1,59 @@
+{
+    "word": "积厚流光",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%A7%AF%E5%8E%9A%E6%B5%81%E5%85%89",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "9dac25967e4126dbf95103025ee74d340c0e1a8bb4b9400695bf41eb8c23499a",
+        "bytes": 25881
+    },
+    "parsed": {
+        "found": true,
+        "word": "积厚流光",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jī",
+                "hòu",
+                "liú",
+                "guāng"
+            ],
+            "zhuyin": [
+                "ㄐㄧ",
+                "ㄏㄡˋ",
+                "ㄌㄧㄨˊ",
+                "ㄍㄨㄤ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "功业深厚则流传给后人的恩德广远。",
+                "citations": [
+                    {
+                        "text": "箕裘之美，侔于带砺，积厚流光，斯已信矣。",
+                        "source": "清·钱谦益《和州鲁氏先茔神道碑》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "箕裘之美，侔于带砺，积厚流光，斯已信矣。",
+                "source": "清·钱谦益《和州鲁氏先茔神道碑》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "accumulated merit brings lasting glory"
+    },
+    "blocks": {
+        "reading": "jī hòu liú guāng",
+        "sense-1": "功业深厚则流传给后人的恩德广远。",
+        "citation-1": "箕裘之美，侔于带砺，积厚流光，斯已信矣。 — 清·钱谦益《和州鲁氏先茔神道碑》"
+    }
+}

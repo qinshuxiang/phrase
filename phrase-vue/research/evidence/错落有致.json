@@ -1,0 +1,67 @@
+{
+    "word": "错落有致",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%94%99%E8%90%BD%E6%9C%89%E8%87%B4",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "7054627da74c2fc2baae0a0e7fa0ca73e3d93a2344908c502c9e7c8aea9d5f4f",
+        "bytes": 26200
+    },
+    "parsed": {
+        "found": true,
+        "word": "错落有致",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "cuò",
+                "luò",
+                "yǒu",
+                "zhì"
+            ],
+            "zhuyin": [
+                "ㄘㄨㄛˋ",
+                "ㄌㄨㄛˋ",
+                "ㄧㄡˇ",
+                "ㄓˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "交错纷杂而富有情趣。",
+                "citations": [
+                    {
+                        "text": "遍山皆青皮古松，不下数百株，太湖石亦高低错落有致，异鸟飞翔，哢音木杪，真蓬莱仙境也。",
+                        "source": "清·张集馨《道咸宦海见闻录》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "遍山皆青皮古松，不下数百株，太湖石亦高低错落有致，异鸟飞翔，哢音木杪，真蓬莱仙境也。",
+                "source": "清·张集馨《道咸宦海见闻录》"
+            }
+        ],
+        "synonyms": [
+            "有条不紊",
+            "有条有理"
+        ],
+        "antonyms": [
+            "杂乱无章",
+            "错落不齐"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "well-proportioned and picturesque"
+    },
+    "blocks": {
+        "reading": "cuò luò yǒu zhì",
+        "sense-1": "交错纷杂而富有情趣。",
+        "citation-1": "遍山皆青皮古松，不下数百株，太湖石亦高低错落有致，异鸟飞翔，哢音木杪，真蓬莱仙境也。 — 清·张集馨《道咸宦海见闻录》",
+        "synonyms": "有条不紊、有条有理",
+        "antonyms": "杂乱无章、错落不齐"
+    }
+}

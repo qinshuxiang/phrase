@@ -1,0 +1,66 @@
+{
+    "word": "兼收并蓄",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%85%BC%E6%94%B6%E5%B9%B6%E8%93%84",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "63eed0604670179b02f59d91227bba2aa1cdd0c2a658d5e165e2a78292cbee23",
+        "bytes": 26652
+    },
+    "parsed": {
+        "found": true,
+        "word": "兼收并蓄",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jiān",
+                "shōu",
+                "bìng",
+                "xù"
+            ],
+            "zhuyin": [
+                "ㄐㄧㄢ",
+                "ㄕㄡ",
+                "ㄅㄧㄥˋ",
+                "ㄒㄩˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "将不同性质的事物一并收纳保存。",
+                "citations": [
+                    {
+                        "text": "小人进则君子必退，君子亲则小人必疏，未有可以兼收并蓄而不相害者也。",
+                        "source": "宋·朱熹《己酉拟上封事》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "小人进则君子必退，君子亲则小人必疏，未有可以兼收并蓄而不相害者也。",
+                "source": "宋·朱熹《己酉拟上封事》"
+            }
+        ],
+        "synonyms": [
+            "兼容并包",
+            "兼而有之"
+        ],
+        "antonyms": [
+            "不可兼得"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "all-embracing"
+    },
+    "blocks": {
+        "reading": "jiān shōu bìng xù",
+        "sense-1": "将不同性质的事物一并收纳保存。",
+        "citation-1": "小人进则君子必退，君子亲则小人必疏，未有可以兼收并蓄而不相害者也。 — 宋·朱熹《己酉拟上封事》",
+        "synonyms": "兼容并包、兼而有之",
+        "antonyms": "不可兼得"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "word": "一脉相承",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%80%E8%84%89%E7%9B%B8%E6%89%BF",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "4e7e37e626526c5b862f3907c2c2781b7e35e9d3a62c8773279bddba2df4274f",
+        "bytes": 25453
+    },
+    "parsed": {
+        "found": true,
+        "word": "一脉相承",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yī",
+                "mài",
+                "xiāng",
+                "chéng"
+            ],
+            "zhuyin": [
+                "ㄧ",
+                "ㄇㄞˋ",
+                "ㄒㄧㄤ",
+                "ㄔㄥˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "见“ 一脉相传",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "derived from the same origin"
+    },
+    "blocks": {
+        "reading": "yī mài xiāng chéng",
+        "sense-1": "见“ 一脉相传"
+    }
+}

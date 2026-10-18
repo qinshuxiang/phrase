@@ -1,0 +1,63 @@
+{
+    "word": "不以为意",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%8D%E4%BB%A5%E4%B8%BA%E6%84%8F",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "c943682fbed35dab8703721727361fb99a265cff59699ab69f1ae079b97be07e",
+        "bytes": 26634
+    },
+    "parsed": {
+        "found": true,
+        "word": "不以为意",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bù",
+                "yǐ",
+                "wéi",
+                "yì"
+            ],
+            "zhuyin": [
+                "ㄅㄨˋ",
+                "ㄧˇ",
+                "ㄨㄟˊ",
+                "ㄧˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "不把事情放在心上。",
+                "citations": [
+                    {
+                        "text": "临淄官徒有在京邑，闻怀砖慕势，咸共耻之，唯崔孝忠一人不以为意。",
+                        "source": "北魏·杨衒之《洛阳伽蓝记·秦太上君寺》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "临淄官徒有在京邑，闻怀砖慕势，咸共耻之，唯崔孝忠一人不以为意。",
+                "source": "北魏·杨衒之《洛阳伽蓝记·秦太上君寺》"
+            }
+        ],
+        "synonyms": [
+            "漠不关心",
+            "漫不经心"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "not take seriously"
+    },
+    "blocks": {
+        "reading": "bù yǐ wéi yì",
+        "sense-1": "不把事情放在心上。",
+        "citation-1": "临淄官徒有在京邑，闻怀砖慕势，咸共耻之，唯崔孝忠一人不以为意。 — 北魏·杨衒之《洛阳伽蓝记·秦太上君寺》",
+        "synonyms": "漠不关心、漫不经心"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "word": "不落窠臼",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%8D%E8%90%BD%E7%AA%A0%E8%87%BC",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "edc43bb4d3100b25fe4efcd5f3a02f8ccbda6746a65b5bfc441b8eaa91524ce0",
+        "bytes": 28671
+    },
+    "parsed": {
+        "found": true,
+        "word": "不落窠臼",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bù",
+                "luò",
+                "kē",
+                "jiù"
+            ],
+            "zhuyin": [
+                "ㄅㄨˊ",
+                "ㄌㄨㄛˋ",
+                "ㄎㄜ",
+                "ㄐㄧㄡˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻有独创风格,不落俗套(多指文学艺术)",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "别具一格",
+            "别开生面",
+            "别具匠心",
+            "不落俗套"
+        ],
+        "antonyms": [
+            "依样葫芦",
+            "千篇一律",
+            "如法炮制",
+            "如法泡制"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "do not fall (get) into a groove;do not follow the beaten track"
+    },
+    "blocks": {
+        "reading": "bù luò kē jiù",
+        "sense-1": "比喻有独创风格,不落俗套(多指文学艺术)",
+        "synonyms": "别具一格、别开生面、别具匠心、不落俗套",
+        "antonyms": "依样葫芦、千篇一律、如法炮制、如法泡制"
+    }
+}

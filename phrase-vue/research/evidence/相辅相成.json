@@ -1,0 +1,59 @@
+{
+    "word": "相辅相成",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%9B%B8%E8%BE%85%E7%9B%B8%E6%88%90",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "b09353d9d8f30c187308e47705e951b6842f31e76fda142f5d0f6ae8e16a4cf4",
+        "bytes": 25913
+    },
+    "parsed": {
+        "found": true,
+        "word": "相辅相成",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "xiāng",
+                "fǔ",
+                "xiāng",
+                "chéng"
+            ],
+            "zhuyin": [
+                "ㄒㄧㄤ",
+                "ㄈㄨˇ",
+                "ㄒㄧㄤ",
+                "ㄔㄥˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "相互配合，相互促成。",
+                "citations": [
+                    {
+                        "text": "这两种写法各有短长，相辅相成，很难说哪一种写法准比另一种写法好。",
+                        "source": "吕叔湘《〈中国文法要略〉重印题记》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "这两种写法各有短长，相辅相成，很难说哪一种写法准比另一种写法好。",
+                "source": "吕叔湘《〈中国文法要略〉重印题记》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "complementary"
+    },
+    "blocks": {
+        "reading": "xiāng fǔ xiāng chéng",
+        "sense-1": "相互配合，相互促成。",
+        "citation-1": "这两种写法各有短长，相辅相成，很难说哪一种写法准比另一种写法好。 — 吕叔湘《〈中国文法要略〉重印题记》"
+    }
+}

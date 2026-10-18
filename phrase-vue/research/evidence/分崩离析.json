@@ -1,0 +1,76 @@
+{
+    "word": "分崩离析",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%88%86%E5%B4%A9%E7%A6%BB%E6%9E%90",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "54218210352dd647f5b3b1b3be1a1ddb4994fdb78eadf98bc072f043d7609586",
+        "bytes": 28367
+    },
+    "parsed": {
+        "found": true,
+        "word": "分崩离析",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "fēn",
+                "bēng",
+                "lí",
+                "xī"
+            ],
+            "zhuyin": [
+                "ㄈㄣ",
+                "ㄅㄥ",
+                "ㄌㄧˊ",
+                "ㄒㄧ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容国家、集团或组织分裂瓦解。",
+                "citations": [
+                    {
+                        "text": "邦分崩离析，而不能守也。",
+                        "source": "《论语·季氏》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "邦分崩离析，而不能守也。",
+                "source": "《论语·季氏》"
+            }
+        ],
+        "synonyms": [
+            "土崩瓦解",
+            "四分五裂",
+            "离心离德",
+            "尔虞我诈"
+        ],
+        "antonyms": [
+            "坚不可摧",
+            "分甘共苦",
+            "同甘共苦",
+            "同心同德",
+            "同心协力",
+            "同舟共济",
+            "和衷共济",
+            "坚如磐石",
+            "安危与共"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "disintegrate"
+    },
+    "blocks": {
+        "reading": "fēn bēng lí xī",
+        "sense-1": "形容国家、集团或组织分裂瓦解。",
+        "citation-1": "邦分崩离析，而不能守也。 — 《论语·季氏》",
+        "synonyms": "土崩瓦解、四分五裂、离心离德、尔虞我诈",
+        "antonyms": "坚不可摧、分甘共苦、同甘共苦、同心同德、同心协力、同舟共济、和衷共济、坚如磐石、安危与共"
+    }
+}

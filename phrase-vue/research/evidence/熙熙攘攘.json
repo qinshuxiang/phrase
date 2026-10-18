@@ -1,0 +1,56 @@
+{
+    "word": "熙熙攘攘",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%86%99%E7%86%99%E6%94%98%E6%94%98",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "4051dd8edf88ba27b19241347146d4206536fb088986e40fb5b6c783aa98b9db",
+        "bytes": 26830
+    },
+    "parsed": {
+        "found": true,
+        "word": "熙熙攘攘",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "xī",
+                "xī",
+                "rǎng",
+                "rǎng"
+            ],
+            "zhuyin": [
+                "ㄒㄧ",
+                "ㄒㄧ",
+                "ㄖㄤˇ",
+                "ㄖㄤˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "指路上行人多,喧闹杂乱",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "人山人海",
+            "水泄不通"
+        ],
+        "antonyms": [
+            "门前冷落",
+            "门可罗雀"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "boisterous;bustling;bustle with activity"
+    },
+    "blocks": {
+        "reading": "xī xī rǎng rǎng",
+        "sense-1": "指路上行人多,喧闹杂乱",
+        "synonyms": "人山人海、水泄不通",
+        "antonyms": "门前冷落、门可罗雀"
+    }
+}

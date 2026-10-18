@@ -1,0 +1,81 @@
+{
+    "word": "一概而论",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%80%E6%A6%82%E8%80%8C%E8%AE%BA",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "ddaf56b05b56f7baa3865b9f50386ab9fdc08691b8263d3886a4e20d2d5c0349",
+        "bytes": 27940
+    },
+    "parsed": {
+        "found": true,
+        "word": "一概而论",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yī",
+                "gài",
+                "ér",
+                "lùn"
+            ],
+            "zhuyin": [
+                "ㄧ",
+                "ㄍㄞˋ",
+                "ㄦˊ",
+                "ㄌㄨㄣˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "对事物不作区分，笼统地同等看待。",
+                "citations": [
+                    {
+                        "text": "百体千形而呈其巧，岂可一概而论哉？",
+                        "source": "晋·王羲之《自序草书势》"
+                    },
+                    {
+                        "text": "安可以今方古，一概而论得失？",
+                        "source": "唐·刘知几《史通·叙事》"
+                    }
+                ]
+            },
+            {
+                "definition": "不加区别地评论事物。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "百体千形而呈其巧，岂可一概而论哉？",
+                "source": "晋·王羲之《自序草书势》"
+            },
+            {
+                "text": "安可以今方古，一概而论得失？",
+                "source": "唐·刘知几《史通·叙事》"
+            }
+        ],
+        "synonyms": [
+            "相提并论",
+            "同日而语",
+            "等量齐观"
+        ],
+        "antonyms": [
+            "天壤之别"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "lump together"
+    },
+    "blocks": {
+        "reading": "yī gài ér lùn",
+        "sense-1": "对事物不作区分，笼统地同等看待。",
+        "sense-2": "不加区别地评论事物。",
+        "citation-1": "百体千形而呈其巧，岂可一概而论哉？ — 晋·王羲之《自序草书势》",
+        "citation-2": "安可以今方古，一概而论得失？ — 唐·刘知几《史通·叙事》",
+        "synonyms": "相提并论、同日而语、等量齐观",
+        "antonyms": "天壤之别"
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "word": "江河日下",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%B1%9F%E6%B2%B3%E6%97%A5%E4%B8%8B",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "a1b12dd1ef2cebed2a5d2768497f85e2d45589790b4589385a8c2d7027097f6a",
+        "bytes": 29409
+    },
+    "parsed": {
+        "found": true,
+        "word": "江河日下",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jiāng",
+                "hé",
+                "rì",
+                "xià"
+            ],
+            "zhuyin": [
+                "ㄐㄧㄤ",
+                "ㄏㄜˊ",
+                "ㄖㄧˋ",
+                "ㄒㄧㄚˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "江河的水逐日流向下游。比喻事物日衰,景象日非",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "江流日下",
+            "每况愈下",
+            "日就衰败",
+            "一落千丈"
+        ],
+        "antonyms": [
+            "挥戈返日",
+            "旭日初升",
+            "蒸蒸日上",
+            "如日方升",
+            "一日千里"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "go from bad to worse;degenerate day by day;be on the decline;be on the wane"
+    },
+    "blocks": {
+        "reading": "jiāng hé rì xià",
+        "sense-1": "江河的水逐日流向下游。比喻事物日衰,景象日非",
+        "synonyms": "江流日下、每况愈下、日就衰败、一落千丈",
+        "antonyms": "挥戈返日、旭日初升、蒸蒸日上、如日方升、一日千里"
+    }
+}

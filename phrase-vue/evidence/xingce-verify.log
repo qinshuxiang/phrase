@@ -1,0 +1,5 @@
+
+> phrase-vue@2.0.0 verify:xingce
+> node scripts/verify-xingce.mjs
+
+{"passed":true,"questions":6020,"verified":3497,"pending":2522,"missing":1,"missingAnalysis":1226,"papers":46,"images":986,"preserved_files":1748,"concurrent_vocab":{"before":{"files":24,"groups":108,"words":899,"teachers":4},"after":{"files":24,"groups":123,"words":1037,"teachers":4},"beforeHash":"0feae6ac96ade1702284b4698d180c7a002b871b4bcd9467ecd0108072aab855","acceptedHash":"f967870bbc2e1950874dcc1c21eeab84b7253a8e13a96fc215422167b08e0627","changed":[],"missing":[],"reordered":[],"explanation":"词库在2026-10-18 23:08:50被并行的课程词条导入更新；本次全科重构未执行该导入，保留更新后的文件。 原899条由旧离线构建还原，重建原JSON格式后的SHA-256与任务启动基线完全一致。"},"preserved_prior_offline_entries":899,"source_rebuild":"npm run import:xingce -- --check"}

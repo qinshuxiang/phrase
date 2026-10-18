@@ -1,0 +1,48 @@
+{
+    "word": "坐享其成",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%9D%90%E4%BA%AB%E5%85%B6%E6%88%90",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "de38932d8e469243a51b5f098fcd1cf5ef1749f8bea2f26cdf48d91907a60b56",
+        "bytes": 27784
+    },
+    "parsed": {
+        "found": true,
+        "word": "坐享其成",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zuò",
+                "xiǎng",
+                "qí",
+                "chéng"
+            ],
+            "zhuyin": [
+                "ㄗㄨㄛˋ",
+                "ㄒㄧㄤˇ",
+                "ㄑㄧˊ",
+                "ㄔㄥˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "自己不劳动,只是坐着受用他人辛劳的收获",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "sit idle and enjoy the fruits of other’s work; reap where one has not sown"
+    },
+    "blocks": {
+        "reading": "zuò xiǎng qí chéng",
+        "sense-1": "自己不劳动,只是坐着受用他人辛劳的收获"
+    }
+}

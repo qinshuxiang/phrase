@@ -1,0 +1,68 @@
+{
+    "word": "以邻为壑",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%BB%A5%E9%82%BB%E4%B8%BA%E5%A3%91",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "362aebdba36f458fd728801c2fa9813ed199b36110edd3c78b32e10fc43f265b",
+        "bytes": 27253
+    },
+    "parsed": {
+        "found": true,
+        "word": "以邻为壑",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yǐ",
+                "lín",
+                "wéi",
+                "hè"
+            ],
+            "zhuyin": [
+                "ㄧˇ",
+                "ㄌㄧㄣˊ",
+                "ㄨㄟˊ",
+                "ㄏㄜˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻将困难或灾祸转嫁给他人。",
+                "citations": [
+                    {
+                        "text": "公智虑深达，如宿将持重而规划绵络，不以邻为壑也。",
+                        "source": "宋·文天祥《知潮州寺丞东岩洪公行状》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "公智虑深达，如宿将持重而规划绵络，不以邻为壑也。",
+                "source": "宋·文天祥《知潮州寺丞东岩洪公行状》"
+            }
+        ],
+        "synonyms": [
+            "嫁祸于人",
+            "嫁祸他人"
+        ],
+        "antonyms": [
+            "雪中送炭",
+            "相濡以沫",
+            "与人为善"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "shift trouble to others"
+    },
+    "blocks": {
+        "reading": "yǐ lín wéi hè",
+        "sense-1": "比喻将困难或灾祸转嫁给他人。",
+        "citation-1": "公智虑深达，如宿将持重而规划绵络，不以邻为壑也。 — 宋·文天祥《知潮州寺丞东岩洪公行状》",
+        "synonyms": "嫁祸于人、嫁祸他人",
+        "antonyms": "雪中送炭、相濡以沫、与人为善"
+    }
+}

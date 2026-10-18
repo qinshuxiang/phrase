@@ -1,0 +1,70 @@
+{
+    "word": "一视同仁",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%80%E8%A7%86%E5%90%8C%E4%BB%81",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "eb093c29182967fd561d3292c5b4b641f7a5e44a1cbe42215b50261200f76e7e",
+        "bytes": 27294
+    },
+    "parsed": {
+        "found": true,
+        "word": "一视同仁",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yī",
+                "shì",
+                "tóng",
+                "rén"
+            ],
+            "zhuyin": [
+                "ㄧ",
+                "ㄕˋ",
+                "ㄊㄨㄥˊ",
+                "ㄖㄣˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "对人不分亲疏厚薄，给予同等对待。",
+                "citations": [
+                    {
+                        "text": "是故圣人一视而同仁，笃近而举远。",
+                        "source": "唐·韩愈《原人》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "是故圣人一视而同仁，笃近而举远。",
+                "source": "唐·韩愈《原人》"
+            }
+        ],
+        "synonyms": [
+            "天公地道",
+            "相提并论",
+            "等量齐观",
+            "视同一律"
+        ],
+        "antonyms": [
+            "另眼相看",
+            "另眼看待",
+            "厚此薄彼"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "equal treatment"
+    },
+    "blocks": {
+        "reading": "yī shì tóng rén",
+        "sense-1": "对人不分亲疏厚薄，给予同等对待。",
+        "citation-1": "是故圣人一视而同仁，笃近而举远。 — 唐·韩愈《原人》",
+        "synonyms": "天公地道、相提并论、等量齐观、视同一律",
+        "antonyms": "另眼相看、另眼看待、厚此薄彼"
+    }
+}

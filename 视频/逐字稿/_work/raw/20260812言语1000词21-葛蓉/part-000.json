@@ -1,0 +1,660 @@
+{
+  "text": "词曲 李宗盛没有话最开始就是一朵花远难的三方总会经历风霜每一个山坝都生着路上的心脏去冲荡去看那真是别别害怕我相信总有一颗心怀为我照料我相信我会到那那个地方我不管别人说人生本该这样大样我知道自己的窗该去何方也许你正在紧你的屁股期跟我那个饭店去努力不妨停下 脚步去吹吹风看开电梳的风景太累了就停下再半个家 受心情再出发亲爱的朋友如果你愿意也可以跟我说说心里话没有花 一开始就是一朵花我长过风雨才能慢慢颤兜每一朵花 满足带着眼泪的挣扎动感的熬过飞烟才能发芽没有花 最开始就是一朵花天哪的山坊总会经历风霜每一个山 八度生长路上的心脏你闯到自己看到 真是奇恶没有花一开始就是一个花穿过过雨才能慢慢长大每一个花般都带着眼泪和尘角就感到不厉害 天空花样没有花最开始就是一个花天哪的伤方总会流离疯狂每一个伤方都生长路上的心脏能不能少到一起探紧这些些别爱吗大声说孩子你干活是你怎样的人生他们拿着的98分的时间说怎么不是满分可谁也不是生那就是最完美的人我们都是边走边故意步步去展开这世界的门优优独播剧场——YoYo Television Series Exclusive就好如我一场梦诺管香调六五三方六容一世索六关三十层先后家人西州西州和阳人数平高桥并且放外一步声只在前面老是无伤 白太阴晴是什么风雨断尘太重 岁月自流叫我去车 上几尘路遥融化成只剧 尽去笑 恨尽长满途伴你渡客带你敲透送香气泄草回去龙袖放出奔袖几位是落海连波动游数据狂风险同舟热笔眼去淡沫草荒滩袖手一只迷迷半天高远头寄我朝复的美容只为相逢情生与生死亦逍遥无忧雨夜和烧将太平舞蹈踏 Palestine青街潮茹百 costly sacrificing memoir具滿lied商務",
+  "segments": [
+    {
+      "text": "词曲 李宗盛",
+      "start": 0.0,
+      "end": 0.14,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -1.0032,
+      "compression_ratio": 0.64
+    },
+    {
+      "text": "没有话最开始就是一朵花",
+      "start": 30.0,
+      "end": 33.86,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4542,
+      "compression_ratio": 1.0444
+    },
+    {
+      "text": "远难的三方总会经历风霜",
+      "start": 33.86,
+      "end": 36.96,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4542,
+      "compression_ratio": 1.0444
+    },
+    {
+      "text": "每一个山坝都生着路上的心脏",
+      "start": 36.96,
+      "end": 40.68,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4542,
+      "compression_ratio": 1.0444
+    },
+    {
+      "text": "去冲荡去看那真是别别害怕",
+      "start": 40.68,
+      "end": 45.480000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4542,
+      "compression_ratio": 1.0444
+    },
+    {
+      "text": "我相信总有一颗心怀为我照料",
+      "start": 45.48,
+      "end": 61.239999999999995,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3009,
+      "compression_ratio": 1.1897
+    },
+    {
+      "text": "我相信我会到那那个地方",
+      "start": 61.239999999999995,
+      "end": 64.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3009,
+      "compression_ratio": 1.1897
+    },
+    {
+      "text": "我不管别人说人生本该这样大样",
+      "start": 64.0,
+      "end": 68.1,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3009,
+      "compression_ratio": 1.1897
+    },
+    {
+      "text": "我知道自己的窗该去何方",
+      "start": 68.1,
+      "end": 71.3,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3009,
+      "compression_ratio": 1.1897
+    },
+    {
+      "text": "也许你正在紧你的屁股期",
+      "start": 71.3,
+      "end": 73.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3009,
+      "compression_ratio": 1.1897
+    },
+    {
+      "text": "跟我那个饭店去努力",
+      "start": 73.84,
+      "end": 75.17999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3009,
+      "compression_ratio": 1.1897
+    },
+    {
+      "text": "不妨停下 脚步去吹吹风",
+      "start": 75.18,
+      "end": 77.28,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3902,
+      "compression_ratio": 1.34
+    },
+    {
+      "text": "看开电梳的风景",
+      "start": 77.28,
+      "end": 78.58000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3902,
+      "compression_ratio": 1.34
+    },
+    {
+      "text": "太累了就停下",
+      "start": 78.58000000000001,
+      "end": 79.88000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3902,
+      "compression_ratio": 1.34
+    },
+    {
+      "text": "再半个家 受心情再出发",
+      "start": 79.88000000000001,
+      "end": 82.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3902,
+      "compression_ratio": 1.34
+    },
+    {
+      "text": "亲爱的朋友",
+      "start": 82.0,
+      "end": 82.92,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3902,
+      "compression_ratio": 1.34
+    },
+    {
+      "text": "如果你愿意也可以",
+      "start": 82.92,
+      "end": 84.12,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3902,
+      "compression_ratio": 1.34
+    },
+    {
+      "text": "跟我说说心里话",
+      "start": 84.12,
+      "end": 85.66000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3902,
+      "compression_ratio": 1.34
+    },
+    {
+      "text": "没有花 一开始就是一朵花",
+      "start": 85.66000000000001,
+      "end": 88.76,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3902,
+      "compression_ratio": 1.34
+    },
+    {
+      "text": "我长过风雨才能慢慢颤兜",
+      "start": 88.76,
+      "end": 91.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3902,
+      "compression_ratio": 1.34
+    },
+    {
+      "text": "每一朵花 满足带着眼泪的挣扎",
+      "start": 91.5,
+      "end": 95.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3902,
+      "compression_ratio": 1.34
+    },
+    {
+      "text": "动感的熬过飞烟才能发芽",
+      "start": 95.56,
+      "end": 98.48,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3902,
+      "compression_ratio": 1.34
+    },
+    {
+      "text": "没有花 最开始就是一朵花",
+      "start": 98.48,
+      "end": 102.44000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3902,
+      "compression_ratio": 1.34
+    },
+    {
+      "text": "天哪的山坊总会经历风霜",
+      "start": 102.44,
+      "end": 105.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6296,
+      "compression_ratio": 1.3
+    },
+    {
+      "text": "每一个山 八度生长路上的心脏",
+      "start": 105.56,
+      "end": 109.25999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6296,
+      "compression_ratio": 1.3
+    },
+    {
+      "text": "你闯到自己看到 真是奇恶",
+      "start": 109.25999999999999,
+      "end": 112.44,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6296,
+      "compression_ratio": 1.3
+    },
+    {
+      "text": "没有花一开始就是一个花",
+      "start": 112.44,
+      "end": 116.14,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6296,
+      "compression_ratio": 1.3
+    },
+    {
+      "text": "穿过过雨才能慢慢长大",
+      "start": 116.14,
+      "end": 119.2,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6296,
+      "compression_ratio": 1.3
+    },
+    {
+      "text": "每一个花般都带着眼泪和尘角",
+      "start": 119.2,
+      "end": 122.97999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6296,
+      "compression_ratio": 1.3
+    },
+    {
+      "text": "就感到不厉害 天空花样",
+      "start": 122.97999999999999,
+      "end": 125.94,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6296,
+      "compression_ratio": 1.3
+    },
+    {
+      "text": "没有花最开始就是一个花",
+      "start": 125.94,
+      "end": 129.9,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6296,
+      "compression_ratio": 1.3
+    },
+    {
+      "text": "天哪的伤方总会流离疯狂",
+      "start": 129.9,
+      "end": 133.02,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.5387,
+      "compression_ratio": 1.2591
+    },
+    {
+      "text": "每一个伤方",
+      "start": 133.02,
+      "end": 134.76000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.5387,
+      "compression_ratio": 1.2591
+    },
+    {
+      "text": "都生长路上的心脏",
+      "start": 134.76000000000002,
+      "end": 136.70000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.5387,
+      "compression_ratio": 1.2591
+    },
+    {
+      "text": "能不能少到一起探紧",
+      "start": 136.70000000000002,
+      "end": 138.44,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.5387,
+      "compression_ratio": 1.2591
+    },
+    {
+      "text": "这些些别爱吗",
+      "start": 138.44,
+      "end": 140.98000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.5387,
+      "compression_ratio": 1.2591
+    },
+    {
+      "text": "大声说孩子你干活",
+      "start": 140.98000000000002,
+      "end": 142.46,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.5387,
+      "compression_ratio": 1.2591
+    },
+    {
+      "text": "是你怎样的人生",
+      "start": 142.46,
+      "end": 143.78,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.5387,
+      "compression_ratio": 1.2591
+    },
+    {
+      "text": "他们拿着的98分的时间",
+      "start": 143.78,
+      "end": 145.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.5387,
+      "compression_ratio": 1.2591
+    },
+    {
+      "text": "说怎么不是满分",
+      "start": 145.88,
+      "end": 147.24,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.5387,
+      "compression_ratio": 1.2591
+    },
+    {
+      "text": "可谁也不是生",
+      "start": 147.24,
+      "end": 148.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.5387,
+      "compression_ratio": 1.2591
+    },
+    {
+      "text": "那就是最完美的人",
+      "start": 148.88,
+      "end": 150.54000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.5387,
+      "compression_ratio": 1.2591
+    },
+    {
+      "text": "我们都是边走边",
+      "start": 150.54000000000002,
+      "end": 152.26,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.5387,
+      "compression_ratio": 1.2591
+    },
+    {
+      "text": "故意步步去展开这世界的门",
+      "start": 152.26,
+      "end": 154.68,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.5387,
+      "compression_ratio": 1.2591
+    },
+    {
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "start": 154.68,
+      "end": 184.66,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1452,
+      "compression_ratio": 0.875
+    },
+    {
+      "text": "就好如我一场梦",
+      "start": 184.68,
+      "end": 187.16,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.7658,
+      "compression_ratio": 1.0851
+    },
+    {
+      "text": "诺管香调",
+      "start": 187.16,
+      "end": 190.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.7658,
+      "compression_ratio": 1.0851
+    },
+    {
+      "text": "六五三方",
+      "start": 190.06,
+      "end": 193.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.7658,
+      "compression_ratio": 1.0851
+    },
+    {
+      "text": "六容一世索",
+      "start": 193.5,
+      "end": 196.74,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.7658,
+      "compression_ratio": 1.0851
+    },
+    {
+      "text": "六关三十层先后",
+      "start": 196.74,
+      "end": 199.8,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.7658,
+      "compression_ratio": 1.0851
+    },
+    {
+      "text": "家人西州",
+      "start": 199.8,
+      "end": 201.86,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.7658,
+      "compression_ratio": 1.0851
+    },
+    {
+      "text": "西州和阳",
+      "start": 201.86,
+      "end": 206.12,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.7658,
+      "compression_ratio": 1.0851
+    },
+    {
+      "text": "人数平高桥",
+      "start": 206.12,
+      "end": 209.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.7658,
+      "compression_ratio": 1.0851
+    },
+    {
+      "text": "并且放外一步声",
+      "start": 209.5,
+      "end": 212.44,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.7658,
+      "compression_ratio": 1.0851
+    },
+    {
+      "text": "只在前面",
+      "start": 212.44,
+      "end": 214.14000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.7658,
+      "compression_ratio": 1.0851
+    },
+    {
+      "text": "老是无伤 白太阴晴是什么",
+      "start": 214.14,
+      "end": 221.89999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6703,
+      "compression_ratio": 1.0229
+    },
+    {
+      "text": "风雨断尘太重 岁月自流",
+      "start": 221.89999999999998,
+      "end": 227.76,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6703,
+      "compression_ratio": 1.0229
+    },
+    {
+      "text": "叫我去车 上几尘路遥融化成",
+      "start": 227.76,
+      "end": 234.66,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6703,
+      "compression_ratio": 1.0229
+    },
+    {
+      "text": "只剧 尽去笑 恨尽长满途",
+      "start": 234.66,
+      "end": 239.82,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6703,
+      "compression_ratio": 1.0229
+    },
+    {
+      "text": "伴你渡客带你敲透",
+      "start": 239.82,
+      "end": 245.14,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6862,
+      "compression_ratio": 1.0994
+    },
+    {
+      "text": "送香气泄草",
+      "start": 245.14,
+      "end": 249.29999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6862,
+      "compression_ratio": 1.0994
+    },
+    {
+      "text": "回去龙袖",
+      "start": 249.29999999999998,
+      "end": 251.14,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6862,
+      "compression_ratio": 1.0994
+    },
+    {
+      "text": "放出奔袖",
+      "start": 251.14,
+      "end": 252.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6862,
+      "compression_ratio": 1.0994
+    },
+    {
+      "text": "几位是落海连波动",
+      "start": 252.56,
+      "end": 255.7,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6862,
+      "compression_ratio": 1.0994
+    },
+    {
+      "text": "游数据狂风险同舟",
+      "start": 255.7,
+      "end": 259.48,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6862,
+      "compression_ratio": 1.0994
+    },
+    {
+      "text": "热笔眼去淡沫",
+      "start": 259.48,
+      "end": 262.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6862,
+      "compression_ratio": 1.0994
+    },
+    {
+      "text": "草荒滩袖手",
+      "start": 262.0,
+      "end": 263.68,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6862,
+      "compression_ratio": 1.0994
+    },
+    {
+      "text": "一只迷迷半天",
+      "start": 263.68,
+      "end": 265.74,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6862,
+      "compression_ratio": 1.0994
+    },
+    {
+      "text": "高远头寄我",
+      "start": 265.74,
+      "end": 267.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6862,
+      "compression_ratio": 1.0994
+    },
+    {
+      "text": "朝复的美容只为相逢",
+      "start": 267.88,
+      "end": 271.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.88,
+      "compression_ratio": 0.8764
+    },
+    {
+      "text": "情生与生死亦逍遥",
+      "start": 271.88,
+      "end": 275.71999999999997,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.88,
+      "compression_ratio": 0.8764
+    },
+    {
+      "text": "无忧",
+      "start": 275.71999999999997,
+      "end": 277.68,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.88,
+      "compression_ratio": 0.8764
+    },
+    {
+      "text": "雨夜和烧将太平",
+      "start": 277.68,
+      "end": 293.12,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.88,
+      "compression_ratio": 0.8764
+    },
+    {
+      "text": "舞蹈踏 Palestine",
+      "start": 293.12,
+      "end": 296.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -5.469,
+      "compression_ratio": 0.8736
+    },
+    {
+      "text": "青街潮茹",
+      "start": 296.0,
+      "end": 297.84000000000003,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -5.469,
+      "compression_ratio": 0.8736
+    },
+    {
+      "text": "百 costly sacrificing",
+      "start": 297.84000000000003,
+      "end": 299.98,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -5.469,
+      "compression_ratio": 0.8736
+    },
+    {
+      "text": " memoir",
+      "start": 299.98,
+      "end": 301.4,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -5.469,
+      "compression_ratio": 0.8736
+    },
+    {
+      "text": "具滿",
+      "start": 301.5,
+      "end": 307.04,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -5.469,
+      "compression_ratio": 0.8736
+    },
+    {
+      "text": "lied",
+      "start": 308.66,
+      "end": 314.48,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -5.469,
+      "compression_ratio": 0.8736
+    },
+    {
+      "text": "商務",
+      "start": 317.92,
+      "end": 321.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -5.469,
+      "compression_ratio": 0.8736
+    }
+  ],
+  "repairs": [
+    {
+      "start": 0.0,
+      "end": 0.14,
+      "old_text": " Willie介绍繁草记 Batt stimulation谢谢 различ Effects我有缘付讲确实극从内涉取 REALLY dapat微推进一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些一些",
+      "new_text": "词曲 李宗盛",
+      "accepted": true
+    }
+  ],
+  "index": 0,
+  "start": 0.0,
+  "duration": 300,
+  "elapsed": 56.2,
+  "ok": true,
+  "initial_prompt": "四海公考，公务员考试，言语理解与表达，逻辑填空，高频实词，成语辨析，语义侧重，感情色彩，搭配对象，适用语境，易混词，例句。简体中文。课件词条：毫无顾忌。"
+}

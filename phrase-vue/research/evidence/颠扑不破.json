@@ -1,0 +1,71 @@
+{
+    "word": "颠扑不破",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%A2%A0%E6%89%91%E4%B8%8D%E7%A0%B4",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "17da98d134e9d51b665dae78fa6fa241e265989bd7f9d7cb7ce340d0bf00bee3",
+        "bytes": 28023
+    },
+    "parsed": {
+        "found": true,
+        "word": "颠扑不破",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "diān",
+                "pū",
+                "bù",
+                "pò"
+            ],
+            "zhuyin": [
+                "ㄉㄧㄢ",
+                "ㄆㄨ",
+                "ㄅㄨˋ",
+                "ㄆㄛˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "无论怎样摔打都不会破损。比喻理论或学说正确可靠，无法被推翻。",
+                "citations": [
+                    {
+                        "text": "伊川「性即理也」，横渠「心统性情」二句，颠扑不破！",
+                        "source": "宋·朱熹《朱子语类》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "伊川「性即理也」，横渠「心统性情」二句，颠扑不破！",
+                "source": "宋·朱熹《朱子语类》"
+            }
+        ],
+        "synonyms": [
+            "无可辩驳",
+            "勿庸置疑",
+            "不刊之论",
+            "牢不可破"
+        ],
+        "antonyms": [
+            "不攻自破",
+            "荒谬绝伦",
+            "不堪一击",
+            "漏洞百出"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "irrefutable"
+    },
+    "blocks": {
+        "reading": "diān pū bù pò",
+        "sense-1": "无论怎样摔打都不会破损。比喻理论或学说正确可靠，无法被推翻。",
+        "citation-1": "伊川「性即理也」，横渠「心统性情」二句，颠扑不破！ — 宋·朱熹《朱子语类》",
+        "synonyms": "无可辩驳、勿庸置疑、不刊之论、牢不可破",
+        "antonyms": "不攻自破、荒谬绝伦、不堪一击、漏洞百出"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "word": "亡羊补牢",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%BA%A1%E7%BE%8A%E8%A1%A5%E7%89%A2",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "368b7f50834fd38c3e7cb67fd255fb6f60ca0d7022ddb1670f1b81e87107824d",
+        "bytes": 27866
+    },
+    "parsed": {
+        "found": true,
+        "word": "亡羊补牢",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "wáng",
+                "yáng",
+                "bǔ",
+                "láo"
+            ],
+            "zhuyin": [
+                "ㄨㄤˊ",
+                "ㄧㄤˊ",
+                "ㄅㄨˇ",
+                "ㄌㄠˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻失误后及时补救。",
+                "citations": [
+                    {
+                        "text": "惩羹吹虀岂其非，亡羊补牢理所宜。",
+                        "source": "宋·陆游《秋兴》诗"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "惩羹吹虀岂其非，亡羊补牢理所宜。",
+                "source": "宋·陆游《秋兴》诗"
+            }
+        ],
+        "synonyms": [
+            "知错就改"
+        ],
+        "antonyms": [
+            "时不我待",
+            "知错不改",
+            "时不我与"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "mend the fold after the sheep is lost"
+    },
+    "blocks": {
+        "reading": "wáng yáng bǔ láo",
+        "sense-1": "比喻失误后及时补救。",
+        "citation-1": "惩羹吹虀岂其非，亡羊补牢理所宜。 — 宋·陆游《秋兴》诗",
+        "synonyms": "知错就改",
+        "antonyms": "时不我待、知错不改、时不我与"
+    }
+}

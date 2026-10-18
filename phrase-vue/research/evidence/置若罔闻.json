@@ -1,0 +1,70 @@
+{
+    "word": "置若罔闻",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%BD%AE%E8%8B%A5%E7%BD%94%E9%97%BB",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "934131ae53ce41a44c85828fe84761e577da8588728dbb0eb3ea688a41d61cd3",
+        "bytes": 27513
+    },
+    "parsed": {
+        "found": true,
+        "word": "置若罔闻",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zhì",
+                "ruò",
+                "wǎng",
+                "wén"
+            ],
+            "zhuyin": [
+                "ㄓˋ",
+                "ㄖㄨㄛˋ",
+                "ㄨㄤˇ",
+                "ㄨㄣˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "放在一边，好像没有听到一样。形容对事情毫不关心，不予理会。",
+                "citations": [
+                    {
+                        "text": "宁荣两处上下内外人等莫不欢天喜地，独有宝玉置若罔闻。",
+                        "source": "清·曹雪芹《红楼梦》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "宁荣两处上下内外人等莫不欢天喜地，独有宝玉置若罔闻。",
+                "source": "清·曹雪芹《红楼梦》"
+            }
+        ],
+        "synonyms": [
+            "熟视无睹",
+            "置之不理",
+            "置之度外",
+            "充耳不闻"
+        ],
+        "antonyms": [
+            "如雷灌耳",
+            "刮目相看",
+            "聚精会神"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "turn a deaf ear to"
+    },
+    "blocks": {
+        "reading": "zhì ruò wǎng wén",
+        "sense-1": "放在一边，好像没有听到一样。形容对事情毫不关心，不予理会。",
+        "citation-1": "宁荣两处上下内外人等莫不欢天喜地，独有宝玉置若罔闻。 — 清·曹雪芹《红楼梦》",
+        "synonyms": "熟视无睹、置之不理、置之度外、充耳不闻",
+        "antonyms": "如雷灌耳、刮目相看、聚精会神"
+    }
+}

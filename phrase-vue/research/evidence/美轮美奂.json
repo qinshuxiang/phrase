@@ -1,0 +1,59 @@
+{
+    "word": "美轮美奂",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%BE%8E%E8%BD%AE%E7%BE%8E%E5%A5%82",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "3f8b9daabf28e7556a8a031b35691774e79651f212234eb1e4bd226c156c15d1",
+        "bytes": 25454
+    },
+    "parsed": {
+        "found": true,
+        "word": "美轮美奂",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "měi",
+                "lún",
+                "měi",
+                "huàn"
+            ],
+            "zhuyin": [
+                "ㄇㄟˇ",
+                "ㄌㄨㄣˊ",
+                "ㄇㄟˇ",
+                "ㄏㄨㄢˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容建筑物高大华美，富丽堂皇。",
+                "citations": [
+                    {
+                        "text": "我们经过一个美轮美奂的宏丽华厦的区域，开车的告诉我们说这是西人和本地富翁的住宅区域。",
+                        "source": "邹韬奋《萍踪寄语》八"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "我们经过一个美轮美奂的宏丽华厦的区域，开车的告诉我们说这是西人和本地富翁的住宅区域。",
+                "source": "邹韬奋《萍踪寄语》八"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "magnificent and splendid"
+    },
+    "blocks": {
+        "reading": "měi lún měi huàn",
+        "sense-1": "形容建筑物高大华美，富丽堂皇。",
+        "citation-1": "我们经过一个美轮美奂的宏丽华厦的区域，开车的告诉我们说这是西人和本地富翁的住宅区域。 — 邹韬奋《萍踪寄语》八"
+    }
+}

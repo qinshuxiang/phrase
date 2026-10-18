@@ -1,0 +1,80 @@
+{
+    "word": "因小失大",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%9B%A0%E5%B0%8F%E5%A4%B1%E5%A4%A7",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "a71f091bdb26cfa84a70a112d43191e21890d95a979395fbbe52d2ffa04aab2a",
+        "bytes": 28745
+    },
+    "parsed": {
+        "found": true,
+        "word": "因小失大",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yīn",
+                "xiǎo",
+                "shī",
+                "dà"
+            ],
+            "zhuyin": [
+                "ㄧㄣ",
+                "ㄒㄧㄠˇ",
+                "ㄕ",
+                "ㄉㄚˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "因小事疏忽而误了重要事情。",
+                "citations": [
+                    {
+                        "text": "动至顾此失彼，因小失大也。",
+                        "source": "郑观应《盛世危言·防海下》"
+                    },
+                    {
+                        "text": "倘然因小失大，转为不妙。",
+                        "source": "《儿女英雄传》第二三回"
+                    }
+                ]
+            },
+            {
+                "definition": "因贪图小利而造成重大损失。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "动至顾此失彼，因小失大也。",
+                "source": "郑观应《盛世危言·防海下》"
+            },
+            {
+                "text": "倘然因小失大，转为不妙。",
+                "source": "《儿女英雄传》第二三回"
+            }
+        ],
+        "synonyms": [
+            "舍本逐末",
+            "因噎废食"
+        ],
+        "antonyms": [
+            "一举两得"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "penny wise and pound foolish"
+    },
+    "blocks": {
+        "reading": "yīn xiǎo shī dà",
+        "sense-1": "因小事疏忽而误了重要事情。",
+        "sense-2": "因贪图小利而造成重大损失。",
+        "citation-1": "动至顾此失彼，因小失大也。 — 郑观应《盛世危言·防海下》",
+        "citation-2": "倘然因小失大，转为不妙。 — 《儿女英雄传》第二三回",
+        "synonyms": "舍本逐末、因噎废食",
+        "antonyms": "一举两得"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "word": "理所当然",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%90%86%E6%89%80%E5%BD%93%E7%84%B6",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "f3d0b7fb63d60d8531b79f52ce957625a55e3b2ee2fa148bda56e7329689765f",
+        "bytes": 28313
+    },
+    "parsed": {
+        "found": true,
+        "word": "理所当然",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "lǐ",
+                "suǒ",
+                "dāng",
+                "rán"
+            ],
+            "zhuyin": [
+                "ㄌㄧˇ",
+                "ㄙㄨㄛˇ",
+                "ㄉㄤ",
+                "ㄖㄢˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "从道理上讲应当如此。",
+                "citations": [
+                    {
+                        "text": "性不是有一个物事在里面唤做性，只是理所当然者便是性。",
+                        "source": "《朱子语类》"
+                    },
+                    {
+                        "text": "此乃各为其主，理所当然，何罪之有！",
+                        "source": "《说岳全传》"
+                    }
+                ]
+            },
+            {
+                "definition": "合乎情理，毫无疑问。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "性不是有一个物事在里面唤做性，只是理所当然者便是性。",
+                "source": "《朱子语类》"
+            },
+            {
+                "text": "此乃各为其主，理所当然，何罪之有！",
+                "source": "《说岳全传》"
+            }
+        ],
+        "synonyms": [
+            "天经地义",
+            "理当如此"
+        ],
+        "antonyms": [
+            "不以为然",
+            "岂有此理"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "naturally; as a matter of course"
+    },
+    "blocks": {
+        "reading": "lǐ suǒ dāng rán",
+        "sense-1": "从道理上讲应当如此。",
+        "sense-2": "合乎情理，毫无疑问。",
+        "citation-1": "性不是有一个物事在里面唤做性，只是理所当然者便是性。 — 《朱子语类》",
+        "citation-2": "此乃各为其主，理所当然，何罪之有！ — 《说岳全传》",
+        "synonyms": "天经地义、理当如此",
+        "antonyms": "不以为然、岂有此理"
+    }
+}

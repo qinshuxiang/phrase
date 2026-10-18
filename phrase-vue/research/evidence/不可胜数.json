@@ -1,0 +1,84 @@
+{
+    "word": "不可胜数",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%8D%E5%8F%AF%E8%83%9C%E6%95%B0",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "475bb5b851a14590bc124fd479692ce026f780fae1089267fc6633e27e80d5bc",
+        "bytes": 28406
+    },
+    "parsed": {
+        "found": true,
+        "word": "不可胜数",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bù",
+                "kě",
+                "shèng",
+                "shǔ"
+            ],
+            "zhuyin": [
+                "ㄅㄨˋ",
+                "ㄎㄜˇ",
+                "ㄕㄥˋ",
+                "ㄕㄨˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "数量极多，难以计算。",
+                "citations": [
+                    {
+                        "text": "内以党与劫弑其君，外以诸侯之权矫易其国，隐正道，持私曲，上禁君、下挠治者，不可胜数也。",
+                        "source": "《韩非子·说疑》"
+                    },
+                    {
+                        "text": "所杀亡不可胜计。",
+                        "source": "《史记·淮阴侯列传》"
+                    }
+                ]
+            },
+            {
+                "definition": "同「不可胜计」。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "内以党与劫弑其君，外以诸侯之权矫易其国，隐正道，持私曲，上禁君、下挠治者，不可胜数也。",
+                "source": "《韩非子·说疑》"
+            },
+            {
+                "text": "所杀亡不可胜计。",
+                "source": "《史记·淮阴侯列传》"
+            }
+        ],
+        "synonyms": [
+            "不胜枚举",
+            "多如牛毛",
+            "不计其数",
+            "数不胜数"
+        ],
+        "antonyms": [
+            "寥寥可数",
+            "寥寥无几",
+            "屈指可数"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "countless"
+    },
+    "blocks": {
+        "reading": "bù kě shèng shǔ",
+        "sense-1": "数量极多，难以计算。",
+        "sense-2": "同「不可胜计」。",
+        "citation-1": "内以党与劫弑其君，外以诸侯之权矫易其国，隐正道，持私曲，上禁君、下挠治者，不可胜数也。 — 《韩非子·说疑》",
+        "citation-2": "所杀亡不可胜计。 — 《史记·淮阴侯列传》",
+        "synonyms": "不胜枚举、多如牛毛、不计其数、数不胜数",
+        "antonyms": "寥寥可数、寥寥无几、屈指可数"
+    }
+}

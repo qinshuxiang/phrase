@@ -1,0 +1,52 @@
+{
+    "word": "难以为继",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%9A%BE%E4%BB%A5%E4%B8%BA%E7%BB%A7",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "70e79bfbd69a7d985515991fb1e62ce6091dcfee01be361f4fa409d8b24f94c3",
+        "bytes": 22824
+    },
+    "parsed": {
+        "found": true,
+        "word": "难以为继",
+        "section": "idiom",
+        "readings": {
+            "pinyin": [
+                "nán",
+                "yǐ",
+                "wéi",
+                "jì"
+            ],
+            "zhuyin": [
+                "ㄋㄢˊ",
+                "ㄧˇ",
+                "ㄨㄟˊ",
+                "ㄐㄧˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "难于继续下去。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": {
+            "text": "《礼记·檀弓上》：“孔子曰：‘哀则哀矣，而难为继也。’”",
+            "source": "难以为继"
+        },
+        "grammar": "",
+        "example": "",
+        "english": ""
+    },
+    "blocks": {
+        "reading": "nán yǐ wéi jì",
+        "sense-1": "难于继续下去。",
+        "origin": "《礼记·檀弓上》：“孔子曰：‘哀则哀矣，而难为继也。’”"
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "word": "醍醐灌顶",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%86%8D%E9%86%90%E7%81%8C%E9%A1%B6",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "ea59d8db14c1f15db7f89131a2f40c027d9ac0359b430e7f5d465a43890518a0",
+        "bytes": 27159
+    },
+    "parsed": {
+        "found": true,
+        "word": "醍醐灌顶",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "tí",
+                "hú",
+                "guàn",
+                "dǐng"
+            ],
+            "zhuyin": [
+                "ㄊㄧˊ",
+                "ㄏㄨˊ",
+                "ㄍㄨㄢˋ",
+                "ㄉㄧㄥˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "佛教比喻以智慧灌输于人，使人彻底醒悟。",
+                "citations": [
+                    {
+                        "text": "闻名之如露入心，共语似醍醐灌顶。",
+                        "source": "《敦煌变文集·维摩诘经讲经文》"
+                    },
+                    {
+                        "text": "其宿酲未解，病暍未苏，得此而食，世俗所谓醍醐灌顶，甘露洒心。",
+                        "source": "元·王祯《农书》"
+                    }
+                ]
+            },
+            {
+                "definition": "比喻清凉舒适的感觉。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "闻名之如露入心，共语似醍醐灌顶。",
+                "source": "《敦煌变文集·维摩诘经讲经文》"
+            },
+            {
+                "text": "其宿酲未解，病暍未苏，得此而食，世俗所谓醍醐灌顶，甘露洒心。",
+                "source": "元·王祯《农书》"
+            }
+        ],
+        "synonyms": [
+            "茅塞顿开"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "enlighten"
+    },
+    "blocks": {
+        "reading": "tí hú guàn dǐng",
+        "sense-1": "佛教比喻以智慧灌输于人，使人彻底醒悟。",
+        "sense-2": "比喻清凉舒适的感觉。",
+        "citation-1": "闻名之如露入心，共语似醍醐灌顶。 — 《敦煌变文集·维摩诘经讲经文》",
+        "citation-2": "其宿酲未解，病暍未苏，得此而食，世俗所谓醍醐灌顶，甘露洒心。 — 元·王祯《农书》",
+        "synonyms": "茅塞顿开"
+    }
+}

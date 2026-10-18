@@ -1,0 +1,49 @@
+{
+    "word": "愈演愈烈",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%84%88%E6%BC%94%E6%84%88%E7%83%88",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "3622153ac50f4cec23c830fee1c9bb2c62054538101d35d22fe4ae52d31d77d5",
+        "bytes": 23211
+    },
+    "parsed": {
+        "found": true,
+        "word": "愈演愈烈",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yù",
+                "yǎn",
+                "yù",
+                "liè"
+            ],
+            "zhuyin": [
+                "ㄩˋ",
+                "ㄧㄢˇ",
+                "ㄩˋ",
+                "ㄌㄧㄝ",
+                "ˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "指事情、情况等越加恶化、严重",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "grow in intensity"
+    },
+    "blocks": {
+        "reading": "yù yǎn yù liè",
+        "sense-1": "指事情、情况等越加恶化、严重"
+    }
+}

@@ -1,0 +1,1018 @@
+{
+  "text": "好,这道题同学们做得也挺好啊,80多的正确率,这道题正确的按时私低选项。前面说一些剧戏举的剧目,是什么的经典之作,深受了群众的喜爱。好那他修饰的是一种经典之作大家都喜欢其实第二空就选筷子人口特别准因为筷子人口我也说了他是专门指文艺文学方面的作品大家都称颂对不对所以你看他就形容这种戏剧的剧目没问题而这个风靡一时不好因为他是一时他只是在一段时间流行而文端是经典经典永流传是长久流传所以他不行交口称赞交口称赞大家记住他的主语是谁是人对吧是指人一起的去称赞我不能直接修饰句目我可以说人对句目交口称赞或者是人交口称赞句目不能说这是一部交口称赞的句目不能用交口称赞直接做定义来修饰这就是这么用的再来看喜闻乐见也是喜闻乐见它的对象也是群众或人对吧你不能说戏曲的这个句目是喜闻乐见的经典它缺少了主语同学们这里面就是有个语法的搭配就是缺少主语的喜闻乐见一般都是做什么做定语比如说这个对于什么什么群众是喜闻乐见的或者群众喜闻乐见的什么什么作品明白了吧但是如果说你他你纠结的话可能有些文章他写的就不是那么的精准那么筷子人口也比喜文乐剑好为什么是因为筷子人口就会形容文学文艺等方面的作品大家都喜爱去称颂他他就对应经典之作对应戏剧曲目就对应的特别好然后第二控他搭配谁搭配了理想看到了吗说其中蕴含了深沉的家国的情怀怎么着追求着理想这个其中是不是就是指戏曲的句目是指他怎么了理想大家想啊这个戏曲本身是一种什么不就是一种载体吗这个载体它就承载了理想这就是常见的固定搭配而这个肩负肩负大家想用尖字去担负所以主语只能是人或者是某些组织对不对再来看这个怀揣怀揣也是是指人心里面装着想法这个里面他不对了然后这个秉持秉持我们一般都说秉持什么是指持有吗他秉持什么秉持着宗旨理念对原则使命他不能秉持理想这就是固定搭配其实使此大多数考搭配的角度同学们好我们继续看这个105题这条题好我们来看这条题将近80%的正确率因为前面说到了一个叫做什么呢说到了一个网络暴力说加强了这个相关制度的建设刻不容缓怎么了每一个看到了吗每一个口出恶言之人都是推动网爆的潮水的一部分好来大家看为什么选重口说今这个重口是不是就对应在文端当中每一个人重口说一说今的意思就是混淆是非最后的结果是毁人和毁物的他的程度稍微重一些对不对因为文断当中他后面有没有特别恶劣的后果有啊推动网报了吗是不是啊所以他既可以对应在文断当中的每一人而且重口硕金他后面这个硕金是产生了强大的破坏力选重口硕金是指舆论的力量是巨大的是可以混淆是非最后怎么了伤人伤物选二B选项而这个人言极极是什么是指议论纷纷大家闲话特别多他没有提到这个商人网报破坏的这个后果所以他不能选而这个三人城虎在大多数",
+  "segments": [
+    {
+      "text": "好,这道题同学们做得也挺好啊,80多的正确率,这道题正确的按时私低选项。前面说一些剧戏举的剧目,是什么的经典之作,深受了群众的喜爱。",
+      "start": 0.0,
+      "end": 24.76,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2457,
+      "compression_ratio": 1.1018
+    },
+    {
+      "text": "好那他修饰的是一种经典之作",
+      "start": 24.76,
+      "end": 27.98,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1255,
+      "compression_ratio": 1.3616
+    },
+    {
+      "text": "大家都喜欢",
+      "start": 27.98,
+      "end": 29.400000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1255,
+      "compression_ratio": 1.3616
+    },
+    {
+      "text": "其实第二空就选",
+      "start": 29.400000000000002,
+      "end": 31.020000000000003,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1255,
+      "compression_ratio": 1.3616
+    },
+    {
+      "text": "筷子人口特别准",
+      "start": 31.020000000000003,
+      "end": 32.86,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1255,
+      "compression_ratio": 1.3616
+    },
+    {
+      "text": "因为筷子人口我也说了",
+      "start": 32.86,
+      "end": 34.6,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1255,
+      "compression_ratio": 1.3616
+    },
+    {
+      "text": "他是专门指文艺文学方面的作品",
+      "start": 34.6,
+      "end": 38.34,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1255,
+      "compression_ratio": 1.3616
+    },
+    {
+      "text": "大家都称颂",
+      "start": 38.34,
+      "end": 39.480000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1255,
+      "compression_ratio": 1.3616
+    },
+    {
+      "text": "对不对",
+      "start": 39.480000000000004,
+      "end": 40.24,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1255,
+      "compression_ratio": 1.3616
+    },
+    {
+      "text": "所以你看他就形容这种戏剧的剧目",
+      "start": 40.24,
+      "end": 42.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1255,
+      "compression_ratio": 1.3616
+    },
+    {
+      "text": "没问题",
+      "start": 42.84,
+      "end": 43.92,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1255,
+      "compression_ratio": 1.3616
+    },
+    {
+      "text": "而这个风靡一时不好",
+      "start": 43.92,
+      "end": 46.160000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1255,
+      "compression_ratio": 1.3616
+    },
+    {
+      "text": "因为他是一时",
+      "start": 46.160000000000004,
+      "end": 47.400000000000006,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1255,
+      "compression_ratio": 1.3616
+    },
+    {
+      "text": "他只是在一段时间流行",
+      "start": 47.400000000000006,
+      "end": 49.900000000000006,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1255,
+      "compression_ratio": 1.3616
+    },
+    {
+      "text": "而文端是经典",
+      "start": 49.900000000000006,
+      "end": 51.540000000000006,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1255,
+      "compression_ratio": 1.3616
+    },
+    {
+      "text": "经典永流传是长久流传",
+      "start": 51.540000000000006,
+      "end": 54.040000000000006,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1255,
+      "compression_ratio": 1.3616
+    },
+    {
+      "text": "所以他不行交口称赞",
+      "start": 54.04,
+      "end": 56.48,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1275,
+      "compression_ratio": 1.5701
+    },
+    {
+      "text": "交口称赞大家记住",
+      "start": 56.48,
+      "end": 58.14,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1275,
+      "compression_ratio": 1.5701
+    },
+    {
+      "text": "他的主语是谁是人",
+      "start": 58.14,
+      "end": 59.94,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1275,
+      "compression_ratio": 1.5701
+    },
+    {
+      "text": "对吧是指人一起的去称赞",
+      "start": 59.94,
+      "end": 63.78,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1275,
+      "compression_ratio": 1.5701
+    },
+    {
+      "text": "我不能直接修饰句目",
+      "start": 63.78,
+      "end": 66.24,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1275,
+      "compression_ratio": 1.5701
+    },
+    {
+      "text": "我可以说人对句目交口称赞",
+      "start": 66.24,
+      "end": 70.03999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1275,
+      "compression_ratio": 1.5701
+    },
+    {
+      "text": "或者是人交口称赞句目",
+      "start": 70.03999999999999,
+      "end": 72.62,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1275,
+      "compression_ratio": 1.5701
+    },
+    {
+      "text": "不能说这是一部交口称赞的句目",
+      "start": 72.62,
+      "end": 76.03999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1275,
+      "compression_ratio": 1.5701
+    },
+    {
+      "text": "不能用交口称赞直接做定义来修饰",
+      "start": 76.03999999999999,
+      "end": 80.02,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1275,
+      "compression_ratio": 1.5701
+    },
+    {
+      "text": "这就是这么用的",
+      "start": 80.02,
+      "end": 81.44,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1275,
+      "compression_ratio": 1.5701
+    },
+    {
+      "text": "再来看喜闻乐见也是",
+      "start": 81.44,
+      "end": 83.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1275,
+      "compression_ratio": 1.5701
+    },
+    {
+      "text": "喜闻乐见",
+      "start": 83.32,
+      "end": 84.96,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1208,
+      "compression_ratio": 1.5265
+    },
+    {
+      "text": "它的对象也是群众或人",
+      "start": 84.96,
+      "end": 87.33999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1208,
+      "compression_ratio": 1.5265
+    },
+    {
+      "text": "对吧",
+      "start": 87.33999999999999,
+      "end": 88.05999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1208,
+      "compression_ratio": 1.5265
+    },
+    {
+      "text": "你不能说戏曲的这个句目",
+      "start": 88.05999999999999,
+      "end": 90.27999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1208,
+      "compression_ratio": 1.5265
+    },
+    {
+      "text": "是喜闻乐见的经典",
+      "start": 90.27999999999999,
+      "end": 91.75999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1208,
+      "compression_ratio": 1.5265
+    },
+    {
+      "text": "它缺少了主语同学们",
+      "start": 91.75999999999999,
+      "end": 93.66,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1208,
+      "compression_ratio": 1.5265
+    },
+    {
+      "text": "这里面就是有个语法的搭配",
+      "start": 93.66,
+      "end": 95.96,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1208,
+      "compression_ratio": 1.5265
+    },
+    {
+      "text": "就是缺少主语的",
+      "start": 95.96,
+      "end": 97.33999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1208,
+      "compression_ratio": 1.5265
+    },
+    {
+      "text": "喜闻乐见一般都是做什么",
+      "start": 97.33999999999999,
+      "end": 100.08,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1208,
+      "compression_ratio": 1.5265
+    },
+    {
+      "text": "做定语",
+      "start": 100.08,
+      "end": 100.78,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1208,
+      "compression_ratio": 1.5265
+    },
+    {
+      "text": "比如说这个对于什么什么",
+      "start": 100.78,
+      "end": 104.91999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1208,
+      "compression_ratio": 1.5265
+    },
+    {
+      "text": "群众是喜闻乐见的",
+      "start": 104.91999999999999,
+      "end": 107.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1208,
+      "compression_ratio": 1.5265
+    },
+    {
+      "text": "或者群众喜闻乐见的",
+      "start": 107.56,
+      "end": 110.85999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1208,
+      "compression_ratio": 1.5265
+    },
+    {
+      "text": "什么什么作品",
+      "start": 110.85999999999999,
+      "end": 111.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1208,
+      "compression_ratio": 1.5265
+    },
+    {
+      "text": "明白了吧",
+      "start": 111.88,
+      "end": 112.53999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1208,
+      "compression_ratio": 1.5265
+    },
+    {
+      "text": "但是如果说你他",
+      "start": 112.54,
+      "end": 115.32000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.133,
+      "compression_ratio": 1.3465
+    },
+    {
+      "text": "你纠结的话",
+      "start": 115.32000000000001,
+      "end": 116.76,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.133,
+      "compression_ratio": 1.3465
+    },
+    {
+      "text": "可能有些文章他写的就不是那么的精准",
+      "start": 116.76,
+      "end": 119.9,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.133,
+      "compression_ratio": 1.3465
+    },
+    {
+      "text": "那么筷子人口也比喜文乐剑好",
+      "start": 119.9,
+      "end": 122.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.133,
+      "compression_ratio": 1.3465
+    },
+    {
+      "text": "为什么",
+      "start": 122.56,
+      "end": 122.9,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.133,
+      "compression_ratio": 1.3465
+    },
+    {
+      "text": "是因为筷子人口就会形容文学文艺等方面的作品",
+      "start": 122.9,
+      "end": 127.98,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.133,
+      "compression_ratio": 1.3465
+    },
+    {
+      "text": "大家都喜爱去称颂他",
+      "start": 127.98,
+      "end": 130.04000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.133,
+      "compression_ratio": 1.3465
+    },
+    {
+      "text": "他就对应经典之作",
+      "start": 130.04000000000002,
+      "end": 132.14000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.133,
+      "compression_ratio": 1.3465
+    },
+    {
+      "text": "对应戏剧曲目就对应的特别好",
+      "start": 132.14000000000001,
+      "end": 134.48000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.133,
+      "compression_ratio": 1.3465
+    },
+    {
+      "text": "然后第二控",
+      "start": 134.48000000000002,
+      "end": 136.46,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.133,
+      "compression_ratio": 1.3465
+    },
+    {
+      "text": "他搭配谁",
+      "start": 136.46,
+      "end": 137.44,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.133,
+      "compression_ratio": 1.3465
+    },
+    {
+      "text": "搭配了理想",
+      "start": 137.44,
+      "end": 138.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.133,
+      "compression_ratio": 1.3465
+    },
+    {
+      "text": "看到了吗",
+      "start": 138.84,
+      "end": 139.52,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.133,
+      "compression_ratio": 1.3465
+    },
+    {
+      "text": "说其中蕴含了深沉的家国的情怀",
+      "start": 139.52,
+      "end": 144.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1303,
+      "compression_ratio": 1.4858
+    },
+    {
+      "text": "怎么着追求着理想",
+      "start": 144.0,
+      "end": 146.08,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1303,
+      "compression_ratio": 1.4858
+    },
+    {
+      "text": "这个其中是不是就是指戏曲的句目",
+      "start": 146.08,
+      "end": 150.04000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1303,
+      "compression_ratio": 1.4858
+    },
+    {
+      "text": "是指他怎么了理想",
+      "start": 150.04000000000002,
+      "end": 152.12,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1303,
+      "compression_ratio": 1.4858
+    },
+    {
+      "text": "大家想啊",
+      "start": 152.12,
+      "end": 153.34,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1303,
+      "compression_ratio": 1.4858
+    },
+    {
+      "text": "这个戏曲本身是一种什么",
+      "start": 153.34,
+      "end": 155.48000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1303,
+      "compression_ratio": 1.4858
+    },
+    {
+      "text": "不就是一种载体吗",
+      "start": 155.48000000000002,
+      "end": 157.26000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1303,
+      "compression_ratio": 1.4858
+    },
+    {
+      "text": "这个载体它就承载了理想",
+      "start": 157.26000000000002,
+      "end": 159.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1303,
+      "compression_ratio": 1.4858
+    },
+    {
+      "text": "这就是常见的固定搭配",
+      "start": 159.84,
+      "end": 161.8,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1303,
+      "compression_ratio": 1.4858
+    },
+    {
+      "text": "而这个肩负",
+      "start": 161.8,
+      "end": 163.14000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1303,
+      "compression_ratio": 1.4858
+    },
+    {
+      "text": "肩负大家想用尖字去担负",
+      "start": 163.14000000000001,
+      "end": 166.36,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1303,
+      "compression_ratio": 1.4858
+    },
+    {
+      "text": "所以主语只能是人或者是某些组织",
+      "start": 166.36,
+      "end": 169.62,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1534,
+      "compression_ratio": 1.41
+    },
+    {
+      "text": "对不对",
+      "start": 169.62,
+      "end": 170.36,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1534,
+      "compression_ratio": 1.41
+    },
+    {
+      "text": "再来看这个怀揣",
+      "start": 170.36,
+      "end": 171.74,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1534,
+      "compression_ratio": 1.41
+    },
+    {
+      "text": "怀揣也是",
+      "start": 171.74,
+      "end": 172.92000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1534,
+      "compression_ratio": 1.41
+    },
+    {
+      "text": "是指人心里面装着想法",
+      "start": 172.92000000000002,
+      "end": 176.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1534,
+      "compression_ratio": 1.41
+    },
+    {
+      "text": "这个里面他不对了",
+      "start": 176.5,
+      "end": 178.14000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1534,
+      "compression_ratio": 1.41
+    },
+    {
+      "text": "然后这个秉持",
+      "start": 178.14000000000001,
+      "end": 179.4,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1534,
+      "compression_ratio": 1.41
+    },
+    {
+      "text": "秉持我们一般都说秉持什么",
+      "start": 179.4,
+      "end": 182.88000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1534,
+      "compression_ratio": 1.41
+    },
+    {
+      "text": "是指持有吗",
+      "start": 182.88000000000002,
+      "end": 184.42000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1534,
+      "compression_ratio": 1.41
+    },
+    {
+      "text": "他秉持什么",
+      "start": 184.42000000000002,
+      "end": 185.18,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1534,
+      "compression_ratio": 1.41
+    },
+    {
+      "text": "秉持着宗旨",
+      "start": 185.18,
+      "end": 186.74,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1534,
+      "compression_ratio": 1.41
+    },
+    {
+      "text": "理念",
+      "start": 186.74,
+      "end": 189.14000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1534,
+      "compression_ratio": 1.41
+    },
+    {
+      "text": "对",
+      "start": 189.14000000000001,
+      "end": 190.32000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1534,
+      "compression_ratio": 1.41
+    },
+    {
+      "text": "原则",
+      "start": 190.32000000000002,
+      "end": 191.66000000000003,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1534,
+      "compression_ratio": 1.41
+    },
+    {
+      "text": "使命",
+      "start": 191.66000000000003,
+      "end": 193.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1534,
+      "compression_ratio": 1.41
+    },
+    {
+      "text": "他不能秉持理想",
+      "start": 193.0,
+      "end": 195.74,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1534,
+      "compression_ratio": 1.41
+    },
+    {
+      "text": "这就是固定搭配",
+      "start": 195.74,
+      "end": 196.9,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.15,
+      "compression_ratio": 0.9474
+    },
+    {
+      "text": "其实使此大多数考搭配的角度",
+      "start": 196.9,
+      "end": 199.92000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.15,
+      "compression_ratio": 0.9474
+    },
+    {
+      "text": "同学们",
+      "start": 199.92000000000002,
+      "end": 200.54000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.15,
+      "compression_ratio": 0.9474
+    },
+    {
+      "text": "好我们继续看这个105题这条题",
+      "start": 200.54000000000002,
+      "end": 203.42000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.15,
+      "compression_ratio": 0.9474
+    },
+    {
+      "text": "好我们来看这条题",
+      "start": 225.74,
+      "end": 227.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1275,
+      "compression_ratio": 1.4056
+    },
+    {
+      "text": "将近80%的正确率",
+      "start": 227.5,
+      "end": 229.20000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1275,
+      "compression_ratio": 1.4056
+    },
+    {
+      "text": "因为前面说到了一个叫做什么呢",
+      "start": 229.20000000000002,
+      "end": 231.96,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1275,
+      "compression_ratio": 1.4056
+    },
+    {
+      "text": "说到了一个网络暴力",
+      "start": 231.96,
+      "end": 233.68,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1275,
+      "compression_ratio": 1.4056
+    },
+    {
+      "text": "说加强了这个相关制度的建设",
+      "start": 233.68,
+      "end": 236.14000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1275,
+      "compression_ratio": 1.4056
+    },
+    {
+      "text": "刻不容缓",
+      "start": 236.14000000000001,
+      "end": 236.96,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1275,
+      "compression_ratio": 1.4056
+    },
+    {
+      "text": "怎么了",
+      "start": 236.96,
+      "end": 237.82000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1275,
+      "compression_ratio": 1.4056
+    },
+    {
+      "text": "每一个看到了吗",
+      "start": 237.82000000000002,
+      "end": 240.14000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1275,
+      "compression_ratio": 1.4056
+    },
+    {
+      "text": "每一个口出恶言之人",
+      "start": 240.14000000000001,
+      "end": 242.28,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1275,
+      "compression_ratio": 1.4056
+    },
+    {
+      "text": "都是推动网爆的潮水的一部分",
+      "start": 242.28,
+      "end": 244.60000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1275,
+      "compression_ratio": 1.4056
+    },
+    {
+      "text": "好来大家看",
+      "start": 244.60000000000002,
+      "end": 246.20000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1275,
+      "compression_ratio": 1.4056
+    },
+    {
+      "text": "为什么选重口说今",
+      "start": 246.20000000000002,
+      "end": 247.74,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1275,
+      "compression_ratio": 1.4056
+    },
+    {
+      "text": "这个重口是不是就对应在文端当中",
+      "start": 247.74,
+      "end": 250.3,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1275,
+      "compression_ratio": 1.4056
+    },
+    {
+      "text": "每一个人",
+      "start": 250.3,
+      "end": 251.14000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1275,
+      "compression_ratio": 1.4056
+    },
+    {
+      "text": "重口说一说今的意思就是",
+      "start": 251.14000000000001,
+      "end": 253.62,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1275,
+      "compression_ratio": 1.4056
+    },
+    {
+      "text": "混淆是非",
+      "start": 253.62,
+      "end": 255.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1275,
+      "compression_ratio": 1.4056
+    },
+    {
+      "text": "最后的结果是毁人和毁物的",
+      "start": 255.0,
+      "end": 257.52,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1199,
+      "compression_ratio": 1.4164
+    },
+    {
+      "text": "他的程度稍微重一些",
+      "start": 257.52,
+      "end": 258.86,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1199,
+      "compression_ratio": 1.4164
+    },
+    {
+      "text": "对不对",
+      "start": 258.86,
+      "end": 259.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1199,
+      "compression_ratio": 1.4164
+    },
+    {
+      "text": "因为文断当中",
+      "start": 259.32,
+      "end": 260.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1199,
+      "compression_ratio": 1.4164
+    },
+    {
+      "text": "他后面有没有特别恶劣的后果",
+      "start": 260.72,
+      "end": 263.26,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1199,
+      "compression_ratio": 1.4164
+    },
+    {
+      "text": "有啊",
+      "start": 263.26,
+      "end": 263.96,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1199,
+      "compression_ratio": 1.4164
+    },
+    {
+      "text": "推动网报了吗",
+      "start": 263.96,
+      "end": 265.74,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1199,
+      "compression_ratio": 1.4164
+    },
+    {
+      "text": "是不是啊",
+      "start": 265.74,
+      "end": 267.18,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1199,
+      "compression_ratio": 1.4164
+    },
+    {
+      "text": "所以他既可以对应在文断当中的每一人",
+      "start": 267.18,
+      "end": 271.16,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1199,
+      "compression_ratio": 1.4164
+    },
+    {
+      "text": "而且重口硕金",
+      "start": 271.16,
+      "end": 272.94,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1199,
+      "compression_ratio": 1.4164
+    },
+    {
+      "text": "他后面这个硕金是产生了强大的破坏力",
+      "start": 272.94,
+      "end": 276.38,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1199,
+      "compression_ratio": 1.4164
+    },
+    {
+      "text": "选重口硕金",
+      "start": 276.38,
+      "end": 278.14,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1199,
+      "compression_ratio": 1.4164
+    },
+    {
+      "text": "是指舆论的力量是巨大的",
+      "start": 278.14,
+      "end": 280.44,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1199,
+      "compression_ratio": 1.4164
+    },
+    {
+      "text": "是可以混淆是非",
+      "start": 280.44,
+      "end": 282.12,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1199,
+      "compression_ratio": 1.4164
+    },
+    {
+      "text": "最后怎么了",
+      "start": 282.12,
+      "end": 283.04,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1199,
+      "compression_ratio": 1.4164
+    },
+    {
+      "text": "伤人伤物",
+      "start": 283.04,
+      "end": 284.1,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1199,
+      "compression_ratio": 1.4164
+    },
+    {
+      "text": "选二B选项",
+      "start": 284.1,
+      "end": 285.92,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1769,
+      "compression_ratio": 1.1543
+    },
+    {
+      "text": "而这个人言极极是什么",
+      "start": 285.92,
+      "end": 287.82000000000005,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1769,
+      "compression_ratio": 1.1543
+    },
+    {
+      "text": "是指议论纷纷",
+      "start": 287.82000000000005,
+      "end": 289.74,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1769,
+      "compression_ratio": 1.1543
+    },
+    {
+      "text": "大家闲话特别多",
+      "start": 289.74,
+      "end": 291.76000000000005,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1769,
+      "compression_ratio": 1.1543
+    },
+    {
+      "text": "他没有提到这个商人",
+      "start": 291.76000000000005,
+      "end": 294.40000000000003,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1769,
+      "compression_ratio": 1.1543
+    },
+    {
+      "text": "网报破坏的这个后果",
+      "start": 294.40000000000003,
+      "end": 296.62,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1769,
+      "compression_ratio": 1.1543
+    },
+    {
+      "text": "所以他不能选",
+      "start": 296.62,
+      "end": 297.58000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1769,
+      "compression_ratio": 1.1543
+    },
+    {
+      "text": "而这个三人城虎在大多数",
+      "start": 297.58000000000004,
+      "end": 299.98,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1769,
+      "compression_ratio": 1.1543
+    }
+  ],
+  "index": 8,
+  "start": 2400.0,
+  "duration": 300,
+  "elapsed": 19.4,
+  "ok": true
+}

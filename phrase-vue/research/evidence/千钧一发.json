@@ -1,0 +1,69 @@
+{
+    "word": "千钧一发",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%8D%83%E9%92%A7%E4%B8%80%E5%8F%91",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "c09d966a4f76a04253a61f2de0899f9826a9ce5d7aba4afb3663da794172f708",
+        "bytes": 26842
+    },
+    "parsed": {
+        "found": true,
+        "word": "千钧一发",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "qiān",
+                "jūn",
+                "yī",
+                "fà"
+            ],
+            "zhuyin": [
+                "ㄑㄧㄢ",
+                "ㄐㄩㄣ",
+                "ㄧ",
+                "ㄈㄚˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "千钧重物悬于一根发丝上，比喻情况极其危急。",
+                "citations": [
+                    {
+                        "text": "引千钧兮一发，以手障兮惊澜。",
+                        "source": "明·方孝孺《吴氏二贤母哀辞》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "引千钧兮一发，以手障兮惊澜。",
+                "source": "明·方孝孺《吴氏二贤母哀辞》"
+            }
+        ],
+        "synonyms": [
+            "危在旦夕",
+            "岌岌可危",
+            "急不可待",
+            "九死一生"
+        ],
+        "antonyms": [
+            "安然无恙",
+            "安如磐石"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "extremely critical"
+    },
+    "blocks": {
+        "reading": "qiān jūn yī fà",
+        "sense-1": "千钧重物悬于一根发丝上，比喻情况极其危急。",
+        "citation-1": "引千钧兮一发，以手障兮惊澜。 — 明·方孝孺《吴氏二贤母哀辞》",
+        "synonyms": "危在旦夕、岌岌可危、急不可待、九死一生",
+        "antonyms": "安然无恙、安如磐石"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "word": "囫囵吞枣",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%9B%AB%E5%9B%B5%E5%90%9E%E6%9E%A3",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "c7c437200b1f3275d09a6544350a53bc9a9adb4a40091e253ce1c110fcf121b3",
+        "bytes": 26768
+    },
+    "parsed": {
+        "found": true,
+        "word": "囫囵吞枣",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "hú",
+                "lún",
+                "tūn",
+                "zǎo"
+            ],
+            "zhuyin": [
+                "ㄏㄨˊ",
+                "ㄌㄨㄣˊ",
+                "ㄊㄨㄣ",
+                "ㄗㄠˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "把枣子整个吞下。比喻学习时不经思考分析，笼统接受。",
+                "citations": [
+                    {
+                        "text": "我这里囫囵吞个枣不知酸淡。",
+                        "source": "元·吴昌龄《二郎收猪八戒》第一摺"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "我这里囫囵吞个枣不知酸淡。",
+                "source": "元·吴昌龄《二郎收猪八戒》第一摺"
+            }
+        ],
+        "synonyms": [
+            "不求甚解",
+            "生吞活剥"
+        ],
+        "antonyms": [
+            "含英咀华",
+            "细嚼慢咽",
+            "融会贯通"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "swallow a date whole"
+    },
+    "blocks": {
+        "reading": "hú lún tūn zǎo",
+        "sense-1": "把枣子整个吞下。比喻学习时不经思考分析，笼统接受。",
+        "citation-1": "我这里囫囵吞个枣不知酸淡。 — 元·吴昌龄《二郎收猪八戒》第一摺",
+        "synonyms": "不求甚解、生吞活剥",
+        "antonyms": "含英咀华、细嚼慢咽、融会贯通"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "word": "双管齐下",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%8F%8C%E7%AE%A1%E9%BD%90%E4%B8%8B",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "3c1ea195938026c4a81b0c5b0f41b434365a1ce1e14df9a6ecc7f4d20125f7d0",
+        "bytes": 28352
+    },
+    "parsed": {
+        "found": true,
+        "word": "双管齐下",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shuāng",
+                "guǎn",
+                "qí",
+                "xià"
+            ],
+            "zhuyin": [
+                "ㄕㄨㄤ",
+                "ㄍㄨㄢˇ",
+                "ㄑㄧˊ",
+                "ㄒㄧㄚˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "两手各握一支笔同时作画。",
+                "citations": [
+                    {
+                        "text": "能手握双管一时齐下，一为生枝，一为枯干。",
+                        "source": "宋·郭若虚《图画见闻志·故事拾遗》"
+                    },
+                    {
+                        "text": "盖声止一声，手止一手，而淫佚贞静、悲戚欢愉，不啻双管之齐下也。",
+                        "source": "清·戚蓼生《石头记序》"
+                    }
+                ]
+            },
+            {
+                "definition": "比喻两方面的事情同时进行。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "能手握双管一时齐下，一为生枝，一为枯干。",
+                "source": "宋·郭若虚《图画见闻志·故事拾遗》"
+            },
+            {
+                "text": "盖声止一声，手止一手，而淫佚贞静、悲戚欢愉，不啻双管之齐下也。",
+                "source": "清·戚蓼生《石头记序》"
+            }
+        ],
+        "synonyms": [
+            "齐头并进",
+            "并驾齐驱",
+            "左右开弓"
+        ],
+        "antonyms": [
+            "另起炉灶"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "paint with two brushes at once"
+    },
+    "blocks": {
+        "reading": "shuāng guǎn qí xià",
+        "sense-1": "两手各握一支笔同时作画。",
+        "sense-2": "比喻两方面的事情同时进行。",
+        "citation-1": "能手握双管一时齐下，一为生枝，一为枯干。 — 宋·郭若虚《图画见闻志·故事拾遗》",
+        "citation-2": "盖声止一声，手止一手，而淫佚贞静、悲戚欢愉，不啻双管之齐下也。 — 清·戚蓼生《石头记序》",
+        "synonyms": "齐头并进、并驾齐驱、左右开弓",
+        "antonyms": "另起炉灶"
+    }
+}

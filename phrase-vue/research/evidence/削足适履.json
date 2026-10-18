@@ -1,0 +1,73 @@
+{
+    "word": "削足适履",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%89%8A%E8%B6%B3%E9%80%82%E5%B1%A5",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "88dc0bcaaf2c12407560c15fe0f2ecf3fed1da2e15062e8fbf6d3344171e0835",
+        "bytes": 29624
+    },
+    "parsed": {
+        "found": true,
+        "word": "削足适履",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "xuē",
+                "zú",
+                "shì",
+                "lǚ"
+            ],
+            "zhuyin": [
+                "ㄒㄩㄝ",
+                "ㄗㄨˊ",
+                "ㄕˋ",
+                "ㄌㄩˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻勉强迁就现状而损害根本。",
+                "citations": [
+                    {
+                        "text": "夫所以养而害所养，譬犹削足而适履，杀头而便冠。",
+                        "source": "《淮南子·说林训》"
+                    }
+                ]
+            },
+            {
+                "definition": "同「削足适履」的异体写法。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "夫所以养而害所养，譬犹削足而适履，杀头而便冠。",
+                "source": "《淮南子·说林训》"
+            }
+        ],
+        "synonyms": [
+            "生搬硬套",
+            "杀头便冠",
+            "因噎废食"
+        ],
+        "antonyms": [
+            "因地制宜",
+            "量体裁衣"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "cut feet to fit shoes"
+    },
+    "blocks": {
+        "reading": "xuē zú shì lǚ",
+        "sense-1": "比喻勉强迁就现状而损害根本。",
+        "sense-2": "同「削足适履」的异体写法。",
+        "citation-1": "夫所以养而害所养，譬犹削足而适履，杀头而便冠。 — 《淮南子·说林训》",
+        "synonyms": "生搬硬套、杀头便冠、因噎废食",
+        "antonyms": "因地制宜、量体裁衣"
+    }
+}

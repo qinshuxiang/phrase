@@ -1,0 +1,59 @@
+{
+    "word": "骇人听闻",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%AA%87%E4%BA%BA%E5%90%AC%E9%97%BB",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "c9b9731a7c15f2724c666cf1bbf6be1fe31434ffed4d2b8d72d052a8f3450a42",
+        "bytes": 26791
+    },
+    "parsed": {
+        "found": true,
+        "word": "骇人听闻",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "hài",
+                "rén",
+                "tīng",
+                "wén"
+            ],
+            "zhuyin": [
+                "ㄏㄞˋ",
+                "ㄖㄣˊ",
+                "ㄊㄧㄥ",
+                "ㄨㄣˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "使人听到后感到极度震惊。",
+                "citations": [
+                    {
+                        "text": "浙中近年怪论百出，骇人闻听，坏人心术。",
+                        "source": "宋·朱熹《答詹帅书》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "浙中近年怪论百出，骇人闻听，坏人心术。",
+                "source": "宋·朱熹《答詹帅书》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "shocking"
+    },
+    "blocks": {
+        "reading": "hài rén tīng wén",
+        "sense-1": "使人听到后感到极度震惊。",
+        "citation-1": "浙中近年怪论百出，骇人闻听，坏人心术。 — 宋·朱熹《答詹帅书》"
+    }
+}

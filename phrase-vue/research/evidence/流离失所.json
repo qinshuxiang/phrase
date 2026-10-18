@@ -1,0 +1,69 @@
+{
+    "word": "流离失所",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%B5%81%E7%A6%BB%E5%A4%B1%E6%89%80",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "4ea8c4940628a8b65784c18c6b9633964b50f35aebb869507534d6308902a718",
+        "bytes": 27612
+    },
+    "parsed": {
+        "found": true,
+        "word": "流离失所",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "liú",
+                "lí",
+                "shī",
+                "suǒ"
+            ],
+            "zhuyin": [
+                "ㄌㄧㄨˊ",
+                "ㄌㄧˊ",
+                "ㄕ",
+                "ㄙㄨㄛˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "流转离散，无处安身。",
+                "citations": [
+                    {
+                        "text": "边民连岁流离失所。",
+                        "source": "《金史·完颜匡传》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "边民连岁流离失所。",
+                "source": "《金史·完颜匡传》"
+            }
+        ],
+        "synonyms": [
+            "无家可归",
+            "流离颠沛",
+            "颠沛流离",
+            "流离转徙"
+        ],
+        "antonyms": [
+            "安家立业",
+            "安居乐业"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "homeless"
+    },
+    "blocks": {
+        "reading": "liú lí shī suǒ",
+        "sense-1": "流转离散，无处安身。",
+        "citation-1": "边民连岁流离失所。 — 《金史·完颜匡传》",
+        "synonyms": "无家可归、流离颠沛、颠沛流离、流离转徙",
+        "antonyms": "安家立业、安居乐业"
+    }
+}

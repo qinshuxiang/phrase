@@ -1,0 +1,48 @@
+{
+    "word": "自怨自艾",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%87%AA%E6%80%A8%E8%87%AA%E8%89%BE",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "92f588afa7d05dac43f81dcb26d84f338e922e5e981fa04a826b2becb93ec062",
+        "bytes": 27393
+    },
+    "parsed": {
+        "found": true,
+        "word": "自怨自艾",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zì",
+                "yuàn",
+                "zì",
+                "yì"
+            ],
+            "zhuyin": [
+                "ㄗˋ",
+                "ㄩㄢˋ",
+                "ㄗˋ",
+                "ㄧˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "原指悔恨自己的过失而改正错误,现只指自己悔恨",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "repent and redress one’s errors;be full of remorse"
+    },
+    "blocks": {
+        "reading": "zì yuàn zì yì",
+        "sense-1": "原指悔恨自己的过失而改正错误,现只指自己悔恨"
+    }
+}

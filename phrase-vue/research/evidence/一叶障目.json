@@ -1,0 +1,41 @@
+{
+    "word": "一叶障目",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%80%E5%8F%B6%E9%9A%9C%E7%9B%AE",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "2c4ffdbe28c9fd1a394f53ce200ea1622da2ca035c4aca8ceaa62bcaf64d0294",
+        "bytes": 21083
+    },
+    "parsed": {
+        "found": true,
+        "word": "一叶障目",
+        "section": "idiom",
+        "readings": {
+            "pinyin": [],
+            "zhuyin": []
+        },
+        "senses": [
+            {
+                "definition": "眼睛被一片树叶挡住，指看不到事物的全貌。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": {
+            "text": "毛泽东《论持久战》：“一叶障目，不见泰山，而自以为是。”",
+            "source": "一叶障目"
+        },
+        "grammar": "",
+        "example": "",
+        "english": ""
+    },
+    "blocks": {
+        "sense-1": "眼睛被一片树叶挡住，指看不到事物的全貌。",
+        "origin": "毛泽东《论持久战》：“一叶障目，不见泰山，而自以为是。”"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "word": "审时度势",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%AE%A1%E6%97%B6%E5%BA%A6%E5%8A%BF",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "834101ce4d4deee9a2769139f18c2e42dc7efa71d021b7c97a283c9698d5bd65",
+        "bytes": 26816
+    },
+    "parsed": {
+        "found": true,
+        "word": "审时度势",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shěn",
+                "shí",
+                "duó",
+                "shì"
+            ],
+            "zhuyin": [
+                "ㄕㄣˇ",
+                "ㄕˊ",
+                "ㄉㄨㄛˊ",
+                "ㄕˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "分析时局情势，判断发展趋势。",
+                "citations": [
+                    {
+                        "text": "然审时度势，政固宜尔，且受恩深重，义当死报，虽怨诽有所弗恤也。",
+                        "source": "明·张居正《与李太仆渐庵论治体》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "然审时度势，政固宜尔，且受恩深重，义当死报，虽怨诽有所弗恤也。",
+                "source": "明·张居正《与李太仆渐庵论治体》"
+            }
+        ],
+        "synonyms": [
+            "揆情度理",
+            "度德量力"
+        ],
+        "antonyms": [
+            "刻舟求剑",
+            "墨守成规"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "assess the situation"
+    },
+    "blocks": {
+        "reading": "shěn shí duó shì",
+        "sense-1": "分析时局情势，判断发展趋势。",
+        "citation-1": "然审时度势，政固宜尔，且受恩深重，义当死报，虽怨诽有所弗恤也。 — 明·张居正《与李太仆渐庵论治体》",
+        "synonyms": "揆情度理、度德量力",
+        "antonyms": "刻舟求剑、墨守成规"
+    }
+}

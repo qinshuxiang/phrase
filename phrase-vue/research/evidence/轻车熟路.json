@@ -1,0 +1,67 @@
+{
+    "word": "轻车熟路",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%BD%BB%E8%BD%A6%E7%86%9F%E8%B7%AF",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "77317b4860ab6efae689939e7f4ca2d3a4112868c11878f0edfb2db98d2400fd",
+        "bytes": 27379
+    },
+    "parsed": {
+        "found": true,
+        "word": "轻车熟路",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "qīng",
+                "chē",
+                "shú",
+                "lù"
+            ],
+            "zhuyin": [
+                "ㄑㄧㄥ",
+                "ㄔㄜ",
+                "ㄕㄨˊ",
+                "ㄌㄨˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "驾着轻快的车子走熟悉的路。比喻对事情熟悉，做起来容易。",
+                "citations": [
+                    {
+                        "text": "似王良，轻车熟路，骅骝欲舞。",
+                        "source": "宋·辛弃疾《贺新郎·和徐斯远下第谢诸公载酒相访韵》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "似王良，轻车熟路，骅骝欲舞。",
+                "source": "宋·辛弃疾《贺新郎·和徐斯远下第谢诸公载酒相访韵》"
+            }
+        ],
+        "synonyms": [
+            "得心应手",
+            "驾轻就熟",
+            "轻而易举"
+        ],
+        "antonyms": [
+            "人生地疏"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "easy task for experienced person"
+    },
+    "blocks": {
+        "reading": "qīng chē shú lù",
+        "sense-1": "驾着轻快的车子走熟悉的路。比喻对事情熟悉，做起来容易。",
+        "citation-1": "似王良，轻车熟路，骅骝欲舞。 — 宋·辛弃疾《贺新郎·和徐斯远下第谢诸公载酒相访韵》",
+        "synonyms": "得心应手、驾轻就熟、轻而易举",
+        "antonyms": "人生地疏"
+    }
+}

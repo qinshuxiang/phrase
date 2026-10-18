@@ -1,0 +1,68 @@
+{
+    "word": "沸沸扬扬",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%B2%B8%E6%B2%B8%E6%89%AC%E6%89%AC",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "cf8891a751475f125d34f12626149c7b3ede09f9e903224c16d361815d58fd96",
+        "bytes": 26475
+    },
+    "parsed": {
+        "found": true,
+        "word": "沸沸扬扬",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "fèi",
+                "fèi",
+                "yáng",
+                "yáng"
+            ],
+            "zhuyin": [
+                "ㄈㄟˋ",
+                "ㄈㄟˋ",
+                "ㄧㄤˊ",
+                "ㄧㄤˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容议论纷杂、喧闹不休的样子。",
+                "citations": [
+                    {
+                        "text": "后来听得沸沸扬扬地说道：“黄泥冈上一伙贩枣子的客人，把蒙汗药麻翻了人，劫了生辰纲去。”",
+                        "source": "明·施耐庵《水浒传》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "后来听得沸沸扬扬地说道：“黄泥冈上一伙贩枣子的客人，把蒙汗药麻翻了人，劫了生辰纲去。”",
+                "source": "明·施耐庵《水浒传》"
+            }
+        ],
+        "synonyms": [
+            "沸反盈天",
+            "人声鼎沸"
+        ],
+        "antonyms": [
+            "鸦雀无声",
+            "耳根清静",
+            "冷冷清清"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "bubbling and gurgling"
+    },
+    "blocks": {
+        "reading": "fèi fèi yáng yáng",
+        "sense-1": "形容议论纷杂、喧闹不休的样子。",
+        "citation-1": "后来听得沸沸扬扬地说道：“黄泥冈上一伙贩枣子的客人，把蒙汗药麻翻了人，劫了生辰纲去。” — 明·施耐庵《水浒传》",
+        "synonyms": "沸反盈天、人声鼎沸",
+        "antonyms": "鸦雀无声、耳根清静、冷冷清清"
+    }
+}

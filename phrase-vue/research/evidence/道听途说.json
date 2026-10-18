@@ -1,0 +1,65 @@
+{
+    "word": "道听途说",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%81%93%E5%90%AC%E9%80%94%E8%AF%B4",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "fee1a691d2113ea0379b707f25ecebf70046aa3bd30df7df486725fc49e55962",
+        "bytes": 22875
+    },
+    "parsed": {
+        "found": true,
+        "word": "道听途说",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "dào",
+                "tīng",
+                "tú",
+                "shuō"
+            ],
+            "zhuyin": []
+        },
+        "senses": [
+            {
+                "definition": "在路上听来的话，未经证实就在路上传播。指没有根据的传闻。",
+                "citations": [
+                    {
+                        "text": "虽然求法的念头甚诚，还在半信半疑，恐怕那僧伴所言，道听途说，未知是真是假。",
+                        "source": "《平妖传》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "虽然求法的念头甚诚，还在半信半疑，恐怕那僧伴所言，道听途说，未知是真是假。",
+                "source": "《平妖传》"
+            }
+        ],
+        "synonyms": [
+            "小道消息",
+            "捕风捉影",
+            "海外奇谈",
+            "齐东野语"
+        ],
+        "antonyms": [
+            "言之有据",
+            "有根有据",
+            "言之凿凿"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "hearsay"
+    },
+    "blocks": {
+        "reading": "dào tīng tú shuō",
+        "sense-1": "在路上听来的话，未经证实就在路上传播。指没有根据的传闻。",
+        "citation-1": "虽然求法的念头甚诚，还在半信半疑，恐怕那僧伴所言，道听途说，未知是真是假。 — 《平妖传》",
+        "synonyms": "小道消息、捕风捉影、海外奇谈、齐东野语",
+        "antonyms": "言之有据、有根有据、言之凿凿"
+    }
+}

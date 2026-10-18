@@ -1,0 +1,66 @@
+{
+    "word": "大而化之",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A4%A7%E8%80%8C%E5%8C%96%E4%B9%8B",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "7f369f152d8e6ac50d533591c5187947803912a5bae654f81e8444b8e7af560e",
+        "bytes": 27805
+    },
+    "parsed": {
+        "found": true,
+        "word": "大而化之",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "dà",
+                "ér",
+                "huà",
+                "zhī"
+            ],
+            "zhuyin": [
+                "ㄉㄚˋ",
+                "ㄦˊ",
+                "ㄏㄨㄚˋ",
+                "ㄓ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "化:感化。原指把真诚、善良、完美的品德发扬光大,使人的思想品德得以完美。后用来形容做事大大咧咧,不谨慎,不细致",
+                "citations": [
+                    {
+                        "text": "充实而有光辉之谓大,大而化之之谓圣。",
+                        "source": "《孟子·尽心下》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "充实而有光辉之谓大,大而化之之谓圣。",
+                "source": "《孟子·尽心下》"
+            }
+        ],
+        "synonyms": [
+            "粗枝大叶",
+            "马马虎虎"
+        ],
+        "antonyms": [
+            "认认真真"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "careless;negligent"
+    },
+    "blocks": {
+        "reading": "dà ér huà zhī",
+        "sense-1": "化:感化。原指把真诚、善良、完美的品德发扬光大,使人的思想品德得以完美。后用来形容做事大大咧咧,不谨慎,不细致",
+        "citation-1": "充实而有光辉之谓大,大而化之之谓圣。 — 《孟子·尽心下》",
+        "synonyms": "粗枝大叶、马马虎虎",
+        "antonyms": "认认真真"
+    }
+}

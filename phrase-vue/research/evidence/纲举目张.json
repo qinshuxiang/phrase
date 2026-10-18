@@ -1,0 +1,62 @@
+{
+    "word": "纲举目张",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%BA%B2%E4%B8%BE%E7%9B%AE%E5%BC%A0",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "92405da086665c22457b77112bfceadd2d46428565829347c93e3e366942ec2b",
+        "bytes": 26489
+    },
+    "parsed": {
+        "found": true,
+        "word": "纲举目张",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "gāng",
+                "jǔ",
+                "mù",
+                "zhāng"
+            ],
+            "zhuyin": [
+                "ㄍㄤ",
+                "ㄐㄩˇ",
+                "ㄇㄨˋ",
+                "ㄓㄤ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "提起鱼网的总绳，所有网眼就会张开。比喻抓住主要环节，就能带动其他部分；或把握要领，使条理分明。",
+                "citations": [
+                    {
+                        "text": "壹引其纲，万目皆张。",
+                        "source": "《吕氏春秋•用民》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "壹引其纲，万目皆张。",
+                "source": "《吕氏春秋•用民》"
+            }
+        ],
+        "synonyms": [
+            "提纲挈领"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "well-organized;systematic"
+    },
+    "blocks": {
+        "reading": "gāng jǔ mù zhāng",
+        "sense-1": "提起鱼网的总绳，所有网眼就会张开。比喻抓住主要环节，就能带动其他部分；或把握要领，使条理分明。",
+        "citation-1": "壹引其纲，万目皆张。 — 《吕氏春秋•用民》",
+        "synonyms": "提纲挈领"
+    }
+}

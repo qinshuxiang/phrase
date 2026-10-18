@@ -1,0 +1,63 @@
+{
+    "word": "具体而微",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%85%B7%E4%BD%93%E8%80%8C%E5%BE%AE",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "d8ebb83833608f78410e18b4a80ddbe43f1571f8dae682ab36ecd9f0191aaa62",
+        "bytes": 26476
+    },
+    "parsed": {
+        "found": true,
+        "word": "具体而微",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jù",
+                "tǐ",
+                "ér",
+                "wēi"
+            ],
+            "zhuyin": [
+                "ㄐㄩˋ",
+                "ㄊㄧˇ",
+                "ㄦˊ",
+                "ㄨㄟ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "事物各部分都具备但规模较小。",
+                "citations": [
+                    {
+                        "text": "子夏、子游、子张皆有圣人之一体；冉牛、闵子、颜渊，则具体而微。",
+                        "source": "《孟子·公孙丑上》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "子夏、子游、子张皆有圣人之一体；冉牛、闵子、颜渊，则具体而微。",
+                "source": "《孟子·公孙丑上》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [
+            "硕大无朋",
+            "似是而非"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "miniature"
+    },
+    "blocks": {
+        "reading": "jù tǐ ér wēi",
+        "sense-1": "事物各部分都具备但规模较小。",
+        "citation-1": "子夏、子游、子张皆有圣人之一体；冉牛、闵子、颜渊，则具体而微。 — 《孟子·公孙丑上》",
+        "antonyms": "硕大无朋、似是而非"
+    }
+}

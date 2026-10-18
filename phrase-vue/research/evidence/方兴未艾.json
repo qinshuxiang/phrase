@@ -1,0 +1,69 @@
+{
+    "word": "方兴未艾",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%96%B9%E5%85%B4%E6%9C%AA%E8%89%BE",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "983f148daf49a5386c9c1909c4298767985c6fdffe83d811f03551bfe045fbba",
+        "bytes": 27572
+    },
+    "parsed": {
+        "found": true,
+        "word": "方兴未艾",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "fāng",
+                "xīng",
+                "wèi",
+                "ài"
+            ],
+            "zhuyin": [
+                "ㄈㄤ",
+                "ㄒㄧㄥ",
+                "ㄨㄟˋ",
+                "ㄞˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "事物正在蓬勃发展，尚未达到止境。",
+                "citations": [
+                    {
+                        "text": "大学之道，方兴未艾也，士之来学者，盖已千数。",
+                        "source": "宋·陆佃《太学策问》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "大学之道，方兴未艾也，士之来学者，盖已千数。",
+                "source": "宋·陆佃《太学策问》"
+            }
+        ],
+        "synonyms": [
+            "方滋未艾",
+            "方兴未已",
+            "方兴日盛﹑蒸蒸日上"
+        ],
+        "antonyms": [
+            "日暮途穷",
+            "穷途末路",
+            "日暮途穷﹑一蹶不振"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "be in the ascendant"
+    },
+    "blocks": {
+        "reading": "fāng xīng wèi ài",
+        "sense-1": "事物正在蓬勃发展，尚未达到止境。",
+        "citation-1": "大学之道，方兴未艾也，士之来学者，盖已千数。 — 宋·陆佃《太学策问》",
+        "synonyms": "方滋未艾、方兴未已、方兴日盛﹑蒸蒸日上",
+        "antonyms": "日暮途穷、穷途末路、日暮途穷﹑一蹶不振"
+    }
+}

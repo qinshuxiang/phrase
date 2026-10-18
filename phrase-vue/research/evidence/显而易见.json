@@ -1,0 +1,59 @@
+{
+    "word": "显而易见",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%98%BE%E8%80%8C%E6%98%93%E8%A7%81",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "7d25d8ba3eaca0f46d28ee4d465ef7f3fb634c18a2608c689c83fd8fd50ace50",
+        "bytes": 25848
+    },
+    "parsed": {
+        "found": true,
+        "word": "显而易见",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "xiǎn",
+                "ér",
+                "yì",
+                "jiàn"
+            ],
+            "zhuyin": [
+                "ㄒㄧㄢˇ",
+                "ㄦˊ",
+                "ㄧˋ",
+                "ㄐㄧㄢˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "事情或道理非常明显，很容易就能看清楚。",
+                "citations": [
+                    {
+                        "text": "在我者，其得失微而难知，莫若质诸天物之显而易见，且可以为戒也。",
+                        "source": "宋·王安石《洪范传》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "在我者，其得失微而难知，莫若质诸天物之显而易见，且可以为戒也。",
+                "source": "宋·王安石《洪范传》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "obvious"
+    },
+    "blocks": {
+        "reading": "xiǎn ér yì jiàn",
+        "sense-1": "事情或道理非常明显，很容易就能看清楚。",
+        "citation-1": "在我者，其得失微而难知，莫若质诸天物之显而易见，且可以为戒也。 — 宋·王安石《洪范传》"
+    }
+}

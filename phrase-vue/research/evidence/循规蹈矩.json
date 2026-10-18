@@ -1,0 +1,86 @@
+{
+    "word": "循规蹈矩",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%BE%AA%E8%A7%84%E8%B9%88%E7%9F%A9",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "d6ec31a78a3b3deaaab9a9f64dc6df77bfe0f8d7e4753d4f2781fab6fc5a2e88",
+        "bytes": 28882
+    },
+    "parsed": {
+        "found": true,
+        "word": "循规蹈矩",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "xún",
+                "guī",
+                "dǎo",
+                "jǔ"
+            ],
+            "zhuyin": [
+                "ㄒㄩㄣˊ",
+                "ㄍㄨㄟ",
+                "ㄉㄠˇ",
+                "ㄉㄠˇ",
+                "ㄉㄠˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "遵守既定的规范和准则。",
+                "citations": [
+                    {
+                        "text": "循涂守辙，犹言循规蹈矩云尔。",
+                        "source": "宋·朱熹《答方宾王书》"
+                    },
+                    {
+                        "text": "老爷又是位循规蹈矩、听天任命、不肯苟且的人。",
+                        "source": "《儿女英雄传》第一回"
+                    }
+                ]
+            },
+            {
+                "definition": "形容人行为端正守规矩。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "循涂守辙，犹言循规蹈矩云尔。",
+                "source": "宋·朱熹《答方宾王书》"
+            },
+            {
+                "text": "老爷又是位循规蹈矩、听天任命、不肯苟且的人。",
+                "source": "《儿女英雄传》第一回"
+            }
+        ],
+        "synonyms": [
+            "规行矩步",
+            "奉公守法",
+            "规规矩矩",
+            "安分守己"
+        ],
+        "antonyms": [
+            "随心所欲",
+            "飞扬拔扈",
+            "横行不法",
+            "胡作非为"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "conform to rules"
+    },
+    "blocks": {
+        "reading": "xún guī dǎo jǔ",
+        "sense-1": "遵守既定的规范和准则。",
+        "sense-2": "形容人行为端正守规矩。",
+        "citation-1": "循涂守辙，犹言循规蹈矩云尔。 — 宋·朱熹《答方宾王书》",
+        "citation-2": "老爷又是位循规蹈矩、听天任命、不肯苟且的人。 — 《儿女英雄传》第一回",
+        "synonyms": "规行矩步、奉公守法、规规矩矩、安分守己",
+        "antonyms": "随心所欲、飞扬拔扈、横行不法、胡作非为"
+    }
+}

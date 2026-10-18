@@ -1,0 +1,67 @@
+{
+    "word": "默默无闻",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%BB%98%E9%BB%98%E6%97%A0%E9%97%BB",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "20c1d57467c5bcf1cdd56d221b1fd485433012b8dd25bb81f083db7e88153f11",
+        "bytes": 27444
+    },
+    "parsed": {
+        "found": true,
+        "word": "默默无闻",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "mò",
+                "mò",
+                "wú",
+                "wén"
+            ],
+            "zhuyin": [
+                "ㄇㄛˋ",
+                "ㄇㄛˋ",
+                "ㄨˊ",
+                "ㄨㄣˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "不出名，没有人知道。",
+                "citations": [
+                    {
+                        "text": "其官亲某，向司征比，默默无闻。",
+                        "source": "清·宣鼎《夜雨秋灯录·陬邑官亲》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "其官亲某，向司征比，默默无闻。",
+                "source": "清·宣鼎《夜雨秋灯录·陬邑官亲》"
+            }
+        ],
+        "synonyms": [
+            "无声无息",
+            "湮没无闻"
+        ],
+        "antonyms": [
+            "赫赫有名",
+            "大名鼎鼎﹑赫赫有名﹑远近有名"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "unknown"
+    },
+    "blocks": {
+        "reading": "mò mò wú wén",
+        "sense-1": "不出名，没有人知道。",
+        "citation-1": "其官亲某，向司征比，默默无闻。 — 清·宣鼎《夜雨秋灯录·陬邑官亲》",
+        "synonyms": "无声无息、湮没无闻",
+        "antonyms": "赫赫有名、大名鼎鼎﹑赫赫有名﹑远近有名"
+    }
+}

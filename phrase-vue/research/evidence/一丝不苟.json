@@ -1,0 +1,70 @@
+{
+    "word": "一丝不苟",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%80%E4%B8%9D%E4%B8%8D%E8%8B%9F",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "e85bbbf2b804e0736b5c5587f7c89e466536ee4d240281a5b48efc1a7ed6d483",
+        "bytes": 27511
+    },
+    "parsed": {
+        "found": true,
+        "word": "一丝不苟",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yī",
+                "sī",
+                "bù",
+                "gǒu"
+            ],
+            "zhuyin": [
+                "ㄧ",
+                "ㄙ",
+                "ㄅㄨˋ",
+                "ㄍㄡˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容做事极其认真，连最细微处也不马虎。",
+                "citations": [
+                    {
+                        "text": "上司访知，见世叔一丝不苟，升迁就在指日。",
+                        "source": "《儒林外史》第四回"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "上司访知，见世叔一丝不苟，升迁就在指日。",
+                "source": "《儒林外史》第四回"
+            }
+        ],
+        "synonyms": [
+            "小心谨慎",
+            "小心翼翼",
+            "不苟言笑"
+        ],
+        "antonyms": [
+            "粗枝大叶",
+            "马马虎虎",
+            "草草了事",
+            "粗心大意"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "meticulous"
+    },
+    "blocks": {
+        "reading": "yī sī bù gǒu",
+        "sense-1": "形容做事极其认真，连最细微处也不马虎。",
+        "citation-1": "上司访知，见世叔一丝不苟，升迁就在指日。 — 《儒林外史》第四回",
+        "synonyms": "小心谨慎、小心翼翼、不苟言笑",
+        "antonyms": "粗枝大叶、马马虎虎、草草了事、粗心大意"
+    }
+}

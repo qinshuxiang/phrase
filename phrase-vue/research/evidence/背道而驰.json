@@ -1,0 +1,71 @@
+{
+    "word": "背道而驰",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%83%8C%E9%81%93%E8%80%8C%E9%A9%B0",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "54cef831a9a02bb9bab945c65ecd118dc641a1b2d95dbef053b472dcfe181dbc",
+        "bytes": 27869
+    },
+    "parsed": {
+        "found": true,
+        "word": "背道而驰",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bèi",
+                "dào",
+                "ér",
+                "chí"
+            ],
+            "zhuyin": [
+                "ㄅㄟˋ",
+                "ㄉㄠˋ",
+                "ㄦˊ",
+                "ㄔˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "朝着相反的方向奔跑。比喻彼此的方向、目标完全相反。",
+                "citations": [
+                    {
+                        "text": "又变于俗而趋于利，故其势不得不背道而驰，则君子哀之可也。",
+                        "source": "宋·叶适《庄子》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "又变于俗而趋于利，故其势不得不背道而驰，则君子哀之可也。",
+                "source": "宋·叶适《庄子》"
+            }
+        ],
+        "synonyms": [
+            "适得其反",
+            "北辕适楚",
+            "分道扬镳",
+            "南辕北辙"
+        ],
+        "antonyms": [
+            "如出一辙",
+            "并驾齐驱",
+            "殊途同归",
+            "异途同归"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "run in the opposite direction"
+    },
+    "blocks": {
+        "reading": "bèi dào ér chí",
+        "sense-1": "朝着相反的方向奔跑。比喻彼此的方向、目标完全相反。",
+        "citation-1": "又变于俗而趋于利，故其势不得不背道而驰，则君子哀之可也。 — 宋·叶适《庄子》",
+        "synonyms": "适得其反、北辕适楚、分道扬镳、南辕北辙",
+        "antonyms": "如出一辙、并驾齐驱、殊途同归、异途同归"
+    }
+}

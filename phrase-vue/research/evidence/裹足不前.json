@@ -1,0 +1,69 @@
+{
+    "word": "裹足不前",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%A3%B9%E8%B6%B3%E4%B8%8D%E5%89%8D",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "edbbd45ded75f50ef4341bead9f4338b6cdf88b1e71ffe0b4e9b4b0a5acd0bd7",
+        "bytes": 29028
+    },
+    "parsed": {
+        "found": true,
+        "word": "裹足不前",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "guǒ",
+                "zú",
+                "bù",
+                "qián"
+            ],
+            "zhuyin": [
+                "ㄍㄨㄛˇ",
+                "ㄗㄨˊ",
+                "ㄅㄨˋ",
+                "ㄑㄧㄢˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "停步不前,好像脚被缠住了一样(多指有顾忌)",
+                "citations": [
+                    {
+                        "text": "天下智谋之士,闻而自疑,将裹足不前,主公谁与定天下乎?",
+                        "source": "《三国演义》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "天下智谋之士,闻而自疑,将裹足不前,主公谁与定天下乎?",
+                "source": "《三国演义》"
+            }
+        ],
+        "synonyms": [
+            "作茧自缚",
+            "故步自封",
+            "停滞不前﹑故步自封﹑作茧自缚"
+        ],
+        "antonyms": [
+            "义无返顾",
+            "一往无前",
+            "勇往直前"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "be at a standstill;hang a leg;hesitate to proceed"
+    },
+    "blocks": {
+        "reading": "guǒ zú bù qián",
+        "sense-1": "停步不前,好像脚被缠住了一样(多指有顾忌)",
+        "citation-1": "天下智谋之士,闻而自疑,将裹足不前,主公谁与定天下乎? — 《三国演义》",
+        "synonyms": "作茧自缚、故步自封、停滞不前﹑故步自封﹑作茧自缚",
+        "antonyms": "义无返顾、一往无前、勇往直前"
+    }
+}

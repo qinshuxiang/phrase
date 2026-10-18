@@ -1,0 +1,75 @@
+{
+    "word": "同舟共济",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%90%8C%E8%88%9F%E5%85%B1%E6%B5%8E",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "0b99a056e6d2d618379634a16c8706b3529fd18c567afea4402493f6bd359d0d",
+        "bytes": 29058
+    },
+    "parsed": {
+        "found": true,
+        "word": "同舟共济",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "tóng",
+                "zhōu",
+                "gòng",
+                "jì"
+            ],
+            "zhuyin": [
+                "ㄊㄨㄥˊ",
+                "ㄓㄡ",
+                "ㄍㄨㄥˋ",
+                "ㄐㄧˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "共同乘船渡河。比喻齐心协力克服困难。",
+                "citations": [
+                    {
+                        "text": "夫吴人与越人相恶也，当其同舟而济，遇风，其相救也，如左右手。",
+                        "source": "《孙子·九地》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "夫吴人与越人相恶也，当其同舟而济，遇风，其相救也，如左右手。",
+                "source": "《孙子·九地》"
+            }
+        ],
+        "synonyms": [
+            "患难与共",
+            "风雨同舟",
+            "同甘共苦",
+            "同心同德",
+            "同心协力",
+            "守望相助"
+        ],
+        "antonyms": [
+            "反目成仇",
+            "分崩离析",
+            "同床异梦",
+            "离心离德",
+            "各行其是",
+            "尔虞我诈"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "work together"
+    },
+    "blocks": {
+        "reading": "tóng zhōu gòng jì",
+        "sense-1": "共同乘船渡河。比喻齐心协力克服困难。",
+        "citation-1": "夫吴人与越人相恶也，当其同舟而济，遇风，其相救也，如左右手。 — 《孙子·九地》",
+        "synonyms": "患难与共、风雨同舟、同甘共苦、同心同德、同心协力、守望相助",
+        "antonyms": "反目成仇、分崩离析、同床异梦、离心离德、各行其是、尔虞我诈"
+    }
+}

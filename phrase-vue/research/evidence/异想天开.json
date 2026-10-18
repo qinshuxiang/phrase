@@ -1,0 +1,59 @@
+{
+    "word": "异想天开",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%BC%82%E6%83%B3%E5%A4%A9%E5%BC%80",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "bd11d211d16d7ec663a5ce3ae29eae15fd098e28854f0e011baafa95c7676607",
+        "bytes": 26859
+    },
+    "parsed": {
+        "found": true,
+        "word": "异想天开",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yì",
+                "xiǎng",
+                "tiān",
+                "kāi"
+            ],
+            "zhuyin": [
+                "ㄧˋ",
+                "ㄒㄧㄤˇ",
+                "ㄊㄧㄢ",
+                "ㄎㄞ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "想法离奇独特，不切实际。",
+                "citations": [
+                    {
+                        "text": "这可谓异想天开了。",
+                        "source": "清·李汝珍《镜花缘》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "这可谓异想天开了。",
+                "source": "清·李汝珍《镜花缘》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "fantastic"
+    },
+    "blocks": {
+        "reading": "yì xiǎng tiān kāi",
+        "sense-1": "想法离奇独特，不切实际。",
+        "citation-1": "这可谓异想天开了。 — 清·李汝珍《镜花缘》"
+    }
+}

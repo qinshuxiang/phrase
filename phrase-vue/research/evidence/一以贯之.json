@@ -1,0 +1,68 @@
+{
+    "word": "一以贯之",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%80%E4%BB%A5%E8%B4%AF%E4%B9%8B",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "a2ce25eb83fb597128cb9afbde84d5b043f1ab6e4715b382934357d68d9f581b",
+        "bytes": 25970
+    },
+    "parsed": {
+        "found": true,
+        "word": "一以贯之",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yī",
+                "yǐ",
+                "guàn",
+                "zhī"
+            ],
+            "zhuyin": [
+                "ㄧ",
+                "ㄧˇ",
+                "ㄍㄨㄢˋ",
+                "ㄓ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "指一种思想或理论贯穿始终。",
+                "citations": [
+                    {
+                        "text": "吾道一以贯之。",
+                        "source": "《论语·里仁》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "吾道一以贯之。",
+                "source": "《论语·里仁》"
+            }
+        ],
+        "synonyms": [
+            "始终如一",
+            "有始有终",
+            "善始善终"
+        ],
+        "antonyms": [
+            "虎头蛇尾",
+            "有始无终"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "consistent"
+    },
+    "blocks": {
+        "reading": "yī yǐ guàn zhī",
+        "sense-1": "指一种思想或理论贯穿始终。",
+        "citation-1": "吾道一以贯之。 — 《论语·里仁》",
+        "synonyms": "始终如一、有始有终、善始善终",
+        "antonyms": "虎头蛇尾、有始无终"
+    }
+}

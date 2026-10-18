@@ -1,0 +1,77 @@
+{
+    "word": "苦心孤诣",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%8B%A6%E5%BF%83%E5%AD%A4%E8%AF%A3",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "5b05d401d179cedc0a0d070ff110ede8f9234530bf11dd198240e65239db3566",
+        "bytes": 27631
+    },
+    "parsed": {
+        "found": true,
+        "word": "苦心孤诣",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "kǔ",
+                "xīn",
+                "gū",
+                "yì"
+            ],
+            "zhuyin": [
+                "ㄎㄨˇ",
+                "ㄒㄧㄣ",
+                "ㄍㄨ",
+                "ㄧˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "费尽心思钻研或经营，达到别人达不到的境地。",
+                "citations": [
+                    {
+                        "text": "苦将心力成孤诣，不敢随风薄宋元。",
+                        "source": "清·屈复《论诗绝句》"
+                    },
+                    {
+                        "text": "此十三妹所以挺身出来，给安龙媒、张金凤二人执柯作伐的一番苦心孤诣也。",
+                        "source": "《儿女英雄传》第十回"
+                    }
+                ]
+            },
+            {
+                "definition": "为达到某个目的而煞费苦心。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "苦将心力成孤诣，不敢随风薄宋元。",
+                "source": "清·屈复《论诗绝句》"
+            },
+            {
+                "text": "此十三妹所以挺身出来，给安龙媒、张金凤二人执柯作伐的一番苦心孤诣也。",
+                "source": "《儿女英雄传》第十回"
+            }
+        ],
+        "synonyms": [
+            "费尽心机",
+            "苦心经营"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "painstaking effort"
+    },
+    "blocks": {
+        "reading": "kǔ xīn gū yì",
+        "sense-1": "费尽心思钻研或经营，达到别人达不到的境地。",
+        "sense-2": "为达到某个目的而煞费苦心。",
+        "citation-1": "苦将心力成孤诣，不敢随风薄宋元。 — 清·屈复《论诗绝句》",
+        "citation-2": "此十三妹所以挺身出来，给安龙媒、张金凤二人执柯作伐的一番苦心孤诣也。 — 《儿女英雄传》第十回",
+        "synonyms": "费尽心机、苦心经营"
+    }
+}

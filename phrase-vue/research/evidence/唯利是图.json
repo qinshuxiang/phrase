@@ -1,0 +1,56 @@
+{
+    "word": "唯利是图",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%94%AF%E5%88%A9%E6%98%AF%E5%9B%BE",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "7f4f737d3221a0278d72fbc51f0be88140350c763de26a64496fc731bd272180",
+        "bytes": 25834
+    },
+    "parsed": {
+        "found": true,
+        "word": "唯利是图",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "wéi",
+                "lì",
+                "shì",
+                "tú"
+            ],
+            "zhuyin": [
+                "ㄨㄟˊ",
+                "ㄌㄧˋ",
+                "ㄕˋ",
+                "ㄊㄨˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "只追求利益不顾其他。见“ 唯利是视",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "自私自利",
+            "见利忘义"
+        ],
+        "antonyms": [
+            "大公无私",
+            "见义勇为"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "profit-seeking"
+    },
+    "blocks": {
+        "reading": "wéi lì shì tú",
+        "sense-1": "只追求利益不顾其他。见“ 唯利是视",
+        "synonyms": "自私自利、见利忘义",
+        "antonyms": "大公无私、见义勇为"
+    }
+}

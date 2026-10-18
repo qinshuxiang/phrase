@@ -1,0 +1,54 @@
+{
+    "word": "水涨船高",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%B0%B4%E6%B6%A8%E8%88%B9%E9%AB%98",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "abcc70f43cfad240143535637a64eb904ce243f47f07d80d72f9836ba9861324",
+        "bytes": 26422
+    },
+    "parsed": {
+        "found": true,
+        "word": "水涨船高",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shuǐ",
+                "zhǎng",
+                "chuán",
+                "gāo"
+            ],
+            "zhuyin": [
+                "ㄕㄨㄟˇ",
+                "ㄓㄤˇ",
+                "ㄔㄨㄢˊ",
+                "ㄍㄠ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "水位上升，船身也随之升高。比喻事物随其凭借基础的提升而相应提高。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "情随事迁"
+        ],
+        "antonyms": [
+            "一成不变"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "when the water rises, the boat floats high"
+    },
+    "blocks": {
+        "reading": "shuǐ zhǎng chuán gāo",
+        "sense-1": "水位上升，船身也随之升高。比喻事物随其凭借基础的提升而相应提高。",
+        "synonyms": "情随事迁",
+        "antonyms": "一成不变"
+    }
+}

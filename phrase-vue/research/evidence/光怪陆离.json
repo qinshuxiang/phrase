@@ -1,0 +1,76 @@
+{
+    "word": "光怪陆离",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%85%89%E6%80%AA%E9%99%86%E7%A6%BB",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "0f487e7346dcb6be82ef82ef2594667e228780a4e3c58a3c38d5d4d0a762002f",
+        "bytes": 27286
+    },
+    "parsed": {
+        "found": true,
+        "word": "光怪陆离",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "guāng",
+                "guài",
+                "lù",
+                "lí"
+            ],
+            "zhuyin": [
+                "ㄍㄨㄤ",
+                "ㄍㄨㄞˋ",
+                "ㄌㄨˋ",
+                "ㄌㄧˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "色彩斑斓错杂。",
+                "citations": [
+                    {
+                        "text": "竹垞诗光怪陆离，令人不敢逼视。",
+                        "source": "清·赵翼《瓯北诗话·查初白诗》"
+                    },
+                    {
+                        "text": "那柴烧的一块一块的，结成就和太湖石一般，光怪陆离。",
+                        "source": "《儒林外史》第五五回"
+                    }
+                ]
+            },
+            {
+                "definition": "形状离奇古怪。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "竹垞诗光怪陆离，令人不敢逼视。",
+                "source": "清·赵翼《瓯北诗话·查初白诗》"
+            },
+            {
+                "text": "那柴烧的一块一块的，结成就和太湖石一般，光怪陆离。",
+                "source": "《儒林外史》第五五回"
+            }
+        ],
+        "synonyms": [
+            "斑驳陆离"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "colorful"
+    },
+    "blocks": {
+        "reading": "guāng guài lù lí",
+        "sense-1": "色彩斑斓错杂。",
+        "sense-2": "形状离奇古怪。",
+        "citation-1": "竹垞诗光怪陆离，令人不敢逼视。 — 清·赵翼《瓯北诗话·查初白诗》",
+        "citation-2": "那柴烧的一块一块的，结成就和太湖石一般，光怪陆离。 — 《儒林外史》第五五回",
+        "synonyms": "斑驳陆离"
+    }
+}

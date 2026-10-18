@@ -1,0 +1,67 @@
+{
+    "word": "盲人摸象",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%9B%B2%E4%BA%BA%E6%91%B8%E8%B1%A1",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "1e1d90f8f7e1d7e42f0501ec9ab236d64461ee8e3dbba9c9e70872c23ba596ff",
+        "bytes": 28599
+    },
+    "parsed": {
+        "found": true,
+        "word": "盲人摸象",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "máng",
+                "rén",
+                "mō",
+                "xiàng"
+            ],
+            "zhuyin": [
+                "ㄇㄤˊ",
+                "ㄖㄣˊ",
+                "ㄇㄛ",
+                "ㄒㄧㄤˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "佛教故事:有几个瞎子摸一只象,有的摸到象腿,就说大象像柱子,有的摸到尾巴,就说大象像一条蛇,各执己见,争论不休。比喻看问题不全面,以偏概全",
+                "citations": [
+                    {
+                        "text": "于是所见的人或事,就如盲人摸象,摸着了脚,即以为象的样子像柱子。",
+                        "source": "鲁迅《这也是生活》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "于是所见的人或事,就如盲人摸象,摸着了脚,即以为象的样子像柱子。",
+                "source": "鲁迅《这也是生活》"
+            }
+        ],
+        "synonyms": [
+            "管中窥豹",
+            "坐井观天"
+        ],
+        "antonyms": [
+            "洞察一切",
+            "仰视观察"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "like blind men trying to size up the elephant—take a part for the whole"
+    },
+    "blocks": {
+        "reading": "máng rén mō xiàng",
+        "sense-1": "佛教故事:有几个瞎子摸一只象,有的摸到象腿,就说大象像柱子,有的摸到尾巴,就说大象像一条蛇,各执己见,争论不休。比喻看问题不全面,以偏概全",
+        "citation-1": "于是所见的人或事,就如盲人摸象,摸着了脚,即以为象的样子像柱子。 — 鲁迅《这也是生活》",
+        "synonyms": "管中窥豹、坐井观天",
+        "antonyms": "洞察一切、仰视观察"
+    }
+}

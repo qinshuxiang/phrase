@@ -1,0 +1,69 @@
+{
+    "word": "群策群力",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%BE%A4%E7%AD%96%E7%BE%A4%E5%8A%9B",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "9cdb5eb6b521dcb1deeeea0572892a803fb460e7b590abe3516413e74dd2c28e",
+        "bytes": 28274
+    },
+    "parsed": {
+        "found": true,
+        "word": "群策群力",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "qún",
+                "cè",
+                "qún",
+                "lì"
+            ],
+            "zhuyin": [
+                "ㄑㄩㄣˊ",
+                "ㄘㄜˋ",
+                "ㄑㄩㄣˊ",
+                "ㄌㄧˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "群众的智谋和力量",
+                "citations": [
+                    {
+                        "text": "实赖同心同德之臣,亟合群策群力之助。",
+                        "source": "宋·陈元晋《见郑参政启》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "实赖同心同德之臣,亟合群策群力之助。",
+                "source": "宋·陈元晋《见郑参政启》"
+            }
+        ],
+        "synonyms": [
+            "同心协力",
+            "通力合作",
+            "共同努力",
+            "集思广益"
+        ],
+        "antonyms": [
+            "离心离德",
+            "独断独行"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "brainstorm;by collective wisdom and efforts;pool the wisdom and efforts of the masses;pool all the brains and brawn for the job"
+    },
+    "blocks": {
+        "reading": "qún cè qún lì",
+        "sense-1": "群众的智谋和力量",
+        "citation-1": "实赖同心同德之臣,亟合群策群力之助。 — 宋·陈元晋《见郑参政启》",
+        "synonyms": "同心协力、通力合作、共同努力、集思广益",
+        "antonyms": "离心离德、独断独行"
+    }
+}

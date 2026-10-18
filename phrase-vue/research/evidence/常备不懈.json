@@ -1,0 +1,58 @@
+{
+    "word": "常备不懈",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%B8%B8%E5%A4%87%E4%B8%8D%E6%87%88",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "85f4d2782af026940c94b066cb4ca5613fe2682ceccd6d127098ce853b85750c",
+        "bytes": 25765
+    },
+    "parsed": {
+        "found": true,
+        "word": "常备不懈",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "cháng",
+                "bèi",
+                "bù",
+                "xiè"
+            ],
+            "zhuyin": [
+                "ㄔㄤˊ",
+                "ㄅㄟˋ",
+                "ㄅㄨˋ",
+                "ㄒㄧㄝ",
+                "ˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "时刻保持准备状态，毫不松懈。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "提高警惕",
+            "枕戈待旦"
+        ],
+        "antonyms": [
+            "放松警惕",
+            "麻痹大意",
+            "临阵磨枪"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "constant preparedness"
+    },
+    "blocks": {
+        "reading": "cháng bèi bù xiè",
+        "sense-1": "时刻保持准备状态，毫不松懈。",
+        "synonyms": "提高警惕、枕戈待旦",
+        "antonyms": "放松警惕、麻痹大意、临阵磨枪"
+    }
+}

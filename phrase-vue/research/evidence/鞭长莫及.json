@@ -1,0 +1,70 @@
+{
+    "word": "鞭长莫及",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%9E%AD%E9%95%BF%E8%8E%AB%E5%8F%8A",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "48553557d0e2a2deaa650e2192cec8deb4f3d6d70fb517d5773d9eca757ee233",
+        "bytes": 28121
+    },
+    "parsed": {
+        "found": true,
+        "word": "鞭长莫及",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "biān",
+                "cháng",
+                "mò",
+                "jí"
+            ],
+            "zhuyin": [
+                "ㄅㄧㄢ",
+                "ㄔㄤˊ",
+                "ㄇㄛˋ",
+                "ㄐㄧˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "鞭子虽长，却打不到马腹。比喻力量有所不及。",
+                "citations": [
+                    {
+                        "text": "楚子伐宋，宋人使乐婴齐告急于晋，晋侯欲救之。伯宗曰：「不可。古人有言曰：『虽鞭之长，不及马腹。』天方授楚，未可与争。",
+                        "source": "春秋·左丘明《左传·宣公十五年》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "楚子伐宋，宋人使乐婴齐告急于晋，晋侯欲救之。伯宗曰：「不可。古人有言曰：『虽鞭之长，不及马腹。』天方授楚，未可与争。",
+                "source": "春秋·左丘明《左传·宣公十五年》"
+            }
+        ],
+        "synonyms": [
+            "爱莫能助",
+            "力不从心",
+            "鞭长不及"
+        ],
+        "antonyms": [
+            "不在话下",
+            "绰绰有余",
+            "近水楼台",
+            "如臂使指"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "beyond one's reach"
+    },
+    "blocks": {
+        "reading": "biān cháng mò jí",
+        "sense-1": "鞭子虽长，却打不到马腹。比喻力量有所不及。",
+        "citation-1": "楚子伐宋，宋人使乐婴齐告急于晋，晋侯欲救之。伯宗曰：「不可。古人有言曰：『虽鞭之长，不及马腹。』天方授楚，未可与争。 — 春秋·左丘明《左传·宣公十五年》",
+        "synonyms": "爱莫能助、力不从心、鞭长不及",
+        "antonyms": "不在话下、绰绰有余、近水楼台、如臂使指"
+    }
+}

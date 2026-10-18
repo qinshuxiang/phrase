@@ -1,0 +1,69 @@
+{
+    "word": "言简意赅",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%A8%80%E7%AE%80%E6%84%8F%E8%B5%85",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "cdf5045b995455e04e9f855cce1fb9084077a43fddbb328165db92ab1ed2906a",
+        "bytes": 27627
+    },
+    "parsed": {
+        "found": true,
+        "word": "言简意赅",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yán",
+                "jiǎn",
+                "yì",
+                "gāi"
+            ],
+            "zhuyin": [
+                "ㄧㄢˊ",
+                "ㄐㄧㄢˇ",
+                "ㄧˋ",
+                "ㄍㄞ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "言辞简练而意思完备。",
+                "citations": [
+                    {
+                        "text": "莫不言简意该，义深词洁。",
+                        "source": "清·崔述《读风偶识》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "莫不言简意该，义深词洁。",
+                "source": "清·崔述《读风偶识》"
+            }
+        ],
+        "synonyms": [
+            "言近旨远",
+            "简明扼要",
+            "要言不烦"
+        ],
+        "antonyms": [
+            "连篇累牍",
+            "空洞无物",
+            "长篇大论"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "concise and comprehensive"
+    },
+    "blocks": {
+        "reading": "yán jiǎn yì gāi",
+        "sense-1": "言辞简练而意思完备。",
+        "citation-1": "莫不言简意该，义深词洁。 — 清·崔述《读风偶识》",
+        "synonyms": "言近旨远、简明扼要、要言不烦",
+        "antonyms": "连篇累牍、空洞无物、长篇大论"
+    }
+}

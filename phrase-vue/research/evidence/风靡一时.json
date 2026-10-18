@@ -1,0 +1,66 @@
+{
+    "word": "风靡一时",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%A3%8E%E9%9D%A1%E4%B8%80%E6%97%B6",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "7ba680f9bfce37abd9e222a3b09894342213e6c25736ea539a92108412742b50",
+        "bytes": 25992
+    },
+    "parsed": {
+        "found": true,
+        "word": "风靡一时",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "fēng",
+                "mǐ",
+                "yī",
+                "shí"
+            ],
+            "zhuyin": [
+                "ㄈㄥ",
+                "ㄇㄧˇ",
+                "ㄧ",
+                "ㄕˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "在某一时期内极为流行。",
+                "citations": [
+                    {
+                        "text": "十八世纪末期以往，卢梭自然法学说，风靡一时。",
+                        "source": "廖仲恺《〈全民政治论〉译本序》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "十八世纪末期以往，卢梭自然法学说，风靡一时。",
+                "source": "廖仲恺《〈全民政治论〉译本序》"
+            }
+        ],
+        "synonyms": [
+            "风行一时",
+            "盛极一时"
+        ],
+        "antonyms": [
+            "久盛不衰"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "be popular for a time"
+    },
+    "blocks": {
+        "reading": "fēng mǐ yī shí",
+        "sense-1": "在某一时期内极为流行。",
+        "citation-1": "十八世纪末期以往，卢梭自然法学说，风靡一时。 — 廖仲恺《〈全民政治论〉译本序》",
+        "synonyms": "风行一时、盛极一时",
+        "antonyms": "久盛不衰"
+    }
+}

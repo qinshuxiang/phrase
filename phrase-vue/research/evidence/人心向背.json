@@ -1,0 +1,66 @@
+{
+    "word": "人心向背",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%BA%BA%E5%BF%83%E5%90%91%E8%83%8C",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "ba14684e4ac919b7ba1f4b1ca538dab5ed728a09c0a8a0121f16131cbc336407",
+        "bytes": 27297
+    },
+    "parsed": {
+        "found": true,
+        "word": "人心向背",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "rén",
+                "xīn",
+                "xiàng",
+                "bèi"
+            ],
+            "zhuyin": [
+                "ㄖㄣˊ",
+                "ㄒㄧㄣ",
+                "ㄒㄧㄤˋ",
+                "ㄅㄟˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "向:归向,拥护。背:背离、反对。人民群众的拥护或反对",
+                "citations": [
+                    {
+                        "text": "入奏,极言事变倚伏。人心向背,疆场安危,邻寇动静。",
+                        "source": "《宋史·魏了翁传》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "入奏,极言事变倚伏。人心向背,疆场安危,邻寇动静。",
+                "source": "《宋史·魏了翁传》"
+            }
+        ],
+        "synonyms": [
+            "得道多助"
+        ],
+        "antonyms": [
+            "众望所归",
+            "失道寡助"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "the direction in which people feel toward this or that regime"
+    },
+    "blocks": {
+        "reading": "rén xīn xiàng bèi",
+        "sense-1": "向:归向,拥护。背:背离、反对。人民群众的拥护或反对",
+        "citation-1": "入奏,极言事变倚伏。人心向背,疆场安危,邻寇动静。 — 《宋史·魏了翁传》",
+        "synonyms": "得道多助",
+        "antonyms": "众望所归、失道寡助"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "word": "踔厉奋发",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%B8%94%E5%8E%89%E5%A5%8B%E5%8F%91",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "86bd5775092786d865076185f54c07c6d35634eb6dfb54f8c4af6afbd2c646e6",
+        "bytes": 21468
+    },
+    "parsed": {
+        "found": true,
+        "word": "踔厉奋发",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "chuō",
+                "lì",
+                "fèn",
+                "fā"
+            ],
+            "zhuyin": [
+                "ㄔㄨㄛ",
+                "ㄌㄧˋ",
+                "ㄈㄣˋ",
+                "ㄈㄚ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "精神振奋，斗志昂扬，意气风发。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "energetic and vigorous"
+    },
+    "blocks": {
+        "reading": "chuō lì fèn fā",
+        "sense-1": "精神振奋，斗志昂扬，意气风发。"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "word": "络绎不绝",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%BB%9C%E7%BB%8E%E4%B8%8D%E7%BB%9D",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "de778e79f5ab85ce6fe6b7facd5221c7a03ac06a640bbe91cfe5dec7df42a8be",
+        "bytes": 27504
+    },
+    "parsed": {
+        "found": true,
+        "word": "络绎不绝",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "luò",
+                "yì",
+                "bù",
+                "jué"
+            ],
+            "zhuyin": [
+                "ㄌㄨㄛˋ",
+                "ㄧˋ",
+                "ㄅㄨˋ",
+                "ㄐㄩㄝˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容人马车辆等前后相接，连续不断。",
+                "citations": [
+                    {
+                        "text": "皇太后、陛下哀怜臣彊，感动发中，数遣使者太医令丞方伎道术，络驿不绝。",
+                        "source": "《后汉书·东海恭王刘彊传》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "皇太后、陛下哀怜臣彊，感动发中，数遣使者太医令丞方伎道术，络驿不绝。",
+                "source": "《后汉书·东海恭王刘彊传》"
+            }
+        ],
+        "synonyms": [
+            "纷至沓来",
+            "接连不断",
+            "接踵而至",
+            "川流不息"
+        ],
+        "antonyms": [
+            "七零八落"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "in an endless stream"
+    },
+    "blocks": {
+        "reading": "luò yì bù jué",
+        "sense-1": "形容人马车辆等前后相接，连续不断。",
+        "citation-1": "皇太后、陛下哀怜臣彊，感动发中，数遣使者太医令丞方伎道术，络驿不绝。 — 《后汉书·东海恭王刘彊传》",
+        "synonyms": "纷至沓来、接连不断、接踵而至、川流不息",
+        "antonyms": "七零八落"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "word": "回天乏术",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%9B%9E%E5%A4%A9%E4%B9%8F%E6%9C%AF",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "ac09707cb43136ec5876c0e1525e18ae30c30ec593d1be65baee44c2e4e0dc2d",
+        "bytes": 24686
+    },
+    "parsed": {
+        "found": true,
+        "word": "回天乏术",
+        "section": "idiom",
+        "readings": {
+            "pinyin": [
+                "huí",
+                "tiān",
+                "fá",
+                "shù"
+            ],
+            "zhuyin": [
+                "ㄏㄨㄟˊ",
+                "ㄊㄧㄢ",
+                "ㄈㄚˊ",
+                "ㄕㄨˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "回天：比喻力量大，能移转极难挽回的时势；乏术：缺少方法。比喻局势或病情严重，已无法挽救。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": {
+            "text": "清·冯起凤《昔柳摭谈·秋风自悼》：“后探得的耗，万箭攒心，脏腑欲裂。但木已成舟，回天乏术。”",
+            "source": "回天乏术"
+        },
+        "grammar": "主谓式；作谓语；比喻已无法挽救的局势或病情严重",
+        "example": "",
+        "english": ""
+    },
+    "blocks": {
+        "reading": "huí tiān fá shù",
+        "sense-1": "回天：比喻力量大，能移转极难挽回的时势；乏术：缺少方法。比喻局势或病情严重，已无法挽救。",
+        "origin": "清·冯起凤《昔柳摭谈·秋风自悼》：“后探得的耗，万箭攒心，脏腑欲裂。但木已成舟，回天乏术。”",
+        "grammar": "主谓式；作谓语；比喻已无法挽救的局势或病情严重"
+    }
+}

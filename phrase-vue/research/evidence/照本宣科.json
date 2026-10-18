@@ -1,0 +1,56 @@
+{
+    "word": "照本宣科",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%85%A7%E6%9C%AC%E5%AE%A3%E7%A7%91",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "2f9923d6c3977fd4ada2f1a786da6e059cf98c96b6870700fea085ec0ef2d06a",
+        "bytes": 27282
+    },
+    "parsed": {
+        "found": true,
+        "word": "照本宣科",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zhào",
+                "běn",
+                "xuān",
+                "kē"
+            ],
+            "zhuyin": [
+                "ㄓㄠˋ",
+                "ㄅㄣˇ",
+                "ㄒㄨㄢ",
+                "ㄎㄜ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容只是死板地照本子念,不能结合实际,灵活发挥",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "照猫画虎",
+            "照葫芦画瓢"
+        ],
+        "antonyms": [
+            "断章取义",
+            "添油加醋"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "read item by item from the text"
+    },
+    "blocks": {
+        "reading": "zhào běn xuān kē",
+        "sense-1": "形容只是死板地照本子念,不能结合实际,灵活发挥",
+        "synonyms": "照猫画虎、照葫芦画瓢",
+        "antonyms": "断章取义、添油加醋"
+    }
+}

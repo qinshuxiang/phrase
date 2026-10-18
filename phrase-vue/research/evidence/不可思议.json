@@ -1,0 +1,85 @@
+{
+    "word": "不可思议",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AE%AE",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "9dab97839d16521d2a61b90d1eddd30a4546dd5e64e66c8c3b5a735b951ee89c",
+        "bytes": 28753
+    },
+    "parsed": {
+        "found": true,
+        "word": "不可思议",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bù",
+                "kě",
+                "sī",
+                "yì"
+            ],
+            "zhuyin": [
+                "ㄅㄨˋ",
+                "ㄎㄜˇ",
+                "ㄙ",
+                "ㄧˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "佛教用语，指超越思维和言语所能达到的玄妙境界。",
+                "citations": [
+                    {
+                        "text": "诸佛菩萨有解脱名不可思议。",
+                        "source": "《维摩诘经·不思议品》"
+                    },
+                    {
+                        "text": "意者宇宙之内，本自有如此可喜之人，如化工之于物，其工巧自不可思议尔。",
+                        "source": "明·李贽《杂说》"
+                    }
+                ]
+            },
+            {
+                "definition": "形容事物难以想象或无法理解。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "诸佛菩萨有解脱名不可思议。",
+                "source": "《维摩诘经·不思议品》"
+            },
+            {
+                "text": "意者宇宙之内，本自有如此可喜之人，如化工之于物，其工巧自不可思议尔。",
+                "source": "明·李贽《杂说》"
+            }
+        ],
+        "synonyms": [
+            "不可捉摸",
+            "神乎其神",
+            "玄而又玄",
+            "不堪设想﹑难以想像"
+        ],
+        "antonyms": [
+            "一目了然",
+            "洞若观火",
+            "通俗易懂",
+            "可想而知"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "unimaginable"
+    },
+    "blocks": {
+        "reading": "bù kě sī yì",
+        "sense-1": "佛教用语，指超越思维和言语所能达到的玄妙境界。",
+        "sense-2": "形容事物难以想象或无法理解。",
+        "citation-1": "诸佛菩萨有解脱名不可思议。 — 《维摩诘经·不思议品》",
+        "citation-2": "意者宇宙之内，本自有如此可喜之人，如化工之于物，其工巧自不可思议尔。 — 明·李贽《杂说》",
+        "synonyms": "不可捉摸、神乎其神、玄而又玄、不堪设想﹑难以想像",
+        "antonyms": "一目了然、洞若观火、通俗易懂、可想而知"
+    }
+}

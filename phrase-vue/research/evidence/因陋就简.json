@@ -1,0 +1,84 @@
+{
+    "word": "因陋就简",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%9B%A0%E9%99%8B%E5%B0%B1%E7%AE%80",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "bd25fc55f7b9796b9b21dcad3f9ba24e2abb10e909f3c439b4a90acbfe425df0",
+        "bytes": 28805
+    },
+    "parsed": {
+        "found": true,
+        "word": "因陋就简",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yīn",
+                "lòu",
+                "jiù",
+                "jiǎn"
+            ],
+            "zhuyin": [
+                "ㄧㄣ",
+                "ㄌㄡˋ",
+                "ㄐㄧㄡˋ",
+                "ㄐㄧㄢˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "沿用简陋的条件而不加改进。",
+                "citations": [
+                    {
+                        "text": "岂徒因陋就简，袭制度于汉·唐之余。",
+                        "source": "宋·叶适《贺龚参政》"
+                    },
+                    {
+                        "text": "深戒守臣，因陋就简，勿事壮丽。",
+                        "source": "宋·李纲《议巡幸》"
+                    }
+                ]
+            },
+            {
+                "definition": "利用现有简陋条件节约办事。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "岂徒因陋就简，袭制度于汉·唐之余。",
+                "source": "宋·叶适《贺龚参政》"
+            },
+            {
+                "text": "深戒守臣，因陋就简，勿事壮丽。",
+                "source": "宋·李纲《议巡幸》"
+            }
+        ],
+        "synonyms": [
+            "滥竽充数",
+            "马马虎虎",
+            "敷衍了事"
+        ],
+        "antonyms": [
+            "富丽堂皇",
+            "铺张浪费",
+            "繁文缛节",
+            "精益求精"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "follow the simple and crude"
+    },
+    "blocks": {
+        "reading": "yīn lòu jiù jiǎn",
+        "sense-1": "沿用简陋的条件而不加改进。",
+        "sense-2": "利用现有简陋条件节约办事。",
+        "citation-1": "岂徒因陋就简，袭制度于汉·唐之余。 — 宋·叶适《贺龚参政》",
+        "citation-2": "深戒守臣，因陋就简，勿事壮丽。 — 宋·李纲《议巡幸》",
+        "synonyms": "滥竽充数、马马虎虎、敷衍了事",
+        "antonyms": "富丽堂皇、铺张浪费、繁文缛节、精益求精"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "word": "海市蜃楼",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%B5%B7%E5%B8%82%E8%9C%83%E6%A5%BC",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "e75b6af0555279ad7f2800c2269683fa96cbdad8d3b102451d63d626603722e1",
+        "bytes": 28519
+    },
+    "parsed": {
+        "found": true,
+        "word": "海市蜃楼",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "hǎi",
+                "shì",
+                "shèn",
+                "lóu"
+            ],
+            "zhuyin": [
+                "ㄏㄞˇ",
+                "ㄕˋ",
+                "ㄕㄣˋ",
+                "ㄌㄡˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "光线通过不同密度空气层时发生折射，将远处景物显现于空中或地面的奇异幻景，多见于海上或沙漠地区。",
+                "citations": [
+                    {
+                        "text": "姐儿房中绣枕头……绣的是海市蜃楼。",
+                        "source": "《白雪遗音•剪靛花•九座楼》"
+                    },
+                    {
+                        "text": "此海市蜃楼比耳，岂长久耶？",
+                        "source": "李湛"
+                    }
+                ]
+            },
+            {
+                "definition": "比喻虚幻不实的事物。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "姐儿房中绣枕头……绣的是海市蜃楼。",
+                "source": "《白雪遗音•剪靛花•九座楼》"
+            },
+            {
+                "text": "此海市蜃楼比耳，岂长久耶？",
+                "source": "李湛"
+            }
+        ],
+        "synonyms": [
+            "子虚乌有",
+            "虚无飘渺",
+            "空中楼阁",
+            "镜花水月",
+            "虚无缥缈"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "mirage"
+    },
+    "blocks": {
+        "reading": "hǎi shì shèn lóu",
+        "sense-1": "光线通过不同密度空气层时发生折射，将远处景物显现于空中或地面的奇异幻景，多见于海上或沙漠地区。",
+        "sense-2": "比喻虚幻不实的事物。",
+        "citation-1": "姐儿房中绣枕头……绣的是海市蜃楼。 — 《白雪遗音•剪靛花•九座楼》",
+        "citation-2": "此海市蜃楼比耳，岂长久耶？ — 李湛",
+        "synonyms": "子虚乌有、虚无飘渺、空中楼阁、镜花水月、虚无缥缈"
+    }
+}

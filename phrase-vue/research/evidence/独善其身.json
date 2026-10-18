@@ -1,0 +1,73 @@
+{
+    "word": "独善其身",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%8B%AC%E5%96%84%E5%85%B6%E8%BA%AB",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "6dc86466f813a0a499cfd3c1d2d4bbf7c836291afa1f51d2224271ebf4babff0",
+        "bytes": 25336
+    },
+    "parsed": {
+        "found": true,
+        "word": "独善其身",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "dú",
+                "shàn",
+                "qí",
+                "shēn"
+            ],
+            "zhuyin": [
+                "ㄉㄨˊ",
+                "ㄕㄢˋ",
+                "ㄑㄧˊ",
+                "ㄕㄣ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "注重自身修养，保持个人节操。",
+                "citations": [
+                    {
+                        "text": "穷则独善其身，达则兼善天下。",
+                        "source": "《孟子·尽心上》"
+                    },
+                    {
+                        "text": "翻名位俱重，当时贤达咸推与之。然独善其身，无所奖拔，排抑后进，论者鄙之。",
+                        "source": "《北史·袁翻传》"
+                    }
+                ]
+            },
+            {
+                "definition": "只顾保全自己，不关心外界事务。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "穷则独善其身，达则兼善天下。",
+                "source": "《孟子·尽心上》"
+            },
+            {
+                "text": "翻名位俱重，当时贤达咸推与之。然独善其身，无所奖拔，排抑后进，论者鄙之。",
+                "source": "《北史·袁翻传》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "self-cultivation"
+    },
+    "blocks": {
+        "reading": "dú shàn qí shēn",
+        "sense-1": "注重自身修养，保持个人节操。",
+        "sense-2": "只顾保全自己，不关心外界事务。",
+        "citation-1": "穷则独善其身，达则兼善天下。 — 《孟子·尽心上》",
+        "citation-2": "翻名位俱重，当时贤达咸推与之。然独善其身，无所奖拔，排抑后进，论者鄙之。 — 《北史·袁翻传》"
+    }
+}

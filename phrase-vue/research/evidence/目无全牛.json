@@ -1,0 +1,59 @@
+{
+    "word": "目无全牛",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%9B%AE%E6%97%A0%E5%85%A8%E7%89%9B",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "3a5712626502748326e2c314637c0c714baa84dd5e7eaa3b7f04be81c9a2f66c",
+        "bytes": 25899
+    },
+    "parsed": {
+        "found": true,
+        "word": "目无全牛",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "mù",
+                "wú",
+                "quán",
+                "niú"
+            ],
+            "zhuyin": [
+                "ㄇㄨˋ",
+                "ㄨˊ",
+                "ㄑㄨㄢˊ",
+                "ㄋㄧㄨˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容技艺纯熟高超，能洞察事物精微。",
+                "citations": [
+                    {
+                        "text": "操利柄而目无全牛，执其吭如刍豢悦口。",
+                        "source": "唐·杨承和《梁守谦功德铭》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "操利柄而目无全牛，执其吭如刍豢悦口。",
+                "source": "唐·杨承和《梁守谦功德铭》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "extremely skilled"
+    },
+    "blocks": {
+        "reading": "mù wú quán niú",
+        "sense-1": "形容技艺纯熟高超，能洞察事物精微。",
+        "citation-1": "操利柄而目无全牛，执其吭如刍豢悦口。 — 唐·杨承和《梁守谦功德铭》"
+    }
+}

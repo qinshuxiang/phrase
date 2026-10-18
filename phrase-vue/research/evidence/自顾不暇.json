@@ -1,0 +1,70 @@
+{
+    "word": "自顾不暇",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%87%AA%E9%A1%BE%E4%B8%8D%E6%9A%87",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "6fa12f224558879ad53c0f1398acfbe6598f2154143c7f01934b8d8d4f9e78a0",
+        "bytes": 26959
+    },
+    "parsed": {
+        "found": true,
+        "word": "自顾不暇",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zì",
+                "gù",
+                "bù",
+                "xiá"
+            ],
+            "zhuyin": [
+                "ㄗˋ",
+                "ㄍㄨˋ",
+                "ㄅㄨˋ",
+                "ㄒㄧㄚˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "自己都照顾不过来。多指无力帮助他人。",
+                "citations": [
+                    {
+                        "text": "主势孤危，自顾不暇，纵尔问鼎称雄，谁敢兴师鞠旅？",
+                        "source": "明·吾丘瑞《运甓记·陈敏造逆》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "主势孤危，自顾不暇，纵尔问鼎称雄，谁敢兴师鞠旅？",
+                "source": "明·吾丘瑞《运甓记·陈敏造逆》"
+            }
+        ],
+        "synonyms": [
+            "自身难保",
+            "明哲保身",
+            "无力自顾"
+        ],
+        "antonyms": [
+            "助人为乐",
+            "慷慨解囊",
+            "救死扶伤",
+            "舍己救人"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "cannot even fend for oneself"
+    },
+    "blocks": {
+        "reading": "zì gù bù xiá",
+        "sense-1": "自己都照顾不过来。多指无力帮助他人。",
+        "citation-1": "主势孤危，自顾不暇，纵尔问鼎称雄，谁敢兴师鞠旅？ — 明·吾丘瑞《运甓记·陈敏造逆》",
+        "synonyms": "自身难保、明哲保身、无力自顾",
+        "antonyms": "助人为乐、慷慨解囊、救死扶伤、舍己救人"
+    }
+}

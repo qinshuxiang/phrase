@@ -1,0 +1,13 @@
+
+> phrase-vue@1.0.0 test
+> vitest run
+
+
+ RUN  v5.0.5 /Users/siluhao/Downloads/ChatGPT/phrase/phrase-vue
+
+
+ Test Files  1 passed (1)
+      Tests  12 passed (12)
+   Start at  18:53:15
+   Duration  1.39s (environment 85%, import 9%, transform 3%, tests 3%, worker 1%)
+

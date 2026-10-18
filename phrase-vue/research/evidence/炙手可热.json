@@ -1,0 +1,68 @@
+{
+    "word": "炙手可热",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%82%99%E6%89%8B%E5%8F%AF%E7%83%AD",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "48b598516fed44dc7af7a014a6ae67f72966d8fe5056de17371aa1af9a11d524",
+        "bytes": 26156
+    },
+    "parsed": {
+        "found": true,
+        "word": "炙手可热",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zhì",
+                "shǒu",
+                "kě",
+                "rè"
+            ],
+            "zhuyin": [
+                "ㄓˋ",
+                "ㄕㄡˇ",
+                "ㄎㄜˇ",
+                "ㄖㄜˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "手一靠近就感到灼热。比喻权势极盛，气焰嚣张。",
+                "citations": [
+                    {
+                        "text": "炙手可热势绝伦，慎莫近前丞相嗔。",
+                        "source": "唐·杜甫《丽人行》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "炙手可热势绝伦，慎莫近前丞相嗔。",
+                "source": "唐·杜甫《丽人行》"
+            }
+        ],
+        "synonyms": [
+            "烜赫一时",
+            "望而生畏",
+            "敬而远之"
+        ],
+        "antonyms": [
+            "平易近人",
+            "和蔼可亲"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "extremely powerful"
+    },
+    "blocks": {
+        "reading": "zhì shǒu kě rè",
+        "sense-1": "手一靠近就感到灼热。比喻权势极盛，气焰嚣张。",
+        "citation-1": "炙手可热势绝伦，慎莫近前丞相嗔。 — 唐·杜甫《丽人行》",
+        "synonyms": "烜赫一时、望而生畏、敬而远之",
+        "antonyms": "平易近人、和蔼可亲"
+    }
+}

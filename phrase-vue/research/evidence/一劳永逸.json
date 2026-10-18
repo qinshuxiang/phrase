@@ -1,0 +1,82 @@
+{
+    "word": "一劳永逸",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "537c5c2527ab1a9dca252800e77171ce72c657ba750376d0efd789c900004aa8",
+        "bytes": 27385
+    },
+    "parsed": {
+        "found": true,
+        "word": "一劳永逸",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yī",
+                "láo",
+                "yǒng",
+                "yì"
+            ],
+            "zhuyin": [
+                "ㄧ",
+                "ㄌㄠˊ",
+                "ㄩㄥˇ",
+                "ㄧˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "辛苦一次就能获得长久的安逸。",
+                "citations": [
+                    {
+                        "text": "兹可谓一劳而久逸，暂费而永宁者也。",
+                        "source": "汉·班固《封燕然山铭》"
+                    },
+                    {
+                        "text": "此物长生，种者一劳永逸。",
+                        "source": "北魏·贾思勰《齐民要术·种苜蓿》"
+                    }
+                ]
+            },
+            {
+                "definition": "付出短期努力换取长期效益。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "兹可谓一劳而久逸，暂费而永宁者也。",
+                "source": "汉·班固《封燕然山铭》"
+            },
+            {
+                "text": "此物长生，种者一劳永逸。",
+                "source": "北魏·贾思勰《齐民要术·种苜蓿》"
+            }
+        ],
+        "synonyms": [
+            "一了百了",
+            "一了百当"
+        ],
+        "antonyms": [
+            "劳而无功",
+            "徒劳无功",
+            "事倍功半"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "permanent solution"
+    },
+    "blocks": {
+        "reading": "yī láo yǒng yì",
+        "sense-1": "辛苦一次就能获得长久的安逸。",
+        "sense-2": "付出短期努力换取长期效益。",
+        "citation-1": "兹可谓一劳而久逸，暂费而永宁者也。 — 汉·班固《封燕然山铭》",
+        "citation-2": "此物长生，种者一劳永逸。 — 北魏·贾思勰《齐民要术·种苜蓿》",
+        "synonyms": "一了百了、一了百当",
+        "antonyms": "劳而无功、徒劳无功、事倍功半"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "word": "举世无双",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%BE%E4%B8%96%E6%97%A0%E5%8F%8C",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "bf3c5f333e520e886b870cc6ab7ea952c75e0150ce7b235840958ee1359a36aa",
+        "bytes": 26997
+    },
+    "parsed": {
+        "found": true,
+        "word": "举世无双",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jǔ",
+                "shì",
+                "wú",
+                "shuāng"
+            ],
+            "zhuyin": [
+                "ㄐㄩˇ",
+                "ㄕˋ",
+                "ㄨˊ",
+                "ㄕㄨㄤ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "全世界找不到第二个。形容非常稀有，极其难得。",
+                "citations": [
+                    {
+                        "text": "历年既久何曾老，举世无双莫漫夸。",
+                        "source": "明·黄瑜《双槐岁钞·三丰遯老》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "历年既久何曾老，举世无双莫漫夸。",
+                "source": "明·黄瑜《双槐岁钞·三丰遯老》"
+            }
+        ],
+        "synonyms": [
+            "盖世无敌",
+            "独一无二",
+            "并世无双"
+        ],
+        "antonyms": [
+            "无独有偶"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "unparalleled in the world"
+    },
+    "blocks": {
+        "reading": "jǔ shì wú shuāng",
+        "sense-1": "全世界找不到第二个。形容非常稀有，极其难得。",
+        "citation-1": "历年既久何曾老，举世无双莫漫夸。 — 明·黄瑜《双槐岁钞·三丰遯老》",
+        "synonyms": "盖世无敌、独一无二、并世无双",
+        "antonyms": "无独有偶"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "word": "良莠不齐",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%89%AF%E8%8E%A0%E4%B8%8D%E9%BD%90",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "8738141aa8f94aa924dc9118566311e72820719ed1f9043fb646ea9bf89cd521",
+        "bytes": 26459
+    },
+    "parsed": {
+        "found": true,
+        "word": "良莠不齐",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "liáng",
+                "yǒu",
+                "bù",
+                "qí"
+            ],
+            "zhuyin": [
+                "ㄌㄧㄤˊ",
+                "ㄧㄡˇ",
+                "ㄅㄨˋ",
+                "ㄑㄧˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "指好人坏人混杂在一起，品质不一。莠，狗尾草，比喻品质恶劣的人。",
+                "citations": [
+                    {
+                        "text": "此时臣国西宫之患虽除，无如族人甚众，良莠不齐，每每心怀异志，祸起萧墙。",
+                        "source": "清·李汝珍《镜花缘》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "此时臣国西宫之患虽除，无如族人甚众，良莠不齐，每每心怀异志，祸起萧墙。",
+                "source": "清·李汝珍《镜花缘》"
+            }
+        ],
+        "synonyms": [
+            "混淆视听",
+            "混淆是非"
+        ],
+        "antonyms": [
+            "泾渭分明"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "good and bad mixed together"
+    },
+    "blocks": {
+        "reading": "liáng yǒu bù qí",
+        "sense-1": "指好人坏人混杂在一起，品质不一。莠，狗尾草，比喻品质恶劣的人。",
+        "citation-1": "此时臣国西宫之患虽除，无如族人甚众，良莠不齐，每每心怀异志，祸起萧墙。 — 清·李汝珍《镜花缘》",
+        "synonyms": "混淆视听、混淆是非",
+        "antonyms": "泾渭分明"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "word": "抽丝剥茧",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%8A%BD%E4%B8%9D%E5%89%A5%E8%8C%A7",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "7e63b983b7c746c7f462744db7cd136d2af7e71e5c2b17f63095115bc2d07d1e",
+        "bytes": 22705
+    },
+    "parsed": {
+        "found": true,
+        "word": "抽丝剥茧",
+        "section": "idiom",
+        "readings": {
+            "pinyin": [
+                "chōu",
+                "sī",
+                "bō",
+                "jiǎn"
+            ],
+            "zhuyin": [
+                "ㄔㄡ",
+                "ㄙ",
+                "ㄅㄛ",
+                "ㄐㄧㄢˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "丝得一根一根地抽，茧得一层一层地剥。形容分析事物极为细致，而且一步一步很有层次。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": ""
+    },
+    "blocks": {
+        "reading": "chōu sī bō jiǎn",
+        "sense-1": "丝得一根一根地抽，茧得一层一层地剥。形容分析事物极为细致，而且一步一步很有层次。"
+    }
+}

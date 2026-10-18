@@ -1,0 +1,64 @@
+{
+    "word": "废寝忘食",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%BA%9F%E5%AF%9D%E5%BF%98%E9%A3%9F",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "c7e749b57a9cf214bef2284fd7a08da4d765f9ba258afb35cd058a217fc1e2b7",
+        "bytes": 26566
+    },
+    "parsed": {
+        "found": true,
+        "word": "废寝忘食",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "fèi",
+                "qǐn",
+                "wàng",
+                "shí"
+            ],
+            "zhuyin": [
+                "ㄈㄟˋ",
+                "ㄑㄧㄣˇ",
+                "ㄨㄤˋ",
+                "ㄕˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "顾不得睡觉，忘记吃饭。形容专心致志。",
+                "citations": [
+                    {
+                        "text": "元帝在江·荆间，复所爱习，召置学生，亲为教授，废寝忘食，以夜继朝。",
+                        "source": "北齐·颜之推《颜氏家训·勉学》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "元帝在江·荆间，复所爱习，召置学生，亲为教授，废寝忘食，以夜继朝。",
+                "source": "北齐·颜之推《颜氏家训·勉学》"
+            }
+        ],
+        "synonyms": [
+            "兢兢业业",
+            "夜以继日",
+            "发愤忘食"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "forget food and sleep"
+    },
+    "blocks": {
+        "reading": "fèi qǐn wàng shí",
+        "sense-1": "顾不得睡觉，忘记吃饭。形容专心致志。",
+        "citation-1": "元帝在江·荆间，复所爱习，召置学生，亲为教授，废寝忘食，以夜继朝。 — 北齐·颜之推《颜氏家训·勉学》",
+        "synonyms": "兢兢业业、夜以继日、发愤忘食"
+    }
+}

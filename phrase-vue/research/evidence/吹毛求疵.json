@@ -1,0 +1,80 @@
+{
+    "word": "吹毛求疵",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%90%B9%E6%AF%9B%E6%B1%82%E7%96%B5",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "ac617663fadfb154fbd4e77096421454da302e7f4a873628df6c1adf12495645",
+        "bytes": 29772
+    },
+    "parsed": {
+        "found": true,
+        "word": "吹毛求疵",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "chuī",
+                "máo",
+                "qiú",
+                "cī"
+            ],
+            "zhuyin": [
+                "ㄔㄨㄟ",
+                "ㄇㄠˊ",
+                "ㄑㄧㄡˊ",
+                "ㄘ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "有意抓住人的小过失",
+                "citations": [
+                    {
+                        "text": "有司吹毛求疵,笞服其臣,使证其君。",
+                        "source": "《汉书》"
+                    },
+                    {
+                        "text": "一心只想参了他的功名,却寻不出他的短处来,便要吹毛求疵,也无处可求。",
+                        "source": "《二刻拍案惊奇》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "有司吹毛求疵,笞服其臣,使证其君。",
+                "source": "《汉书》"
+            },
+            {
+                "text": "一心只想参了他的功名,却寻不出他的短处来,便要吹毛求疵,也无处可求。",
+                "source": "《二刻拍案惊奇》"
+            }
+        ],
+        "synonyms": [
+            "洗垢求瘢",
+            "无中生有",
+            "寻瑕索瘢",
+            "有意挑剔"
+        ],
+        "antonyms": [
+            "宽大为怀",
+            "宽宏大量",
+            "通情达理",
+            "隐恶扬善"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "nitpick;find fault"
+    },
+    "blocks": {
+        "reading": "chuī máo qiú cī",
+        "sense-1": "有意抓住人的小过失",
+        "citation-1": "有司吹毛求疵,笞服其臣,使证其君。 — 《汉书》",
+        "citation-2": "一心只想参了他的功名,却寻不出他的短处来,便要吹毛求疵,也无处可求。 — 《二刻拍案惊奇》",
+        "synonyms": "洗垢求瘢、无中生有、寻瑕索瘢、有意挑剔",
+        "antonyms": "宽大为怀、宽宏大量、通情达理、隐恶扬善"
+    }
+}

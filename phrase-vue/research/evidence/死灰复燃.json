@@ -1,0 +1,67 @@
+{
+    "word": "死灰复燃",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%AD%BB%E7%81%B0%E5%A4%8D%E7%87%83",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "484c134a343a6a3f9d4631a1cf47e18b697de3a39e393644068ed45aa0e723fa",
+        "bytes": 26856
+    },
+    "parsed": {
+        "found": true,
+        "word": "死灰复燃",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "sǐ",
+                "huī",
+                "fù",
+                "rán"
+            ],
+            "zhuyin": [
+                "ㄙˇ",
+                "ㄏㄨㄟ",
+                "ㄈㄨˋ",
+                "ㄖㄢˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "已经熄灭的灰烬又重新燃烧起来，比喻已经消失的事物又重新活动起来。",
+                "citations": [
+                    {
+                        "text": "死灰独不复然乎？",
+                        "source": "汉·司马迁《史记·韩长孺列传》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "死灰独不复然乎？",
+                "source": "汉·司马迁《史记·韩长孺列传》"
+            }
+        ],
+        "synonyms": [
+            "东山再起",
+            "卷土重来"
+        ],
+        "antonyms": [
+            "付之一炬",
+            "石沉大海"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "dying embers flare up again"
+    },
+    "blocks": {
+        "reading": "sǐ huī fù rán",
+        "sense-1": "已经熄灭的灰烬又重新燃烧起来，比喻已经消失的事物又重新活动起来。",
+        "citation-1": "死灰独不复然乎？ — 汉·司马迁《史记·韩长孺列传》",
+        "synonyms": "东山再起、卷土重来",
+        "antonyms": "付之一炬、石沉大海"
+    }
+}

@@ -1,0 +1,1228 @@
+{
+  "text": "评论是什么?是需要资金，需要钱，这都在说钱的事。来接着说这意味着咋了呀?实现经济是会发展全面。律测转型走生态优先。律测怎么样发展之路道路。金融业应当来。是不是后对策?那金融业你猜人家为啥叫金融业呢?金融和什么相关呀?比如说把钱封在银行里银行可能也是金融业的一个方面对吧金融他干嘛你有钱呀那我现在缺钱你是不是可以发挥一下作用呀那发挥什么作用给我钱的这样的作用呀来解决我这样的问题所以金融业可以来帮我一下吧来解决我的问题吧解决我缺钱的问题对很好来看一下A方向标什么意思指引这样的方向指明这样的方向不对不是方向来B助推器是不是给我一个力量助推一下我帮助一下我所以B没问题我缺钱来给我钱你是我的助推器可以来C压仓使它是啥意思它是稳定的关键的最核心的部分文端有说你是最核心的部分吗他没有说你是稳定它的关键的部分文端是说啥我要解决问题所以你这个C其实不能选不是说我现在不稳你来稳一下这是一个压仓使现在有问题你得给我解决他有体现解决问题4D指挥棒指也不对吧没有说我给你一个指引给你一个调控所以D也排除最终选到RB选项对他缺钱金融业给他钱那不就是助推他了吗来行来就是我们的24期接着看一下25期请不吝点赞 订阅 转发 打赏支持明镜与点点栏目来三二一停止答题来这要题是不是有点形象比喻性的对应啊这个比喻形象化的对应啊有同学说哎不是AB更好吗其实C也行啊如果你没看出来C好的话那说明还是有一些积累不到位哈来我们来看一下左键第一孔第一孔其实就可以选为什么你看一下你仔细再读一下哈他说作为城市经济开放度便利度活跃度的一个什么业经济高质量发展不仅能满足这个还能促进这个那第一句话前面这啥意思呀活跃度便利度开放度是不是你能够反映你能够体现我的一个开放度我的一个便利度我的一个活跃度我到底是活不活跃的呀我是活跃度是十呢还是一百呀你得反映出来你得体现出来吧这是第一孔其实就可以秒了是不是对它要反映出来你是怎么反映的而且你看它是一个度那怎么体现这个度呢这个度是多高是多大多小呢你得反映你得体现出来所以很好你要体现这样的数值体现这样的度体现这样的好坏的情况那来看一下选项风向标风向标啥意思呢发展的趋势方向你指引一下指示一下这是指引给你指明方向吗比如说往东走往西走往南走这不是呀所以AR不能选来看B指南针也是在给你指方向吧文端不是说在给你指方向是你得反映它的一个程度我是怎么样一个程度呀我是便利的还是不便利我是活跃的还是不活跃我是开放的还是不开放的所以B也不对来晴雨表怎么好了今天是晴天呢还是雨天呀我得反映一下这个是开放呢还是不开放呀我得反映一下所以C非常好来4D里程碑什么意思这是一个里程碑的里程碑式的大事件里程碑式的突破或者说五四运动是我国近代文化运动的里程碑里程碑事件它是一个有这样的标志性的这样的事件那文端是说我是一个标志性的吗阶段性的吗不是来这个D不对来A风向标再讲一下你再翻看一下刚刚风向标什么意思风向标是指名指引指示的意思比如说风往哪边走你记一下我们那个例子说今年的这个工作会议是来年经济发展的一个风向标它是指明方向的AB都是指明方向不对",
+  "segments": [
+    {
+      "text": "评论是什么?是需要资金，需要钱，这都在说钱的事。来接着说这意味着咋了呀?实现经济是会发展全面。律测转型走生态优先。律测怎么样发展之路道路。金融业应当来。是不是后对策?那金融业你猜人家为啥叫金融业呢?金融和什么相关呀?",
+      "start": 0.0,
+      "end": 28.3,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3003,
+      "compression_ratio": 1.2922
+    },
+    {
+      "text": "比如说把钱封在银行里",
+      "start": 28.3,
+      "end": 30.76,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1013,
+      "compression_ratio": 1.6287
+    },
+    {
+      "text": "银行可能也是金融业的一个方面",
+      "start": 30.76,
+      "end": 32.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1013,
+      "compression_ratio": 1.6287
+    },
+    {
+      "text": "对吧",
+      "start": 32.72,
+      "end": 33.24,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1013,
+      "compression_ratio": 1.6287
+    },
+    {
+      "text": "金融他干嘛",
+      "start": 33.24,
+      "end": 34.34,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1013,
+      "compression_ratio": 1.6287
+    },
+    {
+      "text": "你有钱呀",
+      "start": 34.34,
+      "end": 35.44,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1013,
+      "compression_ratio": 1.6287
+    },
+    {
+      "text": "那我现在缺钱",
+      "start": 35.44,
+      "end": 36.44,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1013,
+      "compression_ratio": 1.6287
+    },
+    {
+      "text": "你是不是可以发挥一下作用呀",
+      "start": 36.44,
+      "end": 37.92,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1013,
+      "compression_ratio": 1.6287
+    },
+    {
+      "text": "那发挥什么作用",
+      "start": 37.92,
+      "end": 38.92,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1013,
+      "compression_ratio": 1.6287
+    },
+    {
+      "text": "给我钱的这样的作用呀",
+      "start": 38.92,
+      "end": 40.1,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1013,
+      "compression_ratio": 1.6287
+    },
+    {
+      "text": "来解决我这样的问题",
+      "start": 40.1,
+      "end": 41.52,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1013,
+      "compression_ratio": 1.6287
+    },
+    {
+      "text": "所以金融业可以来帮我一下吧",
+      "start": 41.52,
+      "end": 45.08,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1013,
+      "compression_ratio": 1.6287
+    },
+    {
+      "text": "来解决我的问题吧",
+      "start": 45.08,
+      "end": 46.620000000000005,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1013,
+      "compression_ratio": 1.6287
+    },
+    {
+      "text": "解决我缺钱的问题",
+      "start": 46.620000000000005,
+      "end": 48.14,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1013,
+      "compression_ratio": 1.6287
+    },
+    {
+      "text": "对很好",
+      "start": 48.14,
+      "end": 48.78,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1013,
+      "compression_ratio": 1.6287
+    },
+    {
+      "text": "来看一下A",
+      "start": 48.78,
+      "end": 49.980000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1013,
+      "compression_ratio": 1.6287
+    },
+    {
+      "text": "方向标什么意思",
+      "start": 49.980000000000004,
+      "end": 51.22,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1013,
+      "compression_ratio": 1.6287
+    },
+    {
+      "text": "指引这样的方向",
+      "start": 51.22,
+      "end": 53.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1013,
+      "compression_ratio": 1.6287
+    },
+    {
+      "text": "指明这样的方向",
+      "start": 53.06,
+      "end": 54.28,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1013,
+      "compression_ratio": 1.6287
+    },
+    {
+      "text": "不对",
+      "start": 54.28,
+      "end": 54.92,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1013,
+      "compression_ratio": 1.6287
+    },
+    {
+      "text": "不是方向",
+      "start": 54.92,
+      "end": 56.18,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1013,
+      "compression_ratio": 1.6287
+    },
+    {
+      "text": "来B助推器",
+      "start": 56.18,
+      "end": 57.68,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1013,
+      "compression_ratio": 1.6287
+    },
+    {
+      "text": "是不是给我一个力量",
+      "start": 57.68,
+      "end": 59.26,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1248,
+      "compression_ratio": 1.5647
+    },
+    {
+      "text": "助推一下",
+      "start": 59.26,
+      "end": 60.08,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1248,
+      "compression_ratio": 1.5647
+    },
+    {
+      "text": "我帮助一下我",
+      "start": 60.08,
+      "end": 61.46,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1248,
+      "compression_ratio": 1.5647
+    },
+    {
+      "text": "所以B没问题",
+      "start": 61.46,
+      "end": 62.58,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1248,
+      "compression_ratio": 1.5647
+    },
+    {
+      "text": "我缺钱来给我钱",
+      "start": 62.58,
+      "end": 63.9,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1248,
+      "compression_ratio": 1.5647
+    },
+    {
+      "text": "你是我的助推器",
+      "start": 63.9,
+      "end": 65.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1248,
+      "compression_ratio": 1.5647
+    },
+    {
+      "text": "可以",
+      "start": 65.06,
+      "end": 66.18,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1248,
+      "compression_ratio": 1.5647
+    },
+    {
+      "text": "来C压仓使",
+      "start": 66.18,
+      "end": 67.92,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1248,
+      "compression_ratio": 1.5647
+    },
+    {
+      "text": "它是啥意思",
+      "start": 67.92,
+      "end": 68.48,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1248,
+      "compression_ratio": 1.5647
+    },
+    {
+      "text": "它是稳定的",
+      "start": 68.48,
+      "end": 71.2,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1248,
+      "compression_ratio": 1.5647
+    },
+    {
+      "text": "关键的最核心的部分",
+      "start": 71.2,
+      "end": 73.26,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1248,
+      "compression_ratio": 1.5647
+    },
+    {
+      "text": "文端有说你是最核心的部分吗",
+      "start": 73.26,
+      "end": 76.34,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1248,
+      "compression_ratio": 1.5647
+    },
+    {
+      "text": "他没有说你是稳定",
+      "start": 76.34,
+      "end": 77.98,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1248,
+      "compression_ratio": 1.5647
+    },
+    {
+      "text": "它的关键的部分",
+      "start": 77.98,
+      "end": 78.82,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1248,
+      "compression_ratio": 1.5647
+    },
+    {
+      "text": "文端是说啥",
+      "start": 78.82,
+      "end": 80.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1248,
+      "compression_ratio": 1.5647
+    },
+    {
+      "text": "我要解决问题",
+      "start": 80.0,
+      "end": 81.6,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1248,
+      "compression_ratio": 1.5647
+    },
+    {
+      "text": "所以你这个C其实不能选",
+      "start": 81.6,
+      "end": 83.6,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1248,
+      "compression_ratio": 1.5647
+    },
+    {
+      "text": "不是说我现在不稳",
+      "start": 83.6,
+      "end": 84.8,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1248,
+      "compression_ratio": 1.5647
+    },
+    {
+      "text": "你来稳一下",
+      "start": 84.8,
+      "end": 85.62,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1248,
+      "compression_ratio": 1.5647
+    },
+    {
+      "text": "这是一个压仓使",
+      "start": 85.62,
+      "end": 87.03999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1248,
+      "compression_ratio": 1.5647
+    },
+    {
+      "text": "现在有问题你得给我解决",
+      "start": 87.04,
+      "end": 89.30000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.163,
+      "compression_ratio": 1.2242
+    },
+    {
+      "text": "他有体现解决问题",
+      "start": 89.30000000000001,
+      "end": 90.80000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.163,
+      "compression_ratio": 1.2242
+    },
+    {
+      "text": "4D指挥棒指也不对吧",
+      "start": 90.80000000000001,
+      "end": 92.78,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.163,
+      "compression_ratio": 1.2242
+    },
+    {
+      "text": "没有说我给你一个指引",
+      "start": 92.78,
+      "end": 94.36000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.163,
+      "compression_ratio": 1.2242
+    },
+    {
+      "text": "给你一个调控",
+      "start": 94.36000000000001,
+      "end": 95.14,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.163,
+      "compression_ratio": 1.2242
+    },
+    {
+      "text": "所以D也排除",
+      "start": 95.14,
+      "end": 96.38000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.163,
+      "compression_ratio": 1.2242
+    },
+    {
+      "text": "最终选到RB选项",
+      "start": 96.38000000000001,
+      "end": 98.38000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.163,
+      "compression_ratio": 1.2242
+    },
+    {
+      "text": "对他缺钱金融业给他钱",
+      "start": 98.38000000000001,
+      "end": 101.74000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.163,
+      "compression_ratio": 1.2242
+    },
+    {
+      "text": "那不就是助推他了吗",
+      "start": 101.74000000000001,
+      "end": 103.4,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.163,
+      "compression_ratio": 1.2242
+    },
+    {
+      "text": "来行来就是我们的24期",
+      "start": 103.4,
+      "end": 106.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.163,
+      "compression_ratio": 1.2242
+    },
+    {
+      "text": "接着看一下25期",
+      "start": 106.06,
+      "end": 108.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.163,
+      "compression_ratio": 1.2242
+    },
+    {
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "start": 117.04,
+      "end": 147.02,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1075,
+      "compression_ratio": 0.8514
+    },
+    {
+      "text": "来三",
+      "start": 147.04,
+      "end": 150.04,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1677,
+      "compression_ratio": 1.371
+    },
+    {
+      "text": "二",
+      "start": 150.04,
+      "end": 151.92,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1677,
+      "compression_ratio": 1.371
+    },
+    {
+      "text": "一",
+      "start": 151.92,
+      "end": 154.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1677,
+      "compression_ratio": 1.371
+    },
+    {
+      "text": "停止答题",
+      "start": 154.0,
+      "end": 156.78,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1677,
+      "compression_ratio": 1.371
+    },
+    {
+      "text": "来这要题是不是有点形象比喻性的对应啊",
+      "start": 156.78,
+      "end": 160.76,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1677,
+      "compression_ratio": 1.371
+    },
+    {
+      "text": "这个比喻形象化的对应啊",
+      "start": 160.76,
+      "end": 161.92,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1677,
+      "compression_ratio": 1.371
+    },
+    {
+      "text": "有同学说哎不是AB更好吗",
+      "start": 161.92,
+      "end": 163.39999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1677,
+      "compression_ratio": 1.371
+    },
+    {
+      "text": "其实C也行啊",
+      "start": 163.39999999999998,
+      "end": 164.79999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1677,
+      "compression_ratio": 1.371
+    },
+    {
+      "text": "如果你没看出来C好的话",
+      "start": 164.79999999999998,
+      "end": 166.48,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1677,
+      "compression_ratio": 1.371
+    },
+    {
+      "text": "那说明还是有一些积累不到位哈",
+      "start": 166.48,
+      "end": 168.42,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1677,
+      "compression_ratio": 1.371
+    },
+    {
+      "text": "来我们来看一下左键第一孔",
+      "start": 168.42,
+      "end": 170.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1677,
+      "compression_ratio": 1.371
+    },
+    {
+      "text": "第一孔其实就可以选",
+      "start": 170.0,
+      "end": 171.51999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1677,
+      "compression_ratio": 1.371
+    },
+    {
+      "text": "为什么你看一下",
+      "start": 171.51999999999998,
+      "end": 173.12,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1677,
+      "compression_ratio": 1.371
+    },
+    {
+      "text": "你仔细再读一下哈",
+      "start": 173.12,
+      "end": 174.51999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1677,
+      "compression_ratio": 1.371
+    },
+    {
+      "text": "他说作为城市经济开放度",
+      "start": 174.52,
+      "end": 178.4,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0969,
+      "compression_ratio": 1.6423
+    },
+    {
+      "text": "便利度活跃度的一个什么",
+      "start": 178.4,
+      "end": 182.32000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0969,
+      "compression_ratio": 1.6423
+    },
+    {
+      "text": "业经济高质量发展",
+      "start": 182.32000000000002,
+      "end": 184.58,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0969,
+      "compression_ratio": 1.6423
+    },
+    {
+      "text": "不仅能满足这个还能促进这个",
+      "start": 184.58,
+      "end": 186.44,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0969,
+      "compression_ratio": 1.6423
+    },
+    {
+      "text": "那第一句话前面这啥意思呀",
+      "start": 186.44,
+      "end": 188.20000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0969,
+      "compression_ratio": 1.6423
+    },
+    {
+      "text": "活跃度便利度开放度",
+      "start": 188.20000000000002,
+      "end": 190.52,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0969,
+      "compression_ratio": 1.6423
+    },
+    {
+      "text": "是不是你能够反映",
+      "start": 190.52,
+      "end": 191.82000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0969,
+      "compression_ratio": 1.6423
+    },
+    {
+      "text": "你能够体现我的一个开放度",
+      "start": 191.82000000000002,
+      "end": 193.52,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0969,
+      "compression_ratio": 1.6423
+    },
+    {
+      "text": "我的一个便利度",
+      "start": 193.52,
+      "end": 194.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0969,
+      "compression_ratio": 1.6423
+    },
+    {
+      "text": "我的一个活跃度",
+      "start": 194.56,
+      "end": 195.22,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0969,
+      "compression_ratio": 1.6423
+    },
+    {
+      "text": "我到底是活不活跃的呀",
+      "start": 195.22,
+      "end": 196.86,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0969,
+      "compression_ratio": 1.6423
+    },
+    {
+      "text": "我是活跃度是十呢",
+      "start": 196.86,
+      "end": 198.46,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0969,
+      "compression_ratio": 1.6423
+    },
+    {
+      "text": "还是一百呀",
+      "start": 198.46,
+      "end": 199.3,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0969,
+      "compression_ratio": 1.6423
+    },
+    {
+      "text": "你得反映出来",
+      "start": 199.3,
+      "end": 200.14000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0969,
+      "compression_ratio": 1.6423
+    },
+    {
+      "text": "你得体现出来吧",
+      "start": 200.14000000000001,
+      "end": 201.12,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0969,
+      "compression_ratio": 1.6423
+    },
+    {
+      "text": "这是第一孔",
+      "start": 201.12,
+      "end": 202.44,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0969,
+      "compression_ratio": 1.6423
+    },
+    {
+      "text": "其实就可以秒了",
+      "start": 202.44,
+      "end": 203.64000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0969,
+      "compression_ratio": 1.6423
+    },
+    {
+      "text": "是不是对",
+      "start": 203.64000000000001,
+      "end": 204.22,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0969,
+      "compression_ratio": 1.6423
+    },
+    {
+      "text": "它要反映出来",
+      "start": 204.22,
+      "end": 205.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1083,
+      "compression_ratio": 1.6051
+    },
+    {
+      "text": "你是怎么反映的",
+      "start": 205.5,
+      "end": 206.46,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1083,
+      "compression_ratio": 1.6051
+    },
+    {
+      "text": "而且你看它是一个度",
+      "start": 206.46,
+      "end": 207.8,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1083,
+      "compression_ratio": 1.6051
+    },
+    {
+      "text": "那怎么体现这个度呢",
+      "start": 207.8,
+      "end": 209.62,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1083,
+      "compression_ratio": 1.6051
+    },
+    {
+      "text": "这个度是多高",
+      "start": 209.62,
+      "end": 210.62,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1083,
+      "compression_ratio": 1.6051
+    },
+    {
+      "text": "是多大",
+      "start": 210.62,
+      "end": 211.16,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1083,
+      "compression_ratio": 1.6051
+    },
+    {
+      "text": "多小呢",
+      "start": 211.16,
+      "end": 211.82,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1083,
+      "compression_ratio": 1.6051
+    },
+    {
+      "text": "你得反映",
+      "start": 211.82,
+      "end": 212.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1083,
+      "compression_ratio": 1.6051
+    },
+    {
+      "text": "你得体现出来",
+      "start": 212.5,
+      "end": 213.34,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1083,
+      "compression_ratio": 1.6051
+    },
+    {
+      "text": "所以很好",
+      "start": 213.34,
+      "end": 214.4,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1083,
+      "compression_ratio": 1.6051
+    },
+    {
+      "text": "你要体现这样的数值",
+      "start": 214.4,
+      "end": 215.98,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1083,
+      "compression_ratio": 1.6051
+    },
+    {
+      "text": "体现这样的度",
+      "start": 215.98,
+      "end": 216.82,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1083,
+      "compression_ratio": 1.6051
+    },
+    {
+      "text": "体现这样的好坏的情况",
+      "start": 216.82,
+      "end": 219.2,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1083,
+      "compression_ratio": 1.6051
+    },
+    {
+      "text": "那来看一下选项",
+      "start": 219.2,
+      "end": 220.42,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1083,
+      "compression_ratio": 1.6051
+    },
+    {
+      "text": "风向标",
+      "start": 220.42,
+      "end": 221.22,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1083,
+      "compression_ratio": 1.6051
+    },
+    {
+      "text": "风向标啥意思呢",
+      "start": 221.22,
+      "end": 223.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1083,
+      "compression_ratio": 1.6051
+    },
+    {
+      "text": "发展的趋势",
+      "start": 223.0,
+      "end": 224.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1083,
+      "compression_ratio": 1.6051
+    },
+    {
+      "text": "方向",
+      "start": 224.32,
+      "end": 225.07999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1083,
+      "compression_ratio": 1.6051
+    },
+    {
+      "text": "你指引一下",
+      "start": 225.07999999999998,
+      "end": 226.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1083,
+      "compression_ratio": 1.6051
+    },
+    {
+      "text": "指示一下",
+      "start": 226.06,
+      "end": 226.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1083,
+      "compression_ratio": 1.6051
+    },
+    {
+      "text": "这是指引",
+      "start": 226.72,
+      "end": 227.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1083,
+      "compression_ratio": 1.6051
+    },
+    {
+      "text": "给你指明方向吗",
+      "start": 227.32,
+      "end": 228.4,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1083,
+      "compression_ratio": 1.6051
+    },
+    {
+      "text": "比如说往东走",
+      "start": 228.4,
+      "end": 229.52,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1083,
+      "compression_ratio": 1.6051
+    },
+    {
+      "text": "往西走",
+      "start": 229.52,
+      "end": 230.24,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1083,
+      "compression_ratio": 1.6051
+    },
+    {
+      "text": "往南走",
+      "start": 230.24,
+      "end": 231.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1083,
+      "compression_ratio": 1.6051
+    },
+    {
+      "text": "这不是呀",
+      "start": 231.0,
+      "end": 231.74,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1083,
+      "compression_ratio": 1.6051
+    },
+    {
+      "text": "所以AR不能选",
+      "start": 231.74,
+      "end": 233.54,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1083,
+      "compression_ratio": 1.6051
+    },
+    {
+      "text": "来看B指南针",
+      "start": 233.54,
+      "end": 235.22,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.091,
+      "compression_ratio": 1.7425
+    },
+    {
+      "text": "也是在给你指方向吧",
+      "start": 235.22,
+      "end": 236.92,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.091,
+      "compression_ratio": 1.7425
+    },
+    {
+      "text": "文端不是说在给你指方向",
+      "start": 236.92,
+      "end": 238.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.091,
+      "compression_ratio": 1.7425
+    },
+    {
+      "text": "是你得反映它的一个程度",
+      "start": 238.84,
+      "end": 240.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.091,
+      "compression_ratio": 1.7425
+    },
+    {
+      "text": "我是怎么样一个程度呀",
+      "start": 240.88,
+      "end": 242.57999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.091,
+      "compression_ratio": 1.7425
+    },
+    {
+      "text": "我是便利的还是不便利",
+      "start": 242.57999999999998,
+      "end": 244.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.091,
+      "compression_ratio": 1.7425
+    },
+    {
+      "text": "我是活跃的还是不活跃",
+      "start": 244.06,
+      "end": 245.45999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.091,
+      "compression_ratio": 1.7425
+    },
+    {
+      "text": "我是开放的还是不开放的",
+      "start": 245.45999999999998,
+      "end": 247.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.091,
+      "compression_ratio": 1.7425
+    },
+    {
+      "text": "所以B也不对",
+      "start": 247.32,
+      "end": 248.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.091,
+      "compression_ratio": 1.7425
+    },
+    {
+      "text": "来晴雨表怎么好了",
+      "start": 248.72,
+      "end": 250.39999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.091,
+      "compression_ratio": 1.7425
+    },
+    {
+      "text": "今天是晴天呢",
+      "start": 250.39999999999998,
+      "end": 251.89999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.091,
+      "compression_ratio": 1.7425
+    },
+    {
+      "text": "还是雨天呀",
+      "start": 251.89999999999998,
+      "end": 252.79999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.091,
+      "compression_ratio": 1.7425
+    },
+    {
+      "text": "我得反映一下",
+      "start": 252.79999999999998,
+      "end": 253.79999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.091,
+      "compression_ratio": 1.7425
+    },
+    {
+      "text": "这个是开放呢",
+      "start": 253.79999999999998,
+      "end": 255.12,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.091,
+      "compression_ratio": 1.7425
+    },
+    {
+      "text": "还是不开放呀",
+      "start": 255.12,
+      "end": 255.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.091,
+      "compression_ratio": 1.7425
+    },
+    {
+      "text": "我得反映一下",
+      "start": 255.88,
+      "end": 256.62,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.091,
+      "compression_ratio": 1.7425
+    },
+    {
+      "text": "所以C非常好",
+      "start": 256.62,
+      "end": 257.74,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.091,
+      "compression_ratio": 1.7425
+    },
+    {
+      "text": "来4D里程碑什么意思",
+      "start": 257.74,
+      "end": 259.53999999999996,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.091,
+      "compression_ratio": 1.7425
+    },
+    {
+      "text": "这是一个里程碑的",
+      "start": 259.53999999999996,
+      "end": 261.7,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.091,
+      "compression_ratio": 1.7425
+    },
+    {
+      "text": "里程碑式的大事件",
+      "start": 261.7,
+      "end": 263.36,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.091,
+      "compression_ratio": 1.7425
+    },
+    {
+      "text": "里程碑式的突破",
+      "start": 263.36,
+      "end": 264.98,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1143,
+      "compression_ratio": 1.4962
+    },
+    {
+      "text": "或者说五四运动",
+      "start": 264.98,
+      "end": 266.42,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1143,
+      "compression_ratio": 1.4962
+    },
+    {
+      "text": "是我国近代文化运动的里程碑",
+      "start": 266.42,
+      "end": 269.2,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1143,
+      "compression_ratio": 1.4962
+    },
+    {
+      "text": "里程碑事件",
+      "start": 269.2,
+      "end": 270.52000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1143,
+      "compression_ratio": 1.4962
+    },
+    {
+      "text": "它是一个有这样的标志性的",
+      "start": 270.52000000000004,
+      "end": 273.26,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1143,
+      "compression_ratio": 1.4962
+    },
+    {
+      "text": "这样的事件",
+      "start": 273.26,
+      "end": 274.22,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1143,
+      "compression_ratio": 1.4962
+    },
+    {
+      "text": "那文端是说我是一个标志性的吗",
+      "start": 274.22,
+      "end": 276.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1143,
+      "compression_ratio": 1.4962
+    },
+    {
+      "text": "阶段性的吗",
+      "start": 276.88,
+      "end": 277.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1143,
+      "compression_ratio": 1.4962
+    },
+    {
+      "text": "不是",
+      "start": 277.88,
+      "end": 278.46000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1143,
+      "compression_ratio": 1.4962
+    },
+    {
+      "text": "来这个D不对",
+      "start": 278.46000000000004,
+      "end": 280.78000000000003,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1143,
+      "compression_ratio": 1.4962
+    },
+    {
+      "text": "来A风向标再讲一下",
+      "start": 280.78000000000003,
+      "end": 282.46000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1143,
+      "compression_ratio": 1.4962
+    },
+    {
+      "text": "你再翻看一下",
+      "start": 282.46000000000004,
+      "end": 283.24,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1143,
+      "compression_ratio": 1.4962
+    },
+    {
+      "text": "刚刚风向标什么意思",
+      "start": 283.24,
+      "end": 284.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1143,
+      "compression_ratio": 1.4962
+    },
+    {
+      "text": "风向标是指名指引指示的意思",
+      "start": 284.5,
+      "end": 289.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1143,
+      "compression_ratio": 1.4962
+    },
+    {
+      "text": "比如说风往哪边走",
+      "start": 289.32,
+      "end": 290.54,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1143,
+      "compression_ratio": 1.4962
+    },
+    {
+      "text": "你记一下我们那个例子",
+      "start": 290.54,
+      "end": 291.82,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1143,
+      "compression_ratio": 1.4962
+    },
+    {
+      "text": "说今年的这个工作会议是来年经济发展的一个风向标",
+      "start": 291.82,
+      "end": 296.2,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0876,
+      "compression_ratio": 1.0943
+    },
+    {
+      "text": "它是指明方向的",
+      "start": 296.2,
+      "end": 297.94,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0876,
+      "compression_ratio": 1.0943
+    },
+    {
+      "text": "AB都是指明方向不对",
+      "start": 297.94,
+      "end": 299.64,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0876,
+      "compression_ratio": 1.0943
+    }
+  ],
+  "repairs": [],
+  "index": 12,
+  "start": 3600.0,
+  "duration": 300,
+  "elapsed": 25.1,
+  "ok": true,
+  "initial_prompt": "四海公考，公务员考试，言语理解与表达，逻辑填空，高频实词，成语辨析，语义侧重，感情色彩，搭配对象，适用语境，易混词，例句。简体中文。课件词条：风向标，指南针，助推器，压舱石，晴雨表，指挥棒。"
+}

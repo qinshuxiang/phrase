@@ -1,0 +1,68 @@
+{
+    "word": "泾渭分明",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%B3%BE%E6%B8%AD%E5%88%86%E6%98%8E",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "94ed95d85083629a0bca8a8c93da864ab96c0d20b6799181dd8d25297b2ff789",
+        "bytes": 27508
+    },
+    "parsed": {
+        "found": true,
+        "word": "泾渭分明",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jīng",
+                "wèi",
+                "fēn",
+                "míng"
+            ],
+            "zhuyin": [
+                "ㄐㄧㄥ",
+                "ㄨㄟˋ",
+                "ㄈㄣ",
+                "ㄇㄧㄥˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "泾水和渭水清浊分界明显。比喻是非好坏界限清楚。",
+                "citations": [
+                    {
+                        "text": "遇物而泾渭自分，立诚而风雨如晦。",
+                        "source": "唐·李德裕《刘公神道碑铭》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "遇物而泾渭自分，立诚而风雨如晦。",
+                "source": "唐·李德裕《刘公神道碑铭》"
+            }
+        ],
+        "synonyms": [
+            "一清二楚",
+            "黑白分明"
+        ],
+        "antonyms": [
+            "不分皂白",
+            "黑白不分",
+            "泾渭不分"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "clearly distinguishable"
+    },
+    "blocks": {
+        "reading": "jīng wèi fēn míng",
+        "sense-1": "泾水和渭水清浊分界明显。比喻是非好坏界限清楚。",
+        "citation-1": "遇物而泾渭自分，立诚而风雨如晦。 — 唐·李德裕《刘公神道碑铭》",
+        "synonyms": "一清二楚、黑白分明",
+        "antonyms": "不分皂白、黑白不分、泾渭不分"
+    }
+}

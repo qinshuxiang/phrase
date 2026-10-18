@@ -1,0 +1,59 @@
+{
+    "word": "别具一格",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%88%AB%E5%85%B7%E4%B8%80%E6%A0%BC",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "f39d10e429db90ed611823f116b3c704455da5f63e3784ff56ba4bf48b2c7531",
+        "bytes": 26782
+    },
+    "parsed": {
+        "found": true,
+        "word": "别具一格",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bié",
+                "jù",
+                "yī",
+                "gé"
+            ],
+            "zhuyin": [
+                "ㄅㄧㄝˊ",
+                "ㄐㄩˋ",
+                "ㄧ",
+                "ㄍㄜˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "具有独特的风格。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "标新立异",
+            "别开生面",
+            "别有风味",
+            "别开生面﹑别具匠心﹑别出机杼﹑别出心裁"
+        ],
+        "antonyms": [
+            "如出一辙",
+            "依样葫芦",
+            "千篇一律"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "unique style"
+    },
+    "blocks": {
+        "reading": "bié jù yī gé",
+        "sense-1": "具有独特的风格。",
+        "synonyms": "标新立异、别开生面、别有风味、别开生面﹑别具匠心﹑别出机杼﹑别出心裁",
+        "antonyms": "如出一辙、依样葫芦、千篇一律"
+    }
+}

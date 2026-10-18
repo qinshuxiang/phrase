@@ -1,0 +1,70 @@
+{
+    "word": "杯水车薪",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%9D%AF%E6%B0%B4%E8%BD%A6%E8%96%AA",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "409a5f12689aeed51560f706d015e2090509eb9a2b01defec466947a0c248ab2",
+        "bytes": 28083
+    },
+    "parsed": {
+        "found": true,
+        "word": "杯水车薪",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bēi",
+                "shuǐ",
+                "chē",
+                "xīn"
+            ],
+            "zhuyin": [
+                "ㄅㄟ",
+                "ㄕㄨㄟˇ",
+                "ㄔㄜ",
+                "ㄒㄧㄣ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "用一杯水去救一车着火的柴草。比喻力量微小，无济于事。",
+                "citations": [
+                    {
+                        "text": "杯水舆薪，势且莫抗。",
+                        "source": "宋·曹辅《唐颜文忠公新庙记》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "杯水舆薪，势且莫抗。",
+                "source": "宋·曹辅《唐颜文忠公新庙记》"
+            }
+        ],
+        "synonyms": [
+            "杯水救薪",
+            "无济于事",
+            "粥少僧多"
+        ],
+        "antonyms": [
+            "力济九区",
+            "绰绰有余",
+            "立杆见影",
+            "集腋成裘"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "useless attempt"
+    },
+    "blocks": {
+        "reading": "bēi shuǐ chē xīn",
+        "sense-1": "用一杯水去救一车着火的柴草。比喻力量微小，无济于事。",
+        "citation-1": "杯水舆薪，势且莫抗。 — 宋·曹辅《唐颜文忠公新庙记》",
+        "synonyms": "杯水救薪、无济于事、粥少僧多",
+        "antonyms": "力济九区、绰绰有余、立杆见影、集腋成裘"
+    }
+}

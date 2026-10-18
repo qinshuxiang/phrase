@@ -1,0 +1,67 @@
+{
+    "word": "举足轻重",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%BE%E8%B6%B3%E8%BD%BB%E9%87%8D",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "f231bd7799671fe49deba211d2b3e59b39a86e3e7887693012864a039bc66747",
+        "bytes": 27048
+    },
+    "parsed": {
+        "found": true,
+        "word": "举足轻重",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jǔ",
+                "zú",
+                "qīng",
+                "zhòng"
+            ],
+            "zhuyin": [
+                "ㄐㄩˇ",
+                "ㄗㄨˊ",
+                "ㄑㄧㄥ",
+                "ㄓㄨㄥˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "所处地位十分重要，一举一动都会影响全局。",
+                "citations": [
+                    {
+                        "text": "权在将军，举足左右，便有轻重。",
+                        "source": "南朝宋·范晔《后汉书·窦融传》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "权在将军，举足左右，便有轻重。",
+                "source": "南朝宋·范晔《后汉书·窦融传》"
+            }
+        ],
+        "synonyms": [
+            "至关重大"
+        ],
+        "antonyms": [
+            "无关大局",
+            "无关紧要",
+            "无足轻重"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "decisive; pivotal"
+    },
+    "blocks": {
+        "reading": "jǔ zú qīng zhòng",
+        "sense-1": "所处地位十分重要，一举一动都会影响全局。",
+        "citation-1": "权在将军，举足左右，便有轻重。 — 南朝宋·范晔《后汉书·窦融传》",
+        "synonyms": "至关重大",
+        "antonyms": "无关大局、无关紧要、无足轻重"
+    }
+}

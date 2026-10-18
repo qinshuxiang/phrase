@@ -1,0 +1,81 @@
+{
+    "word": "缄口不言",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%BC%84%E5%8F%A3%E4%B8%8D%E8%A8%80",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "5c5392addd90fc21988e2483e12a853d5afa380414caee125592b69aa6074315",
+        "bytes": 27617
+    },
+    "parsed": {
+        "found": true,
+        "word": "缄口不言",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jiān",
+                "kǒu",
+                "bù",
+                "yán"
+            ],
+            "zhuyin": [
+                "ㄐㄧㄢ",
+                "ㄎㄡˇ",
+                "ㄅㄨˋ",
+                "ㄧㄢˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "闭口不说话。",
+                "citations": [
+                    {
+                        "text": "商民工匠，见诸官绅，皆缄口不言，恐犯当道之怒，祸生不测云。",
+                        "source": "郑观应《盛世危言•商务》"
+                    },
+                    {
+                        "text": "臣闻明目达聪，从谏弗咈，自古记之。今朝廷虽置言官，多缄口不言者，以尝言者有摈黜之辱也。",
+                        "source": "明•焦竑《玉堂丛语•献替》"
+                    }
+                ]
+            },
+            {
+                "definition": "保持沉默不开口。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "商民工匠，见诸官绅，皆缄口不言，恐犯当道之怒，祸生不测云。",
+                "source": "郑观应《盛世危言•商务》"
+            },
+            {
+                "text": "臣闻明目达聪，从谏弗咈，自古记之。今朝廷虽置言官，多缄口不言者，以尝言者有摈黜之辱也。",
+                "source": "明•焦竑《玉堂丛语•献替》"
+            }
+        ],
+        "synonyms": [
+            "缄口无言",
+            "缄舌闭口",
+            "守口如瓶"
+        ],
+        "antonyms": [
+            "口若悬河"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "keep silent"
+    },
+    "blocks": {
+        "reading": "jiān kǒu bù yán",
+        "sense-1": "闭口不说话。",
+        "sense-2": "保持沉默不开口。",
+        "citation-1": "商民工匠，见诸官绅，皆缄口不言，恐犯当道之怒，祸生不测云。 — 郑观应《盛世危言•商务》",
+        "citation-2": "臣闻明目达聪，从谏弗咈，自古记之。今朝廷虽置言官，多缄口不言者，以尝言者有摈黜之辱也。 — 明•焦竑《玉堂丛语•献替》",
+        "synonyms": "缄口无言、缄舌闭口、守口如瓶",
+        "antonyms": "口若悬河"
+    }
+}

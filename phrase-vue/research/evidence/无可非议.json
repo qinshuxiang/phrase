@@ -1,0 +1,54 @@
+{
+    "word": "无可非议",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%97%A0%E5%8F%AF%E9%9D%9E%E8%AE%AE",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "b62088fad1a51f88f8b415cdeefb98b6eece429c5b4bba49855182a1260b61f0",
+        "bytes": 25707
+    },
+    "parsed": {
+        "found": true,
+        "word": "无可非议",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "wú",
+                "kě",
+                "fēi",
+                "yì"
+            ],
+            "zhuyin": [
+                "ㄨˊ",
+                "ㄎㄜˇ",
+                "ㄈㄟ",
+                "ㄧˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "没有可以指责批评的地方。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "无可厚非"
+        ],
+        "antonyms": [
+            "评头品足"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "blameless"
+    },
+    "blocks": {
+        "reading": "wú kě fēi yì",
+        "sense-1": "没有可以指责批评的地方。",
+        "synonyms": "无可厚非",
+        "antonyms": "评头品足"
+    }
+}

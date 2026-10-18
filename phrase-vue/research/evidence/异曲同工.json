@@ -1,0 +1,64 @@
+{
+    "word": "异曲同工",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%BC%82%E6%9B%B2%E5%90%8C%E5%B7%A5",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "dcf6ec3905281de425c1db46b8ab4ccf037df5c0e4d35fcf8f8e907a93c2a691",
+        "bytes": 27013
+    },
+    "parsed": {
+        "found": true,
+        "word": "异曲同工",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yì",
+                "qǔ",
+                "tóng",
+                "gōng"
+            ],
+            "zhuyin": [
+                "ㄧˋ",
+                "ㄑㄩˇ",
+                "ㄊㄨㄥˊ",
+                "ㄍㄨㄥ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "曲调虽异而演奏技艺同样精湛。比喻不同形式的作品或方法却能达到同样出色的效果。",
+                "citations": [
+                    {
+                        "text": "汉唐短歌，名为绝唱，所谓异曲同工。",
+                        "source": "明·胡应麟《诗薮·古体下》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "汉唐短歌，名为绝唱，所谓异曲同工。",
+                "source": "明·胡应麟《诗薮·古体下》"
+            }
+        ],
+        "synonyms": [
+            "不约而同",
+            "不谋而合",
+            "殊途同归"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "different tunes with equal skill"
+    },
+    "blocks": {
+        "reading": "yì qǔ tóng gōng",
+        "sense-1": "曲调虽异而演奏技艺同样精湛。比喻不同形式的作品或方法却能达到同样出色的效果。",
+        "citation-1": "汉唐短歌，名为绝唱，所谓异曲同工。 — 明·胡应麟《诗薮·古体下》",
+        "synonyms": "不约而同、不谋而合、殊途同归"
+    }
+}

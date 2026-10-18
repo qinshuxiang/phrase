@@ -1,0 +1,48 @@
+{
+    "word": "非此即彼",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%9D%9E%E6%AD%A4%E5%8D%B3%E5%BD%BC",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "e2df0a3e0be90257f7a115fed0de759d611678ea57feed0432f5fdb80c7aa124",
+        "bytes": 22481
+    },
+    "parsed": {
+        "found": true,
+        "word": "非此即彼",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "fēi",
+                "cǐ",
+                "jí",
+                "bǐ"
+            ],
+            "zhuyin": [
+                "ㄈㄟ",
+                "ㄘˇ",
+                "ㄐㄧˊ",
+                "ㄅㄧˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "在两者之间必取其一的选择",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "either-or"
+    },
+    "blocks": {
+        "reading": "fēi cǐ jí bǐ",
+        "sense-1": "在两者之间必取其一的选择"
+    }
+}

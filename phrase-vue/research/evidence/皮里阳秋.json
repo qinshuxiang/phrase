@@ -1,0 +1,82 @@
+{
+    "word": "皮里阳秋",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%9A%AE%E9%87%8C%E9%98%B3%E7%A7%8B",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "4fbdedb68e54dbea861fb46b926c30bf32e6233e7e4e0306218e114be2fce714",
+        "bytes": 26450
+    },
+    "parsed": {
+        "found": true,
+        "word": "皮里阳秋",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "pí",
+                "lǐ",
+                "yáng",
+                "qiū"
+            ],
+            "zhuyin": [
+                "ㄆㄧˊ",
+                "ㄌㄧˇ",
+                "ㄧㄤˊ",
+                "ㄑㄧㄡ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "指表面不作评论而内心有所褒贬。",
+                "citations": [
+                    {
+                        "text": "褚季野皮里阳秋，谓其裁中也。",
+                        "source": "南朝宋·刘义庆《世说新语·赏誉》"
+                    },
+                    {
+                        "text": "裹阳秋于皮里，不言备乎四时。",
+                        "source": "宋·欧阳修《上胥学士偃启》"
+                    }
+                ]
+            },
+            {
+                "definition": "隐含深刻判断而不轻易表露。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "褚季野皮里阳秋，谓其裁中也。",
+                "source": "南朝宋·刘义庆《世说新语·赏誉》"
+            },
+            {
+                "text": "裹阳秋于皮里，不言备乎四时。",
+                "source": "宋·欧阳修《上胥学士偃启》"
+            }
+        ],
+        "synonyms": [
+            "指桑骂槐",
+            "委婉曲折"
+        ],
+        "antonyms": [
+            "说一不二",
+            "心直口快",
+            "开门见山"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "implicit criticism"
+    },
+    "blocks": {
+        "reading": "pí lǐ yáng qiū",
+        "sense-1": "指表面不作评论而内心有所褒贬。",
+        "sense-2": "隐含深刻判断而不轻易表露。",
+        "citation-1": "褚季野皮里阳秋，谓其裁中也。 — 南朝宋·刘义庆《世说新语·赏誉》",
+        "citation-2": "裹阳秋于皮里，不言备乎四时。 — 宋·欧阳修《上胥学士偃启》",
+        "synonyms": "指桑骂槐、委婉曲折",
+        "antonyms": "说一不二、心直口快、开门见山"
+    }
+}

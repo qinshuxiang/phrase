@@ -1,0 +1,59 @@
+{
+    "word": "远见卓识",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%BF%9C%E8%A7%81%E5%8D%93%E8%AF%86",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "a1a6f3fa2adbf67ce8950098ddc4d14b8c558627a6e31f149391c71acb817a35",
+        "bytes": 24770
+    },
+    "parsed": {
+        "found": true,
+        "word": "远见卓识",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yuǎn",
+                "jiàn",
+                "zhuó",
+                "shí"
+            ],
+            "zhuyin": [
+                "ㄩㄢˇ",
+                "ㄐㄧㄢˋ",
+                "ㄓㄨㄛˊ",
+                "ㄕˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "远大的眼光和卓越的见识。",
+                "citations": [
+                    {
+                        "text": "解缙之才，有类东方朔，然远见卓识，朔不及也。",
+                        "source": "明·焦竑《玉堂丛语·调护》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "解缙之才，有类东方朔，然远见卓识，朔不及也。",
+                "source": "明·焦竑《玉堂丛语·调护》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "foresight and insight"
+    },
+    "blocks": {
+        "reading": "yuǎn jiàn zhuó shí",
+        "sense-1": "远大的眼光和卓越的见识。",
+        "citation-1": "解缙之才，有类东方朔，然远见卓识，朔不及也。 — 明·焦竑《玉堂丛语·调护》"
+    }
+}

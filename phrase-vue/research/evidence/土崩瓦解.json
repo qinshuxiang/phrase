@@ -1,0 +1,58 @@
+{
+    "word": "土崩瓦解",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%9C%9F%E5%B4%A9%E7%93%A6%E8%A7%A3",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "0a205848390c7efc7a3d9a798307907acb38afb08233cf59235a2f1a07245232",
+        "bytes": 29282
+    },
+    "parsed": {
+        "found": true,
+        "word": "土崩瓦解",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "tǔ",
+                "bēng",
+                "wǎ",
+                "jiě"
+            ],
+            "zhuyin": [
+                "ㄊㄨˇ",
+                "ㄅㄥ",
+                "ㄨㄚˇ",
+                "ㄐㄧㄝ",
+                "ˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "如土之崩坠、瓦之破碎。比喻彻底崩溃、不可收拾",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "四分五裂",
+            "分崩离析"
+        ],
+        "antonyms": [
+            "坚如磐石",
+            "安如泰山",
+            "固若金汤"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "crumble;disintegrate;collapse like a house of cards;fall apart;fall to pieces;go to hell in a hack"
+    },
+    "blocks": {
+        "reading": "tǔ bēng wǎ jiě",
+        "sense-1": "如土之崩坠、瓦之破碎。比喻彻底崩溃、不可收拾",
+        "synonyms": "四分五裂、分崩离析",
+        "antonyms": "坚如磐石、安如泰山、固若金汤"
+    }
+}

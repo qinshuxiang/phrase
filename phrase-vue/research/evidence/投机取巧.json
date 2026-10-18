@@ -1,0 +1,67 @@
+{
+    "word": "投机取巧",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%8A%95%E6%9C%BA%E5%8F%96%E5%B7%A7",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "9f759f7df26181ed781b020e5eff79d20c04b0165562c535c9cda693c16441db",
+        "bytes": 26638
+    },
+    "parsed": {
+        "found": true,
+        "word": "投机取巧",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "tóu",
+                "jī",
+                "qǔ",
+                "qiǎo"
+            ],
+            "zhuyin": [
+                "ㄊㄡˊ",
+                "ㄐㄧ",
+                "ㄑㄩˇ",
+                "ㄑㄧㄠˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "利用时机和不正当手段谋取私利。",
+                "citations": [
+                    {
+                        "text": "为了胜利，就可以损人利己，就可以投机取巧，难道我们在社会主义的祖国需要这样的人材吗？",
+                        "source": "任德耀《小足球队》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "为了胜利，就可以损人利己，就可以投机取巧，难道我们在社会主义的祖国需要这样的人材吗？",
+                "source": "任德耀《小足球队》"
+            }
+        ],
+        "synonyms": [
+            "投机倒把",
+            "看风使舵",
+            "脚踏两船"
+        ],
+        "antonyms": [
+            "正人君子"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "opportunistic"
+    },
+    "blocks": {
+        "reading": "tóu jī qǔ qiǎo",
+        "sense-1": "利用时机和不正当手段谋取私利。",
+        "citation-1": "为了胜利，就可以损人利己，就可以投机取巧，难道我们在社会主义的祖国需要这样的人材吗？ — 任德耀《小足球队》",
+        "synonyms": "投机倒把、看风使舵、脚踏两船",
+        "antonyms": "正人君子"
+    }
+}

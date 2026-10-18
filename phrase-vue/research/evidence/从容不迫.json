@@ -1,0 +1,70 @@
+{
+    "word": "从容不迫",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%BB%8E%E5%AE%B9%E4%B8%8D%E8%BF%AB",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "4902a954e558a54411d3c350f54329448dff38604bfc076f552e432021069046",
+        "bytes": 27483
+    },
+    "parsed": {
+        "found": true,
+        "word": "从容不迫",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "cóng",
+                "róng",
+                "bù",
+                "pò"
+            ],
+            "zhuyin": [
+                "ㄘㄨㄥˊ",
+                "ㄖㄨㄥˊ",
+                "ㄅㄨˋ",
+                "ㄆㄛˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "不慌不忙，沉着镇静。",
+                "citations": [
+                    {
+                        "text": "只是说行得自然如此，无那牵强底意思，便是从容不迫。",
+                        "source": "宋·朱熹《朱子语类》卷二二"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "只是说行得自然如此，无那牵强底意思，便是从容不迫。",
+                "source": "宋·朱熹《朱子语类》卷二二"
+            }
+        ],
+        "synonyms": [
+            "处之泰然",
+            "视若等闲"
+        ],
+        "antonyms": [
+            "焦急徬徨",
+            "惊慌失措",
+            "手忙脚乱",
+            "手足无措",
+            "匆匆忙忙"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "calm and unhurried"
+    },
+    "blocks": {
+        "reading": "cóng róng bù pò",
+        "sense-1": "不慌不忙，沉着镇静。",
+        "citation-1": "只是说行得自然如此，无那牵强底意思，便是从容不迫。 — 宋·朱熹《朱子语类》卷二二",
+        "synonyms": "处之泰然、视若等闲",
+        "antonyms": "焦急徬徨、惊慌失措、手忙脚乱、手足无措、匆匆忙忙"
+    }
+}

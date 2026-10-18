@@ -1,0 +1,62 @@
+{
+    "word": "高屋建瓴",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%AB%98%E5%B1%8B%E5%BB%BA%E7%93%B4",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "e29498a1823b0b5ceb47ba73ecef16c6a1e4542a06b412bb71c2ee7d5820701b",
+        "bytes": 27961
+    },
+    "parsed": {
+        "found": true,
+        "word": "高屋建瓴",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "gāo",
+                "wū",
+                "jiàn",
+                "líng"
+            ],
+            "zhuyin": [
+                "ㄍㄠ",
+                "ㄨ",
+                "ㄐㄧㄢˋ",
+                "ㄌㄧㄥˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "在高屋顶上把水瓶里的水倒下。比喻居高临下,势不可挡",
+                "citations": [
+                    {
+                        "text": "加兵诸侯,如高屋之建瓴,水神皋天邑,以先得者为上计。",
+                        "source": "宋·周邦彦《汴都赋》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "加兵诸侯,如高屋之建瓴,水神皋天邑,以先得者为上计。",
+                "source": "宋·周邦彦《汴都赋》"
+            }
+        ],
+        "synonyms": [
+            "居高临下"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "operate from a strategically advantageous position as pouring water off a steep roof"
+    },
+    "blocks": {
+        "reading": "gāo wū jiàn líng",
+        "sense-1": "在高屋顶上把水瓶里的水倒下。比喻居高临下,势不可挡",
+        "citation-1": "加兵诸侯,如高屋之建瓴,水神皋天邑,以先得者为上计。 — 宋·周邦彦《汴都赋》",
+        "synonyms": "居高临下"
+    }
+}

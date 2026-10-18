@@ -1,0 +1,60 @@
+{
+    "word": "披沙拣金",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%8A%AB%E6%B2%99%E6%8B%A3%E9%87%91",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "20dbc0bf03807630e0f2b688ba9559e74198c589ed7c50a11a8b71cc13960c1a",
+        "bytes": 26581
+    },
+    "parsed": {
+        "found": true,
+        "word": "披沙拣金",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "pī",
+                "shā",
+                "jiǎn",
+                "jīn"
+            ],
+            "zhuyin": [
+                "ㄆㄧ",
+                "ㄕㄚ",
+                "ㄐㄧㄢˇ",
+                "ㄐㄧㄣ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻从大量事物中挑选精华。见「 披沙简金",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "沙里淘金",
+            "去芜存菁",
+            "去粗取精",
+            "去伪存真"
+        ],
+        "antonyms": [
+            "泥沙俱下",
+            "鱼龙混杂",
+            "一蹴而就",
+            "连毛带血"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "sift gold from sand"
+    },
+    "blocks": {
+        "reading": "pī shā jiǎn jīn",
+        "sense-1": "比喻从大量事物中挑选精华。见「 披沙简金",
+        "synonyms": "沙里淘金、去芜存菁、去粗取精、去伪存真",
+        "antonyms": "泥沙俱下、鱼龙混杂、一蹴而就、连毛带血"
+    }
+}

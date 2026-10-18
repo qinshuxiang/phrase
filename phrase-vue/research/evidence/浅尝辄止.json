@@ -1,0 +1,67 @@
+{
+    "word": "浅尝辄止",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%B5%85%E5%B0%9D%E8%BE%84%E6%AD%A2",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "e7997f9990208bf1475b56138a429bf922237247759a140c7a8d016d68292286",
+        "bytes": 26897
+    },
+    "parsed": {
+        "found": true,
+        "word": "浅尝辄止",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "qiǎn",
+                "cháng",
+                "zhé",
+                "zhǐ"
+            ],
+            "zhuyin": [
+                "ㄑㄧㄢˇ",
+                "ㄔㄤˊ",
+                "ㄓㄜˊ",
+                "ㄓˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "略微尝试一下就停止。比喻不肯下功夫深入钻研。",
+                "citations": [
+                    {
+                        "text": "学者读书须是沈潜翫索，若浅尝辄止，决无所得。",
+                        "source": "明·胡居仁《居业录·学问》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "学者读书须是沈潜翫索，若浅尝辄止，决无所得。",
+                "source": "明·胡居仁《居业录·学问》"
+            }
+        ],
+        "synonyms": [
+            "半途而废",
+            "浮光掠影"
+        ],
+        "antonyms": [
+            "持之以恒",
+            "坚持不懈"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "stop after gaining a little knowledge"
+    },
+    "blocks": {
+        "reading": "qiǎn cháng zhé zhǐ",
+        "sense-1": "略微尝试一下就停止。比喻不肯下功夫深入钻研。",
+        "citation-1": "学者读书须是沈潜翫索，若浅尝辄止，决无所得。 — 明·胡居仁《居业录·学问》",
+        "synonyms": "半途而废、浮光掠影",
+        "antonyms": "持之以恒、坚持不懈"
+    }
+}

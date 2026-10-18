@@ -1,0 +1,53 @@
+{
+    "word": "承上启下",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%89%BF%E4%B8%8A%E5%90%AF%E4%B8%8B",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "c2b0728f2c518e1cc0dee1ee92c4b23d5b9305ba7cbd048a7ddb310bc1c2c092",
+        "bytes": 26821
+    },
+    "parsed": {
+        "found": true,
+        "word": "承上启下",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "chéng",
+                "shàng",
+                "qǐ",
+                "xià"
+            ],
+            "zhuyin": [
+                "ㄔㄥˊ",
+                "ㄕㄤˋ",
+                "ㄑㄧˇ",
+                "ㄒㄧㄚˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "承接其上,开启其下",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "继往开来",
+            "承前启后",
+            "承先启后"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "form a connecting link between the preceding and the following"
+    },
+    "blocks": {
+        "reading": "chéng shàng qǐ xià",
+        "sense-1": "承接其上,开启其下",
+        "synonyms": "继往开来、承前启后、承先启后"
+    }
+}

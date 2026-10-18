@@ -1,0 +1,58 @@
+{
+    "word": "细枝末节",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%BB%86%E6%9E%9D%E6%9C%AB%E8%8A%82",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "1ecbcf7d11e1b4a7ea5136fb4711dc8d8cd1f8092f109289973a6efe3ad0f323",
+        "bytes": 26108
+    },
+    "parsed": {
+        "found": true,
+        "word": "细枝末节",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "xì",
+                "zhī",
+                "mò",
+                "jié"
+            ],
+            "zhuyin": [
+                "ㄒㄧˋ",
+                "ㄓ",
+                "ㄇㄛˋ",
+                "ㄐㄧㄝ",
+                "ˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻细小而不重要的部分。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "无足轻重",
+            "无关紧要"
+        ],
+        "antonyms": [
+            "非同小可",
+            "举足轻重",
+            "荦荦大端"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "trivial details"
+    },
+    "blocks": {
+        "reading": "xì zhī mò jié",
+        "sense-1": "比喻细小而不重要的部分。",
+        "synonyms": "无足轻重、无关紧要",
+        "antonyms": "非同小可、举足轻重、荦荦大端"
+    }
+}

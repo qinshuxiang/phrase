@@ -1,0 +1,57 @@
+{
+    "word": "积习难改",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%A7%AF%E4%B9%A0%E9%9A%BE%E6%94%B9",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "775287e0148ce550385b059e4c90be97dc74a55125eb65ed751130af61c4f453",
+        "bytes": 26231
+    },
+    "parsed": {
+        "found": true,
+        "word": "积习难改",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jī",
+                "xí",
+                "nán",
+                "gǎi"
+            ],
+            "zhuyin": [
+                "ㄐㄧ",
+                "ㄒㄧˊ",
+                "ㄋㄢˊ",
+                "ㄍㄞˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "长期形成的习惯难以改变。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "故态复萌",
+            "积重难返"
+        ],
+        "antonyms": [
+            "痛改前非",
+            "除旧布新",
+            "推陈出新"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "ingrained habits are hard to change"
+    },
+    "blocks": {
+        "reading": "jī xí nán gǎi",
+        "sense-1": "长期形成的习惯难以改变。",
+        "synonyms": "故态复萌、积重难返",
+        "antonyms": "痛改前非、除旧布新、推陈出新"
+    }
+}

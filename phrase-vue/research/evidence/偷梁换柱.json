@@ -1,0 +1,59 @@
+{
+    "word": "偷梁换柱",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%81%B7%E6%A2%81%E6%8D%A2%E6%9F%B1",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "9448c995a60725ded900e66acc4b88ba1c1b8b3c37e189a7fadd4c8ba0e6ff00",
+        "bytes": 27072
+    },
+    "parsed": {
+        "found": true,
+        "word": "偷梁换柱",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "tōu",
+                "liáng",
+                "huàn",
+                "zhù"
+            ],
+            "zhuyin": [
+                "ㄊㄡ",
+                "ㄌㄧㄤˊ",
+                "ㄏㄨㄢˋ",
+                "ㄓㄨˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "暗中调换事物内容或性质的欺骗手段。",
+                "citations": [
+                    {
+                        "text": "偏偏凤姐想出一条偷梁换柱之计，自己也不好过潇湘馆来。",
+                        "source": "清·曹雪芹《红楼梦》第九七回"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "偏偏凤姐想出一条偷梁换柱之计，自己也不好过潇湘馆来。",
+                "source": "清·曹雪芹《红楼梦》第九七回"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "steal the beams and change the pillars"
+    },
+    "blocks": {
+        "reading": "tōu liáng huàn zhù",
+        "sense-1": "暗中调换事物内容或性质的欺骗手段。",
+        "citation-1": "偏偏凤姐想出一条偷梁换柱之计，自己也不好过潇湘馆来。 — 清·曹雪芹《红楼梦》第九七回"
+    }
+}

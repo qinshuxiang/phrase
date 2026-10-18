@@ -1,0 +1,67 @@
+{
+    "word": "随遇而安",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%9A%8F%E9%81%87%E8%80%8C%E5%AE%89",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "64ad96c6e36d40a2547197e05d710703db9a66659ddecd44336be8e44caf4143",
+        "bytes": 26827
+    },
+    "parsed": {
+        "found": true,
+        "word": "随遇而安",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "suí",
+                "yù",
+                "ér",
+                "ān"
+            ],
+            "zhuyin": [
+                "ㄙㄨㄟˊ",
+                "ㄩˋ",
+                "ㄦˊ",
+                "ㄢ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "在任何环境中都能安然自得，满足现状。",
+                "citations": [
+                    {
+                        "text": "出家人随遇而安，并无庵观寺院，随方居住。",
+                        "source": "《三侠五义》第六七回"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "出家人随遇而安，并无庵观寺院，随方居住。",
+                "source": "《三侠五义》第六七回"
+            }
+        ],
+        "synonyms": [
+            "与世无争",
+            "随俗浮沉"
+        ],
+        "antonyms": [
+            "愤世嫉俗",
+            "愤愤不平"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "feel at home wherever one is"
+    },
+    "blocks": {
+        "reading": "suí yù ér ān",
+        "sense-1": "在任何环境中都能安然自得，满足现状。",
+        "citation-1": "出家人随遇而安，并无庵观寺院，随方居住。 — 《三侠五义》第六七回",
+        "synonyms": "与世无争、随俗浮沉",
+        "antonyms": "愤世嫉俗、愤愤不平"
+    }
+}

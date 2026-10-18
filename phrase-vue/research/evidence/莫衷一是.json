@@ -1,0 +1,56 @@
+{
+    "word": "莫衷一是",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%8E%AB%E8%A1%B7%E4%B8%80%E6%98%AF",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "80da6df0260e48b1aa66b51a12fc966178c78f500e38c255ceda98da9bd59642",
+        "bytes": 28062
+    },
+    "parsed": {
+        "found": true,
+        "word": "莫衷一是",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "mò",
+                "zhōng",
+                "yī",
+                "shì"
+            ],
+            "zhuyin": [
+                "ㄇㄛˋ",
+                "ㄓㄨㄥ",
+                "ㄧ",
+                "ㄕˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "意见分歧,难有一致的定论",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "无所适从"
+        ],
+        "antonyms": [
+            "一针见血",
+            "众口一词",
+            "异口同声"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "unable to agree or decide which is right"
+    },
+    "blocks": {
+        "reading": "mò zhōng yī shì",
+        "sense-1": "意见分歧,难有一致的定论",
+        "synonyms": "无所适从",
+        "antonyms": "一针见血、众口一词、异口同声"
+    }
+}

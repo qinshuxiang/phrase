@@ -1,0 +1,51 @@
+{
+    "word": "恍如隔世",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%81%8D%E5%A6%82%E9%9A%94%E4%B8%96",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "fe0f45f7d66c1fb53bfffa10f24724783d521bfa5faf4bb636c272590780351c",
+        "bytes": 27327
+    },
+    "parsed": {
+        "found": true,
+        "word": "恍如隔世",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "huǎng",
+                "rú",
+                "gé",
+                "shì"
+            ],
+            "zhuyin": [
+                "ㄏㄨㄤˇ",
+                "ㄖㄨˊ",
+                "ㄍㄜˊ",
+                "ㄕˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "恍惚如同相隔了一辈子。喻事物变化发展很快,变化很大",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "隔世之感"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "as if being cut off from the outside world for ages;become like an old remembrance;feel like sth.was another world"
+    },
+    "blocks": {
+        "reading": "huǎng rú gé shì",
+        "sense-1": "恍惚如同相隔了一辈子。喻事物变化发展很快,变化很大",
+        "synonyms": "隔世之感"
+    }
+}

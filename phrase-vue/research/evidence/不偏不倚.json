@@ -1,0 +1,48 @@
+{
+    "word": "不偏不倚",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%8D%E5%81%8F%E4%B8%8D%E5%80%9A",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "c9403b73732dc7ac3bdd78370236403d5de90fe0142e22deedb0f2e667aee0ce",
+        "bytes": 28111
+    },
+    "parsed": {
+        "found": true,
+        "word": "不偏不倚",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bù",
+                "piān",
+                "bù",
+                "yǐ"
+            ],
+            "zhuyin": [
+                "ㄅㄨˋ",
+                "ㄆㄧㄢ",
+                "ㄅㄨˋ",
+                "ㄧˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "倚:偏向。不偏向任何一方表示公正或中立",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "do not make fish of one and flesh of another;even-handed;impartial"
+    },
+    "blocks": {
+        "reading": "bù piān bù yǐ",
+        "sense-1": "倚:偏向。不偏向任何一方表示公正或中立"
+    }
+}

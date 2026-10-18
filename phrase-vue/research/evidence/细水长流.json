@@ -1,0 +1,81 @@
+{
+    "word": "细水长流",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%BB%86%E6%B0%B4%E9%95%BF%E6%B5%81",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "40c1f5ccd63e0efb358f22aa8a712d22a205e44963275eac23cdaaee73ba3cb3",
+        "bytes": 27577
+    },
+    "parsed": {
+        "found": true,
+        "word": "细水长流",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "xì",
+                "shuǐ",
+                "cháng",
+                "liú"
+            ],
+            "zhuyin": [
+                "ㄒㄧˋ",
+                "ㄕㄨㄟˇ",
+                "ㄔㄤˊ",
+                "ㄌㄧㄨˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻力量虽小但持之以恒，终能成功。",
+                "citations": [
+                    {
+                        "text": "譬如小水常流，则能穿石。",
+                        "source": "《遗教经》"
+                    },
+                    {
+                        "text": "要多吃野菜树皮，少吃米面，细水长流呀！",
+                        "source": "梁斌《红旗谱》"
+                    }
+                ]
+            },
+            {
+                "definition": "指精打细算，长远安排。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "譬如小水常流，则能穿石。",
+                "source": "《遗教经》"
+            },
+            {
+                "text": "要多吃野菜树皮，少吃米面，细水长流呀！",
+                "source": "梁斌《红旗谱》"
+            }
+        ],
+        "synonyms": [
+            "持之以恒",
+            "精打细算"
+        ],
+        "antonyms": [
+            "虎头蛇尾",
+            "大手大脚"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "perseverance"
+    },
+    "blocks": {
+        "reading": "xì shuǐ cháng liú",
+        "sense-1": "比喻力量虽小但持之以恒，终能成功。",
+        "sense-2": "指精打细算，长远安排。",
+        "citation-1": "譬如小水常流，则能穿石。 — 《遗教经》",
+        "citation-2": "要多吃野菜树皮，少吃米面，细水长流呀！ — 梁斌《红旗谱》",
+        "synonyms": "持之以恒、精打细算",
+        "antonyms": "虎头蛇尾、大手大脚"
+    }
+}

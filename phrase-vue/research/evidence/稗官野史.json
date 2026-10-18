@@ -1,0 +1,66 @@
+{
+    "word": "稗官野史",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%A8%97%E5%AE%98%E9%87%8E%E5%8F%B2",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "0d4b83d7d2e8c8b8a2340698f9213a6f0b739ce03819a6363d60e92153d73788",
+        "bytes": 26490
+    },
+    "parsed": {
+        "found": true,
+        "word": "稗官野史",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bài",
+                "guān",
+                "yě",
+                "shǐ"
+            ],
+            "zhuyin": [
+                "ㄅㄞˋ",
+                "ㄍㄨㄢ",
+                "ㄧㄝˇ",
+                "ㄕˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "泛称记载轶闻琐事的文字。",
+                "citations": [
+                    {
+                        "text": "文辞自力，尚能助稗官野史之传。",
+                        "source": "宋·陆游《贺施知院启》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "文辞自力，尚能助稗官野史之传。",
+                "source": "宋·陆游《贺施知院启》"
+            }
+        ],
+        "synonyms": [
+            "稗官小说",
+            "奇文轶事"
+        ],
+        "antonyms": [
+            "官修正史"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "unofficial histories"
+    },
+    "blocks": {
+        "reading": "bài guān yě shǐ",
+        "sense-1": "泛称记载轶闻琐事的文字。",
+        "citation-1": "文辞自力，尚能助稗官野史之传。 — 宋·陆游《贺施知院启》",
+        "synonyms": "稗官小说、奇文轶事",
+        "antonyms": "官修正史"
+    }
+}

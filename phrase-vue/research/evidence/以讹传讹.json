@@ -1,0 +1,67 @@
+{
+    "word": "以讹传讹",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%BB%A5%E8%AE%B9%E4%BC%A0%E8%AE%B9",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "a9af474190b601a4764f38eeabb4bf6ec0a9e9f2e686500803cae571fcb7a1e8",
+        "bytes": 26377
+    },
+    "parsed": {
+        "found": true,
+        "word": "以讹传讹",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yǐ",
+                "é",
+                "chuán",
+                "é"
+            ],
+            "zhuyin": [
+                "ㄧˇ",
+                "ㄜˊ",
+                "ㄔㄨㄢˊ",
+                "ㄜˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "将错误的讯息不断传播扩散。",
+                "citations": [
+                    {
+                        "text": "巧机关真鹵莽，弄虚言一切譸张。自今朝以讹传讹纷然流谤，使深闺知凶信必生凄怆。",
+                        "source": "明·陆采《怀香记·诳传凶信》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "巧机关真鹵莽，弄虚言一切譸张。自今朝以讹传讹纷然流谤，使深闺知凶信必生凄怆。",
+                "source": "明·陆采《怀香记·诳传凶信》"
+            }
+        ],
+        "synonyms": [
+            "三人成虎",
+            "谬种流传"
+        ],
+        "antonyms": [
+            "衣钵相传",
+            "一脉相承"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "spread false information"
+    },
+    "blocks": {
+        "reading": "yǐ é chuán é",
+        "sense-1": "将错误的讯息不断传播扩散。",
+        "citation-1": "巧机关真鹵莽，弄虚言一切譸张。自今朝以讹传讹纷然流谤，使深闺知凶信必生凄怆。 — 明·陆采《怀香记·诳传凶信》",
+        "synonyms": "三人成虎、谬种流传",
+        "antonyms": "衣钵相传、一脉相承"
+    }
+}

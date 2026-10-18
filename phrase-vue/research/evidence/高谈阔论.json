@@ -1,0 +1,84 @@
+{
+    "word": "高谈阔论",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%AB%98%E8%B0%88%E9%98%94%E8%AE%BA",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "43d8bf08f90f4b340908ed24113fc670d9ee2d6d32f19db7d98f8cf2a9e027ad",
+        "bytes": 28750
+    },
+    "parsed": {
+        "found": true,
+        "word": "高谈阔论",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "gāo",
+                "tán",
+                "kuò",
+                "lùn"
+            ],
+            "zhuyin": [
+                "ㄍㄠ",
+                "ㄊㄢˊ",
+                "ㄎㄨㄛˋ",
+                "ㄌㄨㄣˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "漫无边际地大发议论。",
+                "citations": [
+                    {
+                        "text": "高谈阔论若无人，可惜明君不遇真。",
+                        "source": "唐·吕岩《徽宗斋会》诗"
+                    },
+                    {
+                        "text": "夫所谓空言者，谓其高谈阔论，远于事情，揆诸古则不合，施于今则有害。",
+                        "source": "宋·高斯得《转对奏札》"
+                    }
+                ]
+            },
+            {
+                "definition": "见解高超、内容广博的言谈。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "高谈阔论若无人，可惜明君不遇真。",
+                "source": "唐·吕岩《徽宗斋会》诗"
+            },
+            {
+                "text": "夫所谓空言者，谓其高谈阔论，远于事情，揆诸古则不合，施于今则有害。",
+                "source": "宋·高斯得《转对奏札》"
+            }
+        ],
+        "synonyms": [
+            "夸夸其谈",
+            "侃侃而谈",
+            "放言高论"
+        ],
+        "antonyms": [
+            "一言不发",
+            "沉默寡言",
+            "不苟言笑",
+            "缄口结舌"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "talk volubly"
+    },
+    "blocks": {
+        "reading": "gāo tán kuò lùn",
+        "sense-1": "漫无边际地大发议论。",
+        "sense-2": "见解高超、内容广博的言谈。",
+        "citation-1": "高谈阔论若无人，可惜明君不遇真。 — 唐·吕岩《徽宗斋会》诗",
+        "citation-2": "夫所谓空言者，谓其高谈阔论，远于事情，揆诸古则不合，施于今则有害。 — 宋·高斯得《转对奏札》",
+        "synonyms": "夸夸其谈、侃侃而谈、放言高论",
+        "antonyms": "一言不发、沉默寡言、不苟言笑、缄口结舌"
+    }
+}

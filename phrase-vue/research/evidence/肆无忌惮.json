@@ -1,0 +1,71 @@
+{
+    "word": "肆无忌惮",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%82%86%E6%97%A0%E5%BF%8C%E6%83%AE",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "ca86e08765146de82bd9bf4fc03f43646f9bd530a1752ee5e278bfebe95414c5",
+        "bytes": 27990
+    },
+    "parsed": {
+        "found": true,
+        "word": "肆无忌惮",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "sì",
+                "wú",
+                "jì",
+                "dàn"
+            ],
+            "zhuyin": [
+                "ㄙˋ",
+                "ㄨˊ",
+                "ㄐㄧˋ",
+                "ㄉㄢˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "任意妄为，毫无顾忌。",
+                "citations": [
+                    {
+                        "text": "世荣居中书才数月，恃委任之专，肆无忌惮，视丞相犹虚位也。",
+                        "source": "元·脱脱《元史·奸臣传·卢世荣》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "世荣居中书才数月，恃委任之专，肆无忌惮，视丞相犹虚位也。",
+                "source": "元·脱脱《元史·奸臣传·卢世荣》"
+            }
+        ],
+        "synonyms": [
+            "肆意妄为",
+            "胡作非为",
+            "惹事生非",
+            "无法无天",
+            "违法乱纪",
+            "为非作歹"
+        ],
+        "antonyms": [
+            "规行矩步",
+            "循规蹈矩"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "unbridled; unscrupulous"
+    },
+    "blocks": {
+        "reading": "sì wú jì dàn",
+        "sense-1": "任意妄为，毫无顾忌。",
+        "citation-1": "世荣居中书才数月，恃委任之专，肆无忌惮，视丞相犹虚位也。 — 元·脱脱《元史·奸臣传·卢世荣》",
+        "synonyms": "肆意妄为、胡作非为、惹事生非、无法无天、违法乱纪、为非作歹",
+        "antonyms": "规行矩步、循规蹈矩"
+    }
+}

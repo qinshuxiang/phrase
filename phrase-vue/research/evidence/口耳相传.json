@@ -1,0 +1,51 @@
+{
+    "word": "口耳相传",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%8F%A3%E8%80%B3%E7%9B%B8%E4%BC%A0",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "90325c3d81c7896ae9d970e89f8ff414cf921ef05578b29989bbcb0937ecd91f",
+        "bytes": 22800
+    },
+    "parsed": {
+        "found": true,
+        "word": "口耳相传",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "kǒu",
+                "ěr",
+                "xiāng",
+                "chuán"
+            ],
+            "zhuyin": [
+                "ㄎㄡˇ",
+                "ㄦˇ",
+                "ㄒㄧㄤ",
+                "ㄔㄨㄢˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "通过口说耳听的方式代代相传。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "口传心授"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "oral transmission"
+    },
+    "blocks": {
+        "reading": "kǒu ěr xiāng chuán",
+        "sense-1": "通过口说耳听的方式代代相传。",
+        "synonyms": "口传心授"
+    }
+}

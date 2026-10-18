@@ -1,0 +1,57 @@
+{
+    "word": "偃旗息鼓",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%81%83%E6%97%97%E6%81%AF%E9%BC%93",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "d2ccb52832d660cab08ad31ad4eea871cf6155f142222b818feb2dfdd738f7d5",
+        "bytes": 29152
+    },
+    "parsed": {
+        "found": true,
+        "word": "偃旗息鼓",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yǎn",
+                "qí",
+                "xī",
+                "gǔ"
+            ],
+            "zhuyin": [
+                "ㄧㄢˇ",
+                "ㄑㄧˊ",
+                "ㄒㄧ",
+                "ㄍㄨˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "放倒军旗,停止击鼓。指秘密行军,不暴露目标。也指停止战斗。比喻停止做某事",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "鸣金收兵",
+            "销声匿迹"
+        ],
+        "antonyms": [
+            "重整旗鼓",
+            "大张旗鼓",
+            "重振旗鼓"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "call off the army maneuvers;cease(stop) all military activities and lie low;lower the flags and silence the drums"
+    },
+    "blocks": {
+        "reading": "yǎn qí xī gǔ",
+        "sense-1": "放倒军旗,停止击鼓。指秘密行军,不暴露目标。也指停止战斗。比喻停止做某事",
+        "synonyms": "鸣金收兵、销声匿迹",
+        "antonyms": "重整旗鼓、大张旗鼓、重振旗鼓"
+    }
+}

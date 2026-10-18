@@ -1,0 +1,73 @@
+{
+    "word": "融会贯通",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%9E%8D%E4%BC%9A%E8%B4%AF%E9%80%9A",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "b68a57b2d11e07962ec4dfb7d55af8067d880a0e8bef4f7b0870125174a22675",
+        "bytes": 27867
+    },
+    "parsed": {
+        "found": true,
+        "word": "融会贯通",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "róng",
+                "huì",
+                "guàn",
+                "tōng"
+            ],
+            "zhuyin": [
+                "ㄖㄨㄥˊ",
+                "ㄏㄨㄟˋ",
+                "ㄍㄨㄢˋ",
+                "ㄊㄨㄥ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "把各种知识和道理融合贯穿，从而得到透彻的理解。",
+                "citations": [
+                    {
+                        "text": "举一而三反，闻一而知十，乃学者用功之深，穷理之熟，然后能融会贯通，以至于此。",
+                        "source": "宋·朱熹《朱子全书·学三》"
+                    }
+                ]
+            },
+            {
+                "definition": "融合无间隔。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "举一而三反，闻一而知十，乃学者用功之深，穷理之熟，然后能融会贯通，以至于此。",
+                "source": "宋·朱熹《朱子全书·学三》"
+            }
+        ],
+        "synonyms": [
+            "举一反三",
+            "豁然贯通"
+        ],
+        "antonyms": [
+            "望文生义",
+            "囫囵吞枣",
+            "生吞活剥"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "thoroughly understand"
+    },
+    "blocks": {
+        "reading": "róng huì guàn tōng",
+        "sense-1": "把各种知识和道理融合贯穿，从而得到透彻的理解。",
+        "sense-2": "融合无间隔。",
+        "citation-1": "举一而三反，闻一而知十，乃学者用功之深，穷理之熟，然后能融会贯通，以至于此。 — 宋·朱熹《朱子全书·学三》",
+        "synonyms": "举一反三、豁然贯通",
+        "antonyms": "望文生义、囫囵吞枣、生吞活剥"
+    }
+}

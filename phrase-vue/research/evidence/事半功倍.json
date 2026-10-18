@@ -1,0 +1,57 @@
+{
+    "word": "事半功倍",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%BA%8B%E5%8D%8A%E5%8A%9F%E5%80%8D",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "09bc0c229aa9d8b43d7e35741c40f869bdb69269b45de47e659a985220c2a3be",
+        "bytes": 28349
+    },
+    "parsed": {
+        "found": true,
+        "word": "事半功倍",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shì",
+                "bàn",
+                "gōng",
+                "bèi"
+            ],
+            "zhuyin": [
+                "ㄕˋ",
+                "ㄅㄢˋ",
+                "ㄍㄨㄥ",
+                "ㄅㄟˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "意为只用一半的功夫,而收到加倍的功效。形容用力小而收效大",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "一举两得",
+            "一箭双雕"
+        ],
+        "antonyms": [
+            "得不偿失",
+            "舍近求远",
+            "事倍功半"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "get twice the result with half the effort"
+    },
+    "blocks": {
+        "reading": "shì bàn gōng bèi",
+        "sense-1": "意为只用一半的功夫,而收到加倍的功效。形容用力小而收效大",
+        "synonyms": "一举两得、一箭双雕",
+        "antonyms": "得不偿失、舍近求远、事倍功半"
+    }
+}

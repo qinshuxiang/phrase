@@ -1,0 +1,79 @@
+{
+    "word": "蝇营狗苟",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%9D%87%E8%90%A5%E7%8B%97%E8%8B%9F",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "af4d218c5110f9ec926e786cb9aa5d5b52991a6119c44060ae65ed99d58c827b",
+        "bytes": 26378
+    },
+    "parsed": {
+        "found": true,
+        "word": "蝇营狗苟",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yíng",
+                "yíng",
+                "gǒu",
+                "gǒu"
+            ],
+            "zhuyin": [
+                "ㄧㄥˊ",
+                "ㄧㄥˊ",
+                "ㄍㄡˇ",
+                "ㄍㄡˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "像苍蝇那样到处钻营，像狗那样苟且偷生。比喻不顾廉耻，不择手段地追逐名利。",
+                "citations": [
+                    {
+                        "text": "朝悔其行，暮已复然，蝇营狗苟，驱去复还。",
+                        "source": "唐·韩愈《送穷文》"
+                    },
+                    {
+                        "text": "陷君者谁？蝇营狗苟。",
+                        "source": "清·管同《祭檀默斋明府文》"
+                    }
+                ]
+            },
+            {
+                "definition": "指无耻之徒。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "朝悔其行，暮已复然，蝇营狗苟，驱去复还。",
+                "source": "唐·韩愈《送穷文》"
+            },
+            {
+                "text": "陷君者谁？蝇营狗苟。",
+                "source": "清·管同《祭檀默斋明府文》"
+            }
+        ],
+        "synonyms": [
+            "禽兽不如"
+        ],
+        "antonyms": [
+            "光明磊落"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "shamelessly seek personal gain"
+    },
+    "blocks": {
+        "reading": "yíng yíng gǒu gǒu",
+        "sense-1": "像苍蝇那样到处钻营，像狗那样苟且偷生。比喻不顾廉耻，不择手段地追逐名利。",
+        "sense-2": "指无耻之徒。",
+        "citation-1": "朝悔其行，暮已复然，蝇营狗苟，驱去复还。 — 唐·韩愈《送穷文》",
+        "citation-2": "陷君者谁？蝇营狗苟。 — 清·管同《祭檀默斋明府文》",
+        "synonyms": "禽兽不如",
+        "antonyms": "光明磊落"
+    }
+}

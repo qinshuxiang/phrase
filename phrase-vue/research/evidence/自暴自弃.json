@@ -1,0 +1,86 @@
+{
+    "word": "自暴自弃",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%87%AA%E6%9A%B4%E8%87%AA%E5%BC%83",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "c2831cb74a724c0522344a88b6812077cac8e373405e08d69648abccec08e45a",
+        "bytes": 29326
+    },
+    "parsed": {
+        "found": true,
+        "word": "自暴自弃",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zì",
+                "bào",
+                "zì",
+                "qì"
+            ],
+            "zhuyin": [
+                "ㄗˋ",
+                "ㄅㄠˋ",
+                "ㄗˋ",
+                "ㄑㄧˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "自己甘心堕落，不求上进。",
+                "citations": [
+                    {
+                        "text": "即此可见其无志，甘于自暴自弃，过孰大焉。",
+                        "source": "宋·朱熹《朱子语类》卷一一八"
+                    },
+                    {
+                        "text": "自暴者，不可与有言也；自弃者，不可与有为也。",
+                        "source": "《孟子·离娄上》"
+                    }
+                ]
+            },
+            {
+                "definition": "自己糟蹋自己，鄙弃自己。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "即此可见其无志，甘于自暴自弃，过孰大焉。",
+                "source": "宋·朱熹《朱子语类》卷一一八"
+            },
+            {
+                "text": "自暴者，不可与有言也；自弃者，不可与有为也。",
+                "source": "《孟子·离娄上》"
+            }
+        ],
+        "synonyms": [
+            "自惭形秽",
+            "妄自菲薄"
+        ],
+        "antonyms": [
+            "自命不凡",
+            "发奋图强",
+            "力求上进",
+            "力争上游",
+            "自高自大",
+            "自强不息",
+            "妄自尊大"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "self-abandoned"
+    },
+    "blocks": {
+        "reading": "zì bào zì qì",
+        "sense-1": "自己甘心堕落，不求上进。",
+        "sense-2": "自己糟蹋自己，鄙弃自己。",
+        "citation-1": "即此可见其无志，甘于自暴自弃，过孰大焉。 — 宋·朱熹《朱子语类》卷一一八",
+        "citation-2": "自暴者，不可与有言也；自弃者，不可与有为也。 — 《孟子·离娄上》",
+        "synonyms": "自惭形秽、妄自菲薄",
+        "antonyms": "自命不凡、发奋图强、力求上进、力争上游、自高自大、自强不息、妄自尊大"
+    }
+}

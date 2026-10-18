@@ -1,0 +1,972 @@
+{
+  "text": "嗯。是不是啊，第一个是没有商量但是行动意见是一样的。对吧，那我们考试当中还有一个点 sew和，合遗合了。对吧，所以这一块要注意一下哈。来。下一个。下一个是啥，比如说疏图同归要注意什么考点。书图同归什么考点很好同学都在打来书图同归很好你看图首先图可以比喻形象化对应第二个可以拆分对吧连问几行那异曲同工呢异曲同工他俩语义是相近的对吧那什么情况下可以优先选择异曲同工比如说什么和什么有异曲同工是不是可以优选异曲同工之妙对很好有这样的异曲同工之妙另外异曲同工是偏褒义的感情色态不一样对吧我们的出头红归是中性的行好很好来再看一下这个精卫分明次弄点是什么它的搭配对象或者说它一般形容什么精卫分明啊很好界限边界对吧啊精卫分明啊可以来再看一下这个各有千秋的搭配对象主语要注意什么各有千秋各有千秋搭配人对很好几个人需要你注意的对吧几个人一般是不是多个人是大于两个的呀比如说你擅长什么我擅长什么这叫什么各有千秋对吧咱擅长的不一样啊各有千秋那和和他相对应的比如说平分秋色哎就是两个人了因为是平分的嘛一分为二的啊没问题来接着看一下分庭抗礼你需要注意什么分庭抗礼有一个字抗对吧啊有两个语意哈分庭抗礼有两有两个侧重点第一个是说我站在庭院的两端相对行李是平起平坐的啊是平等的第二个有一个抗抗可以体现对立对抗没关系啊可以来机后流光是啥意思来着积累到位了吗机后流光嗯机后流光啥意思来着再看一下啊积累的功德功业越深厚流传给后人的恩德是越广的对吧没关系再梳理梳理来接着巧夺天公什么意思巧夺天公注意点是什么你要搭配什么注意这上面搭配什么巧读的是天宫对吧那他是人工的还是这个天然的呢对吧搭配人还是搭配这个大自然人定圣天搭配什么巧读天宫搭配的对象应该是这个人工的比如说工艺品啊建筑啊手工作品啊对不对那与之相对的鬼斧神宫呢来鬼斧神宫鬼斧神功像鬼的斧子一样对吧是大自然很好没问题登峰造极程度怎么样来登峰造极是不是到峰了呀到顶点了呀对吧来目无全",
+  "segments": [
+    {
+      "text": "嗯。是不是啊，第一个是没有商量但是行动意见是一样的。对吧，那我们考试当中还有一个点 sew和，合遗合了。对吧，所以这一块要注意一下哈。来。下一个。下一个是啥，比如说疏图同归要注意什么考点。",
+      "start": 0.0,
+      "end": 28.26,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6705,
+      "compression_ratio": 1.311
+    },
+    {
+      "text": "书图同归什么考点",
+      "start": 28.26,
+      "end": 30.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2047,
+      "compression_ratio": 1.15
+    },
+    {
+      "text": "很好",
+      "start": 30.5,
+      "end": 45.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2047,
+      "compression_ratio": 1.15
+    },
+    {
+      "text": "同学都在打",
+      "start": 45.32,
+      "end": 46.3,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2047,
+      "compression_ratio": 1.15
+    },
+    {
+      "text": "来书图同归",
+      "start": 46.3,
+      "end": 47.24,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2047,
+      "compression_ratio": 1.15
+    },
+    {
+      "text": "很好",
+      "start": 47.24,
+      "end": 52.120000000000005,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2047,
+      "compression_ratio": 1.15
+    },
+    {
+      "text": "你看图",
+      "start": 52.120000000000005,
+      "end": 53.42,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2047,
+      "compression_ratio": 1.15
+    },
+    {
+      "text": "首先图可以比喻形象化对应",
+      "start": 53.42,
+      "end": 55.78,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2047,
+      "compression_ratio": 1.15
+    },
+    {
+      "text": "第二个可以拆分",
+      "start": 55.78,
+      "end": 57.36,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2047,
+      "compression_ratio": 1.15
+    },
+    {
+      "text": "对吧",
+      "start": 57.36,
+      "end": 57.94,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2047,
+      "compression_ratio": 1.15
+    },
+    {
+      "text": "连问几行",
+      "start": 57.94,
+      "end": 59.96,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1572,
+      "compression_ratio": 1.555
+    },
+    {
+      "text": "那异曲同工呢",
+      "start": 59.96,
+      "end": 61.82,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1572,
+      "compression_ratio": 1.555
+    },
+    {
+      "text": "异曲同工他俩语义是相近的",
+      "start": 61.82,
+      "end": 64.52,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1572,
+      "compression_ratio": 1.555
+    },
+    {
+      "text": "对吧",
+      "start": 64.52,
+      "end": 65.16,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1572,
+      "compression_ratio": 1.555
+    },
+    {
+      "text": "那什么情况下可以优先选择异曲同工",
+      "start": 65.16,
+      "end": 68.28,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1572,
+      "compression_ratio": 1.555
+    },
+    {
+      "text": "比如说什么和什么",
+      "start": 68.28,
+      "end": 74.2,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1572,
+      "compression_ratio": 1.555
+    },
+    {
+      "text": "有异曲同工",
+      "start": 74.2,
+      "end": 76.03999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1572,
+      "compression_ratio": 1.555
+    },
+    {
+      "text": "是不是可以优选",
+      "start": 76.03999999999999,
+      "end": 76.78,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1572,
+      "compression_ratio": 1.555
+    },
+    {
+      "text": "异曲同工之妙",
+      "start": 76.78,
+      "end": 78.66,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1572,
+      "compression_ratio": 1.555
+    },
+    {
+      "text": "对很好",
+      "start": 78.66,
+      "end": 79.22,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1572,
+      "compression_ratio": 1.555
+    },
+    {
+      "text": "有这样的异曲同工之妙",
+      "start": 79.22,
+      "end": 81.52,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1572,
+      "compression_ratio": 1.555
+    },
+    {
+      "text": "另外异曲同工是偏",
+      "start": 81.52,
+      "end": 83.92,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1572,
+      "compression_ratio": 1.555
+    },
+    {
+      "text": "褒义的感情色态不一样",
+      "start": 83.92,
+      "end": 86.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1572,
+      "compression_ratio": 1.555
+    },
+    {
+      "text": "对吧",
+      "start": 86.0,
+      "end": 86.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1572,
+      "compression_ratio": 1.555
+    },
+    {
+      "text": "我们的出头红归是中性的",
+      "start": 86.32,
+      "end": 88.3,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3163,
+      "compression_ratio": 1.1143
+    },
+    {
+      "text": "行好很好",
+      "start": 88.3,
+      "end": 90.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3163,
+      "compression_ratio": 1.1143
+    },
+    {
+      "text": "来再看一下",
+      "start": 90.32,
+      "end": 91.82,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3163,
+      "compression_ratio": 1.1143
+    },
+    {
+      "text": "这个精卫分明次弄点是什么",
+      "start": 91.82,
+      "end": 94.66,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3163,
+      "compression_ratio": 1.1143
+    },
+    {
+      "text": "它的搭配对象",
+      "start": 94.66,
+      "end": 100.97999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3163,
+      "compression_ratio": 1.1143
+    },
+    {
+      "text": "或者说它一般形容什么",
+      "start": 100.97999999999999,
+      "end": 102.38,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3163,
+      "compression_ratio": 1.1143
+    },
+    {
+      "text": "精卫分明",
+      "start": 102.38,
+      "end": 103.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3163,
+      "compression_ratio": 1.1143
+    },
+    {
+      "text": "啊很好",
+      "start": 103.56,
+      "end": 116.26,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2073,
+      "compression_ratio": 1.0645
+    },
+    {
+      "text": "界限边界",
+      "start": 116.26,
+      "end": 118.34,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2073,
+      "compression_ratio": 1.0645
+    },
+    {
+      "text": "对吧啊",
+      "start": 118.34,
+      "end": 119.32000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2073,
+      "compression_ratio": 1.0645
+    },
+    {
+      "text": "精卫分明啊",
+      "start": 119.32000000000001,
+      "end": 120.22,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2073,
+      "compression_ratio": 1.0645
+    },
+    {
+      "text": "可以来再看一下",
+      "start": 120.22,
+      "end": 121.7,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2073,
+      "compression_ratio": 1.0645
+    },
+    {
+      "text": "这个各有千秋的搭配对象主语",
+      "start": 121.7,
+      "end": 124.96000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2073,
+      "compression_ratio": 1.0645
+    },
+    {
+      "text": "要注意什么",
+      "start": 124.96000000000001,
+      "end": 125.54,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2073,
+      "compression_ratio": 1.0645
+    },
+    {
+      "text": "各有千秋",
+      "start": 125.54,
+      "end": 126.78,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2073,
+      "compression_ratio": 1.0645
+    },
+    {
+      "text": "各有千秋",
+      "start": 126.78,
+      "end": 141.34,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2128,
+      "compression_ratio": 1.2828
+    },
+    {
+      "text": "搭配人对很好几个人",
+      "start": 141.34,
+      "end": 143.48,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2128,
+      "compression_ratio": 1.2828
+    },
+    {
+      "text": "需要你注意的",
+      "start": 143.48,
+      "end": 144.74,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2128,
+      "compression_ratio": 1.2828
+    },
+    {
+      "text": "对吧几个人",
+      "start": 144.74,
+      "end": 146.1,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2128,
+      "compression_ratio": 1.2828
+    },
+    {
+      "text": "一般是不是多个人是大于两个的呀",
+      "start": 146.1,
+      "end": 152.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2128,
+      "compression_ratio": 1.2828
+    },
+    {
+      "text": "比如说你擅长什么",
+      "start": 152.5,
+      "end": 153.92000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2128,
+      "compression_ratio": 1.2828
+    },
+    {
+      "text": "我擅长什么",
+      "start": 153.92000000000002,
+      "end": 154.86,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2128,
+      "compression_ratio": 1.2828
+    },
+    {
+      "text": "这叫什么各有千秋",
+      "start": 154.86,
+      "end": 156.28,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2128,
+      "compression_ratio": 1.2828
+    },
+    {
+      "text": "对吧",
+      "start": 156.28,
+      "end": 156.6,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2128,
+      "compression_ratio": 1.2828
+    },
+    {
+      "text": "咱擅长的不一样啊",
+      "start": 156.6,
+      "end": 157.68,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1498,
+      "compression_ratio": 1.3962
+    },
+    {
+      "text": "各有千秋",
+      "start": 157.68,
+      "end": 158.22,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1498,
+      "compression_ratio": 1.3962
+    },
+    {
+      "text": "那和和他相对应的",
+      "start": 158.22,
+      "end": 160.1,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1498,
+      "compression_ratio": 1.3962
+    },
+    {
+      "text": "比如说平分秋色",
+      "start": 160.1,
+      "end": 161.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1498,
+      "compression_ratio": 1.3962
+    },
+    {
+      "text": "哎就是两个人了",
+      "start": 161.32,
+      "end": 162.04,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1498,
+      "compression_ratio": 1.3962
+    },
+    {
+      "text": "因为是平分的嘛",
+      "start": 162.04,
+      "end": 163.04,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1498,
+      "compression_ratio": 1.3962
+    },
+    {
+      "text": "一分为二的啊",
+      "start": 163.04,
+      "end": 163.92,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1498,
+      "compression_ratio": 1.3962
+    },
+    {
+      "text": "没问题",
+      "start": 163.92,
+      "end": 164.26,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1498,
+      "compression_ratio": 1.3962
+    },
+    {
+      "text": "来接着看一下",
+      "start": 164.26,
+      "end": 165.45999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1498,
+      "compression_ratio": 1.3962
+    },
+    {
+      "text": "分庭抗礼",
+      "start": 165.45999999999998,
+      "end": 166.7,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1498,
+      "compression_ratio": 1.3962
+    },
+    {
+      "text": "你需要注意什么",
+      "start": 166.7,
+      "end": 167.54,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1498,
+      "compression_ratio": 1.3962
+    },
+    {
+      "text": "分庭抗礼",
+      "start": 167.54,
+      "end": 168.95999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1498,
+      "compression_ratio": 1.3962
+    },
+    {
+      "text": "有一个字抗",
+      "start": 168.95999999999998,
+      "end": 175.57999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1498,
+      "compression_ratio": 1.3962
+    },
+    {
+      "text": "对吧",
+      "start": 175.57999999999998,
+      "end": 176.79999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1498,
+      "compression_ratio": 1.3962
+    },
+    {
+      "text": "啊有两个语意哈",
+      "start": 176.79999999999998,
+      "end": 178.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1498,
+      "compression_ratio": 1.3962
+    },
+    {
+      "text": "分庭抗礼有两有两个侧重点",
+      "start": 178.5,
+      "end": 180.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1498,
+      "compression_ratio": 1.3962
+    },
+    {
+      "text": "第一个是说我站在庭院的两端",
+      "start": 180.56,
+      "end": 184.35999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1498,
+      "compression_ratio": 1.3962
+    },
+    {
+      "text": "相对行李是平起平坐的啊",
+      "start": 184.35999999999999,
+      "end": 186.2,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1498,
+      "compression_ratio": 1.3962
+    },
+    {
+      "text": "是平等的",
+      "start": 186.2,
+      "end": 186.82,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2732,
+      "compression_ratio": 1.3191
+    },
+    {
+      "text": "第二个有一个抗",
+      "start": 186.82,
+      "end": 187.92,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2732,
+      "compression_ratio": 1.3191
+    },
+    {
+      "text": "抗可以体现对立对抗",
+      "start": 187.92,
+      "end": 189.78,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2732,
+      "compression_ratio": 1.3191
+    },
+    {
+      "text": "没关系啊",
+      "start": 189.78,
+      "end": 190.76,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2732,
+      "compression_ratio": 1.3191
+    },
+    {
+      "text": "可以",
+      "start": 190.76,
+      "end": 191.01999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2732,
+      "compression_ratio": 1.3191
+    },
+    {
+      "text": "来",
+      "start": 191.01999999999998,
+      "end": 191.67999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2732,
+      "compression_ratio": 1.3191
+    },
+    {
+      "text": "机后流光是啥意思来着",
+      "start": 191.67999999999998,
+      "end": 193.26,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2732,
+      "compression_ratio": 1.3191
+    },
+    {
+      "text": "积累到位了吗",
+      "start": 193.26,
+      "end": 194.01999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2732,
+      "compression_ratio": 1.3191
+    },
+    {
+      "text": "机后流光",
+      "start": 194.01999999999998,
+      "end": 195.1,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2732,
+      "compression_ratio": 1.3191
+    },
+    {
+      "text": "嗯",
+      "start": 195.1,
+      "end": 204.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2732,
+      "compression_ratio": 1.3191
+    },
+    {
+      "text": "机后流光啥意思来着",
+      "start": 204.32,
+      "end": 206.23999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2732,
+      "compression_ratio": 1.3191
+    },
+    {
+      "text": "再看一下啊",
+      "start": 214.6,
+      "end": 215.67999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2732,
+      "compression_ratio": 1.3191
+    },
+    {
+      "text": "积累的功德",
+      "start": 215.68,
+      "end": 221.44,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2381,
+      "compression_ratio": 1.2468
+    },
+    {
+      "text": "功业越深厚",
+      "start": 221.44,
+      "end": 222.52,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2381,
+      "compression_ratio": 1.2468
+    },
+    {
+      "text": "流传给后人的恩德是越广的",
+      "start": 222.52,
+      "end": 224.9,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2381,
+      "compression_ratio": 1.2468
+    },
+    {
+      "text": "对吧",
+      "start": 224.9,
+      "end": 225.22,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2381,
+      "compression_ratio": 1.2468
+    },
+    {
+      "text": "没关系",
+      "start": 225.22,
+      "end": 225.68,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2381,
+      "compression_ratio": 1.2468
+    },
+    {
+      "text": "再梳理梳理",
+      "start": 225.68,
+      "end": 226.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2381,
+      "compression_ratio": 1.2468
+    },
+    {
+      "text": "来接着",
+      "start": 226.32,
+      "end": 227.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2381,
+      "compression_ratio": 1.2468
+    },
+    {
+      "text": "巧夺天公什么意思",
+      "start": 227.32,
+      "end": 229.16,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2381,
+      "compression_ratio": 1.2468
+    },
+    {
+      "text": "巧夺天公注意点是什么",
+      "start": 229.16,
+      "end": 232.10000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2381,
+      "compression_ratio": 1.2468
+    },
+    {
+      "text": "你要搭配什么",
+      "start": 232.10000000000002,
+      "end": 232.9,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2381,
+      "compression_ratio": 1.2468
+    },
+    {
+      "text": "注意这上面",
+      "start": 232.9,
+      "end": 245.58,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2381,
+      "compression_ratio": 1.2468
+    },
+    {
+      "text": "搭配什么",
+      "start": 245.58,
+      "end": 246.14000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.188,
+      "compression_ratio": 1.5231
+    },
+    {
+      "text": "巧读的是天宫",
+      "start": 246.14000000000001,
+      "end": 248.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.188,
+      "compression_ratio": 1.5231
+    },
+    {
+      "text": "对吧",
+      "start": 248.06,
+      "end": 248.98000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.188,
+      "compression_ratio": 1.5231
+    },
+    {
+      "text": "那他是人工的",
+      "start": 248.98000000000002,
+      "end": 251.02,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.188,
+      "compression_ratio": 1.5231
+    },
+    {
+      "text": "还是这个天然的呢",
+      "start": 251.02,
+      "end": 253.82000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.188,
+      "compression_ratio": 1.5231
+    },
+    {
+      "text": "对吧",
+      "start": 253.82000000000002,
+      "end": 255.20000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.188,
+      "compression_ratio": 1.5231
+    },
+    {
+      "text": "搭配人",
+      "start": 255.20000000000002,
+      "end": 255.88000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.188,
+      "compression_ratio": 1.5231
+    },
+    {
+      "text": "还是搭配这个大自然",
+      "start": 255.88000000000002,
+      "end": 258.18,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.188,
+      "compression_ratio": 1.5231
+    },
+    {
+      "text": "人定圣天",
+      "start": 258.18,
+      "end": 259.2,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.188,
+      "compression_ratio": 1.5231
+    },
+    {
+      "text": "搭配什么",
+      "start": 259.2,
+      "end": 259.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.188,
+      "compression_ratio": 1.5231
+    },
+    {
+      "text": "巧读天宫",
+      "start": 259.72,
+      "end": 260.46000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.188,
+      "compression_ratio": 1.5231
+    },
+    {
+      "text": "搭配的对象应该是",
+      "start": 260.46000000000004,
+      "end": 261.76,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.188,
+      "compression_ratio": 1.5231
+    },
+    {
+      "text": "这个人工的",
+      "start": 261.76,
+      "end": 263.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.188,
+      "compression_ratio": 1.5231
+    },
+    {
+      "text": "比如说工艺品啊",
+      "start": 263.32,
+      "end": 264.46000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.188,
+      "compression_ratio": 1.5231
+    },
+    {
+      "text": "建筑啊",
+      "start": 264.46000000000004,
+      "end": 265.2,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.188,
+      "compression_ratio": 1.5231
+    },
+    {
+      "text": "手工作品啊",
+      "start": 265.2,
+      "end": 266.04,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.188,
+      "compression_ratio": 1.5231
+    },
+    {
+      "text": "对不对",
+      "start": 266.04,
+      "end": 266.38,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.188,
+      "compression_ratio": 1.5231
+    },
+    {
+      "text": "那与之相对的鬼斧神宫呢",
+      "start": 266.38,
+      "end": 269.18,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.188,
+      "compression_ratio": 1.5231
+    },
+    {
+      "text": "来鬼斧神宫",
+      "start": 269.18,
+      "end": 271.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.188,
+      "compression_ratio": 1.5231
+    },
+    {
+      "text": "鬼斧神功",
+      "start": 275.58,
+      "end": 288.3,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1758,
+      "compression_ratio": 1.1408
+    },
+    {
+      "text": "像鬼的斧子一样",
+      "start": 288.3,
+      "end": 289.68,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1758,
+      "compression_ratio": 1.1408
+    },
+    {
+      "text": "对吧",
+      "start": 289.68,
+      "end": 289.96,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1758,
+      "compression_ratio": 1.1408
+    },
+    {
+      "text": "是大自然很好",
+      "start": 289.96,
+      "end": 290.82,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1758,
+      "compression_ratio": 1.1408
+    },
+    {
+      "text": "没问题",
+      "start": 290.82,
+      "end": 291.24,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1758,
+      "compression_ratio": 1.1408
+    },
+    {
+      "text": "登峰造极",
+      "start": 291.24,
+      "end": 292.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1758,
+      "compression_ratio": 1.1408
+    },
+    {
+      "text": "程度怎么样",
+      "start": 292.88,
+      "end": 293.78,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1758,
+      "compression_ratio": 1.1408
+    },
+    {
+      "text": "来登峰造极",
+      "start": 293.78,
+      "end": 295.12,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1758,
+      "compression_ratio": 1.1408
+    },
+    {
+      "text": "是不是到峰了呀",
+      "start": 295.12,
+      "end": 296.4,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1758,
+      "compression_ratio": 1.1408
+    },
+    {
+      "text": "到顶点了呀",
+      "start": 296.4,
+      "end": 297.7,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1758,
+      "compression_ratio": 1.1408
+    },
+    {
+      "text": "对吧",
+      "start": 297.7,
+      "end": 298.29999999999995,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1758,
+      "compression_ratio": 1.1408
+    },
+    {
+      "text": "来目无全",
+      "start": 298.29999999999995,
+      "end": 299.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1758,
+      "compression_ratio": 1.1408
+    }
+  ],
+  "repairs": [],
+  "index": 22,
+  "start": 6600.0,
+  "duration": 300,
+  "elapsed": 29.8,
+  "ok": true,
+  "initial_prompt": "四海公考，公务员考试，言语理解与表达，逻辑填空，高频实词，成语辨析，语义侧重，感情色彩，搭配对象，适用语境，易混词，例句。简体中文。课件词条：如出一辙，千篇一律，泾渭分明，分庭抗礼。"
+}

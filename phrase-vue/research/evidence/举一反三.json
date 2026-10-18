@@ -1,0 +1,70 @@
+{
+    "word": "举一反三",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%BE%E4%B8%80%E5%8F%8D%E4%B8%89",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "48e5636b9d4f31ee499ce895a80bfb69606416ed5c4d3ad04cfbda358db83855",
+        "bytes": 27487
+    },
+    "parsed": {
+        "found": true,
+        "word": "举一反三",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jǔ",
+                "yī",
+                "fǎn",
+                "sān"
+            ],
+            "zhuyin": [
+                "ㄐㄩˇ",
+                "ㄧ",
+                "ㄈㄢˇ",
+                "ㄙㄢ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "从一件事情类推而知道其他许多事情。",
+                "citations": [
+                    {
+                        "text": "邕与李则游学鄙土，时在弱冠，始共读《左氏传》，通敏兼人，举一反三。",
+                        "source": "《北堂书钞》卷九八引《蔡邕别传》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "邕与李则游学鄙土，时在弱冠，始共读《左氏传》，通敏兼人，举一反三。",
+                "source": "《北堂书钞》卷九八引《蔡邕别传》"
+            }
+        ],
+        "synonyms": [
+            "融会贯通",
+            "触类旁通",
+            "闻一知十",
+            "问牛知马"
+        ],
+        "antonyms": [
+            "囫囵吞枣",
+            "不求甚解",
+            "浅尝辄止"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "infer other things from one fact"
+    },
+    "blocks": {
+        "reading": "jǔ yī fǎn sān",
+        "sense-1": "从一件事情类推而知道其他许多事情。",
+        "citation-1": "邕与李则游学鄙土，时在弱冠，始共读《左氏传》，通敏兼人，举一反三。 — 《北堂书钞》卷九八引《蔡邕别传》",
+        "synonyms": "融会贯通、触类旁通、闻一知十、问牛知马",
+        "antonyms": "囫囵吞枣、不求甚解、浅尝辄止"
+    }
+}

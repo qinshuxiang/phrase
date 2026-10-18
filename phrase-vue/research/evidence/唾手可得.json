@@ -1,0 +1,68 @@
+{
+    "word": "唾手可得",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%94%BE%E6%89%8B%E5%8F%AF%E5%BE%97",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "dd00b62a0d4309e0a208da99eaa934630109b5e0d8ebd1cccfe08ea20f0fcae8",
+        "bytes": 28665
+    },
+    "parsed": {
+        "found": true,
+        "word": "唾手可得",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "tuò",
+                "shǒu",
+                "kě",
+                "dé"
+            ],
+            "zhuyin": [
+                "ㄊㄨㄛˋ",
+                "ㄕㄡˇ",
+                "ㄎㄜˇ",
+                "˙ㄉㄜ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容极容易获得或成功。",
+                "citations": [
+                    {
+                        "text": "韩馥无谋之辈，必请将军领州事，就中取事，唾手可得。",
+                        "source": "《三国演义》第七回"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "韩馥无谋之辈，必请将军领州事，就中取事，唾手可得。",
+                "source": "《三国演义》第七回"
+            }
+        ],
+        "synonyms": [
+            "易如反掌",
+            "轻而易举"
+        ],
+        "antonyms": [
+            "大海捞针",
+            "难于登天",
+            "百世难期"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "easily obtainable"
+    },
+    "blocks": {
+        "reading": "tuò shǒu kě dé",
+        "sense-1": "形容极容易获得或成功。",
+        "citation-1": "韩馥无谋之辈，必请将军领州事，就中取事，唾手可得。 — 《三国演义》第七回",
+        "synonyms": "易如反掌、轻而易举",
+        "antonyms": "大海捞针、难于登天、百世难期"
+    }
+}

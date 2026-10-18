@@ -1,0 +1,63 @@
+{
+    "word": "寥若晨星",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%AF%A5%E8%8B%A5%E6%99%A8%E6%98%9F",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "22d13776623c64e4a06dfcfd8c3a97665c7f75f7b8eef922dfd85741c5714141",
+        "bytes": 29096
+    },
+    "parsed": {
+        "found": true,
+        "word": "寥若晨星",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "liáo",
+                "ruò",
+                "chén",
+                "xīng"
+            ],
+            "zhuyin": [
+                "ㄌㄧㄠˊ",
+                "ㄖㄨㄛˋ",
+                "ㄔㄣˊ",
+                "ㄒㄧㄥ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "南朝齐·谢朓《京路夜发》诗:“晓星正寥落,晨光复泱漭。”唐·韩愈《华山女》诗:“黄衣道士亦讲说,座下寥落如明星。”寥:稀少。稀少得像早晨的星星。形容数量稀少",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "屈指可数",
+            "凤毛麟角",
+            "寥寥可数",
+            "寥寥无几"
+        ],
+        "antonyms": [
+            "数不胜数",
+            "无穷无尽",
+            "车载斗量",
+            "不乏其人",
+            "不胜枚举",
+            "满坑满谷",
+            "恒河沙数"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "as sparse as the morning stars;rare;scanty; be rare like morning stars"
+    },
+    "blocks": {
+        "reading": "liáo ruò chén xīng",
+        "sense-1": "南朝齐·谢朓《京路夜发》诗:“晓星正寥落,晨光复泱漭。”唐·韩愈《华山女》诗:“黄衣道士亦讲说,座下寥落如明星。”寥:稀少。稀少得像早晨的星星。形容数量稀少",
+        "synonyms": "屈指可数、凤毛麟角、寥寥可数、寥寥无几",
+        "antonyms": "数不胜数、无穷无尽、车载斗量、不乏其人、不胜枚举、满坑满谷、恒河沙数"
+    }
+}

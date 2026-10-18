@@ -1,0 +1,86 @@
+{
+    "word": "出类拔萃",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%87%BA%E7%B1%BB%E6%8B%94%E8%90%83",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "74ff17143a2ca9653f9e99dda8c370d8e547c5a672ce3a39438320f577c542a3",
+        "bytes": 29341
+    },
+    "parsed": {
+        "found": true,
+        "word": "出类拔萃",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "chū",
+                "lèi",
+                "bá",
+                "cuì"
+            ],
+            "zhuyin": [
+                "ㄔㄨ",
+                "ㄌㄟˋ",
+                "ㄅㄚˊ",
+                "ㄘㄨㄟˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容才能或品德超越众人，特别优秀。",
+                "citations": [
+                    {
+                        "text": "琬出类拔萃，处群僚之右。",
+                        "source": "《三国志·蜀志·蒋琬传》"
+                    },
+                    {
+                        "text": "诚知足下出群拔萃，无谓仆何从而得之也。",
+                        "source": "唐·韩愈《与崔群书》"
+                    }
+                ]
+            },
+            {
+                "definition": "表现特别突出，与众不同。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "琬出类拔萃，处群僚之右。",
+                "source": "《三国志·蜀志·蒋琬传》"
+            },
+            {
+                "text": "诚知足下出群拔萃，无谓仆何从而得之也。",
+                "source": "唐·韩愈《与崔群书》"
+            }
+        ],
+        "synonyms": [
+            "超群绝伦",
+            "鹤立鸡群",
+            "佼佼不群",
+            "卓绝群伦",
+            "卓尔不群",
+            "出人头地"
+        ],
+        "antonyms": [
+            "碌碌无能",
+            "滥竽充数",
+            "碌碌无为"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "outstanding"
+    },
+    "blocks": {
+        "reading": "chū lèi bá cuì",
+        "sense-1": "形容才能或品德超越众人，特别优秀。",
+        "sense-2": "表现特别突出，与众不同。",
+        "citation-1": "琬出类拔萃，处群僚之右。 — 《三国志·蜀志·蒋琬传》",
+        "citation-2": "诚知足下出群拔萃，无谓仆何从而得之也。 — 唐·韩愈《与崔群书》",
+        "synonyms": "超群绝伦、鹤立鸡群、佼佼不群、卓绝群伦、卓尔不群、出人头地",
+        "antonyms": "碌碌无能、滥竽充数、碌碌无为"
+    }
+}

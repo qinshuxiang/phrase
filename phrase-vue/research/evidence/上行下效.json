@@ -1,0 +1,48 @@
+{
+    "word": "上行下效",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%8A%E8%A1%8C%E4%B8%8B%E6%95%88",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "90f2266910f9bca7af14ad992a2fc819ec3f2df5cc33de1173de338299363ea0",
+        "bytes": 26338
+    },
+    "parsed": {
+        "found": true,
+        "word": "上行下效",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shàng",
+                "xíng",
+                "xià",
+                "xiào"
+            ],
+            "zhuyin": [
+                "ㄕㄤˋ",
+                "ㄒㄧㄥˊ",
+                "ㄒㄧㄚˋ",
+                "ㄒㄧㄠˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "指上面的人怎样做,下面的人就跟着怎么做。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "follow the example set by the superior;the inferiors imitate the superiors"
+    },
+    "blocks": {
+        "reading": "shàng xíng xià xiào",
+        "sense-1": "指上面的人怎样做,下面的人就跟着怎么做。"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "word": "妙笔生花",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A6%99%E7%AC%94%E7%94%9F%E8%8A%B1",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "dce94bf048659c1c7ac1c9d5d918a76e0b5d925c076059b00bc4855c867ceccb",
+        "bytes": 24106
+    },
+    "parsed": {
+        "found": true,
+        "word": "妙笔生花",
+        "section": "idiom",
+        "readings": {
+            "pinyin": [
+                "miào",
+                "bǐ",
+                "shēng",
+                "huā"
+            ],
+            "zhuyin": [
+                "ㄇㄧㄠˋ",
+                "ㄅㄧˇ",
+                "ㄕㄥ",
+                "ㄏㄨㄚ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻杰出的写作才能。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": {
+            "text": "五代·王仁裕《开元天宝遗事·梦笔头生花》：“李太白少时，梦所用之笔头上生花后天才赡逸，名闻天下。”",
+            "source": "妙笔生花"
+        },
+        "grammar": "偏正式；作谓语；含褒义",
+        "example": "",
+        "english": ""
+    },
+    "blocks": {
+        "reading": "miào bǐ shēng huā",
+        "sense-1": "比喻杰出的写作才能。",
+        "origin": "五代·王仁裕《开元天宝遗事·梦笔头生花》：“李太白少时，梦所用之笔头上生花后天才赡逸，名闻天下。”",
+        "grammar": "偏正式；作谓语；含褒义"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "word": "铤而走险",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%93%A4%E8%80%8C%E8%B5%B0%E9%99%A9",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "87a83d1075d14e07e7f8e58be1add48c7c477bfe7ca5891bd3cb8e49ddd3606c",
+        "bytes": 26487
+    },
+    "parsed": {
+        "found": true,
+        "word": "铤而走险",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "tǐng",
+                "ér",
+                "zǒu",
+                "xiǎn"
+            ],
+            "zhuyin": [
+                "ㄊㄧㄥˇ",
+                "ㄦˊ",
+                "ㄗㄡˇ",
+                "ㄒㄧㄢˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "指在无路可走的情况下采取冒险行动。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "desperate"
+    },
+    "blocks": {
+        "reading": "tǐng ér zǒu xiǎn",
+        "sense-1": "指在无路可走的情况下采取冒险行动。"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "word": "形影相吊",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%BD%A2%E5%BD%B1%E7%9B%B8%E5%90%8A",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "9d8613650f7a7baeddf6f09cbd030d3ee5739dc2bec972789b9f87535ae45477",
+        "bytes": 27912
+    },
+    "parsed": {
+        "found": true,
+        "word": "形影相吊",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "xíng",
+                "yǐng",
+                "xiāng",
+                "diào"
+            ],
+            "zhuyin": [
+                "ㄒㄧㄥˊ",
+                "ㄧㄥˇ",
+                "ㄒㄧㄤ",
+                "ㄉㄧㄠˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容孤独无依的状态。",
+                "citations": [
+                    {
+                        "text": "形影相吊，五情愧赧。",
+                        "source": "三国·魏·曹植《上责躬诗表》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "形影相吊，五情愧赧。",
+                "source": "三国·魏·曹植《上责躬诗表》"
+            }
+        ],
+        "synonyms": [
+            "孤苦伶仃",
+            "孤家寡人",
+            "形单影只"
+        ],
+        "antonyms": [
+            "前呼后拥",
+            "门庭若市",
+            "济济一堂",
+            "形影不离"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "mutual consolation"
+    },
+    "blocks": {
+        "reading": "xíng yǐng xiāng diào",
+        "sense-1": "形容孤独无依的状态。",
+        "citation-1": "形影相吊，五情愧赧。 — 三国·魏·曹植《上责躬诗表》",
+        "synonyms": "孤苦伶仃、孤家寡人、形单影只",
+        "antonyms": "前呼后拥、门庭若市、济济一堂、形影不离"
+    }
+}

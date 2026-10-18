@@ -1,0 +1,73 @@
+{
+    "word": "空中楼阁",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%A9%BA%E4%B8%AD%E6%A5%BC%E9%98%81",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "d9a4253d05930f6d1ea5f0a841c333b11ccb5baf421dda69edbe0ed52553ffc8",
+        "bytes": 28231
+    },
+    "parsed": {
+        "found": true,
+        "word": "空中楼阁",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "kōng",
+                "zhōng",
+                "lóu",
+                "gé"
+            ],
+            "zhuyin": [
+                "ㄎㄨㄥ",
+                "ㄓㄨㄥ",
+                "ㄌㄡˊ",
+                "ㄍㄜˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "空中显现的楼台殿阁，即海市蜃楼。",
+                "citations": [
+                    {
+                        "text": "空中结楼殿，意表出云霞。",
+                        "source": "唐·宋之问《游法华寺》"
+                    },
+                    {
+                        "text": "问：‘程子谓康节空中楼阁。’曰：‘是看得四通八达，庄子比康节亦髣彿相似。’",
+                        "source": "宋·朱熹《朱子语类》"
+                    }
+                ]
+            },
+            {
+                "definition": "比喻虚幻不实的事物或空想。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "空中结楼殿，意表出云霞。",
+                "source": "唐·宋之问《游法华寺》"
+            },
+            {
+                "text": "问：‘程子谓康节空中楼阁。’曰：‘是看得四通八达，庄子比康节亦髣彿相似。’",
+                "source": "宋·朱熹《朱子语类》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "mirage"
+    },
+    "blocks": {
+        "reading": "kōng zhōng lóu gé",
+        "sense-1": "空中显现的楼台殿阁，即海市蜃楼。",
+        "sense-2": "比喻虚幻不实的事物或空想。",
+        "citation-1": "空中结楼殿，意表出云霞。 — 唐·宋之问《游法华寺》",
+        "citation-2": "问：‘程子谓康节空中楼阁。’曰：‘是看得四通八达，庄子比康节亦髣彿相似。’ — 宋·朱熹《朱子语类》"
+    }
+}

@@ -1,0 +1,27 @@
+
+> phrase-vue@1.0.0 test:e2e
+> playwright test
+
+[WebServer] (node:62661) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+[WebServer] (Use `node --trace-warnings ...` to show where the warning was created)
+
+Running 12 tests using 1 worker
+
+(node:62664) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+  ✓   1 [desktop] › tests/e2e/library.spec.js:14:1 › 统计与所有来源阅读、词条边界及来源循环 (2.6s)
+  ✓   2 [desktop] › tests/e2e/library.spec.js:42:1 › 分组单开、全文搜索、高亮、特殊字符与状态保留 (1.0s)
+  ✓   3 [desktop] › tests/e2e/library.spec.js:68:1 › 深浅主题跨刷新保存 (581ms)
+  ✓   4 [desktop] › tests/e2e/library.spec.js:79:1 › 浏览器禁用本地存储时仍可使用和切换主题 (544ms)
+  ✓   5 [desktop] › tests/e2e/library.spec.js:95:1 › 无外部请求，页面载入后断网仍可检索所有内嵌数据 (513ms)
+  ✓   6 [desktop] › tests/e2e/library.spec.js:120:1 › Lyra 样式、响应式导航、页面截图与横向溢出 (727ms)
+(node:62708) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+  ✓   7 [mobile] › tests/e2e/library.spec.js:14:1 › 统计与所有来源阅读、词条边界及来源循环 (2.8s)
+  ✓   8 [mobile] › tests/e2e/library.spec.js:42:1 › 分组单开、全文搜索、高亮、特殊字符与状态保留 (1.4s)
+  ✓   9 [mobile] › tests/e2e/library.spec.js:68:1 › 深浅主题跨刷新保存 (524ms)
+  ✓  10 [mobile] › tests/e2e/library.spec.js:79:1 › 浏览器禁用本地存储时仍可使用和切换主题 (564ms)
+  ✓  11 [mobile] › tests/e2e/library.spec.js:95:1 › 无外部请求，页面载入后断网仍可检索所有内嵌数据 (655ms)
+  ✓  12 [mobile] › tests/e2e/library.spec.js:120:1 › Lyra 样式、响应式导航、页面截图与横向溢出 (882ms)
+
+  12 passed (16.1s)

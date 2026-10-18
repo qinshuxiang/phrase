@@ -1,0 +1,59 @@
+{
+    "word": "危如累卵",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%8D%B1%E5%A6%82%E7%B4%AF%E5%8D%B5",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "6eedb5efdc4afe755493e87e3459b86f30708d5e732b25f74205e0c10b2e746d",
+        "bytes": 28772
+    },
+    "parsed": {
+        "found": true,
+        "word": "危如累卵",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "wēi",
+                "rú",
+                "lěi",
+                "luǎn"
+            ],
+            "zhuyin": [
+                "ㄨㄟ",
+                "ㄖㄨˊ",
+                "ㄌㄟˊ",
+                "ㄌㄨㄢˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻处境极其危险,像堆起来的蛋,随时可能滚下来,打碎",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "千钧一发",
+            "危在旦夕",
+            "岌岌可危",
+            "间不容发",
+            "一发千钧"
+        ],
+        "antonyms": [
+            "稳如泰山",
+            "安如磐石"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "in a precarious situation;as precarious as a pile of eggs"
+    },
+    "blocks": {
+        "reading": "wēi rú lěi luǎn",
+        "sense-1": "比喻处境极其危险,像堆起来的蛋,随时可能滚下来,打碎",
+        "synonyms": "千钧一发、危在旦夕、岌岌可危、间不容发、一发千钧",
+        "antonyms": "稳如泰山、安如磐石"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "word": "优胜劣汰",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%BC%98%E8%83%9C%E5%8A%A3%E6%B1%B0",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "3e1c04b6ebe9bed9d9ccfe4167d86244d90a12ccbae4a79b7ddfd415773f3e8b",
+        "bytes": 20682
+    },
+    "parsed": {
+        "found": true,
+        "word": "优胜劣汰",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yōu",
+                "shèng",
+                "liè",
+                "tài"
+            ],
+            "zhuyin": []
+        },
+        "senses": [
+            {
+                "definition": "优秀的得以胜出，低劣的遭到淘汰。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "survival of the fittest"
+    },
+    "blocks": {
+        "reading": "yōu shèng liè tài",
+        "sense-1": "优秀的得以胜出，低劣的遭到淘汰。"
+    }
+}

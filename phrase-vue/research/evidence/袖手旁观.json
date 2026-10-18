@@ -1,0 +1,69 @@
+{
+    "word": "袖手旁观",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%A2%96%E6%89%8B%E6%97%81%E8%A7%82",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "88ae74caa1e72d504c3f1323beb0c28794427c079e2efd09939b9a7836a4e186",
+        "bytes": 28155
+    },
+    "parsed": {
+        "found": true,
+        "word": "袖手旁观",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "xiù",
+                "shǒu",
+                "páng",
+                "guān"
+            ],
+            "zhuyin": [
+                "ㄒㄧㄡˋ",
+                "ㄕㄡˇ",
+                "ㄆㄤˊ",
+                "ㄍㄨㄢ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "将手藏在袖子里，站在一旁观看。比喻置身事外，不参与也不协助。",
+                "citations": [
+                    {
+                        "text": "弈碁者胜负之形，虽国工有所未尽，而袖手旁观者常尽之。",
+                        "source": "宋·苏轼《朝辞赴定州论事状》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "弈碁者胜负之形，虽国工有所未尽，而袖手旁观者常尽之。",
+                "source": "宋·苏轼《朝辞赴定州论事状》"
+            }
+        ],
+        "synonyms": [
+            "漠不关心",
+            "冷眼旁观",
+            "隔岸观火",
+            "置身事外"
+        ],
+        "antonyms": [
+            "挺身而出",
+            "拔刀相助"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "look on with folded arms"
+    },
+    "blocks": {
+        "reading": "xiù shǒu páng guān",
+        "sense-1": "将手藏在袖子里，站在一旁观看。比喻置身事外，不参与也不协助。",
+        "citation-1": "弈碁者胜负之形，虽国工有所未尽，而袖手旁观者常尽之。 — 宋·苏轼《朝辞赴定州论事状》",
+        "synonyms": "漠不关心、冷眼旁观、隔岸观火、置身事外",
+        "antonyms": "挺身而出、拔刀相助"
+    }
+}

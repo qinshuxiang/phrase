@@ -1,0 +1,62 @@
+{
+    "word": "习焉不察",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B9%A0%E7%84%89%E4%B8%8D%E5%AF%9F",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "a643e01e110d1089c8494359a11d57f9b3a713ccbdfc907a731a242319aa4f2a",
+        "bytes": 23434
+    },
+    "parsed": {
+        "found": true,
+        "word": "习焉不察",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "xī",
+                "yān",
+                "bù",
+                "chá"
+            ],
+            "zhuyin": [
+                "ㄒㄧˊ",
+                "ㄧㄢ",
+                "ㄅㄨˋ",
+                "ㄔㄚˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "习惯于某种事物而觉察不到其中的问题。",
+                "citations": [
+                    {
+                        "text": "而不晓文义者，习焉不察，概谓有旨为进止，如堂底所载，凡宣旨皆云有进止者，相承之误也。",
+                        "source": "宋·张淏《云谷杂记·取进止》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "而不晓文义者，习焉不察，概谓有旨为进止，如堂底所载，凡宣旨皆云有进止者，相承之误也。",
+                "source": "宋·张淏《云谷杂记·取进止》"
+            }
+        ],
+        "synonyms": [
+            "习而不察"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "accustomed to something without noticing its problems"
+    },
+    "blocks": {
+        "reading": "xī yān bù chá",
+        "sense-1": "习惯于某种事物而觉察不到其中的问题。",
+        "citation-1": "而不晓文义者，习焉不察，概谓有旨为进止，如堂底所载，凡宣旨皆云有进止者，相承之误也。 — 宋·张淏《云谷杂记·取进止》",
+        "synonyms": "习而不察"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "word": "争先恐后",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%BA%89%E5%85%88%E6%81%90%E5%90%8E",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "238680762a5ee0adc425cdf2e8ffc77c86233f369705f41429696870d4953921",
+        "bytes": 25808
+    },
+    "parsed": {
+        "found": true,
+        "word": "争先恐后",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zhēng",
+                "xiān",
+                "kǒng",
+                "hòu"
+            ],
+            "zhuyin": [
+                "ㄓㄥ",
+                "ㄒㄧㄢ",
+                "ㄎㄨㄥˇ",
+                "ㄏㄡˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "争着向前，唯恐落后。",
+                "citations": [
+                    {
+                        "text": "于此之时，彬彬雅雅，争先恐后，何其盛耶！",
+                        "source": "明·唐顺之《春坊中允方泉李君墓表》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "于此之时，彬彬雅雅，争先恐后，何其盛耶！",
+                "source": "明·唐顺之《春坊中允方泉李君墓表》"
+            }
+        ],
+        "synonyms": [
+            "力争上游"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "strive to be first"
+    },
+    "blocks": {
+        "reading": "zhēng xiān kǒng hòu",
+        "sense-1": "争着向前，唯恐落后。",
+        "citation-1": "于此之时，彬彬雅雅，争先恐后，何其盛耶！ — 明·唐顺之《春坊中允方泉李君墓表》",
+        "synonyms": "力争上游"
+    }
+}

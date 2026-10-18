@@ -1,0 +1,70 @@
+{
+    "word": "汗牛充栋",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%B1%97%E7%89%9B%E5%85%85%E6%A0%8B",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "252707f19b663cf8078553f44a568ad531a66802ecce38856d39a17732cf65de",
+        "bytes": 27162
+    },
+    "parsed": {
+        "found": true,
+        "word": "汗牛充栋",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "hàn",
+                "niú",
+                "chōng",
+                "dòng"
+            ],
+            "zhuyin": [
+                "ㄏㄢˋ",
+                "ㄋㄧㄨˊ",
+                "ㄔㄨㄥ",
+                "ㄉㄨㄥˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容书籍极多，存放时堆满屋宇，运送时可使牛马累得出汗。",
+                "citations": [
+                    {
+                        "text": "汗牛充栋成何事，堪笑迂儒错用功。",
+                        "source": "宋·陆游《冬夜读书有感》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "汗牛充栋成何事，堪笑迂儒错用功。",
+                "source": "宋·陆游《冬夜读书有感》"
+            }
+        ],
+        "synonyms": [
+            "左图右史",
+            "不计其数",
+            "浩如烟海"
+        ],
+        "antonyms": [
+            "寥寥无几",
+            "屈指可数",
+            "寥若晨星",
+            "凤毛麟角"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "numerous books"
+    },
+    "blocks": {
+        "reading": "hàn niú chōng dòng",
+        "sense-1": "形容书籍极多，存放时堆满屋宇，运送时可使牛马累得出汗。",
+        "citation-1": "汗牛充栋成何事，堪笑迂儒错用功。 — 宋·陆游《冬夜读书有感》",
+        "synonyms": "左图右史、不计其数、浩如烟海",
+        "antonyms": "寥寥无几、屈指可数、寥若晨星、凤毛麟角"
+    }
+}

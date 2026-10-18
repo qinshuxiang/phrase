@@ -1,0 +1,56 @@
+{
+    "word": "如雷贯耳",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A6%82%E9%9B%B7%E8%B4%AF%E8%80%B3",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "c28aa34506dda8c26b757038fd00bca544e2a6d02c8b0ee406f9d2ab0a2de771",
+        "bytes": 26470
+    },
+    "parsed": {
+        "found": true,
+        "word": "如雷贯耳",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "rú",
+                "léi",
+                "guàn",
+                "ěr"
+            ],
+            "zhuyin": [
+                "ㄖㄨˊ",
+                "ㄌㄟˊ",
+                "ㄍㄨㄢˋ",
+                "ㄦˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容名声极大，像雷声传入耳中般响亮。 见“ 如雷灌耳",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "名满天下",
+            "闻名遐尔",
+            "如雷灌耳"
+        ],
+        "antonyms": [
+            "无名小卒"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "thunderous"
+    },
+    "blocks": {
+        "reading": "rú léi guàn ěr",
+        "sense-1": "形容名声极大，像雷声传入耳中般响亮。 见“ 如雷灌耳",
+        "synonyms": "名满天下、闻名遐尔、如雷灌耳",
+        "antonyms": "无名小卒"
+    }
+}

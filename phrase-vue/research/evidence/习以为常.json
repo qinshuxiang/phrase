@@ -1,0 +1,69 @@
+{
+    "word": "习以为常",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B9%A0%E4%BB%A5%E4%B8%BA%E5%B8%B8",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "b77cb5df932ad654c4795c82e206fbeeb5ec6aa77c91eeb9b02e8b9dc58731fc",
+        "bytes": 27915
+    },
+    "parsed": {
+        "found": true,
+        "word": "习以为常",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "xí",
+                "yǐ",
+                "wéi",
+                "cháng"
+            ],
+            "zhuyin": [
+                "ㄒㄧˊ",
+                "ㄧˇ",
+                "ㄨㄟˊ",
+                "ㄔㄤˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "经常如此，养成习惯，就当作平常的事情。",
+                "citations": [
+                    {
+                        "text": "自上世相承，习以为常，民不惊扰。",
+                        "source": "宋·司马光《乞罢保甲状》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "自上世相承，习以为常，民不惊扰。",
+                "source": "宋·司马光《乞罢保甲状》"
+            }
+        ],
+        "synonyms": [
+            "屡见不鲜",
+            "不足为奇",
+            "家常便饭",
+            "司空见惯"
+        ],
+        "antonyms": [
+            "千载难逢",
+            "少见多怪"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "be accustomed to"
+    },
+    "blocks": {
+        "reading": "xí yǐ wéi cháng",
+        "sense-1": "经常如此，养成习惯，就当作平常的事情。",
+        "citation-1": "自上世相承，习以为常，民不惊扰。 — 宋·司马光《乞罢保甲状》",
+        "synonyms": "屡见不鲜、不足为奇、家常便饭、司空见惯",
+        "antonyms": "千载难逢、少见多怪"
+    }
+}

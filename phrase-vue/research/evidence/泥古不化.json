@@ -1,0 +1,67 @@
+{
+    "word": "泥古不化",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%B3%A5%E5%8F%A4%E4%B8%8D%E5%8C%96",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "08720ada2e0ba0da6386285a64a3342b510ffad72615fc8eb3c54fca1b5479ad",
+        "bytes": 27508
+    },
+    "parsed": {
+        "found": true,
+        "word": "泥古不化",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "nì",
+                "gǔ",
+                "bù",
+                "huà"
+            ],
+            "zhuyin": [
+                "ㄋㄧˋ",
+                "ㄍㄨˇ",
+                "ㄅㄨˋ",
+                "ㄏㄨㄚˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "拘泥于古代成规或古人说法而不知变通。",
+                "citations": [
+                    {
+                        "text": "兵家成书具在，师心自用者非，泥古不化者亦非。",
+                        "source": "清·梁章钜《退庵随笔·知兵》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "兵家成书具在，师心自用者非，泥古不化者亦非。",
+                "source": "清·梁章钜《退庵随笔·知兵》"
+            }
+        ],
+        "synonyms": [
+            "食古不化",
+            "因循守旧"
+        ],
+        "antonyms": [
+            "推陈出新",
+            "弃旧图新"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "slavishly follow antiquity"
+    },
+    "blocks": {
+        "reading": "nì gǔ bù huà",
+        "sense-1": "拘泥于古代成规或古人说法而不知变通。",
+        "citation-1": "兵家成书具在，师心自用者非，泥古不化者亦非。 — 清·梁章钜《退庵随笔·知兵》",
+        "synonyms": "食古不化、因循守旧",
+        "antonyms": "推陈出新、弃旧图新"
+    }
+}

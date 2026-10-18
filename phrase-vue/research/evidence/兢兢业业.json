@@ -1,0 +1,82 @@
+{
+    "word": "兢兢业业",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%85%A2%E5%85%A2%E4%B8%9A%E4%B8%9A",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "b96202e4b579e180aa305d57e87febea2c28bc0c94d9c3284df04730a767d1ed",
+        "bytes": 27950
+    },
+    "parsed": {
+        "found": true,
+        "word": "兢兢业业",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jīng",
+                "jīng",
+                "yè",
+                "yè"
+            ],
+            "zhuyin": [
+                "ㄐㄧㄥ",
+                "ㄐㄧㄥ",
+                "ㄧㄝˋ",
+                "ㄧㄝˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "谨慎戒惧的样子。",
+                "citations": [
+                    {
+                        "text": "兢兢业业，一日二日万几。",
+                        "source": "《书·皋陶谟》"
+                    },
+                    {
+                        "text": "于是宁府中人才知凤姐利害，自此俱各兢兢业业，不敢偷安。",
+                        "source": "《红楼梦》第十四回"
+                    }
+                ]
+            },
+            {
+                "definition": "勤恳认真的态度。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "兢兢业业，一日二日万几。",
+                "source": "《书·皋陶谟》"
+            },
+            {
+                "text": "于是宁府中人才知凤姐利害，自此俱各兢兢业业，不敢偷安。",
+                "source": "《红楼梦》第十四回"
+            }
+        ],
+        "synonyms": [
+            "脚踏实地",
+            "谨小慎微",
+            "小心翼翼"
+        ],
+        "antonyms": [
+            "敷衍了事",
+            "敷衍塞责"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "cautious"
+    },
+    "blocks": {
+        "reading": "jīng jīng yè yè",
+        "sense-1": "谨慎戒惧的样子。",
+        "sense-2": "勤恳认真的态度。",
+        "citation-1": "兢兢业业，一日二日万几。 — 《书·皋陶谟》",
+        "citation-2": "于是宁府中人才知凤姐利害，自此俱各兢兢业业，不敢偷安。 — 《红楼梦》第十四回",
+        "synonyms": "脚踏实地、谨小慎微、小心翼翼",
+        "antonyms": "敷衍了事、敷衍塞责"
+    }
+}

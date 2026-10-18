@@ -1,0 +1,65 @@
+{
+    "word": "活灵活现",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%B4%BB%E7%81%B5%E6%B4%BB%E7%8E%B0",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "7849f957de01295c8192d10138284eac7289479a9f6b943340e6f751b2da1fe7",
+        "bytes": 26533
+    },
+    "parsed": {
+        "found": true,
+        "word": "活灵活现",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "huó",
+                "líng",
+                "huó",
+                "xiàn"
+            ],
+            "zhuyin": [
+                "ㄏㄨㄛˊ",
+                "ㄌㄧㄥˊ",
+                "ㄏㄨㄛˊ",
+                "ㄒㄧㄢˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容描绘或模仿得非常逼真生动。",
+                "citations": [
+                    {
+                        "text": "说得活灵活现，怎的不怕？",
+                        "source": "明·冯梦龙《醒世恒言·黄秀才徼灵玉马坠》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "说得活灵活现，怎的不怕？",
+                "source": "明·冯梦龙《醒世恒言·黄秀才徼灵玉马坠》"
+            }
+        ],
+        "synonyms": [
+            "栩栩如生",
+            "绘声绘色",
+            "有声有色",
+            "活龙活现"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "vivid"
+    },
+    "blocks": {
+        "reading": "huó líng huó xiàn",
+        "sense-1": "形容描绘或模仿得非常逼真生动。",
+        "citation-1": "说得活灵活现，怎的不怕？ — 明·冯梦龙《醒世恒言·黄秀才徼灵玉马坠》",
+        "synonyms": "栩栩如生、绘声绘色、有声有色、活龙活现"
+    }
+}

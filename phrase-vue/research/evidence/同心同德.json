@@ -1,0 +1,48 @@
+{
+    "word": "同心同德",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%90%8C%E5%BF%83%E5%90%8C%E5%BE%B7",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "22787023a422301abea4751f5072718216712e7f65250e0da75cd3ef4f820e45",
+        "bytes": 27554
+    },
+    "parsed": {
+        "found": true,
+        "word": "同心同德",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "tóng",
+                "xīn",
+                "tóng",
+                "dé"
+            ],
+            "zhuyin": [
+                "ㄊㄨㄥˊ",
+                "ㄒㄧㄣ",
+                "ㄊㄨㄥˊ",
+                "ㄉㄜˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "心、德:都指思想认识。思想认识一致、行动一致",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "be of one mind"
+    },
+    "blocks": {
+        "reading": "tóng xīn tóng dé",
+        "sense-1": "心、德:都指思想认识。思想认识一致、行动一致"
+    }
+}

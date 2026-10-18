@@ -1,0 +1,340 @@
+{
+  "text": "试上一些三个大的小词。我们的官媒，我们的领导人很喜欢用,他也喜欢考，这也算在识词当中了。然后有一些事业单位,事业单位比这个省考更喜欢考察识词一些,事业单位考察识词可能比省考多一点点,事业单位也挺喜欢考察识词的。所以你自己对照一下,第一个看有没有时间,第二个看你的目标省份,你的目标考试考不考,然后你自己合理安排一下。来行好嘞我们结束了哈预习到哪儿下午吗下午应该是我看一下预习一到五识词的一到五看一下应该发给我们的教研老师了教武老师了对识词一到五下午见拜拜各位同学辛苦了各位局长加油暗含褒贬暗含褒贬是春秋笔法对吧它是中性的就是我只是把我的想法暗含在里面所以是中性的不是电子讲义啊就是在你的后面在你那个讲义的后面你往后翻在成语的后面就是诗词诗词就是在成语的后面你往后翻对在最后行对好加油各位同学拜拜请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+  "segments": [
+    {
+      "text": "试上一些三个大的小词。我们的官媒，我们的领导人很喜欢用,他也喜欢考，这也算在识词当中了。",
+      "start": 0.0,
+      "end": 5.4,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.166,
+      "compression_ratio": 1.6184
+    },
+    {
+      "text": "然后有一些事业单位,事业单位比这个省考更喜欢考察识词一些,事业单位考察识词可能比省考多一点点,事业单位也挺喜欢考察识词的。",
+      "start": 5.9,
+      "end": 16.66,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.166,
+      "compression_ratio": 1.6184
+    },
+    {
+      "text": "所以你自己对照一下,第一个看有没有时间,第二个看你的目标省份,你的目标考试考不考,然后你自己合理安排一下。",
+      "start": 17.42,
+      "end": 23.94,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.166,
+      "compression_ratio": 1.6184
+    },
+    {
+      "text": "来行",
+      "start": 23.94,
+      "end": 25.720000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2126,
+      "compression_ratio": 1.4434
+    },
+    {
+      "text": "好嘞",
+      "start": 25.720000000000002,
+      "end": 26.080000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2126,
+      "compression_ratio": 1.4434
+    },
+    {
+      "text": "我们结束了哈",
+      "start": 26.080000000000002,
+      "end": 27.14,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2126,
+      "compression_ratio": 1.4434
+    },
+    {
+      "text": "预习到哪儿",
+      "start": 27.14,
+      "end": 29.560000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2126,
+      "compression_ratio": 1.4434
+    },
+    {
+      "text": "下午吗",
+      "start": 29.560000000000002,
+      "end": 30.240000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2126,
+      "compression_ratio": 1.4434
+    },
+    {
+      "text": "下午应该是",
+      "start": 30.240000000000002,
+      "end": 31.68,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2126,
+      "compression_ratio": 1.4434
+    },
+    {
+      "text": "我看一下",
+      "start": 31.68,
+      "end": 32.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2126,
+      "compression_ratio": 1.4434
+    },
+    {
+      "text": "预习一到五",
+      "start": 32.06,
+      "end": 33.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2126,
+      "compression_ratio": 1.4434
+    },
+    {
+      "text": "识词的一到五",
+      "start": 33.88,
+      "end": 36.52,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2126,
+      "compression_ratio": 1.4434
+    },
+    {
+      "text": "看一下",
+      "start": 36.52,
+      "end": 36.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2126,
+      "compression_ratio": 1.4434
+    },
+    {
+      "text": "应该发给我们的教研老师了",
+      "start": 36.88,
+      "end": 38.74,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2126,
+      "compression_ratio": 1.4434
+    },
+    {
+      "text": "教武老师了",
+      "start": 38.74,
+      "end": 39.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2126,
+      "compression_ratio": 1.4434
+    },
+    {
+      "text": "对识词一到五",
+      "start": 39.72,
+      "end": 40.96,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2126,
+      "compression_ratio": 1.4434
+    },
+    {
+      "text": "下午见",
+      "start": 40.96,
+      "end": 41.540000000000006,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2126,
+      "compression_ratio": 1.4434
+    },
+    {
+      "text": "拜拜",
+      "start": 41.540000000000006,
+      "end": 42.08,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2126,
+      "compression_ratio": 1.4434
+    },
+    {
+      "text": "各位同学辛苦了",
+      "start": 42.08,
+      "end": 43.2,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2126,
+      "compression_ratio": 1.4434
+    },
+    {
+      "text": "各位局长加油",
+      "start": 43.2,
+      "end": 44.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2126,
+      "compression_ratio": 1.4434
+    },
+    {
+      "text": "暗含褒贬",
+      "start": 44.32,
+      "end": 49.040000000000006,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2126,
+      "compression_ratio": 1.4434
+    },
+    {
+      "text": "暗含褒贬是春秋笔法",
+      "start": 49.040000000000006,
+      "end": 50.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2126,
+      "compression_ratio": 1.4434
+    },
+    {
+      "text": "对吧",
+      "start": 50.84,
+      "end": 51.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2126,
+      "compression_ratio": 1.4434
+    },
+    {
+      "text": "它是中性的",
+      "start": 51.06,
+      "end": 52.34,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2126,
+      "compression_ratio": 1.4434
+    },
+    {
+      "text": "就是我只是",
+      "start": 52.34,
+      "end": 54.42,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1726,
+      "compression_ratio": 1.5087
+    },
+    {
+      "text": "把我的想法暗含在里面",
+      "start": 54.42,
+      "end": 56.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1726,
+      "compression_ratio": 1.5087
+    },
+    {
+      "text": "所以是中性的",
+      "start": 56.5,
+      "end": 57.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1726,
+      "compression_ratio": 1.5087
+    },
+    {
+      "text": "不是电子讲义啊",
+      "start": 57.5,
+      "end": 59.86000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1726,
+      "compression_ratio": 1.5087
+    },
+    {
+      "text": "就是在你的后面",
+      "start": 59.86000000000001,
+      "end": 61.1,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1726,
+      "compression_ratio": 1.5087
+    },
+    {
+      "text": "在你那个讲义的后面",
+      "start": 61.1,
+      "end": 62.300000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1726,
+      "compression_ratio": 1.5087
+    },
+    {
+      "text": "你往后翻",
+      "start": 62.300000000000004,
+      "end": 62.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1726,
+      "compression_ratio": 1.5087
+    },
+    {
+      "text": "在成语的后面就是诗词",
+      "start": 62.88,
+      "end": 65.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1726,
+      "compression_ratio": 1.5087
+    },
+    {
+      "text": "诗词就是在成语的后面",
+      "start": 65.0,
+      "end": 67.66,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1726,
+      "compression_ratio": 1.5087
+    },
+    {
+      "text": "你往后翻",
+      "start": 67.66,
+      "end": 68.28,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1726,
+      "compression_ratio": 1.5087
+    },
+    {
+      "text": "对在最后",
+      "start": 68.28,
+      "end": 69.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1726,
+      "compression_ratio": 1.5087
+    },
+    {
+      "text": "行",
+      "start": 69.5,
+      "end": 70.80000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1726,
+      "compression_ratio": 1.5087
+    },
+    {
+      "text": "对",
+      "start": 70.80000000000001,
+      "end": 71.30000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1726,
+      "compression_ratio": 1.5087
+    },
+    {
+      "text": "好",
+      "start": 71.30000000000001,
+      "end": 71.76,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1726,
+      "compression_ratio": 1.5087
+    },
+    {
+      "text": "加油各位同学",
+      "start": 71.76,
+      "end": 74.16,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1726,
+      "compression_ratio": 1.5087
+    },
+    {
+      "text": "拜拜",
+      "start": 74.16,
+      "end": 74.78,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1726,
+      "compression_ratio": 1.5087
+    },
+    {
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "start": 82.34,
+      "end": 112.32000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1146,
+      "compression_ratio": 0.8514
+    }
+  ],
+  "repairs": [],
+  "index": 21,
+  "start": 6300.0,
+  "duration": 90.317,
+  "elapsed": 13.5,
+  "ok": true,
+  "initial_prompt": "四海公考，公务员考试，言语理解与表达，逻辑填空，高频实词，成语辨析，语义侧重，感情色彩，搭配对象，适用语境，易混词，例句。简体中文。课件词条：高谈阔论，口若悬河，巧舌如簧，巧言令色，直言不讳，拾人牙慧，人云亦云，推心置腹，开诚布公，披肝沥胆，老调重弹，陈词滥调，老生常谈，绘声绘色，活灵活现，惟妙惟肖，栩栩如生，有声有色，一板一眼，呼之欲出，此起彼伏，不绝如缕，经久不息，震耳欲聋。"
+}

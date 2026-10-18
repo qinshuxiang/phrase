@@ -1,0 +1,80 @@
+{
+    "word": "针锋相对",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%92%88%E9%94%8B%E7%9B%B8%E5%AF%B9",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "be4c92c2dccf62a4356afb2828d2e33fd2a798271288b6900a6aea7deffc61ec",
+        "bytes": 27849
+    },
+    "parsed": {
+        "found": true,
+        "word": "针锋相对",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zhēn",
+                "fēng",
+                "xiāng",
+                "duì"
+            ],
+            "zhuyin": [
+                "ㄓㄣ",
+                "ㄈㄥ",
+                "ㄒㄧㄤ",
+                "ㄉㄨㄟˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻双方尖锐对立，互不相让。",
+                "citations": [
+                    {
+                        "text": "这十三妹本是个玲珑剔透的人，他那聪明正合张金凤针锋相对。",
+                        "source": "清·文康《儿女英雄传》"
+                    },
+                    {
+                        "text": "亡国之运命，犹急箭相催，一发将中我肺腑，而谋国柄政者所作所为，乃无一与此针锋相对。",
+                        "source": "黄远庸《新年所感》"
+                    }
+                ]
+            },
+            {
+                "definition": "比喻言行等尖锐对立。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "这十三妹本是个玲珑剔透的人，他那聪明正合张金凤针锋相对。",
+                "source": "清·文康《儿女英雄传》"
+            },
+            {
+                "text": "亡国之运命，犹急箭相催，一发将中我肺腑，而谋国柄政者所作所为，乃无一与此针锋相对。",
+                "source": "黄远庸《新年所感》"
+            }
+        ],
+        "synonyms": [
+            "针锋相投"
+        ],
+        "antonyms": [
+            "逆来顺受",
+            "水乳交融"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "diametrically opposed"
+    },
+    "blocks": {
+        "reading": "zhēn fēng xiāng duì",
+        "sense-1": "比喻双方尖锐对立，互不相让。",
+        "sense-2": "比喻言行等尖锐对立。",
+        "citation-1": "这十三妹本是个玲珑剔透的人，他那聪明正合张金凤针锋相对。 — 清·文康《儿女英雄传》",
+        "citation-2": "亡国之运命，犹急箭相催，一发将中我肺腑，而谋国柄政者所作所为，乃无一与此针锋相对。 — 黄远庸《新年所感》",
+        "synonyms": "针锋相投",
+        "antonyms": "逆来顺受、水乳交融"
+    }
+}

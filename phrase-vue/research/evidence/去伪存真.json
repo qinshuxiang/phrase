@@ -1,0 +1,67 @@
+{
+    "word": "去伪存真",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%8E%BB%E4%BC%AA%E5%AD%98%E7%9C%9F",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "80d398e20c84c5c3604239641000c9230b05ae9cf1507caa62cd13d25a0af8e7",
+        "bytes": 26374
+    },
+    "parsed": {
+        "found": true,
+        "word": "去伪存真",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "qù",
+                "wèi",
+                "cún",
+                "zhēn"
+            ],
+            "zhuyin": [
+                "ㄑㄩˋ",
+                "ㄨㄟˋ",
+                "ㄘㄨㄣˊ",
+                "ㄓㄣ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "去除虚假的部分，保留真实的内容。",
+                "citations": [
+                    {
+                        "text": "权衡在手，明镜当台，可以摧邪辅正，可以去伪存真。",
+                        "source": "《续传灯录·褒禅溥禅师》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "权衡在手，明镜当台，可以摧邪辅正，可以去伪存真。",
+                "source": "《续传灯录·褒禅溥禅师》"
+            }
+        ],
+        "synonyms": [
+            "去粗取精",
+            "本来面目"
+        ],
+        "antonyms": [
+            "鱼龙混杂",
+            "泥沙俱下"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "eliminate the false and retain the true"
+    },
+    "blocks": {
+        "reading": "qù wèi cún zhēn",
+        "sense-1": "去除虚假的部分，保留真实的内容。",
+        "citation-1": "权衡在手，明镜当台，可以摧邪辅正，可以去伪存真。 — 《续传灯录·褒禅溥禅师》",
+        "synonyms": "去粗取精、本来面目",
+        "antonyms": "鱼龙混杂、泥沙俱下"
+    }
+}

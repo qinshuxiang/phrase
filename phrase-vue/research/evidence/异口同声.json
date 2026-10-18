@@ -1,0 +1,69 @@
+{
+    "word": "异口同声",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%BC%82%E5%8F%A3%E5%90%8C%E5%A3%B0",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "0f1dc264c5210e923dff515e0db9d40fd8563c6f07f28c39af397fb5c6bfdf17",
+        "bytes": 28101
+    },
+    "parsed": {
+        "found": true,
+        "word": "异口同声",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yì",
+                "kǒu",
+                "tóng",
+                "shēng"
+            ],
+            "zhuyin": [
+                "ㄧˋ",
+                "ㄎㄡˇ",
+                "ㄊㄨㄥˊ",
+                "ㄕㄥ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "不同的人说出同样的话，形容众人意见完全一致。",
+                "citations": [
+                    {
+                        "text": "左右小人，并云不可，阻之者众，本无至心，而谏怖者，异口同声。",
+                        "source": "晋·葛洪《抱朴子·道意》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "左右小人，并云不可，阻之者众，本无至心，而谏怖者，异口同声。",
+                "source": "晋·葛洪《抱朴子·道意》"
+            }
+        ],
+        "synonyms": [
+            "有口皆碑",
+            "不约而同",
+            "众口一词"
+        ],
+        "antonyms": [
+            "众说纷纭",
+            "大相径庭",
+            "莫衷一是"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "unanimously"
+    },
+    "blocks": {
+        "reading": "yì kǒu tóng shēng",
+        "sense-1": "不同的人说出同样的话，形容众人意见完全一致。",
+        "citation-1": "左右小人，并云不可，阻之者众，本无至心，而谏怖者，异口同声。 — 晋·葛洪《抱朴子·道意》",
+        "synonyms": "有口皆碑、不约而同、众口一词",
+        "antonyms": "众说纷纭、大相径庭、莫衷一是"
+    }
+}

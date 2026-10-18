@@ -1,0 +1,68 @@
+{
+    "word": "不以为然",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%8D%E4%BB%A5%E4%B8%BA%E7%84%B6",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "19879508d7e8925f3c410ce2b079397087d85b55bdb8e5d047e1309bfc9ef5fe",
+        "bytes": 26625
+    },
+    "parsed": {
+        "found": true,
+        "word": "不以为然",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bù",
+                "yǐ",
+                "wéi",
+                "rán"
+            ],
+            "zhuyin": [
+                "ㄅㄨˋ",
+                "ㄧˇ",
+                "ㄨㄟˊ",
+                "ㄖㄢˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "不认为是正确的，表示不同意。",
+                "citations": [
+                    {
+                        "text": "右臣先曾奏论前衙一役，只当招募，不当定差，执政不以为然。",
+                        "source": "宋·苏轼《再乞罢详定役法状》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "右臣先曾奏论前衙一役，只当招募，不当定差，执政不以为然。",
+                "source": "宋·苏轼《再乞罢详定役法状》"
+            }
+        ],
+        "synonyms": [
+            "嗤之以鼻",
+            "不敢苟同",
+            "满不在乎"
+        ],
+        "antonyms": [
+            "五体投地",
+            "仰承鼻息"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "disapprove"
+    },
+    "blocks": {
+        "reading": "bù yǐ wéi rán",
+        "sense-1": "不认为是正确的，表示不同意。",
+        "citation-1": "右臣先曾奏论前衙一役，只当招募，不当定差，执政不以为然。 — 宋·苏轼《再乞罢详定役法状》",
+        "synonyms": "嗤之以鼻、不敢苟同、满不在乎",
+        "antonyms": "五体投地、仰承鼻息"
+    }
+}

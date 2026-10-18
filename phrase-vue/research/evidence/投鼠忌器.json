@@ -1,0 +1,57 @@
+{
+    "word": "投鼠忌器",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%8A%95%E9%BC%A0%E5%BF%8C%E5%99%A8",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "e76dfabaf04f42e31877cc8b6bf3e2034e0481389fe289de021637b873ebba70",
+        "bytes": 29300
+    },
+    "parsed": {
+        "found": true,
+        "word": "投鼠忌器",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "tóu",
+                "shǔ",
+                "jì",
+                "qì"
+            ],
+            "zhuyin": [
+                "ㄊㄡˊ",
+                "ㄕㄨˇ",
+                "ㄐㄧˋ",
+                "ㄑㄧˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "投打靠近器物的老鼠怕伤了器物。比喻想打击坏人而又有所顾忌,怕伤害好人而不敢作为",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "畏首畏尾",
+            "瞻前顾后",
+            "有所顾忌"
+        ],
+        "antonyms": [
+            "无所畏惧",
+            "肆无忌惮"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "throw something at a rat,but afraid to break the vase;caution in taking action;burn not your house to rid it of the mouse;spare the rat to save the dishes;those who live in grass house should not throw stones"
+    },
+    "blocks": {
+        "reading": "tóu shǔ jì qì",
+        "sense-1": "投打靠近器物的老鼠怕伤了器物。比喻想打击坏人而又有所顾忌,怕伤害好人而不敢作为",
+        "synonyms": "畏首畏尾、瞻前顾后、有所顾忌",
+        "antonyms": "无所畏惧、肆无忌惮"
+    }
+}

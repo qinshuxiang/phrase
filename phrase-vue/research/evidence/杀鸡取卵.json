@@ -1,0 +1,57 @@
+{
+    "word": "杀鸡取卵",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%9D%80%E9%B8%A1%E5%8F%96%E5%8D%B5",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "3e3bb355f4f210032a352ca207df82d2814fbaf264da6fa61873afc598651285",
+        "bytes": 26225
+    },
+    "parsed": {
+        "found": true,
+        "word": "杀鸡取卵",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shā",
+                "jī",
+                "qǔ",
+                "luǎn"
+            ],
+            "zhuyin": [
+                "ㄕㄚ",
+                "ㄐㄧ",
+                "ㄑㄩˇ",
+                "ㄌㄨㄢˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻贪求眼前微小利益而损害长远根本利益。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "饮鸠止渴",
+            "因小失大",
+            "竭泽而渔"
+        ],
+        "antonyms": [
+            "高瞻远瞩",
+            "一举两得"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "kill the hen to get the eggs"
+    },
+    "blocks": {
+        "reading": "shā jī qǔ luǎn",
+        "sense-1": "比喻贪求眼前微小利益而损害长远根本利益。",
+        "synonyms": "饮鸠止渴、因小失大、竭泽而渔",
+        "antonyms": "高瞻远瞩、一举两得"
+    }
+}

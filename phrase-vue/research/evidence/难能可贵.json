@@ -1,0 +1,59 @@
+{
+    "word": "难能可贵",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%9A%BE%E8%83%BD%E5%8F%AF%E8%B4%B5",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "cfbfef2bc2650e852dfbf7456d5b2ed26be7326840db84e0557aec12041dc4c4",
+        "bytes": 26185
+    },
+    "parsed": {
+        "found": true,
+        "word": "难能可贵",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "nán",
+                "néng",
+                "kě",
+                "guì"
+            ],
+            "zhuyin": [
+                "ㄋㄢˊ",
+                "ㄣㄥˊ",
+                "ㄎㄜˇ",
+                "ㄍㄨㄟˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "不容易做到的事情竟然做到了，因而显得特别珍贵。",
+                "citations": [
+                    {
+                        "text": "子路之勇，子贡之辩，冉有之智，此三子者，皆天下之所谓难能而可贵者也。",
+                        "source": "宋·苏轼《荀卿论》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "子路之勇，子贡之辩，冉有之智，此三子者，皆天下之所谓难能而可贵者也。",
+                "source": "宋·苏轼《荀卿论》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "rare and commendable"
+    },
+    "blocks": {
+        "reading": "nán néng kě guì",
+        "sense-1": "不容易做到的事情竟然做到了，因而显得特别珍贵。",
+        "citation-1": "子路之勇，子贡之辩，冉有之智，此三子者，皆天下之所谓难能而可贵者也。 — 宋·苏轼《荀卿论》"
+    }
+}

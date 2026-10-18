@@ -1,0 +1,66 @@
+{
+    "word": "气壮山河",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%B0%94%E5%A3%AE%E5%B1%B1%E6%B2%B3",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "7fd60bb8918d5fcd1f20399f9ecab12725c56b9b7bf88e213731be8823052d6f",
+        "bytes": 26584
+    },
+    "parsed": {
+        "found": true,
+        "word": "气壮山河",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "qì",
+                "zhuàng",
+                "shān",
+                "hé"
+            ],
+            "zhuyin": [
+                "ㄑㄧˋ",
+                "ㄓㄨㄤˋ",
+                "ㄕㄢ",
+                "ㄏㄜˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容气势如高山大河般雄伟豪迈。",
+                "citations": [
+                    {
+                        "text": "生离死别何足虑，但愿得早旋旌旆，气壮山河金戈挽落晖。",
+                        "source": "明·无名氏《鸣凤记·易生避难》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "生离死别何足虑，但愿得早旋旌旆，气壮山河金戈挽落晖。",
+                "source": "明·无名氏《鸣凤记·易生避难》"
+            }
+        ],
+        "synonyms": [
+            "气冲霄汉",
+            "气势磅礴"
+        ],
+        "antonyms": [
+            "气息奄奄"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "with heroic spirit that conquers mountains and rivers"
+    },
+    "blocks": {
+        "reading": "qì zhuàng shān hé",
+        "sense-1": "形容气势如高山大河般雄伟豪迈。",
+        "citation-1": "生离死别何足虑，但愿得早旋旌旆，气壮山河金戈挽落晖。 — 明·无名氏《鸣凤记·易生避难》",
+        "synonyms": "气冲霄汉、气势磅礴",
+        "antonyms": "气息奄奄"
+    }
+}

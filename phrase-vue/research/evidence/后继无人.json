@@ -1,0 +1,54 @@
+{
+    "word": "后继无人",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%90%8E%E7%BB%A7%E6%97%A0%E4%BA%BA",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "65db300f03a44d3bb838611d8a212330a4e9b20667e24a53d792d3aca9e3eec2",
+        "bytes": 24585
+    },
+    "parsed": {
+        "found": true,
+        "word": "后继无人",
+        "section": "idiom",
+        "readings": {
+            "pinyin": [
+                "hòu",
+                "jì",
+                "wú",
+                "rén"
+            ],
+            "zhuyin": [
+                "ㄏㄡˋ",
+                "ㄐㄧˋ",
+                "ㄨˊ",
+                "ㄖㄣˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "继：继承。没有后人来继承前人的事业。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": {
+            "text": "任何一個學科都不可後繼無人。",
+            "source": "后继无人"
+        },
+        "grammar": "主谓式；作谓语、定语；形容事业缺少接班人",
+        "example": "任何一个学科都不可后继无人。",
+        "english": ""
+    },
+    "blocks": {
+        "reading": "hòu jì wú rén",
+        "sense-1": "继：继承。没有后人来继承前人的事业。",
+        "origin": "任何一個學科都不可後繼無人。",
+        "grammar": "主谓式；作谓语、定语；形容事业缺少接班人",
+        "example": "任何一个学科都不可后继无人。"
+    }
+}

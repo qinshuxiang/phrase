@@ -1,0 +1,71 @@
+{
+    "word": "踌躇满志",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%B8%8C%E8%BA%87%E6%BB%A1%E5%BF%97",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "e46ba3491f43bce80f8481d6f0d28a69005c0a5dd9b266dc0529479c74de39b2",
+        "bytes": 27384
+    },
+    "parsed": {
+        "found": true,
+        "word": "踌躇满志",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "chóu",
+                "chú",
+                "mǎn",
+                "zhì"
+            ],
+            "zhuyin": [
+                "ㄔㄡˊ",
+                "ㄔㄨˊ",
+                "ㄇㄢˇ",
+                "ㄓˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容心满意足、从容得意的样子。",
+                "citations": [
+                    {
+                        "text": "提刀而立，为之四顾，为之踌躇满志。",
+                        "source": "庄子《养生主》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "提刀而立，为之四顾，为之踌躇满志。",
+                "source": "庄子《养生主》"
+            }
+        ],
+        "synonyms": [
+            "得意洋洋",
+            "心满意足",
+            "称心如意",
+            "自鸣得意",
+            "意得志满",
+            "洋洋自得"
+        ],
+        "antonyms": [
+            "垂头丧气",
+            "灰心丧气"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "self-satisfied"
+    },
+    "blocks": {
+        "reading": "chóu chú mǎn zhì",
+        "sense-1": "形容心满意足、从容得意的样子。",
+        "citation-1": "提刀而立，为之四顾，为之踌躇满志。 — 庄子《养生主》",
+        "synonyms": "得意洋洋、心满意足、称心如意、自鸣得意、意得志满、洋洋自得",
+        "antonyms": "垂头丧气、灰心丧气"
+    }
+}

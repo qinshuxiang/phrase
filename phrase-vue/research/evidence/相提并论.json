@@ -1,0 +1,56 @@
+{
+    "word": "相提并论",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%9B%B8%E6%8F%90%E5%B9%B6%E8%AE%BA",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "8a1e21bbedf968c8160c904a3d67ede12768e7add3379af90d0c55b3687c3a5d",
+        "bytes": 26583
+    },
+    "parsed": {
+        "found": true,
+        "word": "相提并论",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "xiāng",
+                "tí",
+                "bìng",
+                "lùn"
+            ],
+            "zhuyin": [
+                "ㄒㄧㄤ",
+                "ㄊㄧˊ",
+                "ㄅㄧㄥˋ",
+                "ㄌㄨㄣˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "将不同性质的人或事物置于同等地位来看待。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "等量齐观",
+            "同日而语",
+            "混为一谈"
+        ],
+        "antonyms": [
+            "一分为二"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "lump together"
+    },
+    "blocks": {
+        "reading": "xiāng tí bìng lùn",
+        "sense-1": "将不同性质的人或事物置于同等地位来看待。",
+        "synonyms": "等量齐观、同日而语、混为一谈",
+        "antonyms": "一分为二"
+    }
+}

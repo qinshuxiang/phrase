@@ -1,0 +1,71 @@
+{
+    "word": "高深莫测",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%AB%98%E6%B7%B1%E8%8E%AB%E6%B5%8B",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "a94f090372060150bf8ffb69f1164860596813bbef0cc742f6b871bdfdeaf79e",
+        "bytes": 26724
+    },
+    "parsed": {
+        "found": true,
+        "word": "高深莫测",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "gāo",
+                "shēn",
+                "mò",
+                "cè"
+            ],
+            "zhuyin": [
+                "ㄍㄠ",
+                "ㄕㄣ",
+                "ㄇㄛˋ",
+                "ㄘㄜˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "高远深邃的程度难以测量。",
+                "citations": [
+                    {
+                        "text": "沃焦山，东海之外荒，海中有山，焦炎而峙，高深莫测。",
+                        "source": "宋·高似孙《纬略·沃焦山》引《物类相感志》"
+                    }
+                ]
+            },
+            {
+                "definition": "无法理解其奥妙。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "沃焦山，东海之外荒，海中有山，焦炎而峙，高深莫测。",
+                "source": "宋·高似孙《纬略·沃焦山》引《物类相感志》"
+            }
+        ],
+        "synonyms": [
+            "深不可测",
+            "不可捉摸"
+        ],
+        "antonyms": [
+            "一目了然"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "unfathomable"
+    },
+    "blocks": {
+        "reading": "gāo shēn mò cè",
+        "sense-1": "高远深邃的程度难以测量。",
+        "sense-2": "无法理解其奥妙。",
+        "citation-1": "沃焦山，东海之外荒，海中有山，焦炎而峙，高深莫测。 — 宋·高似孙《纬略·沃焦山》引《物类相感志》",
+        "synonyms": "深不可测、不可捉摸",
+        "antonyms": "一目了然"
+    }
+}

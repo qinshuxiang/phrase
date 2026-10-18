@@ -1,0 +1,67 @@
+{
+    "word": "前仆后继",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%89%8D%E4%BB%86%E5%90%8E%E7%BB%A7",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "1847debef36fabacbaa7ef5d939abfd8e8a782866dbd39f6dc899cc53d1f02cd",
+        "bytes": 27242
+    },
+    "parsed": {
+        "found": true,
+        "word": "前仆后继",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "qián",
+                "pū",
+                "hòu",
+                "jì"
+            ],
+            "zhuyin": [
+                "ㄑㄧㄢˊ",
+                "ㄆㄨ",
+                "ㄏㄡˋ",
+                "ㄐㄧˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "前面的人倒下，后面的人继续跟上。形容英勇斗争连续不断。",
+                "citations": [
+                    {
+                        "text": "前仆后继人应在，如君不愧轩辕孙。",
+                        "source": "唐·孙樵《祭梓潼神君文》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "前仆后继人应在，如君不愧轩辕孙。",
+                "source": "唐·孙樵《祭梓潼神君文》"
+            }
+        ],
+        "synonyms": [
+            "勇往直前",
+            "前赴后继"
+        ],
+        "antonyms": [
+            "苟且偷生",
+            "贪生怕死"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "advance wave upon wave"
+    },
+    "blocks": {
+        "reading": "qián pū hòu jì",
+        "sense-1": "前面的人倒下，后面的人继续跟上。形容英勇斗争连续不断。",
+        "citation-1": "前仆后继人应在，如君不愧轩辕孙。 — 唐·孙樵《祭梓潼神君文》",
+        "synonyms": "勇往直前、前赴后继",
+        "antonyms": "苟且偷生、贪生怕死"
+    }
+}

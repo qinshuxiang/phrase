@@ -1,0 +1,48 @@
+{
+    "word": "历久弥新",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%8E%86%E4%B9%85%E5%BC%A5%E6%96%B0",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "7226f506de7faa3e65fbbd476d3c404b7eca4929467338368664e30758ba2ff7",
+        "bytes": 22023
+    },
+    "parsed": {
+        "found": true,
+        "word": "历久弥新",
+        "section": "guoyu",
+        "readings": {
+            "pinyin": [
+                "lì",
+                "jiǔ",
+                "mí",
+                "xīn"
+            ],
+            "zhuyin": [
+                "ㄌㄧˋ",
+                "ㄐㄧㄡˇ",
+                "ㄇㄧˊ",
+                "ㄒㄧㄣ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "经过长久的时间，不但没有衰败、陈旧，反而更新、更好。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": ""
+    },
+    "blocks": {
+        "reading": "lì jiǔ mí xīn",
+        "sense-1": "经过长久的时间，不但没有衰败、陈旧，反而更新、更好。"
+    }
+}

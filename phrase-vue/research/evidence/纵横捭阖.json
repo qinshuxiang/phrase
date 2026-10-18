@@ -1,0 +1,59 @@
+{
+    "word": "纵横捭阖",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%BA%B5%E6%A8%AA%E6%8D%AD%E9%98%96",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "1c966409df3a29c1bce03e3b3981be49ddd1b42a6d64831c56f5a65d6363a354",
+        "bytes": 24516
+    },
+    "parsed": {
+        "found": true,
+        "word": "纵横捭阖",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zōng",
+                "héng",
+                "bǎi",
+                "hé"
+            ],
+            "zhuyin": [
+                "ㄗㄨㄥ",
+                "ㄏㄥˊ",
+                "ㄅㄞˇ",
+                "ㄏㄜˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "指运用政治或外交手段进行联合或分化。",
+                "citations": [
+                    {
+                        "text": "我尝读史，至卢龙、魏博之事，观其人之游诸侯间者，纵横捭阖，下至刺客之流，非不少概见，大约似战国时。",
+                        "source": "明·陈子龙《唐论》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "我尝读史，至卢龙、魏博之事，观其人之游诸侯间者，纵横捭阖，下至刺客之流，非不少概见，大约似战国时。",
+                "source": "明·陈子龙《唐论》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "maneuver among political groups"
+    },
+    "blocks": {
+        "reading": "zōng héng bǎi hé",
+        "sense-1": "指运用政治或外交手段进行联合或分化。",
+        "citation-1": "我尝读史，至卢龙、魏博之事，观其人之游诸侯间者，纵横捭阖，下至刺客之流，非不少概见，大约似战国时。 — 明·陈子龙《唐论》"
+    }
+}

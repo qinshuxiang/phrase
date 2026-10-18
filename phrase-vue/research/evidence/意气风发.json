@@ -1,0 +1,59 @@
+{
+    "word": "意气风发",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%84%8F%E6%B0%94%E9%A3%8E%E5%8F%91",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "ee2026fb3dc3d24b4a3ab30fc2b6798055a8b8ba2f3c5c94cd6d5a0709c9404f",
+        "bytes": 24900
+    },
+    "parsed": {
+        "found": true,
+        "word": "意气风发",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yì",
+                "qì",
+                "fēng",
+                "fā"
+            ],
+            "zhuyin": [
+                "ㄧˋ",
+                "ㄑㄧˋ",
+                "ㄈㄥ",
+                "ㄈㄚ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容精神振奋，气势昂扬。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "神采飞扬",
+            "意气焕发",
+            "英姿飒爽"
+        ],
+        "antonyms": [
+            "精神不振",
+            "心灰意冷",
+            "垂头丧气",
+            "神色沮丧"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "high-spirited"
+    },
+    "blocks": {
+        "reading": "yì qì fēng fā",
+        "sense-1": "形容精神振奋，气势昂扬。",
+        "synonyms": "神采飞扬、意气焕发、英姿飒爽",
+        "antonyms": "精神不振、心灰意冷、垂头丧气、神色沮丧"
+    }
+}

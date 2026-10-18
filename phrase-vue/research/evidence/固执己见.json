@@ -1,0 +1,76 @@
+{
+    "word": "固执己见",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%9B%BA%E6%89%A7%E5%B7%B1%E8%A7%81",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "f1ee00b051404a12020fd20b584d52aa243ff53cb45e55e320af5150e178f649",
+        "bytes": 29909
+    },
+    "parsed": {
+        "found": true,
+        "word": "固执己见",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "gù",
+                "zhí",
+                "jǐ",
+                "jiàn"
+            ],
+            "zhuyin": [
+                "ㄍㄨˋ",
+                "ㄓˊ",
+                "ㄐㄧˇ",
+                "ㄐㄧㄢˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "顽固地坚持自己的意见。",
+                "citations": [
+                    {
+                        "text": "固执己见，动失人心。",
+                        "source": "《宋史·陈宓传》"
+                    }
+                ]
+            },
+            {
+                "definition": "同「固执己见」。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "固执己见，动失人心。",
+                "source": "《宋史·陈宓传》"
+            }
+        ],
+        "synonyms": [
+            "一意孤行",
+            "自以为是",
+            "刚愎自用",
+            "独断专行﹑刚愎自用﹑自以为是﹑一意孤行"
+        ],
+        "antonyms": [
+            "谦虚谨慎",
+            "不露圭角",
+            "虚怀若谷",
+            "虚怀若谷﹑从谏如流"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "stubborn"
+    },
+    "blocks": {
+        "reading": "gù zhí jǐ jiàn",
+        "sense-1": "顽固地坚持自己的意见。",
+        "sense-2": "同「固执己见」。",
+        "citation-1": "固执己见，动失人心。 — 《宋史·陈宓传》",
+        "synonyms": "一意孤行、自以为是、刚愎自用、独断专行﹑刚愎自用﹑自以为是﹑一意孤行",
+        "antonyms": "谦虚谨慎、不露圭角、虚怀若谷、虚怀若谷﹑从谏如流"
+    }
+}

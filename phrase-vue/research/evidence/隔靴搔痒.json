@@ -1,0 +1,81 @@
+{
+    "word": "隔靴搔痒",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%9A%94%E9%9D%B4%E6%90%94%E7%97%92",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "11cca3a737c49e52b5b93107c3294815355a3a3460d0475448c611f55fab2d66",
+        "bytes": 27433
+    },
+    "parsed": {
+        "found": true,
+        "word": "隔靴搔痒",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "gé",
+                "xuē",
+                "sāo",
+                "yǎng"
+            ],
+            "zhuyin": [
+                "ㄍㄜˊ",
+                "ㄒㄩㄝ",
+                "ㄙㄠ",
+                "ㄧㄤˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻说话或写文章没有抓住要点，不中肯，不贴切。",
+                "citations": [
+                    {
+                        "text": "意贵透彻，不可隔靴搔痒。",
+                        "source": "宋·严羽《沧浪诗话·诗法》"
+                    },
+                    {
+                        "text": "师曰：隔靴搔痒。",
+                        "source": "《五灯会元·保福展禅师法嗣·康山契稳禅师》"
+                    }
+                ]
+            },
+            {
+                "definition": "比喻做事不切实际，徒劳无功。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "意贵透彻，不可隔靴搔痒。",
+                "source": "宋·严羽《沧浪诗话·诗法》"
+            },
+            {
+                "text": "师曰：隔靴搔痒。",
+                "source": "《五灯会元·保福展禅师法嗣·康山契稳禅师》"
+            }
+        ],
+        "synonyms": [
+            "不得要领",
+            "劳而无功"
+        ],
+        "antonyms": [
+            "鞭辟入里",
+            "一语破的"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "scratch an itch from outside one's boot"
+    },
+    "blocks": {
+        "reading": "gé xuē sāo yǎng",
+        "sense-1": "比喻说话或写文章没有抓住要点，不中肯，不贴切。",
+        "sense-2": "比喻做事不切实际，徒劳无功。",
+        "citation-1": "意贵透彻，不可隔靴搔痒。 — 宋·严羽《沧浪诗话·诗法》",
+        "citation-2": "师曰：隔靴搔痒。 — 《五灯会元·保福展禅师法嗣·康山契稳禅师》",
+        "synonyms": "不得要领、劳而无功",
+        "antonyms": "鞭辟入里、一语破的"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "word": "出神入化",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%87%BA%E7%A5%9E%E5%85%A5%E5%8C%96",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "c1854c4f0d517dc8518722003f632f72afa6625d5d079e6659a0e6d823b8d67f",
+        "bytes": 28154
+    },
+    "parsed": {
+        "found": true,
+        "word": "出神入化",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "chū",
+                "shén",
+                "rù",
+                "huà"
+            ],
+            "zhuyin": [
+                "ㄔㄨ",
+                "ㄕㄣˊ",
+                "ㄖㄨˋ",
+                "ㄏㄨㄚˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容技艺高超达到了绝妙的境界",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "炉火纯青"
+        ],
+        "antonyms": [
+            "平淡无奇",
+            "出乖露丑"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "reach the acme of perfection;attain to perfection;be superb"
+    },
+    "blocks": {
+        "reading": "chū shén rù huà",
+        "sense-1": "形容技艺高超达到了绝妙的境界",
+        "synonyms": "炉火纯青",
+        "antonyms": "平淡无奇、出乖露丑"
+    }
+}

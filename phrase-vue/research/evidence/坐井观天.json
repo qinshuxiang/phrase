@@ -1,0 +1,74 @@
+{
+    "word": "坐井观天",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%9D%90%E4%BA%95%E8%A7%82%E5%A4%A9",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "9f7e180c7528ec41cdb49283143ec4c0fa0adba102385cdecf571116e59e0733",
+        "bytes": 28708
+    },
+    "parsed": {
+        "found": true,
+        "word": "坐井观天",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zuò",
+                "jǐng",
+                "guān",
+                "tiān"
+            ],
+            "zhuyin": [
+                "ㄗㄨㄛˋ",
+                "ㄐㄧㄥˇ",
+                "ㄍㄨㄢ",
+                "ㄊㄧㄢ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻眼界狭小，见识有限。",
+                "citations": [
+                    {
+                        "text": "老子之小仁义，非毁之也，其见者小也。坐井而观天，曰天小者，非天小也。",
+                        "source": "唐·韩愈《原道》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "老子之小仁义，非毁之也，其见者小也。坐井而观天，曰天小者，非天小也。",
+                "source": "唐·韩愈《原道》"
+            }
+        ],
+        "synonyms": [
+            "井底之蛙",
+            "鼠目寸光",
+            "管窥蠡测",
+            "管中窥豹",
+            "井蛙之见",
+            "以蠡测海",
+            "瓮天之见"
+        ],
+        "antonyms": [
+            "包罗万象",
+            "凭高望远",
+            "见多识广",
+            "纵览全局"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "limited outlook"
+    },
+    "blocks": {
+        "reading": "zuò jǐng guān tiān",
+        "sense-1": "比喻眼界狭小，见识有限。",
+        "citation-1": "老子之小仁义，非毁之也，其见者小也。坐井而观天，曰天小者，非天小也。 — 唐·韩愈《原道》",
+        "synonyms": "井底之蛙、鼠目寸光、管窥蠡测、管中窥豹、井蛙之见、以蠡测海、瓮天之见",
+        "antonyms": "包罗万象、凭高望远、见多识广、纵览全局"
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "word": "日新月异",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%97%A5%E6%96%B0%E6%9C%88%E5%BC%82",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "633eaeaed7920d07b7b907fe6f2c43cf126495f7b17601f22ac96b58d587044a",
+        "bytes": 27709
+    },
+    "parsed": {
+        "found": true,
+        "word": "日新月异",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "rì",
+                "xīn",
+                "yuè",
+                "yì"
+            ],
+            "zhuyin": [
+                "ㄖㄧˋ",
+                "ㄒㄧㄣ",
+                "ㄩㄝˋ",
+                "ㄧˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "每日每月都出现新的变化，形容发展进步很快。",
+                "citations": [
+                    {
+                        "text": "金碧嵯峨，日新月异。",
+                        "source": "宋·林景熙《永嘉县重建法空院记》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "金碧嵯峨，日新月异。",
+                "source": "宋·林景熙《永嘉县重建法空院记》"
+            }
+        ],
+        "synonyms": [
+            "与日俱进",
+            "百尺竿头",
+            "蒸蒸日上",
+            "一日千里"
+        ],
+        "antonyms": [
+            "故步自封",
+            "每况愈下",
+            "一成不变",
+            "依然如故"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "change rapidly"
+    },
+    "blocks": {
+        "reading": "rì xīn yuè yì",
+        "sense-1": "每日每月都出现新的变化，形容发展进步很快。",
+        "citation-1": "金碧嵯峨，日新月异。 — 宋·林景熙《永嘉县重建法空院记》",
+        "synonyms": "与日俱进、百尺竿头、蒸蒸日上、一日千里",
+        "antonyms": "故步自封、每况愈下、一成不变、依然如故"
+    }
+}

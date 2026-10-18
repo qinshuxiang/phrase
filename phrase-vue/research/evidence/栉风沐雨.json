@@ -1,0 +1,77 @@
+{
+    "word": "栉风沐雨",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%A0%89%E9%A3%8E%E6%B2%90%E9%9B%A8",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "075747eacca717096b41faf5e120a1684af63a54d822a6babaa6a3f4822bd186",
+        "bytes": 27365
+    },
+    "parsed": {
+        "found": true,
+        "word": "栉风沐雨",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zhì",
+                "fēng",
+                "mù",
+                "yǔ"
+            ],
+            "zhuyin": [
+                "ㄓˋ",
+                "ㄈㄥ",
+                "ㄇㄨˋ",
+                "ㄩˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "以风梳发，以雨洗头。形容奔波劳苦。",
+                "citations": [
+                    {
+                        "text": "况猎，暴华盖于原野，伤生育之至理，栉风沐雨，不以时隙哉？",
+                        "source": "三国志·魏志·鲍勋传"
+                    },
+                    {
+                        "text": "某陋巷箪瓢，栉风沐雨，剥榆皮于秋塞，掘蛰燕于寒山。",
+                        "source": "北周·庾信《谢赵王赉米启》"
+                    }
+                ]
+            },
+            {
+                "definition": "承受风雨侵袭。形容处境艰辛。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "况猎，暴华盖于原野，伤生育之至理，栉风沐雨，不以时隙哉？",
+                "source": "三国志·魏志·鲍勋传"
+            },
+            {
+                "text": "某陋巷箪瓢，栉风沐雨，剥榆皮于秋塞，掘蛰燕于寒山。",
+                "source": "北周·庾信《谢赵王赉米启》"
+            }
+        ],
+        "synonyms": [
+            "餐风露宿",
+            "披星戴月"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "be combed by wind and washed by rain"
+    },
+    "blocks": {
+        "reading": "zhì fēng mù yǔ",
+        "sense-1": "以风梳发，以雨洗头。形容奔波劳苦。",
+        "sense-2": "承受风雨侵袭。形容处境艰辛。",
+        "citation-1": "况猎，暴华盖于原野，伤生育之至理，栉风沐雨，不以时隙哉？ — 三国志·魏志·鲍勋传",
+        "citation-2": "某陋巷箪瓢，栉风沐雨，剥榆皮于秋塞，掘蛰燕于寒山。 — 北周·庾信《谢赵王赉米启》",
+        "synonyms": "餐风露宿、披星戴月"
+    }
+}

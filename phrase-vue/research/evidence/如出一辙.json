@@ -1,0 +1,67 @@
+{
+    "word": "如出一辙",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A6%82%E5%87%BA%E4%B8%80%E8%BE%99",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "9089a9c50f883eb2c15a8d356f6346f24647696ddda45f22dbe2c5c71e52fbb9",
+        "bytes": 27438
+    },
+    "parsed": {
+        "found": true,
+        "word": "如出一辙",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "rú",
+                "chū",
+                "yī",
+                "zhé"
+            ],
+            "zhuyin": [
+                "ㄖㄨˊ",
+                "ㄔㄨ",
+                "ㄧ",
+                "ㄓㄜˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻两种事物非常相似。",
+                "citations": [
+                    {
+                        "text": "二奸鬼之害人，如出一辙。",
+                        "source": "宋·洪迈《容斋三笔·奸鬼为人祸》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "二奸鬼之害人，如出一辙。",
+                "source": "宋·洪迈《容斋三笔·奸鬼为人祸》"
+            }
+        ],
+        "synonyms": [
+            "如同一口",
+            "大同小异"
+        ],
+        "antonyms": [
+            "背道而驰",
+            "别辟蹊径"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "identical"
+    },
+    "blocks": {
+        "reading": "rú chū yī zhé",
+        "sense-1": "比喻两种事物非常相似。",
+        "citation-1": "二奸鬼之害人，如出一辙。 — 宋·洪迈《容斋三笔·奸鬼为人祸》",
+        "synonyms": "如同一口、大同小异",
+        "antonyms": "背道而驰、别辟蹊径"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "word": "互为表里",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%BA%92%E4%B8%BA%E8%A1%A8%E9%87%8C",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "935458afc2c781fdbc14b4f5da6ef7e651d391893c767ca28a5120ec1f9597c8",
+        "bytes": 22708
+    },
+    "parsed": {
+        "found": true,
+        "word": "互为表里",
+        "section": "idiom",
+        "readings": {
+            "pinyin": [],
+            "zhuyin": []
+        },
+        "senses": [
+            {
+                "definition": "甲为乙的外表，乙为甲的内里。比喻互相依存，互相接受。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": {
+            "text": "晋·陈寿《三国志·董允传》：“陈祗代允为侍中，与黄皓互为表里。”",
+            "source": "互为表里"
+        },
+        "grammar": "动宾式；作谓语；主语必须是两个以上",
+        "example": "",
+        "english": ""
+    },
+    "blocks": {
+        "sense-1": "甲为乙的外表，乙为甲的内里。比喻互相依存，互相接受。",
+        "origin": "晋·陈寿《三国志·董允传》：“陈祗代允为侍中，与黄皓互为表里。”",
+        "grammar": "动宾式；作谓语；主语必须是两个以上"
+    }
+}

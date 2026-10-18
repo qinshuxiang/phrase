@@ -1,0 +1,66 @@
+{
+    "word": "风雨飘摇",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%A3%8E%E9%9B%A8%E9%A3%98%E6%91%87",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "2225e9a9f9afc6c365330ec5c0f61df6abc8e9d90fc334be31d01f0ce7a02c5b",
+        "bytes": 27418
+    },
+    "parsed": {
+        "found": true,
+        "word": "风雨飘摇",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "fēng",
+                "yǔ",
+                "piāo",
+                "yáo"
+            ],
+            "zhuyin": [
+                "ㄈㄥ",
+                "ㄩˇ",
+                "ㄆㄧㄠ",
+                "ㄧㄠˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "在风雨中飘荡摇晃，比喻局势动荡不稳定。",
+                "citations": [
+                    {
+                        "text": "死生契阔心如铁，风雨飘摇鬓欲丝。",
+                        "source": "宋·范成大《送文处厚归蜀类试》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "死生契阔心如铁，风雨飘摇鬓欲丝。",
+                "source": "宋·范成大《送文处厚归蜀类试》"
+            }
+        ],
+        "synonyms": [
+            "摇摇欲坠",
+            "摇摇欲倒﹑摇摇欲坠"
+        ],
+        "antonyms": [
+            "稳如泰山"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "turbulent"
+    },
+    "blocks": {
+        "reading": "fēng yǔ piāo yáo",
+        "sense-1": "在风雨中飘荡摇晃，比喻局势动荡不稳定。",
+        "citation-1": "死生契阔心如铁，风雨飘摇鬓欲丝。 — 宋·范成大《送文处厚归蜀类试》",
+        "synonyms": "摇摇欲坠、摇摇欲倒﹑摇摇欲坠",
+        "antonyms": "稳如泰山"
+    }
+}

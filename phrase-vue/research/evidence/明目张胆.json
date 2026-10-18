@@ -1,0 +1,85 @@
+{
+    "word": "明目张胆",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%98%8E%E7%9B%AE%E5%BC%A0%E8%83%86",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "b2b26dafc281121780870793231c138a503c3e2205ebe8f802863575b5a2f7ad",
+        "bytes": 29827
+    },
+    "parsed": {
+        "found": true,
+        "word": "明目张胆",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "míng",
+                "mù",
+                "zhāng",
+                "dǎn"
+            ],
+            "zhuyin": [
+                "ㄇㄧㄥˊ",
+                "ㄇㄨˋ",
+                "ㄓㄤ",
+                "ㄉㄢˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容公开作恶，毫无顾忌。",
+                "citations": [
+                    {
+                        "text": "近则明目张胆，烈日当空，亦或现魍魉之相。",
+                        "source": "清·百一居士《壶天录》"
+                    },
+                    {
+                        "text": "今日之事，明目张胆为六军之首，宁忠臣而死，不无赖而生矣。",
+                        "source": "《晋书·王敦传》"
+                    }
+                ]
+            },
+            {
+                "definition": "形容有胆识，敢作敢为。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "近则明目张胆，烈日当空，亦或现魍魉之相。",
+                "source": "清·百一居士《壶天录》"
+            },
+            {
+                "text": "今日之事，明目张胆为六军之首，宁忠臣而死，不无赖而生矣。",
+                "source": "《晋书·王敦传》"
+            }
+        ],
+        "synonyms": [
+            "明火执杖",
+            "明火执仗",
+            "堂堂皇皇",
+            "行所无忌",
+            "肆无忌惮"
+        ],
+        "antonyms": [
+            "偷偷摸摸",
+            "鬼鬼祟祟",
+            "藏头露尾"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "openly and brazenly"
+    },
+    "blocks": {
+        "reading": "míng mù zhāng dǎn",
+        "sense-1": "形容公开作恶，毫无顾忌。",
+        "sense-2": "形容有胆识，敢作敢为。",
+        "citation-1": "近则明目张胆，烈日当空，亦或现魍魉之相。 — 清·百一居士《壶天录》",
+        "citation-2": "今日之事，明目张胆为六军之首，宁忠臣而死，不无赖而生矣。 — 《晋书·王敦传》",
+        "synonyms": "明火执杖、明火执仗、堂堂皇皇、行所无忌、肆无忌惮",
+        "antonyms": "偷偷摸摸、鬼鬼祟祟、藏头露尾"
+    }
+}

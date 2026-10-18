@@ -1,0 +1,68 @@
+{
+    "word": "呼之欲出",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%91%BC%E4%B9%8B%E6%AC%B2%E5%87%BA",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "46636ba7dbe1af5f0287981912384de8f18948c97c06864c9f9c978a6b28f72d",
+        "bytes": 28210
+    },
+    "parsed": {
+        "found": true,
+        "word": "呼之欲出",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "hū",
+                "zhī",
+                "yù",
+                "chū"
+            ],
+            "zhuyin": [
+                "ㄏㄨ",
+                "ㄓ",
+                "ㄩˋ",
+                "ㄔㄨ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "叫一声就像会出来似的。形容画像十分逼真",
+                "citations": [
+                    {
+                        "text": "皆说《世说》中呼之欲出,盖笔墨灵隽,得其神似。",
+                        "source": "清·毛际可《今世说序》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "皆说《世说》中呼之欲出,盖笔墨灵隽,得其神似。",
+                "source": "清·毛际可《今世说序》"
+            }
+        ],
+        "synonyms": [
+            "维妙维肖",
+            "栩栩如生",
+            "跃然纸上"
+        ],
+        "antonyms": [
+            "画虎类犬",
+            "平淡无奇"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "be vividly portrayed"
+    },
+    "blocks": {
+        "reading": "hū zhī yù chū",
+        "sense-1": "叫一声就像会出来似的。形容画像十分逼真",
+        "citation-1": "皆说《世说》中呼之欲出,盖笔墨灵隽,得其神似。 — 清·毛际可《今世说序》",
+        "synonyms": "维妙维肖、栩栩如生、跃然纸上",
+        "antonyms": "画虎类犬、平淡无奇"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "word": "可见一斑",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%8F%AF%E8%A7%81%E4%B8%80%E6%96%91",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "29582e62a8c27fe15c465a118309985e7b7ec1cdec8452c830abab7f3da17c0d",
+        "bytes": 24449
+    },
+    "parsed": {
+        "found": true,
+        "word": "可见一斑",
+        "section": "idiom",
+        "readings": {
+            "pinyin": [
+                "kě",
+                "jiàn",
+                "yī",
+                "bān"
+            ],
+            "zhuyin": [
+                "ㄎㄜˇ",
+                "ㄐㄧㄢˋ",
+                "ㄧ",
+                "ㄅㄢ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "斑：杂色的花纹或斑点。比喻见到事物的一少部分也能推知事物的整体。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": {
+            "text": "南朝·宋·刘义庆《世说新语·方正》：“此郎亦管中窥豹，时见一斑。”",
+            "source": "可见一斑"
+        },
+        "grammar": "动宾式；作谓语；指可以看到事物的一部分",
+        "example": "以酗酒狎妓之微嫌，遂没其困苦艰难之功业，清朝之赏罚不均，～。 ◎《清朝野史大观》",
+        "english": ""
+    },
+    "blocks": {
+        "reading": "kě jiàn yī bān",
+        "sense-1": "斑：杂色的花纹或斑点。比喻见到事物的一少部分也能推知事物的整体。",
+        "origin": "南朝·宋·刘义庆《世说新语·方正》：“此郎亦管中窥豹，时见一斑。”",
+        "grammar": "动宾式；作谓语；指可以看到事物的一部分",
+        "example": "以酗酒狎妓之微嫌，遂没其困苦艰难之功业，清朝之赏罚不均，～。 ◎《清朝野史大观》"
+    }
+}

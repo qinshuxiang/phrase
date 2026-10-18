@@ -1,0 +1,68 @@
+{
+    "word": "颠沛流离",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%A2%A0%E6%B2%9B%E6%B5%81%E7%A6%BB",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "3aaf48c11bd94cd0c0c5ff42157a438002dbdd260f410d451c5f8c288c1125ce",
+        "bytes": 27608
+    },
+    "parsed": {
+        "found": true,
+        "word": "颠沛流离",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "diān",
+                "pèi",
+                "liú",
+                "lí"
+            ],
+            "zhuyin": [
+                "ㄉㄧㄢ",
+                "ㄆㄟˋ",
+                "ㄌㄧㄨˊ",
+                "ㄌㄧˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "生活困苦，四处流浪，居无定所。",
+                "citations": [
+                    {
+                        "text": "而哀予颠沛流离万里，保有之难也，而共振显之。",
+                        "source": "宋·张世南《游宦纪闻》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "而哀予颠沛流离万里，保有之难也，而共振显之。",
+                "source": "宋·张世南《游宦纪闻》"
+            }
+        ],
+        "synonyms": [
+            "流离转徒",
+            "流离失所"
+        ],
+        "antonyms": [
+            "安家落户",
+            "安家立业",
+            "安居乐业"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "wander about in a desperate plight"
+    },
+    "blocks": {
+        "reading": "diān pèi liú lí",
+        "sense-1": "生活困苦，四处流浪，居无定所。",
+        "citation-1": "而哀予颠沛流离万里，保有之难也，而共振显之。 — 宋·张世南《游宦纪闻》",
+        "synonyms": "流离转徒、流离失所",
+        "antonyms": "安家落户、安家立业、安居乐业"
+    }
+}

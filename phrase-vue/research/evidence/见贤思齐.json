@@ -1,0 +1,67 @@
+{
+    "word": "见贤思齐",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%A7%81%E8%B4%A4%E6%80%9D%E9%BD%90",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "c710e6167e1d90e234d7eed5bd0e8b71570b386db02554d2738c9fd5c71a327b",
+        "bytes": 26736
+    },
+    "parsed": {
+        "found": true,
+        "word": "见贤思齐",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jiàn",
+                "xián",
+                "sī",
+                "qí"
+            ],
+            "zhuyin": [
+                "ㄐㄧㄢˋ",
+                "ㄒㄧㄢˊ",
+                "ㄙ",
+                "ㄑㄧˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "看到品德高尚、才能出众的人，就想学习他的长处，达到同样的水平。",
+                "citations": [
+                    {
+                        "text": "见贤思齐，仰圭璋而有地；挥毫兴颂，镂琬琰之无惭。",
+                        "source": "唐·骆宾王《灵泉颂》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "见贤思齐，仰圭璋而有地；挥毫兴颂，镂琬琰之无惭。",
+                "source": "唐·骆宾王《灵泉颂》"
+            }
+        ],
+        "synonyms": [
+            "力争上游",
+            "取法乎上",
+            "见德思齐"
+        ],
+        "antonyms": [
+            "见利忘义"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "emulate the virtuous"
+    },
+    "blocks": {
+        "reading": "jiàn xián sī qí",
+        "sense-1": "看到品德高尚、才能出众的人，就想学习他的长处，达到同样的水平。",
+        "citation-1": "见贤思齐，仰圭璋而有地；挥毫兴颂，镂琬琰之无惭。 — 唐·骆宾王《灵泉颂》",
+        "synonyms": "力争上游、取法乎上、见德思齐",
+        "antonyms": "见利忘义"
+    }
+}

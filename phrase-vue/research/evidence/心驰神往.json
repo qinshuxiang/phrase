@@ -1,0 +1,48 @@
+{
+    "word": "心驰神往",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%BF%83%E9%A9%B0%E7%A5%9E%E5%BE%80",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "ac3bb144b356f1687692c51bef44b56ba481fba190c28a1a2a6418bead7d2695",
+        "bytes": 25742
+    },
+    "parsed": {
+        "found": true,
+        "word": "心驰神往",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "xīn",
+                "chí",
+                "shén",
+                "wǎng"
+            ],
+            "zhuyin": [
+                "ㄒㄧㄣ",
+                "ㄔˊ",
+                "ㄕㄣˊ",
+                "ㄨㄤˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "心神飞向所向往的事物。见“ 心往神驰",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "long for"
+    },
+    "blocks": {
+        "reading": "xīn chí shén wǎng",
+        "sense-1": "心神飞向所向往的事物。见“ 心往神驰"
+    }
+}

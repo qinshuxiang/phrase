@@ -1,0 +1,73 @@
+{
+    "word": "直言不讳",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%9B%B4%E8%A8%80%E4%B8%8D%E8%AE%B3",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "8c1313841b2eef573a829fd9abff35f877252ac6c948a07c26bc153cafac53c5",
+        "bytes": 28444
+    },
+    "parsed": {
+        "found": true,
+        "word": "直言不讳",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zhí",
+                "yán",
+                "bù",
+                "huì"
+            ],
+            "zhuyin": [
+                "ㄓˊ",
+                "ㄧㄢˊ",
+                "ㄅㄨˋ",
+                "ㄏㄨㄟˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "毫不隐讳地直说。",
+                "citations": [
+                    {
+                        "text": "九哥，你既专诚问我，我便直言不讳。你要这宗东西，也不必等到你二百岁后。",
+                        "source": "清·文康《儿女英雄传》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "九哥，你既专诚问我，我便直言不讳。你要这宗东西，也不必等到你二百岁后。",
+                "source": "清·文康《儿女英雄传》"
+            }
+        ],
+        "synonyms": [
+            "直抒己见",
+            "单刀直入",
+            "心直口快",
+            "毋庸讳言"
+        ],
+        "antonyms": [
+            "隐约其辞",
+            "半吞半吐",
+            "旁敲侧击",
+            "讳莫如深",
+            "闪烁其词",
+            "隐晦曲折"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "blunt"
+    },
+    "blocks": {
+        "reading": "zhí yán bù huì",
+        "sense-1": "毫不隐讳地直说。",
+        "citation-1": "九哥，你既专诚问我，我便直言不讳。你要这宗东西，也不必等到你二百岁后。 — 清·文康《儿女英雄传》",
+        "synonyms": "直抒己见、单刀直入、心直口快、毋庸讳言",
+        "antonyms": "隐约其辞、半吞半吐、旁敲侧击、讳莫如深、闪烁其词、隐晦曲折"
+    }
+}

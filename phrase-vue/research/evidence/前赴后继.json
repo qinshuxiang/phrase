@@ -1,0 +1,56 @@
+{
+    "word": "前赴后继",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%89%8D%E8%B5%B4%E5%90%8E%E7%BB%A7",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "f0aa1a2245211cca39ec5a7a7cde0a1c54463ba5a7fa8e5c1c92ffdc1d694552",
+        "bytes": 26246
+    },
+    "parsed": {
+        "found": true,
+        "word": "前赴后继",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "qián",
+                "fù",
+                "hòu",
+                "jì"
+            ],
+            "zhuyin": [
+                "ㄑㄧㄢˊ",
+                "ㄈㄨˋ",
+                "ㄏㄡˋ",
+                "ㄐㄧˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "前面的人冲上去，后面的人紧跟上。形容英勇斗争，勇往直前。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "一往无前",
+            "前仆后继"
+        ],
+        "antonyms": [
+            "临阵脱逃",
+            "畏首畏尾"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "advance wave upon wave"
+    },
+    "blocks": {
+        "reading": "qián fù hòu jì",
+        "sense-1": "前面的人冲上去，后面的人紧跟上。形容英勇斗争，勇往直前。",
+        "synonyms": "一往无前、前仆后继",
+        "antonyms": "临阵脱逃、畏首畏尾"
+    }
+}

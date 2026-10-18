@@ -1,0 +1,59 @@
+{
+    "word": "九牛一毛",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B9%9D%E7%89%9B%E4%B8%80%E6%AF%9B",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "dbf370710c9cd0e20a9f3b3307b32e0b2d96d1dfd02c681af5a84a78769f1b0a",
+        "bytes": 28865
+    },
+    "parsed": {
+        "found": true,
+        "word": "九牛一毛",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jiǔ",
+                "niú",
+                "yī",
+                "máo"
+            ],
+            "zhuyin": [
+                "ㄐㄧㄡˇ",
+                "ㄋㄧㄨˊ",
+                "ㄧ",
+                "ㄇㄠˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻在极大数量中的极小的量",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "一丝一毫",
+            "九牛一毫",
+            "沧海一粟"
+        ],
+        "antonyms": [
+            "不计其数",
+            "举不胜举",
+            "九鼎大吕",
+            "盈千累万"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "a single hair out of nine ox hides——a drop in the ocean"
+    },
+    "blocks": {
+        "reading": "jiǔ niú yī máo",
+        "sense-1": "比喻在极大数量中的极小的量",
+        "synonyms": "一丝一毫、九牛一毫、沧海一粟",
+        "antonyms": "不计其数、举不胜举、九鼎大吕、盈千累万"
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "word": "耳提面命",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%80%B3%E6%8F%90%E9%9D%A2%E5%91%BD",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "e06f336b6fc304324816260fafa7b1ca86b2b6d2bbd60bf7cf69b8e1669b666f",
+        "bytes": 28055
+    },
+    "parsed": {
+        "found": true,
+        "word": "耳提面命",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "ěr",
+                "tí",
+                "miàn",
+                "mìng"
+            ],
+            "zhuyin": [
+                "ㄦˇ",
+                "ㄊㄧˊ",
+                "ㄇㄧㄢˋ",
+                "ㄇㄧㄥˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "《诗经·大雅·抑》:“匪面命之,言提其耳。”意思是不但当面教导他,而且揪着他的耳朵向他讲。后来用“耳提面命”形容恳切地教导。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "谆谆告诫",
+            "苦口婆心",
+            "谆谆教诲"
+        ],
+        "antonyms": [
+            "旁敲侧击"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "din exhortations into sb's ears"
+    },
+    "blocks": {
+        "reading": "ěr tí miàn mìng",
+        "sense-1": "《诗经·大雅·抑》:“匪面命之,言提其耳。”意思是不但当面教导他,而且揪着他的耳朵向他讲。后来用“耳提面命”形容恳切地教导。",
+        "synonyms": "谆谆告诫、苦口婆心、谆谆教诲",
+        "antonyms": "旁敲侧击"
+    }
+}

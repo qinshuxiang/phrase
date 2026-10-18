@@ -1,0 +1,55 @@
+{
+    "word": "待价而沽",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%BE%85%E4%BB%B7%E8%80%8C%E6%B2%BD",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "ae91bded634dc960c2d00ecf27c0e08157b6ca374c0961d192030877f91d03aa",
+        "bytes": 26051
+    },
+    "parsed": {
+        "found": true,
+        "word": "待价而沽",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "dài",
+                "jià",
+                "ér",
+                "gū"
+            ],
+            "zhuyin": [
+                "ㄉㄞˋ",
+                "ㄐㄧㄚˋ",
+                "ㄦˊ",
+                "ㄍㄨ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "等待高价出售，比喻怀才待用或待时而行。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "善价而沽",
+            "席珍待聘"
+        ],
+        "antonyms": [
+            "坐失良机"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "wait for the right price to sell"
+    },
+    "blocks": {
+        "reading": "dài jià ér gū",
+        "sense-1": "等待高价出售，比喻怀才待用或待时而行。",
+        "synonyms": "善价而沽、席珍待聘",
+        "antonyms": "坐失良机"
+    }
+}

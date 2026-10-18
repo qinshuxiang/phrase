@@ -1,0 +1,57 @@
+{
+    "word": "正本清源",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%AD%A3%E6%9C%AC%E6%B8%85%E6%BA%90",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "54d8c7160776d2b0da5635f5206baeb0cde5c3cdd4e1a61a14df43ecd9f0a222",
+        "bytes": 28428
+    },
+    "parsed": {
+        "found": true,
+        "word": "正本清源",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zhèng",
+                "běn",
+                "qīng",
+                "yuán"
+            ],
+            "zhuyin": [
+                "ㄓㄥˋ",
+                "ㄅㄣˇ",
+                "ㄑㄧㄥ",
+                "ㄩㄢˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "从根本上加以整顿清理。表示从根本上彻底解决问题",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "端本正源",
+            "正本澄源",
+            "根本治理"
+        ],
+        "antonyms": [
+            "头痛医头",
+            "脚痛医脚"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "clear up the spring or source of moral character;radically reform by striking at the root of the evil"
+    },
+    "blocks": {
+        "reading": "zhèng běn qīng yuán",
+        "sense-1": "从根本上加以整顿清理。表示从根本上彻底解决问题",
+        "synonyms": "端本正源、正本澄源、根本治理",
+        "antonyms": "头痛医头、脚痛医脚"
+    }
+}

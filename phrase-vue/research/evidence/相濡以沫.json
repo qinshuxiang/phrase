@@ -1,0 +1,66 @@
+{
+    "word": "相濡以沫",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%9B%B8%E6%BF%A1%E4%BB%A5%E6%B2%AB",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "9cb1a1c665a530ee7da34fc7726635360a222786fdfb5c4c9322a2101ad53b0a",
+        "bytes": 27986
+    },
+    "parsed": {
+        "found": true,
+        "word": "相濡以沫",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "xiāng",
+                "rú",
+                "yǐ",
+                "mò"
+            ],
+            "zhuyin": [
+                "ㄒㄧㄤ",
+                "ㄖㄨˊ",
+                "ㄧˇ",
+                "ㄇㄛˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "用唾沫相互湿润。比喻在困境中互相扶持帮助。",
+                "citations": [
+                    {
+                        "text": "泉涸，鱼相与处于陆，相呴以湿，相濡以沫，不如相忘于江湖。",
+                        "source": "战国·庄周《庄子·大宗师》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "泉涸，鱼相与处于陆，相呴以湿，相濡以沫，不如相忘于江湖。",
+                "source": "战国·庄周《庄子·大宗师》"
+            }
+        ],
+        "synonyms": [
+            "同甘共苦",
+            "生死与共"
+        ],
+        "antonyms": [
+            "自私自利"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "mutual help in hardship"
+    },
+    "blocks": {
+        "reading": "xiāng rú yǐ mò",
+        "sense-1": "用唾沫相互湿润。比喻在困境中互相扶持帮助。",
+        "citation-1": "泉涸，鱼相与处于陆，相呴以湿，相濡以沫，不如相忘于江湖。 — 战国·庄周《庄子·大宗师》",
+        "synonyms": "同甘共苦、生死与共",
+        "antonyms": "自私自利"
+    }
+}

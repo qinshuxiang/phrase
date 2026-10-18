@@ -1,0 +1,58 @@
+{
+    "word": "俯拾皆是",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%BF%AF%E6%8B%BE%E7%9A%86%E6%98%AF",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "c32a3cdbbb3c8d6a9e03659a76c9c558125adb4bd29f321961d99e78bf29269e",
+        "bytes": 26889
+    },
+    "parsed": {
+        "found": true,
+        "word": "俯拾皆是",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "fǔ",
+                "shí",
+                "jiē",
+                "shì"
+            ],
+            "zhuyin": [
+                "ㄈㄨˇ",
+                "ㄕˊ",
+                "ㄐㄧㄝ",
+                "ㄕˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "见“ 俯拾即是",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "比比皆是",
+            "触目皆是",
+            "不胜枚举"
+        ],
+        "antonyms": [
+            "凤毛麟角",
+            "寥寥无几",
+            "屈指可数"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "easily found"
+    },
+    "blocks": {
+        "reading": "fǔ shí jiē shì",
+        "sense-1": "见“ 俯拾即是",
+        "synonyms": "比比皆是、触目皆是、不胜枚举",
+        "antonyms": "凤毛麟角、寥寥无几、屈指可数"
+    }
+}

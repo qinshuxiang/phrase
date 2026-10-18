@@ -1,0 +1,49 @@
+{
+    "word": "不负众望",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%8D%E8%B4%9F%E4%BC%97%E6%9C%9B",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "8b3fa23cfe63da675148d6617672270efd8bed9b4573103bd9ff2543ae97072a",
+        "bytes": 22840
+    },
+    "parsed": {
+        "found": true,
+        "word": "不负众望",
+        "section": "idiom",
+        "readings": {
+            "pinyin": [
+                "bù",
+                "fù",
+                "zhòng",
+                "wàng"
+            ],
+            "zhuyin": [
+                "ㄅㄨˋ",
+                "ㄈㄨˋ",
+                "ㄓㄨㄥˋ",
+                "ㄨㄤˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "负：辜负；众：众人；望：期望。不辜负大家的期望。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "动宾式；作谓语；含褒义",
+        "example": "",
+        "english": ""
+    },
+    "blocks": {
+        "reading": "bù fù zhòng wàng",
+        "sense-1": "负：辜负；众：众人；望：期望。不辜负大家的期望。",
+        "grammar": "动宾式；作谓语；含褒义"
+    }
+}

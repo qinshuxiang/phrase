@@ -1,0 +1,66 @@
+{
+    "word": "激浊扬清",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%BF%80%E6%B5%8A%E6%89%AC%E6%B8%85",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "b41321bcf9ef75b13404823b3c913143407128bc8ed84988dde3f02ca64bfc9b",
+        "bytes": 26514
+    },
+    "parsed": {
+        "found": true,
+        "word": "激浊扬清",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jī",
+                "zhuó",
+                "yáng",
+                "qīng"
+            ],
+            "zhuyin": [
+                "ㄐㄧ",
+                "ㄓㄨㄛˊ",
+                "ㄧㄤˊ",
+                "ㄑㄧㄥ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "冲除污浊之水，浮起清澈之水。比喻清除恶劣风气，发扬良好品行。",
+                "citations": [
+                    {
+                        "text": "其功足以激浊扬清，师范僚友。",
+                        "source": "三国魏·刘劭《人物志·利害》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "其功足以激浊扬清，师范僚友。",
+                "source": "三国魏·刘劭《人物志·利害》"
+            }
+        ],
+        "synonyms": [
+            "彰善瘅恶",
+            "隐恶扬善"
+        ],
+        "antonyms": [
+            "讳疾忌医"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "eliminate vice and exalt virtue"
+    },
+    "blocks": {
+        "reading": "jī zhuó yáng qīng",
+        "sense-1": "冲除污浊之水，浮起清澈之水。比喻清除恶劣风气，发扬良好品行。",
+        "citation-1": "其功足以激浊扬清，师范僚友。 — 三国魏·刘劭《人物志·利害》",
+        "synonyms": "彰善瘅恶、隐恶扬善",
+        "antonyms": "讳疾忌医"
+    }
+}

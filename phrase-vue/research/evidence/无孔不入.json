@@ -1,0 +1,71 @@
+{
+    "word": "无孔不入",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%97%A0%E5%AD%94%E4%B8%8D%E5%85%A5",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "1a33aecae2d871693c4aa086597f640b5fbc5a386230dd9ced98cd94ab95f15a",
+        "bytes": 27497
+    },
+    "parsed": {
+        "found": true,
+        "word": "无孔不入",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "wú",
+                "kǒng",
+                "bù",
+                "rù"
+            ],
+            "zhuyin": [
+                "ㄨˊ",
+                "ㄎㄨㄥˇ",
+                "ㄅㄨˋ",
+                "ㄖㄨˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "遇有空隙就钻入。",
+                "citations": [
+                    {
+                        "text": "况且上海办捐的人，钻捐觅缝，无孔不入。",
+                        "source": "《官场现形记》第三五回"
+                    }
+                ]
+            },
+            {
+                "definition": "比喻善于钻营，不放过任何机会。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "况且上海办捐的人，钻捐觅缝，无孔不入。",
+                "source": "《官场现形记》第三五回"
+            }
+        ],
+        "synonyms": [
+            "见缝就钻",
+            "无远弗届"
+        ],
+        "antonyms": [
+            "无懈可击"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "pervasive"
+    },
+    "blocks": {
+        "reading": "wú kǒng bù rù",
+        "sense-1": "遇有空隙就钻入。",
+        "sense-2": "比喻善于钻营，不放过任何机会。",
+        "citation-1": "况且上海办捐的人，钻捐觅缝，无孔不入。 — 《官场现形记》第三五回",
+        "synonyms": "见缝就钻、无远弗届",
+        "antonyms": "无懈可击"
+    }
+}

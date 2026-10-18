@@ -1,0 +1,71 @@
+{
+    "word": "百折不挠",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%99%BE%E6%8A%98%E4%B8%8D%E6%8C%A0",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "28c5c825cacdd38d6e8b0d27684e4ff0e8f5b4f4d9badab1c64dd3930ffc2598",
+        "bytes": 28465
+    },
+    "parsed": {
+        "found": true,
+        "word": "百折不挠",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bǎi",
+                "zhé",
+                "bù",
+                "náo"
+            ],
+            "zhuyin": [
+                "ㄅㄞˇ",
+                "ㄓㄜˊ",
+                "ㄅㄨˋ",
+                "ㄣㄠˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "无论遭受多少挫折都不退缩动摇。形容意志坚定顽强。",
+                "citations": [
+                    {
+                        "text": "其性疾华尚朴，有百折不挠，临大节而不可夺之风。",
+                        "source": "汉·蔡邕《太尉桥公碑》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "其性疾华尚朴，有百折不挠，临大节而不可夺之风。",
+                "source": "汉·蔡邕《太尉桥公碑》"
+            }
+        ],
+        "synonyms": [
+            "百折不回",
+            "不屈不挠",
+            "坚韧不拔",
+            "百折不回﹑百折不挫﹑不屈不挠﹑坚韧不拔﹑绝不屈服"
+        ],
+        "antonyms": [
+            "知难而退",
+            "一蹶不振",
+            "半途而废",
+            "半途而回﹑知难而退﹑一蹶不振﹑因噎废食"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "indomitable"
+    },
+    "blocks": {
+        "reading": "bǎi zhé bù náo",
+        "sense-1": "无论遭受多少挫折都不退缩动摇。形容意志坚定顽强。",
+        "citation-1": "其性疾华尚朴，有百折不挠，临大节而不可夺之风。 — 汉·蔡邕《太尉桥公碑》",
+        "synonyms": "百折不回、不屈不挠、坚韧不拔、百折不回﹑百折不挫﹑不屈不挠﹑坚韧不拔﹑绝不屈服",
+        "antonyms": "知难而退、一蹶不振、半途而废、半途而回﹑知难而退﹑一蹶不振﹑因噎废食"
+    }
+}

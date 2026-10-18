@@ -1,0 +1,67 @@
+{
+    "word": "魂牵梦萦",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%AD%82%E7%89%B5%E6%A2%A6%E8%90%A6",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "8149498d3bd0c1f51ba72c5a6b8ed2482b7419bcdea5f7f82f8aa253858e0f84",
+        "bytes": 26090
+    },
+    "parsed": {
+        "found": true,
+        "word": "魂牵梦萦",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "hún",
+                "qiān",
+                "mèng",
+                "yíng"
+            ],
+            "zhuyin": [
+                "ㄏㄨㄣˊ",
+                "ㄑㄧㄢ",
+                "ㄇㄥˋ",
+                "ㄧㄥˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "灵魂牵挂，梦境萦绕。形容思念深切，无法忘怀。",
+                "citations": [
+                    {
+                        "text": "思君忆君，魂牵梦萦。翠销香暖云屏，更那堪酒醒！",
+                        "source": "宋·刘过《四字令》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "思君忆君，魂牵梦萦。翠销香暖云屏，更那堪酒醒！",
+                "source": "宋·刘过《四字令》"
+            }
+        ],
+        "synonyms": [
+            "日思夜梦",
+            "神魂颠倒"
+        ],
+        "antonyms": [
+            "大梦初醒",
+            "恍然大悟"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "yearn"
+    },
+    "blocks": {
+        "reading": "hún qiān mèng yíng",
+        "sense-1": "灵魂牵挂，梦境萦绕。形容思念深切，无法忘怀。",
+        "citation-1": "思君忆君，魂牵梦萦。翠销香暖云屏，更那堪酒醒！ — 宋·刘过《四字令》",
+        "synonyms": "日思夜梦、神魂颠倒",
+        "antonyms": "大梦初醒、恍然大悟"
+    }
+}

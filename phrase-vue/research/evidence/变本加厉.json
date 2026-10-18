@@ -1,0 +1,67 @@
+{
+    "word": "变本加厉",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%8F%98%E6%9C%AC%E5%8A%A0%E5%8E%89",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "94cef21121b4fe3bcd1d07a481cc74d2b84b27e9c47b846ade75a975db096447",
+        "bytes": 26968
+    },
+    "parsed": {
+        "found": true,
+        "word": "变本加厉",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "biàn",
+                "běn",
+                "jiā",
+                "lì"
+            ],
+            "zhuyin": [
+                "ㄅㄧㄢˋ",
+                "ㄅㄣˇ",
+                "ㄐㄧㄚ",
+                "ㄌㄧˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "变得比原来更加严重。",
+                "citations": [
+                    {
+                        "text": "久而久之，变本加厉，就闹出这邪说诬民的举动来了。",
+                        "source": "清·吴趼人《二十年目睹之怪现状》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "久而久之，变本加厉，就闹出这邪说诬民的举动来了。",
+                "source": "清·吴趼人《二十年目睹之怪现状》"
+            }
+        ],
+        "synonyms": [
+            "肆无忌惮",
+            "有加无己"
+        ],
+        "antonyms": [
+            "微不足道",
+            "大题小作"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "intensify; aggravate"
+    },
+    "blocks": {
+        "reading": "biàn běn jiā lì",
+        "sense-1": "变得比原来更加严重。",
+        "citation-1": "久而久之，变本加厉，就闹出这邪说诬民的举动来了。 — 清·吴趼人《二十年目睹之怪现状》",
+        "synonyms": "肆无忌惮、有加无己",
+        "antonyms": "微不足道、大题小作"
+    }
+}

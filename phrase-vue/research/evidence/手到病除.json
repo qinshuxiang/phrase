@@ -1,0 +1,55 @@
+{
+    "word": "手到病除",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%89%8B%E5%88%B0%E7%97%85%E9%99%A4",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "dbb6a4474f89a873c3d9661b2ba55ac02cdafd23b0ff335f68aa2e9db5b938d4",
+        "bytes": 26339
+    },
+    "parsed": {
+        "found": true,
+        "word": "手到病除",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shǒu",
+                "dào",
+                "bìng",
+                "chú"
+            ],
+            "zhuyin": [
+                "ㄕㄡˇ",
+                "ㄉㄠˋ",
+                "ㄅㄧㄥˋ",
+                "ㄔㄨˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容医术高明",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "药到病除",
+            "起死回生"
+        ],
+        "antonyms": [
+            "无济于事"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "cure a patient by mere touch;sickness retires at his touch"
+    },
+    "blocks": {
+        "reading": "shǒu dào bìng chú",
+        "sense-1": "形容医术高明",
+        "synonyms": "药到病除、起死回生",
+        "antonyms": "无济于事"
+    }
+}

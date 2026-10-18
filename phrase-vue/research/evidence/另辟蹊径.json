@@ -1,0 +1,51 @@
+{
+    "word": "另辟蹊径",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%8F%A6%E8%BE%9F%E8%B9%8A%E5%BE%84",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "14addfde8a092cda2b3e90842df8a84b8ea8280bca2869647e02df2f690521db",
+        "bytes": 25401
+    },
+    "parsed": {
+        "found": true,
+        "word": "另辟蹊径",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "lìng",
+                "pì",
+                "xī",
+                "jìng"
+            ],
+            "zhuyin": [
+                "ㄌㄧㄥˋ",
+                "ㄆㄧˋ",
+                "ㄒㄧ",
+                "ㄐㄧㄥˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "开创新的途径或方法。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "独辟蹊径"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "blaze a new trail"
+    },
+    "blocks": {
+        "reading": "lìng pì xī jìng",
+        "sense-1": "开创新的途径或方法。",
+        "synonyms": "独辟蹊径"
+    }
+}

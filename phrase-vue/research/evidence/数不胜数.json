@@ -1,0 +1,48 @@
+{
+    "word": "数不胜数",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%95%B0%E4%B8%8D%E8%83%9C%E6%95%B0",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "c9cc75ccfdfbe959a1d70cf57e88f42e0e7e6157bff0c5053c0bf9b239aca821",
+        "bytes": 25484
+    },
+    "parsed": {
+        "found": true,
+        "word": "数不胜数",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shǔ",
+                "bù",
+                "shèng",
+                "shǔ"
+            ],
+            "zhuyin": [
+                "ㄕㄨˇ",
+                "ㄅㄨˋ",
+                "ㄕㄥˋ",
+                "ㄕㄨˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "数量极多，难以计算。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "countless"
+    },
+    "blocks": {
+        "reading": "shǔ bù shèng shǔ",
+        "sense-1": "数量极多，难以计算。"
+    }
+}

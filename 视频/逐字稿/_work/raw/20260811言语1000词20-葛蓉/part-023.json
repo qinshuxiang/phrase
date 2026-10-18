@@ -1,0 +1,812 @@
+{
+  "text": "对,挽留,侧重,留,所以诗词％其实有一些,看上去挺形象％但是它的语义是没问题的。留,留就行了,那就可以。嗯。挽留不搭配。挽留其实人家,你看他的这个表达,他其实有点这样的偏散文,或说介绍的这样的语义。人家这个字,这个词,恰恰是他觉得用的比较好的一个地方。你看我刚刚还给你拓展了。挽留,以化挽留春光。你不能我们可能生活中啊说的确实比较多的是人挽留比如说啊你别走了我挽留一下你你再挽一挽吧你再待一待吧你再待一会儿吧我们再聊一会儿吧这叫挽留但是你看他除了搭配人他其实也可以搭配其他的就是非常生动形象就是先为你别走我要留住你对他很形象以画挽留住春光那画也是流入春光呀挽留非常形象的然后对文明记忆的挽留挽留文明记忆啊也是非常形象的心懂了来160我看看160提示哪边来着是这个这个傻了这个傻又有问题刚刚不说过吗哪个问题蓝爱同焚你就掌握啥意思好的坏的一起焚烧一起消灭掉了粉墙带瓦勉强还行但是粉墙带瓦除了形容曹雪奇比如说曹雪奇是南京江苏江南地区我们的归派建筑它其实也是粉墙带瓦的另外这个中明鼎石它非常好呀就是说富贵人家没有美丽子就是还不能说一下吗这小耳朵要竖起来小桥流水我来看看小桥流水人家这个也还行但是你这桑书问有完全不行纠结啥呢直接第一空就排除了你可能想积累一下词汇是吧小桥流水人家江南地区的也还行但是这个小桥流水有点不是很大起你看这个趋近通幽这样的园林是不是更加能对应到这个有钱的富贵人家人家是有园林的是有后花园的对一丝一缕很细小的很微小的其实也不是很好这个一一一一带你看一带多好呀对应到雀衣彩袖一样嗯行好嘞对小桥流水人家他体现的是那种江南的那种小护人家小桥流水嗯有了语意相反就是相反相对吧雕梁画洞感觉是那种宫廷啊那种建筑啊雕梁画洞或者说雕刻的很精美的曲静曲静通幽就是那种很自然的一个状态是后花园的这样的状态反正是不一样相反相对行好各位同学哈加油有啥问题其他平台也可以私聊我哈不打扰你们了哈你们啊可能马上我们的这个政治常识啊也要梳理了对吧休息一会儿行拜拜各位同学很棒,加油!",
+  "segments": [
+    {
+      "text": "对,挽留,侧重,留,所以诗词％其实有一些,看上去挺形象％但是它的语义是没问题的。",
+      "start": 0.0,
+      "end": 6.4,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3246,
+      "compression_ratio": 1.4315
+    },
+    {
+      "text": "留,留就行了,那就可以。",
+      "start": 6.4,
+      "end": 8.76,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3246,
+      "compression_ratio": 1.4315
+    },
+    {
+      "text": "嗯。",
+      "start": 8.76,
+      "end": 11.76,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3246,
+      "compression_ratio": 1.4315
+    },
+    {
+      "text": "挽留不搭配。挽留其实人家,你看他的这个表达,他其实有点这样的偏散文,或说介绍的这样的语义。",
+      "start": 11.76,
+      "end": 19.8,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3246,
+      "compression_ratio": 1.4315
+    },
+    {
+      "text": "人家这个字,这个词,恰恰是他觉得用的比较好的一个地方。",
+      "start": 19.8,
+      "end": 23.86,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3246,
+      "compression_ratio": 1.4315
+    },
+    {
+      "text": "你看我刚刚还给你拓展了。",
+      "start": 24.1,
+      "end": 26.560000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3246,
+      "compression_ratio": 1.4315
+    },
+    {
+      "text": "挽留,以化挽留春光。",
+      "start": 26.76,
+      "end": 29.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3246,
+      "compression_ratio": 1.4315
+    },
+    {
+      "text": "你不能我们可能生活中啊",
+      "start": 29.0,
+      "end": 30.96,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0863,
+      "compression_ratio": 1.6541
+    },
+    {
+      "text": "说的确实比较多的是人挽留",
+      "start": 30.96,
+      "end": 32.78,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0863,
+      "compression_ratio": 1.6541
+    },
+    {
+      "text": "比如说啊你别走了",
+      "start": 32.78,
+      "end": 33.82,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0863,
+      "compression_ratio": 1.6541
+    },
+    {
+      "text": "我挽留一下你",
+      "start": 33.82,
+      "end": 35.12,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0863,
+      "compression_ratio": 1.6541
+    },
+    {
+      "text": "你再挽一挽吧",
+      "start": 35.12,
+      "end": 36.08,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0863,
+      "compression_ratio": 1.6541
+    },
+    {
+      "text": "你再待一待吧",
+      "start": 36.08,
+      "end": 36.92,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0863,
+      "compression_ratio": 1.6541
+    },
+    {
+      "text": "你再待一会儿吧",
+      "start": 36.92,
+      "end": 37.86,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0863,
+      "compression_ratio": 1.6541
+    },
+    {
+      "text": "我们再聊一会儿吧",
+      "start": 37.86,
+      "end": 38.58,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0863,
+      "compression_ratio": 1.6541
+    },
+    {
+      "text": "这叫挽留",
+      "start": 38.58,
+      "end": 39.18,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0863,
+      "compression_ratio": 1.6541
+    },
+    {
+      "text": "但是你看他除了搭配人",
+      "start": 39.18,
+      "end": 41.54,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0863,
+      "compression_ratio": 1.6541
+    },
+    {
+      "text": "他其实也可以搭配其他的",
+      "start": 41.54,
+      "end": 42.82,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0863,
+      "compression_ratio": 1.6541
+    },
+    {
+      "text": "就是非常生动形象",
+      "start": 42.82,
+      "end": 44.22,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0863,
+      "compression_ratio": 1.6541
+    },
+    {
+      "text": "就是先为你别走",
+      "start": 44.22,
+      "end": 45.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0863,
+      "compression_ratio": 1.6541
+    },
+    {
+      "text": "我要留住你",
+      "start": 45.72,
+      "end": 46.519999999999996,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0863,
+      "compression_ratio": 1.6541
+    },
+    {
+      "text": "对他很形象",
+      "start": 46.519999999999996,
+      "end": 47.620000000000005,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0863,
+      "compression_ratio": 1.6541
+    },
+    {
+      "text": "以画挽留住春光",
+      "start": 47.620000000000005,
+      "end": 50.04,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0863,
+      "compression_ratio": 1.6541
+    },
+    {
+      "text": "那画也是流入春光呀",
+      "start": 50.04,
+      "end": 52.04,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0863,
+      "compression_ratio": 1.6541
+    },
+    {
+      "text": "挽留非常形象的",
+      "start": 52.04,
+      "end": 54.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0863,
+      "compression_ratio": 1.6541
+    },
+    {
+      "text": "然后对文明记忆的挽留",
+      "start": 54.0,
+      "end": 56.36,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0863,
+      "compression_ratio": 1.6541
+    },
+    {
+      "text": "挽留文明记忆啊",
+      "start": 56.36,
+      "end": 57.78,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0863,
+      "compression_ratio": 1.6541
+    },
+    {
+      "text": "也是非常形象的",
+      "start": 57.78,
+      "end": 58.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0863,
+      "compression_ratio": 1.6541
+    },
+    {
+      "text": "心懂了",
+      "start": 58.72,
+      "end": 63.7,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2053,
+      "compression_ratio": 1.2817
+    },
+    {
+      "text": "来160",
+      "start": 63.7,
+      "end": 64.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2053,
+      "compression_ratio": 1.2817
+    },
+    {
+      "text": "我看看160提示哪边来着",
+      "start": 64.88,
+      "end": 66.94,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2053,
+      "compression_ratio": 1.2817
+    },
+    {
+      "text": "是这个",
+      "start": 66.94,
+      "end": 72.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2053,
+      "compression_ratio": 1.2817
+    },
+    {
+      "text": "这个傻了",
+      "start": 72.84,
+      "end": 73.46,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2053,
+      "compression_ratio": 1.2817
+    },
+    {
+      "text": "这个傻又有问题",
+      "start": 73.46,
+      "end": 74.2,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2053,
+      "compression_ratio": 1.2817
+    },
+    {
+      "text": "刚刚不说过吗",
+      "start": 74.2,
+      "end": 74.94,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2053,
+      "compression_ratio": 1.2817
+    },
+    {
+      "text": "哪个问题",
+      "start": 74.94,
+      "end": 75.38,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2053,
+      "compression_ratio": 1.2817
+    },
+    {
+      "text": "蓝爱同焚",
+      "start": 75.38,
+      "end": 76.92,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2053,
+      "compression_ratio": 1.2817
+    },
+    {
+      "text": "你就掌握",
+      "start": 76.92,
+      "end": 77.7,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2053,
+      "compression_ratio": 1.2817
+    },
+    {
+      "text": "啥意思",
+      "start": 77.7,
+      "end": 78.28,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2053,
+      "compression_ratio": 1.2817
+    },
+    {
+      "text": "好的坏的一起焚烧",
+      "start": 78.28,
+      "end": 80.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2053,
+      "compression_ratio": 1.2817
+    },
+    {
+      "text": "一起消灭掉了",
+      "start": 80.0,
+      "end": 81.03999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2053,
+      "compression_ratio": 1.2817
+    },
+    {
+      "text": "粉墙带瓦勉强还行",
+      "start": 81.03999999999999,
+      "end": 84.22,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2053,
+      "compression_ratio": 1.2817
+    },
+    {
+      "text": "但是粉墙带瓦",
+      "start": 84.22,
+      "end": 85.24,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2053,
+      "compression_ratio": 1.2817
+    },
+    {
+      "text": "除了形容曹雪奇",
+      "start": 85.24,
+      "end": 86.38,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2053,
+      "compression_ratio": 1.2817
+    },
+    {
+      "text": "比如说曹雪奇",
+      "start": 86.38,
+      "end": 87.03999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2053,
+      "compression_ratio": 1.2817
+    },
+    {
+      "text": "是南京江苏江南地区",
+      "start": 87.04,
+      "end": 89.32000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1774,
+      "compression_ratio": 1.2692
+    },
+    {
+      "text": "我们的归派建筑",
+      "start": 89.32000000000001,
+      "end": 90.4,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1774,
+      "compression_ratio": 1.2692
+    },
+    {
+      "text": "它其实也是粉墙带瓦的",
+      "start": 90.4,
+      "end": 92.44000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1774,
+      "compression_ratio": 1.2692
+    },
+    {
+      "text": "另外这个中明鼎石",
+      "start": 92.44000000000001,
+      "end": 94.36000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1774,
+      "compression_ratio": 1.2692
+    },
+    {
+      "text": "它非常好呀",
+      "start": 94.36000000000001,
+      "end": 95.62,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1774,
+      "compression_ratio": 1.2692
+    },
+    {
+      "text": "就是说富贵人家",
+      "start": 95.62,
+      "end": 96.9,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1774,
+      "compression_ratio": 1.2692
+    },
+    {
+      "text": "没有美丽子",
+      "start": 96.9,
+      "end": 101.88000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1774,
+      "compression_ratio": 1.2692
+    },
+    {
+      "text": "就是还不能说一下吗",
+      "start": 101.88000000000001,
+      "end": 105.04,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1774,
+      "compression_ratio": 1.2692
+    },
+    {
+      "text": "这小耳朵要竖起来",
+      "start": 105.04,
+      "end": 106.44000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1774,
+      "compression_ratio": 1.2692
+    },
+    {
+      "text": "小桥流水",
+      "start": 106.44000000000001,
+      "end": 110.7,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1774,
+      "compression_ratio": 1.2692
+    },
+    {
+      "text": "我来看看小桥流水人家",
+      "start": 110.7,
+      "end": 112.48,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1774,
+      "compression_ratio": 1.2692
+    },
+    {
+      "text": "这个也还行",
+      "start": 112.48,
+      "end": 113.42,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1774,
+      "compression_ratio": 1.2692
+    },
+    {
+      "text": "但是你这桑书问有完全不行",
+      "start": 113.42,
+      "end": 116.26,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1774,
+      "compression_ratio": 1.2692
+    },
+    {
+      "text": "纠结啥呢",
+      "start": 116.26,
+      "end": 117.22,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1644,
+      "compression_ratio": 1.3648
+    },
+    {
+      "text": "直接第一空就排除了",
+      "start": 117.22,
+      "end": 119.26,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1644,
+      "compression_ratio": 1.3648
+    },
+    {
+      "text": "你可能想积累一下词汇是吧",
+      "start": 119.26,
+      "end": 122.02000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1644,
+      "compression_ratio": 1.3648
+    },
+    {
+      "text": "小桥流水人家江南地区的",
+      "start": 122.02000000000001,
+      "end": 124.4,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1644,
+      "compression_ratio": 1.3648
+    },
+    {
+      "text": "也还行",
+      "start": 124.4,
+      "end": 125.18,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1644,
+      "compression_ratio": 1.3648
+    },
+    {
+      "text": "但是这个小桥流水",
+      "start": 125.18,
+      "end": 128.64000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1644,
+      "compression_ratio": 1.3648
+    },
+    {
+      "text": "有点不是很大起",
+      "start": 128.64000000000001,
+      "end": 131.62,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1644,
+      "compression_ratio": 1.3648
+    },
+    {
+      "text": "你看这个趋近通幽",
+      "start": 131.62,
+      "end": 133.38,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1644,
+      "compression_ratio": 1.3648
+    },
+    {
+      "text": "这样的园林是不是更加能对应到",
+      "start": 133.38,
+      "end": 135.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1644,
+      "compression_ratio": 1.3648
+    },
+    {
+      "text": "这个有钱的富贵人家",
+      "start": 135.56,
+      "end": 138.34,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1644,
+      "compression_ratio": 1.3648
+    },
+    {
+      "text": "人家是有园林的",
+      "start": 138.34,
+      "end": 139.4,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1644,
+      "compression_ratio": 1.3648
+    },
+    {
+      "text": "是有后花园的",
+      "start": 139.4,
+      "end": 140.76,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1644,
+      "compression_ratio": 1.3648
+    },
+    {
+      "text": "对",
+      "start": 140.76,
+      "end": 143.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1644,
+      "compression_ratio": 1.3648
+    },
+    {
+      "text": "一丝一缕很细小的很微小的",
+      "start": 143.5,
+      "end": 145.82,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1644,
+      "compression_ratio": 1.3648
+    },
+    {
+      "text": "其实也不是很好",
+      "start": 145.82,
+      "end": 146.78,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2161,
+      "compression_ratio": 1.2931
+    },
+    {
+      "text": "这个一一一一带",
+      "start": 146.78,
+      "end": 149.14,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2161,
+      "compression_ratio": 1.2931
+    },
+    {
+      "text": "你看一带多好呀",
+      "start": 149.14,
+      "end": 150.26,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2161,
+      "compression_ratio": 1.2931
+    },
+    {
+      "text": "对应到雀衣彩袖一样",
+      "start": 150.26,
+      "end": 152.1,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2161,
+      "compression_ratio": 1.2931
+    },
+    {
+      "text": "嗯行",
+      "start": 152.1,
+      "end": 155.76,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2161,
+      "compression_ratio": 1.2931
+    },
+    {
+      "text": "好嘞",
+      "start": 155.76,
+      "end": 158.34,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2161,
+      "compression_ratio": 1.2931
+    },
+    {
+      "text": "对小桥流水人家",
+      "start": 158.34,
+      "end": 161.6,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2161,
+      "compression_ratio": 1.2931
+    },
+    {
+      "text": "他体现的是那种江南的",
+      "start": 161.6,
+      "end": 164.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2161,
+      "compression_ratio": 1.2931
+    },
+    {
+      "text": "那种小护人家",
+      "start": 164.5,
+      "end": 166.26,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2161,
+      "compression_ratio": 1.2931
+    },
+    {
+      "text": "小桥流水",
+      "start": 166.26,
+      "end": 167.2,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2161,
+      "compression_ratio": 1.2931
+    },
+    {
+      "text": "嗯有了语意",
+      "start": 167.2,
+      "end": 172.14,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2161,
+      "compression_ratio": 1.2931
+    },
+    {
+      "text": "相反就是相反相对吧",
+      "start": 172.14,
+      "end": 174.16,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2161,
+      "compression_ratio": 1.2931
+    },
+    {
+      "text": "雕梁画洞感觉是那种",
+      "start": 174.16,
+      "end": 175.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1624,
+      "compression_ratio": 1.3655
+    },
+    {
+      "text": "宫廷啊那种建筑啊",
+      "start": 175.84,
+      "end": 178.44,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1624,
+      "compression_ratio": 1.3655
+    },
+    {
+      "text": "雕梁画洞或者说雕刻的很精美的",
+      "start": 178.44,
+      "end": 180.74,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1624,
+      "compression_ratio": 1.3655
+    },
+    {
+      "text": "曲静曲静通幽",
+      "start": 180.74,
+      "end": 182.16,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1624,
+      "compression_ratio": 1.3655
+    },
+    {
+      "text": "就是那种很自然的一个状态",
+      "start": 182.16,
+      "end": 183.76,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1624,
+      "compression_ratio": 1.3655
+    },
+    {
+      "text": "是后花园的这样的状态",
+      "start": 183.76,
+      "end": 185.46,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1624,
+      "compression_ratio": 1.3655
+    },
+    {
+      "text": "反正是不一样相反相对",
+      "start": 185.46,
+      "end": 187.35999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1624,
+      "compression_ratio": 1.3655
+    },
+    {
+      "text": "行好各位同学哈",
+      "start": 187.35999999999999,
+      "end": 191.96,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1624,
+      "compression_ratio": 1.3655
+    },
+    {
+      "text": "加油有啥问题",
+      "start": 191.96,
+      "end": 193.16,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1624,
+      "compression_ratio": 1.3655
+    },
+    {
+      "text": "其他平台也可以私聊我哈",
+      "start": 193.16,
+      "end": 195.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1624,
+      "compression_ratio": 1.3655
+    },
+    {
+      "text": "不打扰你们了哈",
+      "start": 195.0,
+      "end": 196.22,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1624,
+      "compression_ratio": 1.3655
+    },
+    {
+      "text": "你们啊可能马上我们的这个政治常识啊",
+      "start": 196.22,
+      "end": 199.14,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1624,
+      "compression_ratio": 1.3655
+    },
+    {
+      "text": "也要梳理了对吧",
+      "start": 199.14,
+      "end": 199.98,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1624,
+      "compression_ratio": 1.3655
+    },
+    {
+      "text": "休息一会儿",
+      "start": 199.98,
+      "end": 201.76,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1624,
+      "compression_ratio": 1.3655
+    },
+    {
+      "text": "行拜拜",
+      "start": 201.76,
+      "end": 203.18,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1624,
+      "compression_ratio": 1.3655
+    },
+    {
+      "text": "各位同学很棒,加油!",
+      "start": 203.18,
+      "end": 205.18,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4443,
+      "compression_ratio": 0.7027
+    }
+  ],
+  "repairs": [],
+  "index": 23,
+  "start": 6900.0,
+  "duration": 208.557,
+  "elapsed": 16.1,
+  "ok": true,
+  "initial_prompt": "四海公考，公务员考试，言语理解与表达，逻辑填空，高频实词，成语辨析，语义侧重，感情色彩，搭配对象，适用语境，易混词，例句。简体中文。课件词条：波澜不惊。"
+}

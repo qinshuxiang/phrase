@@ -1,0 +1,65 @@
+{
+    "word": "穿凿附会",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%A9%BF%E5%87%BF%E9%99%84%E4%BC%9A",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "c70d4263ade27c58da7895497d7994269cdc4e52689c4f76a10b3eb61324ad7a",
+        "bytes": 25904
+    },
+    "parsed": {
+        "found": true,
+        "word": "穿凿附会",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "chuān",
+                "záo",
+                "fù",
+                "huì"
+            ],
+            "zhuyin": [
+                "ㄔㄨㄢ",
+                "ㄗㄠˊ",
+                "ㄈㄨˋ",
+                "ㄏㄨㄟˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "生拉硬扯，牵强解释。",
+                "citations": [
+                    {
+                        "text": "晚居金陵，又作《字说》，多穿凿附会。",
+                        "source": "宋·脱脱等《宋史·王安石传》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "晚居金陵，又作《字说》，多穿凿附会。",
+                "source": "宋·脱脱等《宋史·王安石传》"
+            }
+        ],
+        "synonyms": [
+            "牵强附会"
+        ],
+        "antonyms": [
+            "融会贯通"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "forced interpretation"
+    },
+    "blocks": {
+        "reading": "chuān záo fù huì",
+        "sense-1": "生拉硬扯，牵强解释。",
+        "citation-1": "晚居金陵，又作《字说》，多穿凿附会。 — 宋·脱脱等《宋史·王安石传》",
+        "synonyms": "牵强附会",
+        "antonyms": "融会贯通"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "word": "别开生面",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%88%AB%E5%BC%80%E7%94%9F%E9%9D%A2",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "2f5df91e653a7f4b6b5df7b8c6c3308b67cc4631f0758c92b69c9171ba2eb5f5",
+        "bytes": 28470
+    },
+    "parsed": {
+        "found": true,
+        "word": "别开生面",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bié",
+                "kāi",
+                "shēng",
+                "miàn"
+            ],
+            "zhuyin": [
+                "ㄅㄧㄝˊ",
+                "ㄎㄞ",
+                "ㄕㄥ",
+                "ㄇㄧㄢˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "开创新的风格或形式。",
+                "citations": [
+                    {
+                        "text": "凌烟功臣少颜色，将军下笔开生面。",
+                        "source": "唐·杜甫《丹青引》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "凌烟功臣少颜色，将军下笔开生面。",
+                "source": "唐·杜甫《丹青引》"
+            }
+        ],
+        "synonyms": [
+            "面目一新",
+            "别具匠心",
+            "别具一格",
+            "别出机杼",
+            "别出心裁"
+        ],
+        "antonyms": [
+            "规行矩步",
+            "千篇一律"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "original"
+    },
+    "blocks": {
+        "reading": "bié kāi shēng miàn",
+        "sense-1": "开创新的风格或形式。",
+        "citation-1": "凌烟功臣少颜色，将军下笔开生面。 — 唐·杜甫《丹青引》",
+        "synonyms": "面目一新、别具匠心、别具一格、别出机杼、别出心裁",
+        "antonyms": "规行矩步、千篇一律"
+    }
+}

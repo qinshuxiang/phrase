@@ -1,0 +1,48 @@
+{
+    "word": "一语成谶",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%80%E8%AF%AD%E6%88%90%E8%B0%B6",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "af0416c35619eea33f7f0e2ad761c50c60e4cc0ab99d96e3ca003cbe423f9740",
+        "bytes": 23573
+    },
+    "parsed": {
+        "found": true,
+        "word": "一语成谶",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yī",
+                "yǔ",
+                "chéng",
+                "chèn"
+            ],
+            "zhuyin": [
+                "ㄧˋ",
+                "ㄩˇ",
+                "ㄔㄥˊ",
+                "ㄔㄣˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "<p>谶：指将要应验的预言、预兆，一般指不吉利的预言或不幸言中的意思。</p>",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": ""
+    },
+    "blocks": {
+        "reading": "yī yǔ chéng chèn",
+        "sense-1": "<p>谶：指将要应验的预言、预兆，一般指不吉利的预言或不幸言中的意思。</p>"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "word": "明察秋毫",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%98%8E%E5%AF%9F%E7%A7%8B%E6%AF%AB",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "2f35587840e641c642d3a4f414361805b8819193940ad426f2cc0287b3c64be4",
+        "bytes": 29008
+    },
+    "parsed": {
+        "found": true,
+        "word": "明察秋毫",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "míng",
+                "chá",
+                "qiū",
+                "háo"
+            ],
+            "zhuyin": [
+                "ㄇㄧㄥˊ",
+                "ㄔㄚˊ",
+                "ㄑㄧㄡ",
+                "ㄏㄠˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "明细观察秋日兽类的毫毛。极言能敏锐辨别是非,观察细微,不受蒙蔽",
+                "citations": [
+                    {
+                        "text": "明足以察秋毫之末而不见舆薪,则王许之乎?",
+                        "source": "《孟子·梁惠王上》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "明足以察秋毫之末而不见舆薪,则王许之乎?",
+                "source": "《孟子·梁惠王上》"
+            }
+        ],
+        "synonyms": [
+            "洞若观火",
+            "明查暗访"
+        ],
+        "antonyms": [
+            "不见薪新",
+            "鼠目寸光"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "omniscient"
+    },
+    "blocks": {
+        "reading": "míng chá qiū háo",
+        "sense-1": "明细观察秋日兽类的毫毛。极言能敏锐辨别是非,观察细微,不受蒙蔽",
+        "citation-1": "明足以察秋毫之末而不见舆薪,则王许之乎? — 《孟子·梁惠王上》",
+        "synonyms": "洞若观火、明查暗访",
+        "antonyms": "不见薪新、鼠目寸光"
+    }
+}

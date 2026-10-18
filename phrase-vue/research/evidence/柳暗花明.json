@@ -1,0 +1,68 @@
+{
+    "word": "柳暗花明",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%9F%B3%E6%9A%97%E8%8A%B1%E6%98%8E",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "386971b4711e435f9a8a21c46718373a51c60f8cd47c4710b464eef8ba4294a3",
+        "bytes": 29389
+    },
+    "parsed": {
+        "found": true,
+        "word": "柳暗花明",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "liǔ",
+                "àn",
+                "huā",
+                "míng"
+            ],
+            "zhuyin": [
+                "ㄌㄧㄨˇ",
+                "ㄢˋ",
+                "ㄏㄨㄚ",
+                "ㄇㄧㄥˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "绿柳成荫,鲜花怒放。形容春天繁花似锦的美景",
+                "citations": [
+                    {
+                        "text": "山重水复疑无路,柳暗花明又一村。",
+                        "source": "宋·陆游《游山西村》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "山重水复疑无路,柳暗花明又一村。",
+                "source": "宋·陆游《游山西村》"
+            }
+        ],
+        "synonyms": [
+            "山清水秀",
+            "美不胜收"
+        ],
+        "antonyms": [
+            "穷途末路",
+            "走投无路",
+            "山穷水尽"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "dense willow trees and bright flowers-feel hopeful in predicament"
+    },
+    "blocks": {
+        "reading": "liǔ àn huā míng",
+        "sense-1": "绿柳成荫,鲜花怒放。形容春天繁花似锦的美景",
+        "citation-1": "山重水复疑无路,柳暗花明又一村。 — 宋·陆游《游山西村》",
+        "synonyms": "山清水秀、美不胜收",
+        "antonyms": "穷途末路、走投无路、山穷水尽"
+    }
+}

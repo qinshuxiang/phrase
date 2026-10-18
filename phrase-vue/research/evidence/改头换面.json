@@ -1,0 +1,94 @@
+{
+    "word": "改头换面",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%94%B9%E5%A4%B4%E6%8D%A2%E9%9D%A2",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "26162cc4bbac1475b0e6070ae75af6ef83c5000426ef7174d1e9481b9c45cdb4",
+        "bytes": 29202
+    },
+    "parsed": {
+        "found": true,
+        "word": "改头换面",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "gǎi",
+                "tóu",
+                "huàn",
+                "miàn"
+            ],
+            "zhuyin": [
+                "ㄍㄞˇ",
+                "ㄊㄡˊ",
+                "ㄏㄨㄢˋ",
+                "ㄇㄧㄢˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "佛教指众生在轮回中形貌改变而神识不变。",
+                "citations": [
+                    {
+                        "text": "改头换面孔，不离旧时人。",
+                        "source": "唐·寒山《诗》"
+                    },
+                    {
+                        "text": "且教改头换面来寻主，剪发齐眉去杀人。",
+                        "source": "《水浒传》"
+                    }
+                ]
+            },
+            {
+                "definition": "改变外表形象。",
+                "citations": []
+            },
+            {
+                "definition": "比喻只改变形式而不改变实质内容。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "改头换面孔，不离旧时人。",
+                "source": "唐·寒山《诗》"
+            },
+            {
+                "text": "且教改头换面来寻主，剪发齐眉去杀人。",
+                "source": "《水浒传》"
+            },
+            {
+                "text": "今人作经义，正是醉人说话。只是许多说话，改头换面，说了又说，不成文字。",
+                "source": "《朱子语类》"
+            }
+        ],
+        "synonyms": [
+            "乔装打扮",
+            "面目一新",
+            "洗面革心",
+            "洗心革面",
+            "新瓶旧酒"
+        ],
+        "antonyms": [
+            "依然如故",
+            "原封不动"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "change appearance"
+    },
+    "blocks": {
+        "reading": "gǎi tóu huàn miàn",
+        "sense-1": "佛教指众生在轮回中形貌改变而神识不变。",
+        "sense-2": "改变外表形象。",
+        "sense-3": "比喻只改变形式而不改变实质内容。",
+        "citation-1": "改头换面孔，不离旧时人。 — 唐·寒山《诗》",
+        "citation-2": "且教改头换面来寻主，剪发齐眉去杀人。 — 《水浒传》",
+        "citation-3": "今人作经义，正是醉人说话。只是许多说话，改头换面，说了又说，不成文字。 — 《朱子语类》",
+        "synonyms": "乔装打扮、面目一新、洗面革心、洗心革面、新瓶旧酒",
+        "antonyms": "依然如故、原封不动"
+    }
+}

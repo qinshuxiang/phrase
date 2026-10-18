@@ -1,0 +1,54 @@
+{
+    "word": "肆意妄为",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%82%86%E6%84%8F%E5%A6%84%E4%B8%BA",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "6fd78285669ace94861006c24cdcc055a3f70f3b4e9b066c79ee7a275ffa413e",
+        "bytes": 23084
+    },
+    "parsed": {
+        "found": true,
+        "word": "肆意妄为",
+        "section": "idiom",
+        "readings": {
+            "pinyin": [
+                "sì",
+                "yì",
+                "wàng",
+                "wéi"
+            ],
+            "zhuyin": [
+                "ㄙˋ",
+                "ㄧˋ",
+                "ㄨㄤˋ",
+                "ㄨㄟˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "妄：胡乱，非分的，出了常规的。妄为：胡作非为。指不顾一切由着自己的性子胡作非为。亦作“肆意妄行”。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "非从之使毫无忌惮，肆意妄为也。 <span",
+                "source": "《野叟曝言．第六○回》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": ""
+    },
+    "blocks": {
+        "reading": "sì yì wàng wéi",
+        "sense-1": "妄：胡乱，非分的，出了常规的。妄为：胡作非为。指不顾一切由着自己的性子胡作非为。亦作“肆意妄行”。",
+        "citation-1": "非从之使毫无忌惮，肆意妄为也。 <span — 《野叟曝言．第六○回》"
+    }
+}

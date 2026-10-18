@@ -1,0 +1,58 @@
+{
+    "word": "委曲求全",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A7%94%E6%9B%B2%E6%B1%82%E5%85%A8",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "e18da7e270caf93d838b6dfaae455495566e068b743818b3c3c74fb47af4f7f9",
+        "bytes": 27938
+    },
+    "parsed": {
+        "found": true,
+        "word": "委曲求全",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "wěi",
+                "qū",
+                "qiú",
+                "quán"
+            ],
+            "zhuyin": [
+                "ㄨㄟˇ",
+                "ㄑㄩ",
+                "ㄑㄧㄡˊ",
+                "ㄑㄨㄢˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "勉强迁就,以求保全;顾全大局,暂时忍让",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "逆来顺受",
+            "低声下气"
+        ],
+        "antonyms": [
+            "不卑不亢",
+            "针锋相对",
+            "宁死不屈",
+            "宁为玉碎"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "compromise out of consideration for the general interest;make concessions to achieve one's purpose;stoop to compromise"
+    },
+    "blocks": {
+        "reading": "wěi qū qiú quán",
+        "sense-1": "勉强迁就,以求保全;顾全大局,暂时忍让",
+        "synonyms": "逆来顺受、低声下气",
+        "antonyms": "不卑不亢、针锋相对、宁死不屈、宁为玉碎"
+    }
+}

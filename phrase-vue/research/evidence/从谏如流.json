@@ -1,0 +1,82 @@
+{
+    "word": "从谏如流",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%BB%8E%E8%B0%8F%E5%A6%82%E6%B5%81",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "a8cab696c99894ce03e1e1c65be7b0efa47cb82d708b1683d86c4c2a146fc351",
+        "bytes": 27396
+    },
+    "parsed": {
+        "found": true,
+        "word": "从谏如流",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "cóng",
+                "jiàn",
+                "rú",
+                "liú"
+            ],
+            "zhuyin": [
+                "ㄘㄨㄥˊ",
+                "ㄐㄧㄢˋ",
+                "ㄖㄨˊ",
+                "ㄌㄧㄨˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "乐于接受他人劝谏，如同水顺流而下般自然。多用于形容上位者虚心纳谏。",
+                "citations": [
+                    {
+                        "text": "见善如不及，用人如由己，从谏如顺流，趣时如响起。",
+                        "source": "汉·班彪《王命论》"
+                    },
+                    {
+                        "text": "君匪从流，臣进逆耳。",
+                        "source": "南朝梁·萧统《〈文选〉序》"
+                    }
+                ]
+            },
+            {
+                "definition": "亦省作“ 从流",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "见善如不及，用人如由己，从谏如顺流，趣时如响起。",
+                "source": "汉·班彪《王命论》"
+            },
+            {
+                "text": "君匪从流，臣进逆耳。",
+                "source": "南朝梁·萧统《〈文选〉序》"
+            }
+        ],
+        "synonyms": [
+            "从善如流"
+        ],
+        "antonyms": [
+            "独断专行",
+            "讳疾忌医",
+            "刚愎自用",
+            "固执己见"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "readily accept advice"
+    },
+    "blocks": {
+        "reading": "cóng jiàn rú liú",
+        "sense-1": "乐于接受他人劝谏，如同水顺流而下般自然。多用于形容上位者虚心纳谏。",
+        "sense-2": "亦省作“ 从流",
+        "citation-1": "见善如不及，用人如由己，从谏如顺流，趣时如响起。 — 汉·班彪《王命论》",
+        "citation-2": "君匪从流，臣进逆耳。 — 南朝梁·萧统《〈文选〉序》",
+        "synonyms": "从善如流",
+        "antonyms": "独断专行、讳疾忌医、刚愎自用、固执己见"
+    }
+}

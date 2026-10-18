@@ -1,0 +1,68 @@
+{
+    "word": "驾轻就熟",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%A9%BE%E8%BD%BB%E5%B0%B1%E7%86%9F",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "2b387fbf9d2bc99876a35f0de2c2e6ce2001a9a5edcc8015240036a691c838db",
+        "bytes": 27536
+    },
+    "parsed": {
+        "found": true,
+        "word": "驾轻就熟",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jià",
+                "qīng",
+                "jiù",
+                "shú"
+            ],
+            "zhuyin": [
+                "ㄐㄧㄚˋ",
+                "ㄑㄧㄥ",
+                "ㄐㄧㄡˋ",
+                "ㄕㄨˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "驾驭轻车走熟悉的路。比喻对事情熟悉，做起来轻松容易。",
+                "citations": [
+                    {
+                        "text": "若驷马驾轻车就熟路，而王良、造父为之先后也。",
+                        "source": "唐·韩愈《送石处士序》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "若驷马驾轻车就熟路，而王良、造父为之先后也。",
+                "source": "唐·韩愈《送石处士序》"
+            }
+        ],
+        "synonyms": [
+            "熟能生巧",
+            "得心应手",
+            "轻而易举",
+            "轻车熟路"
+        ],
+        "antonyms": [
+            "半路出家"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "do a familiar job with ease"
+    },
+    "blocks": {
+        "reading": "jià qīng jiù shú",
+        "sense-1": "驾驭轻车走熟悉的路。比喻对事情熟悉，做起来轻松容易。",
+        "citation-1": "若驷马驾轻车就熟路，而王良、造父为之先后也。 — 唐·韩愈《送石处士序》",
+        "synonyms": "熟能生巧、得心应手、轻而易举、轻车熟路",
+        "antonyms": "半路出家"
+    }
+}

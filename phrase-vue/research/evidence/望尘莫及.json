@@ -1,0 +1,67 @@
+{
+    "word": "望尘莫及",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%9C%9B%E5%B0%98%E8%8E%AB%E5%8F%8A",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "7d7e2103335992c570f8d4cf376428edb94c6653e2ac5e22526f741b60ddb72f",
+        "bytes": 27232
+    },
+    "parsed": {
+        "found": true,
+        "word": "望尘莫及",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "wàng",
+                "chén",
+                "mò",
+                "jí"
+            ],
+            "zhuyin": [
+                "ㄨㄤˋ",
+                "ㄔㄣˊ",
+                "ㄇㄛˋ",
+                "ㄐㄧˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "远望前方车马扬起的尘土却无法追上。比喻远远落后。",
+                "citations": [
+                    {
+                        "text": "豫章王尚望尘不及，吾当望岫息心。",
+                        "source": "《南史·何点传》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "豫章王尚望尘不及，吾当望岫息心。",
+                "source": "《南史·何点传》"
+            }
+        ],
+        "synonyms": [
+            "不可企及",
+            "瞠乎其后"
+        ],
+        "antonyms": [
+            "后来居上",
+            "迎头赶上"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "too far behind to catch up"
+    },
+    "blocks": {
+        "reading": "wàng chén mò jí",
+        "sense-1": "远望前方车马扬起的尘土却无法追上。比喻远远落后。",
+        "citation-1": "豫章王尚望尘不及，吾当望岫息心。 — 《南史·何点传》",
+        "synonyms": "不可企及、瞠乎其后",
+        "antonyms": "后来居上、迎头赶上"
+    }
+}

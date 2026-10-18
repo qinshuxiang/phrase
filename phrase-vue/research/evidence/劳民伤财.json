@@ -1,0 +1,69 @@
+{
+    "word": "劳民伤财",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%8A%B3%E6%B0%91%E4%BC%A4%E8%B4%A2",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "82d32dbcee03ab2b25c8c43d0b5aca170f8988f38a46194e7adcbc0d3a497d6f",
+        "bytes": 26914
+    },
+    "parsed": {
+        "found": true,
+        "word": "劳民伤财",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "láo",
+                "mín",
+                "shāng",
+                "cái"
+            ],
+            "zhuyin": [
+                "ㄌㄠˊ",
+                "ㄇㄧㄣˊ",
+                "ㄕㄤ",
+                "ㄘㄞˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "既使民众劳苦，又耗费钱财。",
+                "citations": [
+                    {
+                        "text": "以后你府县再不可供献金灯，劳民伤财也。",
+                        "source": "《西游记》第九二回"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "以后你府县再不可供献金灯，劳民伤财也。",
+                "source": "《西游记》第九二回"
+            }
+        ],
+        "synonyms": [
+            "事倍功半",
+            "舍本求末",
+            "因小失大"
+        ],
+        "antonyms": [
+            "一举两得",
+            "事半功倍",
+            "一箭双雕"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "waste manpower and money"
+    },
+    "blocks": {
+        "reading": "láo mín shāng cái",
+        "sense-1": "既使民众劳苦，又耗费钱财。",
+        "citation-1": "以后你府县再不可供献金灯，劳民伤财也。 — 《西游记》第九二回",
+        "synonyms": "事倍功半、舍本求末、因小失大",
+        "antonyms": "一举两得、事半功倍、一箭双雕"
+    }
+}

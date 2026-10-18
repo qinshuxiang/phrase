@@ -1,0 +1,65 @@
+{
+    "word": "风餐露宿",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%A3%8E%E9%A4%90%E9%9C%B2%E5%AE%BF",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "3b3f012e013c4f3a54e3af4a251ef23aeb83cfbe5e32cc20a41fbf4ee90c1f03",
+        "bytes": 26098
+    },
+    "parsed": {
+        "found": true,
+        "word": "风餐露宿",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "fēng",
+                "cān",
+                "lù",
+                "sù"
+            ],
+            "zhuyin": [
+                "ㄈㄥ",
+                "ㄘㄢ",
+                "ㄌㄨˋ",
+                "ㄙㄨˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "在风中吃饭，在露天睡觉。形容旅途或野外生活的艰苦。",
+                "citations": [
+                    {
+                        "text": "饥饭困眠全体懒，风餐露宿半生痴。",
+                        "source": "宋·范成大《元日》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "饥饭困眠全体懒，风餐露宿半生痴。",
+                "source": "宋·范成大《元日》"
+            }
+        ],
+        "synonyms": [
+            "草行露宿",
+            "餐风饮露",
+            "风尘仆仆",
+            "栉风沐雨"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "eat-in-the-wind-and-sleep-in-the-dew"
+    },
+    "blocks": {
+        "reading": "fēng cān lù sù",
+        "sense-1": "在风中吃饭，在露天睡觉。形容旅途或野外生活的艰苦。",
+        "citation-1": "饥饭困眠全体懒，风餐露宿半生痴。 — 宋·范成大《元日》",
+        "synonyms": "草行露宿、餐风饮露、风尘仆仆、栉风沐雨"
+    }
+}

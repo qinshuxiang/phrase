@@ -1,0 +1,66 @@
+{
+    "word": "手不释卷",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%89%8B%E4%B8%8D%E9%87%8A%E5%8D%B7",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "20f76e39ee81b9d9e4b7a1d7a010e0b0720ad047c87da47a51990ef3c0896851",
+        "bytes": 26568
+    },
+    "parsed": {
+        "found": true,
+        "word": "手不释卷",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shǒu",
+                "bù",
+                "shì",
+                "juàn"
+            ],
+            "zhuyin": [
+                "ㄕㄡˇ",
+                "ㄅㄨˋ",
+                "ㄕˋ",
+                "ㄐㄩㄢˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "手中总是拿着书本。形容勤奋好学。",
+                "citations": [
+                    {
+                        "text": "上雅好诗书文籍，虽在军旅，手不释卷。",
+                        "source": "三国·魏·曹丕《典论·自叙》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "上雅好诗书文籍，虽在军旅，手不释卷。",
+                "source": "三国·魏·曹丕《典论·自叙》"
+            }
+        ],
+        "synonyms": [
+            "学而不厌",
+            "爱不释手"
+        ],
+        "antonyms": [
+            "不学无术"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "always with a book in hand"
+    },
+    "blocks": {
+        "reading": "shǒu bù shì juàn",
+        "sense-1": "手中总是拿着书本。形容勤奋好学。",
+        "citation-1": "上雅好诗书文籍，虽在军旅，手不释卷。 — 三国·魏·曹丕《典论·自叙》",
+        "synonyms": "学而不厌、爱不释手",
+        "antonyms": "不学无术"
+    }
+}

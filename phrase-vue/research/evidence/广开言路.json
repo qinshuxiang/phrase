@@ -1,0 +1,64 @@
+{
+    "word": "广开言路",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%B9%BF%E5%BC%80%E8%A8%80%E8%B7%AF",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "fb979c3b63084108d9abc345f98c2513e9003eaf8bcb2ded76e17bf5f567bd88",
+        "bytes": 26907
+    },
+    "parsed": {
+        "found": true,
+        "word": "广开言路",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "guǎng",
+                "kāi",
+                "yán",
+                "lù"
+            ],
+            "zhuyin": [
+                "ㄍㄨㄤˇ",
+                "ㄎㄞ",
+                "ㄧㄢˊ",
+                "ㄌㄨˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "创造条件让人们充分发表意见。",
+                "citations": [
+                    {
+                        "text": "臣愚以为今日所宜先者，莫若明下诏书，广开言路。",
+                        "source": "宋·司马光《乞开言路札子》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "臣愚以为今日所宜先者，莫若明下诏书，广开言路。",
+                "source": "宋·司马光《乞开言路札子》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [
+            "独断专行",
+            "堵塞言路",
+            "闭目塞听"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "encourage free speech"
+    },
+    "blocks": {
+        "reading": "guǎng kāi yán lù",
+        "sense-1": "创造条件让人们充分发表意见。",
+        "citation-1": "臣愚以为今日所宜先者，莫若明下诏书，广开言路。 — 宋·司马光《乞开言路札子》",
+        "antonyms": "独断专行、堵塞言路、闭目塞听"
+    }
+}

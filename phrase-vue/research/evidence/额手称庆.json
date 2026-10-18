@@ -1,0 +1,67 @@
+{
+    "word": "额手称庆",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%A2%9D%E6%89%8B%E7%A7%B0%E5%BA%86",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "a8a2fd4a8b2e81ee0b8a22ee8aa13eef29a25a857f544bb5e132ae88bdefee3a",
+        "bytes": 26307
+    },
+    "parsed": {
+        "found": true,
+        "word": "额手称庆",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "é",
+                "shǒu",
+                "chēng",
+                "qìng"
+            ],
+            "zhuyin": [
+                "ㄜˊ",
+                "ㄕㄡˇ",
+                "ㄔㄥ",
+                "ㄑㄧㄥˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "将手放在额头上表示庆幸。",
+                "citations": [
+                    {
+                        "text": "文公至绛，国人无不额手称庆。",
+                        "source": "《东周列国志》第三七回"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "文公至绛，国人无不额手称庆。",
+                "source": "《东周列国志》第三七回"
+            }
+        ],
+        "synonyms": [
+            "欣喜若狂",
+            "额手相庆",
+            "以手加额"
+        ],
+        "antonyms": [
+            "垂头丧气"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "raise hand to forehead in jubilation"
+    },
+    "blocks": {
+        "reading": "é shǒu chēng qìng",
+        "sense-1": "将手放在额头上表示庆幸。",
+        "citation-1": "文公至绛，国人无不额手称庆。 — 《东周列国志》第三七回",
+        "synonyms": "欣喜若狂、额手相庆、以手加额",
+        "antonyms": "垂头丧气"
+    }
+}

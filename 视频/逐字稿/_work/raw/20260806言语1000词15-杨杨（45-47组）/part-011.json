@@ -1,0 +1,1227 @@
+{
+  "text": "读者不体现出我去向地位更低的人,请教他人的意思,对不对?所以ABC6,后面第二孔,说是读者不赞成作者的观点吗?未必。既然赞成作者的观点,就该同声相应。可读者为什么不来应呢?这就告诉我们作者有一个文法的问题。再想一想,为什么别人的文章读者就怎么了?奔走相告了?别人的文章读者十分喜爱,争相阅读,奔走相告了。所以选谁手不试卷手不试卷是不是就是特指专门形容读书的就是酷爱读书籍适配这个文章的一个读物所以它适配性特别好爱不试手它多指食物对不对跟大家说了多指食物而凤为至宝凤为至宝又太重了它当作宝贝了所以第二个空手不试卷直接选它了来第三孔说而我们的文章读者却怎么了这只能说明我们的文风却有问题就说和前面受欢迎就构成了一个鲜明的对比别人文章大家都爱读而我们自己的文章读者是轻视的不愿意看的选不屑一顾不屑一顾呢有点轻视懒得去看是吧就是读者不喜欢懒得去看而这个单独看这个第三孔啊这个不足挂齿不足挂齿就是事情太微小了不值得一提他不能形容对于文章的态度对吧比如说小小小小的这个事不足挂齿就是不值得一提这个赤之以鼻赤之以鼻有点讥笑嘲讽但是文段他根本没有讥讽嘲笑这种感觉而这个比一不屑他和这个不屑一顾差不多所以他也可以对吧和他俩接近好来继续往后走看这个46组看这几个啊很熟悉这六个成语都有熟悉的意思我们先来看前两个啊这两个词呢都是指熟悉对不对来看啊他怎么熟悉的驾轻就熟和轻车熟路这两个词语呢他都是有熟悉做起来特别容易但是侧重点他有所不同驾轻就熟是侧重于哪里的侧重于技能技能能力特别强技能特别纯熟所以强调这个人他技能好本领高经验特别丰富就比如说给大家举个例子这个老的技师这个维修师傅对于这种精密的仪器他干了几十年了所以对于各种故障他就驾轻就熟了解决起来又快又好他是形容技能的纯熟能力特别强而这个轻车熟路他有点什么感觉他有点对于门路或者是某件事情的路径特别熟就比如说一些业务的流程解决问题的一些途径他很熟做起来特别顺利听松就比如说一些社区的网格员某某社区的网格员干了特别多的多年的社区工作那处理居民之间的纠纷就怎么样了清澈熟路了所以他更强调于门径流程对吧这种门路非常熟这是这两个的区别好再来看了如指掌了如指掌是对事情了解的非常清楚所以啊这里面你不用记后面我给给你啊对于这些什么内情对于一些信息对于一些细节的情况特别熟全面掌握了但是他不一定强调动手去做明白了吧他只是了解的非常清楚不一定要动手做可以做可以不做把握一些什么细节呀一些内情啊一些情况啊全面的掌握了明白了吧好再来看这个耳熟能详耳熟能详详就是详细详细的说听的多了就能详尽的说出来所以他更强调于听觉方面听的多了变熟悉了就比如说有一些什么歌谣听的嘛有些歌有某些人的名字口号话语这些听的多了就详尽的讲述出来了再来看如数加珍如数加珍珍是不是就是珍宝就是我对所讲述的东西非常熟悉而且还带有一种喜爱感珍视的感觉他有一种积极的感情色彩我把我的这些东西一件一件清楚的细说唯唯道来所以如属家珍这个词语",
+  "segments": [
+    {
+      "text": "读者不体现出我去向地位更低的人,请教他人的意思,对不对?所以ABC6,后面第二孔,说是读者不赞成作者的观点吗?未必。既然赞成作者的观点,就该同声相应。可读者为什么不来应呢?这就告诉我们作者有一个文法的问题。再想一想,为什么别人的文章读者就怎么了?奔走相告了?别人的文章读者十分喜爱,争相阅读,奔走相告了。",
+      "start": 0.0,
+      "end": 28.86,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1831,
+      "compression_ratio": 1.4653
+    },
+    {
+      "text": "所以选谁",
+      "start": 28.86,
+      "end": 30.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1795,
+      "compression_ratio": 1.4529
+    },
+    {
+      "text": "手不试卷",
+      "start": 30.32,
+      "end": 31.2,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1795,
+      "compression_ratio": 1.4529
+    },
+    {
+      "text": "手不试卷是不是就是特指专门形容读书的",
+      "start": 31.2,
+      "end": 35.48,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1795,
+      "compression_ratio": 1.4529
+    },
+    {
+      "text": "就是酷爱读书籍",
+      "start": 35.48,
+      "end": 37.94,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1795,
+      "compression_ratio": 1.4529
+    },
+    {
+      "text": "适配这个文章的一个读物",
+      "start": 37.94,
+      "end": 40.480000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1795,
+      "compression_ratio": 1.4529
+    },
+    {
+      "text": "所以它适配性特别好",
+      "start": 40.480000000000004,
+      "end": 42.379999999999995,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1795,
+      "compression_ratio": 1.4529
+    },
+    {
+      "text": "爱不试手",
+      "start": 42.379999999999995,
+      "end": 44.019999999999996,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1795,
+      "compression_ratio": 1.4529
+    },
+    {
+      "text": "它多指食物",
+      "start": 44.019999999999996,
+      "end": 46.08,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1795,
+      "compression_ratio": 1.4529
+    },
+    {
+      "text": "对不对",
+      "start": 46.08,
+      "end": 46.480000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1795,
+      "compression_ratio": 1.4529
+    },
+    {
+      "text": "跟大家说了",
+      "start": 46.480000000000004,
+      "end": 47.22,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1795,
+      "compression_ratio": 1.4529
+    },
+    {
+      "text": "多指食物",
+      "start": 47.22,
+      "end": 48.44,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1795,
+      "compression_ratio": 1.4529
+    },
+    {
+      "text": "而凤为至宝",
+      "start": 48.44,
+      "end": 50.44,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1795,
+      "compression_ratio": 1.4529
+    },
+    {
+      "text": "凤为至宝又太重了",
+      "start": 50.44,
+      "end": 52.519999999999996,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1795,
+      "compression_ratio": 1.4529
+    },
+    {
+      "text": "它当作宝贝了",
+      "start": 52.519999999999996,
+      "end": 53.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1795,
+      "compression_ratio": 1.4529
+    },
+    {
+      "text": "所以第二个空",
+      "start": 53.84,
+      "end": 55.78,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1795,
+      "compression_ratio": 1.4529
+    },
+    {
+      "text": "手不试卷直接选它了",
+      "start": 55.78,
+      "end": 57.3,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1795,
+      "compression_ratio": 1.4529
+    },
+    {
+      "text": "来第三孔",
+      "start": 57.3,
+      "end": 59.22,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1277,
+      "compression_ratio": 1.471
+    },
+    {
+      "text": "说而我们的文章读者却怎么了",
+      "start": 59.22,
+      "end": 62.48,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1277,
+      "compression_ratio": 1.471
+    },
+    {
+      "text": "这只能说明我们的文风却有问题",
+      "start": 62.48,
+      "end": 65.22,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1277,
+      "compression_ratio": 1.471
+    },
+    {
+      "text": "就说和前面受欢迎",
+      "start": 65.22,
+      "end": 67.94,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1277,
+      "compression_ratio": 1.471
+    },
+    {
+      "text": "就构成了一个鲜明的对比",
+      "start": 67.94,
+      "end": 69.78,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1277,
+      "compression_ratio": 1.471
+    },
+    {
+      "text": "别人文章大家都爱读",
+      "start": 69.78,
+      "end": 72.42,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1277,
+      "compression_ratio": 1.471
+    },
+    {
+      "text": "而我们自己的文章读者是轻视的",
+      "start": 72.42,
+      "end": 74.97999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1277,
+      "compression_ratio": 1.471
+    },
+    {
+      "text": "不愿意看的选不屑一顾",
+      "start": 74.97999999999999,
+      "end": 76.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1277,
+      "compression_ratio": 1.471
+    },
+    {
+      "text": "不屑一顾呢",
+      "start": 76.72,
+      "end": 78.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1277,
+      "compression_ratio": 1.471
+    },
+    {
+      "text": "有点轻视",
+      "start": 78.06,
+      "end": 78.82,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1277,
+      "compression_ratio": 1.471
+    },
+    {
+      "text": "懒得去看",
+      "start": 78.82,
+      "end": 79.75999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1277,
+      "compression_ratio": 1.471
+    },
+    {
+      "text": "是吧",
+      "start": 79.75999999999999,
+      "end": 80.66,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1277,
+      "compression_ratio": 1.471
+    },
+    {
+      "text": "就是读者不喜欢",
+      "start": 80.66,
+      "end": 82.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1277,
+      "compression_ratio": 1.471
+    },
+    {
+      "text": "懒得去看",
+      "start": 82.0,
+      "end": 83.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1277,
+      "compression_ratio": 1.471
+    },
+    {
+      "text": "而这个单独看这个第三孔啊",
+      "start": 83.0,
+      "end": 85.78,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1277,
+      "compression_ratio": 1.471
+    },
+    {
+      "text": "这个不足挂齿",
+      "start": 85.78,
+      "end": 86.74,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1277,
+      "compression_ratio": 1.471
+    },
+    {
+      "text": "不足挂齿就是",
+      "start": 86.74,
+      "end": 88.02,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1566,
+      "compression_ratio": 1.4457
+    },
+    {
+      "text": "事情太微小了",
+      "start": 88.02,
+      "end": 89.6,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1566,
+      "compression_ratio": 1.4457
+    },
+    {
+      "text": "不值得一提",
+      "start": 89.6,
+      "end": 90.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1566,
+      "compression_ratio": 1.4457
+    },
+    {
+      "text": "他不能形容对于文章的态度",
+      "start": 90.5,
+      "end": 93.74,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1566,
+      "compression_ratio": 1.4457
+    },
+    {
+      "text": "对吧",
+      "start": 93.74,
+      "end": 94.36,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1566,
+      "compression_ratio": 1.4457
+    },
+    {
+      "text": "比如说小小小小的这个事",
+      "start": 94.36,
+      "end": 96.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1566,
+      "compression_ratio": 1.4457
+    },
+    {
+      "text": "不足挂齿",
+      "start": 96.5,
+      "end": 97.36,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1566,
+      "compression_ratio": 1.4457
+    },
+    {
+      "text": "就是不值得一提",
+      "start": 97.36,
+      "end": 98.8,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1566,
+      "compression_ratio": 1.4457
+    },
+    {
+      "text": "这个赤之以鼻",
+      "start": 98.8,
+      "end": 100.39999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1566,
+      "compression_ratio": 1.4457
+    },
+    {
+      "text": "赤之以鼻有点讥笑嘲讽",
+      "start": 100.39999999999999,
+      "end": 102.91999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1566,
+      "compression_ratio": 1.4457
+    },
+    {
+      "text": "但是文段他根本没有讥讽嘲笑",
+      "start": 102.91999999999999,
+      "end": 106.39999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1566,
+      "compression_ratio": 1.4457
+    },
+    {
+      "text": "这种感觉",
+      "start": 106.39999999999999,
+      "end": 107.82,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1566,
+      "compression_ratio": 1.4457
+    },
+    {
+      "text": "而这个比一不屑",
+      "start": 107.82,
+      "end": 109.02,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1566,
+      "compression_ratio": 1.4457
+    },
+    {
+      "text": "他和这个不屑一顾差不多",
+      "start": 109.02,
+      "end": 110.61999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1566,
+      "compression_ratio": 1.4457
+    },
+    {
+      "text": "所以他也可以",
+      "start": 110.61999999999999,
+      "end": 112.02,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1566,
+      "compression_ratio": 1.4457
+    },
+    {
+      "text": "对吧和他俩接近",
+      "start": 112.02,
+      "end": 113.34,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1566,
+      "compression_ratio": 1.4457
+    },
+    {
+      "text": "好来继续往后走",
+      "start": 113.34,
+      "end": 115.08,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1566,
+      "compression_ratio": 1.4457
+    },
+    {
+      "text": "看这个46组",
+      "start": 115.08,
+      "end": 116.28,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1566,
+      "compression_ratio": 1.4457
+    },
+    {
+      "text": "看这几个啊",
+      "start": 116.74,
+      "end": 118.33999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1672,
+      "compression_ratio": 1.5
+    },
+    {
+      "text": "很熟悉",
+      "start": 118.33999999999999,
+      "end": 119.55999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1672,
+      "compression_ratio": 1.5
+    },
+    {
+      "text": "这六个成语都有熟悉的意思",
+      "start": 119.55999999999999,
+      "end": 122.19999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1672,
+      "compression_ratio": 1.5
+    },
+    {
+      "text": "我们先来看前两个",
+      "start": 122.19999999999999,
+      "end": 124.96,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1672,
+      "compression_ratio": 1.5
+    },
+    {
+      "text": "啊",
+      "start": 124.96,
+      "end": 125.39999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1672,
+      "compression_ratio": 1.5
+    },
+    {
+      "text": "这两个词呢",
+      "start": 125.39999999999999,
+      "end": 126.33999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1672,
+      "compression_ratio": 1.5
+    },
+    {
+      "text": "都是指熟悉",
+      "start": 126.33999999999999,
+      "end": 127.24,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1672,
+      "compression_ratio": 1.5
+    },
+    {
+      "text": "对不对",
+      "start": 127.24,
+      "end": 127.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1672,
+      "compression_ratio": 1.5
+    },
+    {
+      "text": "来看啊",
+      "start": 127.72,
+      "end": 128.44,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1672,
+      "compression_ratio": 1.5
+    },
+    {
+      "text": "他怎么熟悉的",
+      "start": 128.44,
+      "end": 129.46,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1672,
+      "compression_ratio": 1.5
+    },
+    {
+      "text": "驾轻就熟和轻车熟路",
+      "start": 129.46,
+      "end": 132.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1672,
+      "compression_ratio": 1.5
+    },
+    {
+      "text": "这两个词语呢",
+      "start": 132.32,
+      "end": 133.28,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1672,
+      "compression_ratio": 1.5
+    },
+    {
+      "text": "他都是有熟悉",
+      "start": 133.28,
+      "end": 134.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1672,
+      "compression_ratio": 1.5
+    },
+    {
+      "text": "做起来特别容易",
+      "start": 134.72,
+      "end": 136.45999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1672,
+      "compression_ratio": 1.5
+    },
+    {
+      "text": "但是侧重点他有所不同",
+      "start": 136.45999999999998,
+      "end": 138.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1672,
+      "compression_ratio": 1.5
+    },
+    {
+      "text": "驾轻就熟是侧重于哪里的",
+      "start": 138.32,
+      "end": 141.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1672,
+      "compression_ratio": 1.5
+    },
+    {
+      "text": "侧重于技能",
+      "start": 141.32,
+      "end": 142.98,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1672,
+      "compression_ratio": 1.5
+    },
+    {
+      "text": "技能",
+      "start": 142.98,
+      "end": 145.42,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1672,
+      "compression_ratio": 1.5
+    },
+    {
+      "text": "能力特别强",
+      "start": 145.42,
+      "end": 147.14,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1187,
+      "compression_ratio": 1.3962
+    },
+    {
+      "text": "技能特别纯熟",
+      "start": 147.14,
+      "end": 148.42,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1187,
+      "compression_ratio": 1.3962
+    },
+    {
+      "text": "所以强调这个人他技能好",
+      "start": 148.42,
+      "end": 150.94,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1187,
+      "compression_ratio": 1.3962
+    },
+    {
+      "text": "本领高",
+      "start": 150.94,
+      "end": 151.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1187,
+      "compression_ratio": 1.3962
+    },
+    {
+      "text": "经验特别丰富",
+      "start": 151.72,
+      "end": 152.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1187,
+      "compression_ratio": 1.3962
+    },
+    {
+      "text": "就比如说给大家举个例子",
+      "start": 152.72,
+      "end": 154.73999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1187,
+      "compression_ratio": 1.3962
+    },
+    {
+      "text": "这个老的技师",
+      "start": 154.73999999999998,
+      "end": 156.92,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1187,
+      "compression_ratio": 1.3962
+    },
+    {
+      "text": "这个维修师傅",
+      "start": 156.92,
+      "end": 158.57999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1187,
+      "compression_ratio": 1.3962
+    },
+    {
+      "text": "对于这种精密的仪器",
+      "start": 158.57999999999998,
+      "end": 160.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1187,
+      "compression_ratio": 1.3962
+    },
+    {
+      "text": "他干了几十年了",
+      "start": 160.56,
+      "end": 161.98,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1187,
+      "compression_ratio": 1.3962
+    },
+    {
+      "text": "所以对于各种故障",
+      "start": 161.98,
+      "end": 164.23999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1187,
+      "compression_ratio": 1.3962
+    },
+    {
+      "text": "他就驾轻就熟了",
+      "start": 164.23999999999998,
+      "end": 165.79999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1187,
+      "compression_ratio": 1.3962
+    },
+    {
+      "text": "解决起来又快又好",
+      "start": 165.79999999999998,
+      "end": 167.33999999999997,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1187,
+      "compression_ratio": 1.3962
+    },
+    {
+      "text": "他是形容技能的纯熟",
+      "start": 167.33999999999997,
+      "end": 169.54,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1187,
+      "compression_ratio": 1.3962
+    },
+    {
+      "text": "能力特别强",
+      "start": 169.54,
+      "end": 171.11999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1187,
+      "compression_ratio": 1.3962
+    },
+    {
+      "text": "而这个轻车熟路",
+      "start": 171.11999999999998,
+      "end": 172.6,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1187,
+      "compression_ratio": 1.3962
+    },
+    {
+      "text": "他有点什么感觉",
+      "start": 172.6,
+      "end": 173.61999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1187,
+      "compression_ratio": 1.3962
+    },
+    {
+      "text": "他有点对于门路",
+      "start": 173.62,
+      "end": 175.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1139,
+      "compression_ratio": 1.3877
+    },
+    {
+      "text": "或者是某件事情的路径",
+      "start": 175.32,
+      "end": 178.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1139,
+      "compression_ratio": 1.3877
+    },
+    {
+      "text": "特别熟",
+      "start": 178.06,
+      "end": 180.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1139,
+      "compression_ratio": 1.3877
+    },
+    {
+      "text": "就比如说一些业务的流程",
+      "start": 180.32,
+      "end": 182.78,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1139,
+      "compression_ratio": 1.3877
+    },
+    {
+      "text": "解决问题的一些途径",
+      "start": 182.78,
+      "end": 186.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1139,
+      "compression_ratio": 1.3877
+    },
+    {
+      "text": "他很熟",
+      "start": 186.84,
+      "end": 188.18,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1139,
+      "compression_ratio": 1.3877
+    },
+    {
+      "text": "做起来特别顺利",
+      "start": 188.18,
+      "end": 189.96,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1139,
+      "compression_ratio": 1.3877
+    },
+    {
+      "text": "听松",
+      "start": 189.96,
+      "end": 190.78,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1139,
+      "compression_ratio": 1.3877
+    },
+    {
+      "text": "就比如说一些社区的网格员",
+      "start": 190.78,
+      "end": 192.86,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1139,
+      "compression_ratio": 1.3877
+    },
+    {
+      "text": "某某社区的网格员",
+      "start": 192.86,
+      "end": 195.26,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1139,
+      "compression_ratio": 1.3877
+    },
+    {
+      "text": "干了特别多的多年的社区工作",
+      "start": 195.26,
+      "end": 197.4,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1139,
+      "compression_ratio": 1.3877
+    },
+    {
+      "text": "那处理居民之间的纠纷",
+      "start": 197.4,
+      "end": 200.12,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1139,
+      "compression_ratio": 1.3877
+    },
+    {
+      "text": "就怎么样了",
+      "start": 200.12,
+      "end": 200.98000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1139,
+      "compression_ratio": 1.3877
+    },
+    {
+      "text": "清澈熟路了",
+      "start": 200.98000000000002,
+      "end": 201.76,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1139,
+      "compression_ratio": 1.3877
+    },
+    {
+      "text": "所以他更强调于门径流程",
+      "start": 201.76,
+      "end": 204.78,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1293,
+      "compression_ratio": 1.3648
+    },
+    {
+      "text": "对吧",
+      "start": 204.78,
+      "end": 205.45999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1293,
+      "compression_ratio": 1.3648
+    },
+    {
+      "text": "这种门路",
+      "start": 205.45999999999998,
+      "end": 206.28,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1293,
+      "compression_ratio": 1.3648
+    },
+    {
+      "text": "非常熟",
+      "start": 206.28,
+      "end": 207.73999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1293,
+      "compression_ratio": 1.3648
+    },
+    {
+      "text": "这是这两个的区别",
+      "start": 207.73999999999998,
+      "end": 209.01999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1293,
+      "compression_ratio": 1.3648
+    },
+    {
+      "text": "好再来看了如指掌",
+      "start": 209.01999999999998,
+      "end": 210.54,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1293,
+      "compression_ratio": 1.3648
+    },
+    {
+      "text": "了如指掌是对事情了解的非常清楚",
+      "start": 210.54,
+      "end": 214.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1293,
+      "compression_ratio": 1.3648
+    },
+    {
+      "text": "所以啊",
+      "start": 214.32,
+      "end": 215.45999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1293,
+      "compression_ratio": 1.3648
+    },
+    {
+      "text": "这里面",
+      "start": 215.45999999999998,
+      "end": 216.04,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1293,
+      "compression_ratio": 1.3648
+    },
+    {
+      "text": "你不用记后面我给给你啊",
+      "start": 216.04,
+      "end": 218.04,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1293,
+      "compression_ratio": 1.3648
+    },
+    {
+      "text": "对于这些什么内情",
+      "start": 218.04,
+      "end": 220.07999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1293,
+      "compression_ratio": 1.3648
+    },
+    {
+      "text": "对于一些信息",
+      "start": 220.07999999999998,
+      "end": 222.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1293,
+      "compression_ratio": 1.3648
+    },
+    {
+      "text": "对于一些细节的情况",
+      "start": 222.56,
+      "end": 225.23999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1293,
+      "compression_ratio": 1.3648
+    },
+    {
+      "text": "特别熟",
+      "start": 225.23999999999998,
+      "end": 227.1,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1293,
+      "compression_ratio": 1.3648
+    },
+    {
+      "text": "全面掌握了",
+      "start": 227.1,
+      "end": 228.28,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1293,
+      "compression_ratio": 1.3648
+    },
+    {
+      "text": "但是他不一定强调动手去做",
+      "start": 228.28,
+      "end": 231.39999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1293,
+      "compression_ratio": 1.3648
+    },
+    {
+      "text": "明白了吧",
+      "start": 231.4,
+      "end": 232.08,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1475,
+      "compression_ratio": 1.4292
+    },
+    {
+      "text": "他只是了解的非常清楚",
+      "start": 232.08,
+      "end": 235.22,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1475,
+      "compression_ratio": 1.4292
+    },
+    {
+      "text": "不一定要动手做",
+      "start": 235.22,
+      "end": 236.98000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1475,
+      "compression_ratio": 1.4292
+    },
+    {
+      "text": "可以做可以不做",
+      "start": 236.98000000000002,
+      "end": 238.82,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1475,
+      "compression_ratio": 1.4292
+    },
+    {
+      "text": "把握一些什么细节呀",
+      "start": 238.82,
+      "end": 241.20000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1475,
+      "compression_ratio": 1.4292
+    },
+    {
+      "text": "一些内情啊",
+      "start": 241.20000000000002,
+      "end": 242.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1475,
+      "compression_ratio": 1.4292
+    },
+    {
+      "text": "一些情况啊",
+      "start": 242.88,
+      "end": 244.3,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1475,
+      "compression_ratio": 1.4292
+    },
+    {
+      "text": "全面的掌握了",
+      "start": 244.3,
+      "end": 245.26,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1475,
+      "compression_ratio": 1.4292
+    },
+    {
+      "text": "明白了吧",
+      "start": 245.26,
+      "end": 245.8,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1475,
+      "compression_ratio": 1.4292
+    },
+    {
+      "text": "好再来看这个耳熟能详",
+      "start": 245.8,
+      "end": 247.62,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1475,
+      "compression_ratio": 1.4292
+    },
+    {
+      "text": "耳熟能详",
+      "start": 247.62,
+      "end": 248.92000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1475,
+      "compression_ratio": 1.4292
+    },
+    {
+      "text": "详就是详细",
+      "start": 248.92000000000002,
+      "end": 250.02,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1475,
+      "compression_ratio": 1.4292
+    },
+    {
+      "text": "详细的说",
+      "start": 250.02,
+      "end": 251.26,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1475,
+      "compression_ratio": 1.4292
+    },
+    {
+      "text": "听的多了就能详尽的说出来",
+      "start": 251.26,
+      "end": 254.70000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1475,
+      "compression_ratio": 1.4292
+    },
+    {
+      "text": "所以他更强调于听觉方面",
+      "start": 254.70000000000002,
+      "end": 257.54,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1475,
+      "compression_ratio": 1.4292
+    },
+    {
+      "text": "听的多了变熟悉了",
+      "start": 257.54,
+      "end": 260.42,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1475,
+      "compression_ratio": 1.4292
+    },
+    {
+      "text": "就比如说有一些什么",
+      "start": 260.42,
+      "end": 262.22,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1996,
+      "compression_ratio": 1.3448
+    },
+    {
+      "text": "歌谣",
+      "start": 262.22,
+      "end": 263.52000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1996,
+      "compression_ratio": 1.3448
+    },
+    {
+      "text": "听的嘛",
+      "start": 263.52000000000004,
+      "end": 264.92,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1996,
+      "compression_ratio": 1.3448
+    },
+    {
+      "text": "有些歌",
+      "start": 264.92,
+      "end": 266.18,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1996,
+      "compression_ratio": 1.3448
+    },
+    {
+      "text": "有某些人的名字",
+      "start": 266.18,
+      "end": 267.98,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1996,
+      "compression_ratio": 1.3448
+    },
+    {
+      "text": "口号",
+      "start": 267.98,
+      "end": 269.22,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1996,
+      "compression_ratio": 1.3448
+    },
+    {
+      "text": "话语",
+      "start": 269.22,
+      "end": 271.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1996,
+      "compression_ratio": 1.3448
+    },
+    {
+      "text": "这些听的多了",
+      "start": 271.5,
+      "end": 273.84000000000003,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1996,
+      "compression_ratio": 1.3448
+    },
+    {
+      "text": "就详尽的讲述出来了",
+      "start": 273.84000000000003,
+      "end": 275.6,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1996,
+      "compression_ratio": 1.3448
+    },
+    {
+      "text": "再来看如数加珍",
+      "start": 275.6,
+      "end": 277.34000000000003,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1996,
+      "compression_ratio": 1.3448
+    },
+    {
+      "text": "如数加珍",
+      "start": 277.34000000000003,
+      "end": 278.74,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1996,
+      "compression_ratio": 1.3448
+    },
+    {
+      "text": "珍是不是就是珍宝",
+      "start": 278.74,
+      "end": 280.22,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1996,
+      "compression_ratio": 1.3448
+    },
+    {
+      "text": "就是我对所讲述的东西非常熟悉",
+      "start": 280.22,
+      "end": 284.98,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1996,
+      "compression_ratio": 1.3448
+    },
+    {
+      "text": "而且还带有一种喜爱感",
+      "start": 284.98,
+      "end": 287.98,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1996,
+      "compression_ratio": 1.3448
+    },
+    {
+      "text": "珍视的感觉",
+      "start": 287.98,
+      "end": 289.66,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1996,
+      "compression_ratio": 1.3448
+    },
+    {
+      "text": "他有一种积极的感情色彩",
+      "start": 289.66,
+      "end": 292.78000000000003,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1493,
+      "compression_ratio": 1.0328
+    },
+    {
+      "text": "我把我的这些东西",
+      "start": 292.78000000000003,
+      "end": 294.76000000000005,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1493,
+      "compression_ratio": 1.0328
+    },
+    {
+      "text": "一件一件清楚的细说",
+      "start": 294.76000000000005,
+      "end": 296.70000000000005,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1493,
+      "compression_ratio": 1.0328
+    },
+    {
+      "text": "唯唯道来",
+      "start": 296.70000000000005,
+      "end": 297.90000000000003,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1493,
+      "compression_ratio": 1.0328
+    },
+    {
+      "text": "所以如属家珍这个词语",
+      "start": 297.90000000000003,
+      "end": 299.82000000000005,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1493,
+      "compression_ratio": 1.0328
+    }
+  ],
+  "index": 11,
+  "start": 3300.0,
+  "duration": 300,
+  "elapsed": 20.2,
+  "ok": true,
+  "initial_prompt": "四海公考，公务员考试，言语理解与表达，逻辑填空，高频实词，成语辨析，语义侧重，感情色彩，搭配对象，适用语境，易混词，例句。简体中文。课件词条：不屑一顾，嗤之以鼻，反躬自问，了如指掌，耳熟能详，如数家珍，烂熟于心，驾轻就熟。"
+}

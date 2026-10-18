@@ -1,0 +1,69 @@
+{
+    "word": "空前绝后",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%A9%BA%E5%89%8D%E7%BB%9D%E5%90%8E",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "cfd2a3b652e51dd0fb95e96ea12418f5203c4d641ec18ffa22d76b7b0ad326bd",
+        "bytes": 26782
+    },
+    "parsed": {
+        "found": true,
+        "word": "空前绝后",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "kōng",
+                "qián",
+                "jué",
+                "hòu"
+            ],
+            "zhuyin": [
+                "ㄎㄨㄥ",
+                "ㄑㄧㄢˊ",
+                "ㄐㄩㄝˊ",
+                "ㄏㄡˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "从未有过，以后也不会再有。形容极其卓越独特。",
+                "citations": [
+                    {
+                        "text": "然以令公之勋，空前绝后，则伯济之迹不足言也。",
+                        "source": "清·梁绍壬《两般秋雨盦随笔·郭汾阳》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "然以令公之勋，空前绝后，则伯济之迹不足言也。",
+                "source": "清·梁绍壬《两般秋雨盦随笔·郭汾阳》"
+            }
+        ],
+        "synonyms": [
+            "绝无仅有",
+            "亘古未有",
+            "史无前例"
+        ],
+        "antonyms": [
+            "比比皆是",
+            "继往开来",
+            "承前启后"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "unprecedented and unrepeatable"
+    },
+    "blocks": {
+        "reading": "kōng qián jué hòu",
+        "sense-1": "从未有过，以后也不会再有。形容极其卓越独特。",
+        "citation-1": "然以令公之勋，空前绝后，则伯济之迹不足言也。 — 清·梁绍壬《两般秋雨盦随笔·郭汾阳》",
+        "synonyms": "绝无仅有、亘古未有、史无前例",
+        "antonyms": "比比皆是、继往开来、承前启后"
+    }
+}

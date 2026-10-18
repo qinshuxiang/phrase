@@ -1,0 +1,68 @@
+{
+    "word": "锦上添花",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%94%A6%E4%B8%8A%E6%B7%BB%E8%8A%B1",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "3f4dca7906188a86c3f7d846da7ef703a30d6bd271b729a2eedc8353dbd399e2",
+        "bytes": 27612
+    },
+    "parsed": {
+        "found": true,
+        "word": "锦上添花",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jǐn",
+                "shàng",
+                "tiān",
+                "huā"
+            ],
+            "zhuyin": [
+                "ㄐㄧㄣˇ",
+                "ㄕㄤˋ",
+                "ㄊㄧㄢ",
+                "ㄏㄨㄚ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "在美丽的锦缎上再绣上花朵。比喻使美好的事物更加美好。",
+                "citations": [
+                    {
+                        "text": "又要涪翁作颂，且图锦上添花。",
+                        "source": "宋·黄庭坚《了了庵颂》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "又要涪翁作颂，且图锦上添花。",
+                "source": "宋·黄庭坚《了了庵颂》"
+            }
+        ],
+        "synonyms": [
+            "精益求精",
+            "如虎添翼"
+        ],
+        "antonyms": [
+            "佛头著粪",
+            "雪中送炭",
+            "雪上加霜"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "add flowers to brocade"
+    },
+    "blocks": {
+        "reading": "jǐn shàng tiān huā",
+        "sense-1": "在美丽的锦缎上再绣上花朵。比喻使美好的事物更加美好。",
+        "citation-1": "又要涪翁作颂，且图锦上添花。 — 宋·黄庭坚《了了庵颂》",
+        "synonyms": "精益求精、如虎添翼",
+        "antonyms": "佛头著粪、雪中送炭、雪上加霜"
+    }
+}

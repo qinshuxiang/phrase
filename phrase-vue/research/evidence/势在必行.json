@@ -1,0 +1,48 @@
+{
+    "word": "势在必行",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%8A%BF%E5%9C%A8%E5%BF%85%E8%A1%8C",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "08d9a2da2b45f1395c3b1b085d3a049786d8cd78c81f5a1c402c0f9443eb40b1",
+        "bytes": 24390
+    },
+    "parsed": {
+        "found": true,
+        "word": "势在必行",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shì",
+                "zài",
+                "bì",
+                "xíng"
+            ],
+            "zhuyin": [
+                "ㄕˋ",
+                "ㄗㄞˋ",
+                "ㄅㄧˋ",
+                "ㄒㄧㄥˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "不能躲开或回避",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "be imperative"
+    },
+    "blocks": {
+        "reading": "shì zài bì xíng",
+        "sense-1": "不能躲开或回避"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "word": "巧舌如簧",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%B7%A7%E8%88%8C%E5%A6%82%E7%B0%A7",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "123f58748f8e9254cfff3df658154e7864adba82008f82da3169629ba5fb5340",
+        "bytes": 24693
+    },
+    "parsed": {
+        "found": true,
+        "word": "巧舌如簧",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "qiǎo",
+                "shé",
+                "rú",
+                "huáng"
+            ],
+            "zhuyin": [
+                "ㄑㄧㄠˇ",
+                "ㄕㄜˊ",
+                "ㄖㄨˊ",
+                "ㄏㄨㄤˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容能言善道，言语动听却不真实。",
+                "citations": [
+                    {
+                        "text": "巧舌如簧总莫听，是非多自爱憎生。",
+                        "source": "唐·刘兼《诫是非》诗"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "巧舌如簧总莫听，是非多自爱憎生。",
+                "source": "唐·刘兼《诫是非》诗"
+            }
+        ],
+        "synonyms": [
+            "花言巧语",
+            "巧言令色"
+        ],
+        "antonyms": [
+            "笨口拙舌"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "glib-tongued"
+    },
+    "blocks": {
+        "reading": "qiǎo shé rú huáng",
+        "sense-1": "形容能言善道，言语动听却不真实。",
+        "citation-1": "巧舌如簧总莫听，是非多自爱憎生。 — 唐·刘兼《诫是非》诗",
+        "synonyms": "花言巧语、巧言令色",
+        "antonyms": "笨口拙舌"
+    }
+}

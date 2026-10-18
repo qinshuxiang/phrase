@@ -1,0 +1,70 @@
+{
+    "word": "洞若观火",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%B4%9E%E8%8B%A5%E8%A7%82%E7%81%AB",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "87d141da509997c7963511a3b096a1ddda921090bdb6e5f2d62f51d3edc0c527",
+        "bytes": 27439
+    },
+    "parsed": {
+        "found": true,
+        "word": "洞若观火",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "dòng",
+                "ruò",
+                "guān",
+                "huǒ"
+            ],
+            "zhuyin": [
+                "ㄉㄨㄥˋ",
+                "ㄖㄨㄛˋ",
+                "ㄍㄨㄢ",
+                "ㄏㄨㄛˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容观察事物极其清晰透彻，如同看火一般明白。",
+                "citations": [
+                    {
+                        "text": "勇怯强弱，进退疾徐，洞若观火。",
+                        "source": "明·林潞《江陵救时之相论》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "勇怯强弱，进退疾徐，洞若观火。",
+                "source": "明·林潞《江陵救时之相论》"
+            }
+        ],
+        "synonyms": [
+            "洞察一切",
+            "明察秋毫",
+            "一目了然",
+            "了如指掌"
+        ],
+        "antonyms": [
+            "雾里看花",
+            "隐隐约约",
+            "大惑不解"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "clear as day"
+    },
+    "blocks": {
+        "reading": "dòng ruò guān huǒ",
+        "sense-1": "形容观察事物极其清晰透彻，如同看火一般明白。",
+        "citation-1": "勇怯强弱，进退疾徐，洞若观火。 — 明·林潞《江陵救时之相论》",
+        "synonyms": "洞察一切、明察秋毫、一目了然、了如指掌",
+        "antonyms": "雾里看花、隐隐约约、大惑不解"
+    }
+}

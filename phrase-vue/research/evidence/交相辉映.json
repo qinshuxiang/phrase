@@ -1,0 +1,48 @@
+{
+    "word": "交相辉映",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%BA%A4%E7%9B%B8%E8%BE%89%E6%98%A0",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "7a824398a01a0e9296c6517ecbf68e4adc292c97483eb0fac760c2e7067f5cf1",
+        "bytes": 23584
+    },
+    "parsed": {
+        "found": true,
+        "word": "交相辉映",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jiāo",
+                "xiāng",
+                "huī",
+                "yìng"
+            ],
+            "zhuyin": [
+                "ㄐㄧㄠ",
+                "ㄒㄧㄤ",
+                "ㄏㄨㄟ",
+                "ㄧㄥˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "各种光线或色彩互相照耀映射。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "shine upon each other"
+    },
+    "blocks": {
+        "reading": "jiāo xiāng huī yìng",
+        "sense-1": "各种光线或色彩互相照耀映射。"
+    }
+}

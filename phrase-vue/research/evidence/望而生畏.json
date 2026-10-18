@@ -1,0 +1,55 @@
+{
+    "word": "望而生畏",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%9C%9B%E8%80%8C%E7%94%9F%E7%95%8F",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "402f83aae09c481a3f8193754a278968b30dfa7d210928f8208a81003fcc6ed7",
+        "bytes": 27959
+    },
+    "parsed": {
+        "found": true,
+        "word": "望而生畏",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "wàng",
+                "ér",
+                "shēng",
+                "wèi"
+            ],
+            "zhuyin": [
+                "ㄨㄤˋ",
+                "ㄦˊ",
+                "ㄕㄥ",
+                "ㄨㄟˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "一见之下就产生了畏惧心理。形容人态度威严或事务艰难令人畏惧",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "退避三舍",
+            "望而却步"
+        ],
+        "antonyms": [
+            "无所畏惧"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "be terrified (awed) at the sight"
+    },
+    "blocks": {
+        "reading": "wàng ér shēng wèi",
+        "sense-1": "一见之下就产生了畏惧心理。形容人态度威严或事务艰难令人畏惧",
+        "synonyms": "退避三舍、望而却步",
+        "antonyms": "无所畏惧"
+    }
+}

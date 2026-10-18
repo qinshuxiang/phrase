@@ -1,0 +1,70 @@
+{
+    "word": "休戚与共",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%BC%91%E6%88%9A%E4%B8%8E%E5%85%B1",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "3cb56a5285051d31ff7c56a53900d8c2f91b4751f90d0b7529afe85089671609",
+        "bytes": 26370
+    },
+    "parsed": {
+        "found": true,
+        "word": "休戚与共",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "xiū",
+                "qī",
+                "yǔ",
+                "gòng"
+            ],
+            "zhuyin": [
+                "ㄒㄧㄡ",
+                "ㄑㄧ",
+                "ㄩˇ",
+                "ㄍㄨㄥˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "彼此的幸福与祸患共同承担，形容关系密切、同甘共苦。",
+                "citations": [
+                    {
+                        "text": "臣与主上患难相随，休戚与共，不同他臣。",
+                        "source": "《明史·瞿式耜传》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "臣与主上患难相随，休戚与共，不同他臣。",
+                "source": "《明史·瞿式耜传》"
+            }
+        ],
+        "synonyms": [
+            "同甘共苦",
+            "同舟共济",
+            "风雨同舟",
+            "休戚相关"
+        ],
+        "antonyms": [
+            "不共戴天",
+            "无关痛痒",
+            "漠不相关"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "share weal and woe"
+    },
+    "blocks": {
+        "reading": "xiū qī yǔ gòng",
+        "sense-1": "彼此的幸福与祸患共同承担，形容关系密切、同甘共苦。",
+        "citation-1": "臣与主上患难相随，休戚与共，不同他臣。 — 《明史·瞿式耜传》",
+        "synonyms": "同甘共苦、同舟共济、风雨同舟、休戚相关",
+        "antonyms": "不共戴天、无关痛痒、漠不相关"
+    }
+}

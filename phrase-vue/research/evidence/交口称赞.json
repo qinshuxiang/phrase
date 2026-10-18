@@ -1,0 +1,54 @@
+{
+    "word": "交口称赞",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%BA%A4%E5%8F%A3%E7%A7%B0%E8%B5%9E",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "352303e3510f0211d36185e2c7d1af5a88fab6641e84d2ba3a8f77fe711a24fe",
+        "bytes": 24480
+    },
+    "parsed": {
+        "found": true,
+        "word": "交口称赞",
+        "section": "idiom",
+        "readings": {
+            "pinyin": [
+                "jiāo",
+                "kǒu",
+                "chēng",
+                "zàn"
+            ],
+            "zhuyin": [
+                "ㄐㄧㄠ",
+                "ㄎㄡˇ",
+                "ㄔㄥ",
+                "ㄗㄢˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "交：一齐，同时。异口同声地称赞。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": {
+            "text": "唐·韩愈《柳志厚墓志铭》：“诸公要人，争欲令出我们下，交口荐誉之。”",
+            "source": "交口称赞"
+        },
+        "grammar": "主谓式；作谓语、定语；含褒义",
+        "example": "一年之后，附近几个村庄的牧童们没有一个有她吹的好，连大人们也～。 ◎姚雪垠《李自成》第一卷第二十章",
+        "english": ""
+    },
+    "blocks": {
+        "reading": "jiāo kǒu chēng zàn",
+        "sense-1": "交：一齐，同时。异口同声地称赞。",
+        "origin": "唐·韩愈《柳志厚墓志铭》：“诸公要人，争欲令出我们下，交口荐誉之。”",
+        "grammar": "主谓式；作谓语、定语；含褒义",
+        "example": "一年之后，附近几个村庄的牧童们没有一个有她吹的好，连大人们也～。 ◎姚雪垠《李自成》第一卷第二十章"
+    }
+}

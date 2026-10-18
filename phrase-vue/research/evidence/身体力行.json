@@ -1,0 +1,59 @@
+{
+    "word": "身体力行",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%BA%AB%E4%BD%93%E5%8A%9B%E8%A1%8C",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "bdd8db5083acaa45db65119cd7993971692174906e653c11364c58ecb7e32ddb",
+        "bytes": 25457
+    },
+    "parsed": {
+        "found": true,
+        "word": "身体力行",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shēn",
+                "tǐ",
+                "lì",
+                "xíng"
+            ],
+            "zhuyin": [
+                "ㄕㄣ",
+                "ㄊㄧˇ",
+                "ㄌㄧˋ",
+                "ㄒㄧㄥˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "亲身实践，努力实行。",
+                "citations": [
+                    {
+                        "text": "但不能身体力行，则虽有所见，亦无可用。",
+                        "source": "明·章懋《答东阳徐子仁》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "但不能身体力行，则虽有所见，亦无可用。",
+                "source": "明·章懋《答东阳徐子仁》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "practice personally"
+    },
+    "blocks": {
+        "reading": "shēn tǐ lì xíng",
+        "sense-1": "亲身实践，努力实行。",
+        "citation-1": "但不能身体力行，则虽有所见，亦无可用。 — 明·章懋《答东阳徐子仁》"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "word": "立竿见影",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%AB%8B%E7%AB%BF%E8%A7%81%E5%BD%B1",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "3b06977d431e5253019ef525af511116c1436ab092ce246fe58f9621554ea15b",
+        "bytes": 27516
+    },
+    "parsed": {
+        "found": true,
+        "word": "立竿见影",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "lì",
+                "gān",
+                "jiàn",
+                "yǐng"
+            ],
+            "zhuyin": [
+                "ㄌㄧˋ",
+                "ㄍㄢ",
+                "ㄐㄧㄢˋ",
+                "ㄧㄥˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "竖起竹竿立刻见到影子。比喻见效迅速。",
+                "citations": [
+                    {
+                        "text": "立竿见影，呼谷传响，岂不灵哉！",
+                        "source": "宋·朱熹《参同契考异》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "立竿见影，呼谷传响，岂不灵哉！",
+                "source": "宋·朱熹《参同契考异》"
+            }
+        ],
+        "synonyms": [
+            "马到成功",
+            "立见成效",
+            "吹糠见米"
+        ],
+        "antonyms": [
+            "旷日持久",
+            "劳而无功"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "get instant results"
+    },
+    "blocks": {
+        "reading": "lì gān jiàn yǐng",
+        "sense-1": "竖起竹竿立刻见到影子。比喻见效迅速。",
+        "citation-1": "立竿见影，呼谷传响，岂不灵哉！ — 宋·朱熹《参同契考异》",
+        "synonyms": "马到成功、立见成效、吹糠见米",
+        "antonyms": "旷日持久、劳而无功"
+    }
+}

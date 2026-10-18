@@ -1,0 +1,37 @@
+{
+    "word": "厚积薄发",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%8E%9A%E7%A7%AF%E8%96%84%E5%8F%91",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "7716ce0508245d4e1b6d8f243e0f2f3493324bfb1e75d5702de653b2810e14c6",
+        "bytes": 20918
+    },
+    "parsed": {
+        "found": true,
+        "word": "厚积薄发",
+        "section": "idiom",
+        "readings": {
+            "pinyin": [],
+            "zhuyin": []
+        },
+        "senses": [
+            {
+                "definition": "厚积：指大量地、充分地积蓄；薄发：指少量地、慢慢地放出。多多积蓄，慢慢放出。形容只有准备充分才能办好事情。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": ""
+    },
+    "blocks": {
+        "sense-1": "厚积：指大量地、充分地积蓄；薄发：指少量地、慢慢地放出。多多积蓄，慢慢放出。形容只有准备充分才能办好事情。"
+    }
+}

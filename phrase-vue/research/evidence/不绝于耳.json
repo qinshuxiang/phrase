@@ -1,0 +1,63 @@
+{
+    "word": "不绝于耳",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%8D%E7%BB%9D%E4%BA%8E%E8%80%B3",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "74afbae3f36bfcbff676e6abeb316f5354ddac3823f0d9ee35f569fc78dc530a",
+        "bytes": 23413
+    },
+    "parsed": {
+        "found": true,
+        "word": "不绝于耳",
+        "section": "idiom",
+        "readings": {
+            "pinyin": [
+                "bù",
+                "jué",
+                "yú",
+                "ěr"
+            ],
+            "zhuyin": [
+                "ㄅㄨˋ",
+                "ㄐㄩㄝˊ",
+                "ㄩˊ",
+                "ㄦˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "绝：断。声音在耳边不断鸣响。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "那鼓钹梵呗之声，不绝于耳。 <span",
+                "source": "《儒林外史．第四一回》"
+            },
+            {
+                "text": "这时台下叫好的声音不绝于耳，却也压不下那弦子去。 <span",
+                "source": "《老残游记．第二回》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": {
+            "text": "清·刘鹗《老残游记》第二回：“这是台下叫好的声音不绝于耳。”",
+            "source": "不绝于耳"
+        },
+        "grammar": "",
+        "example": "",
+        "english": ""
+    },
+    "blocks": {
+        "reading": "bù jué yú ěr",
+        "sense-1": "绝：断。声音在耳边不断鸣响。",
+        "citation-1": "那鼓钹梵呗之声，不绝于耳。 <span — 《儒林外史．第四一回》",
+        "citation-2": "这时台下叫好的声音不绝于耳，却也压不下那弦子去。 <span — 《老残游记．第二回》",
+        "origin": "清·刘鹗《老残游记》第二回：“这是台下叫好的声音不绝于耳。”"
+    }
+}

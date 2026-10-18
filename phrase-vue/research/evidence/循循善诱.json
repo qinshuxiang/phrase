@@ -1,0 +1,67 @@
+{
+    "word": "循循善诱",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%BE%AA%E5%BE%AA%E5%96%84%E8%AF%B1",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "080c8f477c65ef567e64bc52a86741bd7d5cab8f3b1e703616f9f9dabf3f938f",
+        "bytes": 27606
+    },
+    "parsed": {
+        "found": true,
+        "word": "循循善诱",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "xún",
+                "xún",
+                "shàn",
+                "yòu"
+            ],
+            "zhuyin": [
+                "ㄒㄩㄣˊ",
+                "ㄒㄩㄣˊ",
+                "ㄕㄢˋ",
+                "ㄧㄡˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "善于有步骤地引导教育。",
+                "citations": [
+                    {
+                        "text": "瓛则关西孔子，通涉六经，循循善诱，服膺儒行。",
+                        "source": "南朝·梁·刘孝标《辩命论》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "瓛则关西孔子，通涉六经，循循善诱，服膺儒行。",
+                "source": "南朝·梁·刘孝标《辩命论》"
+            }
+        ],
+        "synonyms": [
+            "诲人不倦",
+            "谆谆教导",
+            "谆谆教诲"
+        ],
+        "antonyms": [
+            "引入歧途"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "teach with patience"
+    },
+    "blocks": {
+        "reading": "xún xún shàn yòu",
+        "sense-1": "善于有步骤地引导教育。",
+        "citation-1": "瓛则关西孔子，通涉六经，循循善诱，服膺儒行。 — 南朝·梁·刘孝标《辩命论》",
+        "synonyms": "诲人不倦、谆谆教导、谆谆教诲",
+        "antonyms": "引入歧途"
+    }
+}

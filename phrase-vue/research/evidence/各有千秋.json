@@ -1,0 +1,55 @@
+{
+    "word": "各有千秋",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%90%84%E6%9C%89%E5%8D%83%E7%A7%8B",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "131b712927e80f67b2694e5572cec5dbde5b00b02674f171fc7852fd3fe5dcc0",
+        "bytes": 28255
+    },
+    "parsed": {
+        "found": true,
+        "word": "各有千秋",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "gè",
+                "yǒu",
+                "qiān",
+                "qiū"
+            ],
+            "zhuyin": [
+                "ㄍㄜˋ",
+                "ㄧㄡˇ",
+                "ㄑㄧㄢ",
+                "ㄑㄧㄡ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "各有各的存在价值。比喻各有优点,各有所长",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "各有所长",
+            "旗鼓相当"
+        ],
+        "antonyms": [
+            "一无是处"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "Each has some strong points to recommend him."
+    },
+    "blocks": {
+        "reading": "gè yǒu qiān qiū",
+        "sense-1": "各有各的存在价值。比喻各有优点,各有所长",
+        "synonyms": "各有所长、旗鼓相当",
+        "antonyms": "一无是处"
+    }
+}

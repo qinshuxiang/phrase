@@ -1,0 +1,80 @@
+{
+    "word": "暗度陈仓",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%9A%97%E5%BA%A6%E9%99%88%E4%BB%93",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "c1ac99a58587472f3e7fab34f41213a152b17ef982254bf87808b1d1351fafcb",
+        "bytes": 27336
+    },
+    "parsed": {
+        "found": true,
+        "word": "暗度陈仓",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "àn",
+                "dù",
+                "chén",
+                "cāng"
+            ],
+            "zhuyin": [
+                "ㄢˋ",
+                "ㄉㄨˋ",
+                "ㄔㄣˊ",
+                "ㄘㄤ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "指表面佯装行动以迷惑对方，暗中却采取其他策略达成目的。",
+                "citations": [
+                    {
+                        "text": "此是哥明修栈道，暗度陈仓的计策。",
+                        "source": "《金瓶梅词话》"
+                    },
+                    {
+                        "text": "诸葛亮必效韩信暗度陈仓之计。",
+                        "source": "《三国演义》"
+                    }
+                ]
+            },
+            {
+                "definition": "比喻暗中进行秘密活动。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "此是哥明修栈道，暗度陈仓的计策。",
+                "source": "《金瓶梅词话》"
+            },
+            {
+                "text": "诸葛亮必效韩信暗度陈仓之计。",
+                "source": "《三国演义》"
+            }
+        ],
+        "synonyms": [
+            "暗送秋波"
+        ],
+        "antonyms": [
+            "明目张胆",
+            "明火执杖"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "secret maneuver"
+    },
+    "blocks": {
+        "reading": "àn dù chén cāng",
+        "sense-1": "指表面佯装行动以迷惑对方，暗中却采取其他策略达成目的。",
+        "sense-2": "比喻暗中进行秘密活动。",
+        "citation-1": "此是哥明修栈道，暗度陈仓的计策。 — 《金瓶梅词话》",
+        "citation-2": "诸葛亮必效韩信暗度陈仓之计。 — 《三国演义》",
+        "synonyms": "暗送秋波",
+        "antonyms": "明目张胆、明火执杖"
+    }
+}

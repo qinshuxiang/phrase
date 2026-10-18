@@ -1,0 +1,55 @@
+{
+    "word": "浑水摸鱼",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%B5%91%E6%B0%B4%E6%91%B8%E9%B1%BC",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "2e00e42685dd7739110fd3eb3e6aa95cf79b29df274ca2dd0c380ba2ca1d30f0",
+        "bytes": 26073
+    },
+    "parsed": {
+        "found": true,
+        "word": "浑水摸鱼",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "hún",
+                "shuǐ",
+                "mō",
+                "yú"
+            ],
+            "zhuyin": [
+                "ㄏㄨㄣˊ",
+                "ㄕㄨㄟˇ",
+                "ㄇㄛ",
+                "ㄩˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻趁混乱时机获取不正当利益。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "趁火打劫"
+        ],
+        "antonyms": [
+            "夜不闭户",
+            "路不拾遗"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "fish in troubled waters"
+    },
+    "blocks": {
+        "reading": "hún shuǐ mō yú",
+        "sense-1": "比喻趁混乱时机获取不正当利益。",
+        "synonyms": "趁火打劫",
+        "antonyms": "夜不闭户、路不拾遗"
+    }
+}

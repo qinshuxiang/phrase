@@ -1,0 +1,428 @@
+{
+  "text": "词曲，晨花。中文字幕志愿者 杨茜茜我也能夠幫我們优优独播剧场——YoYo Television Series Exclusive Pon Athrica优优独播剧场——YoYo Television Series Exclusive我走在长街路迎戏自愁京城人仨万喜小处夜黄飞入长久悠悠的故城中听美人走轻声朗朗月色星空往海梦放花灯天狼之际雕山夜过节俗酒讲群在这黑竹马微风引人去用它我们已醉天涯游走今世繁华不车笑成离开优优独播剧场——YoYo Television Series Exclusive看街边闹闪花浪我寻一轮子一箱喝出声音我听清香早起我寻生而去原来有如在长期不够清荡荡你看每人梦唱已经傲晚会你不去洒落我早在长街中迎戏自唱进场人杂乱喜小舟也黄坠如长久柔有的独城中听美人走今生当浪月色星空黄海红草花灯三浪君子两长也过节促交将仅在这黑中忙微风阴阴寻他我们的最天涯游走今夕帮花用车小红一旁来时间到了各位局长我们来开始今天的课程来声音画面没问题",
+  "segments": [
+    {
+      "text": "词曲，晨花。",
+      "start": 0.0,
+      "end": 30.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -1.21,
+      "compression_ratio": 0.6667
+    },
+    {
+      "text": "中文字幕志愿者 杨茜茜",
+      "start": 30.0,
+      "end": 59.980000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3353,
+      "compression_ratio": 0.775
+    },
+    {
+      "text": "我也能夠幫我們",
+      "start": 60.0,
+      "end": 75.82,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -4.439,
+      "compression_ratio": 0.6562
+    },
+    {
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "start": 75.82,
+      "end": 105.8,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1413,
+      "compression_ratio": 0.875
+    },
+    {
+      "text": " Pon Athrica",
+      "start": 105.82,
+      "end": 115.6,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -7.3787,
+      "compression_ratio": 0.5789
+    },
+    {
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "start": 115.6,
+      "end": 145.57999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1257,
+      "compression_ratio": 0.875
+    },
+    {
+      "text": "我走在长街路",
+      "start": 145.6,
+      "end": 149.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.5796,
+      "compression_ratio": 1.1347
+    },
+    {
+      "text": "迎戏自愁京城",
+      "start": 149.06,
+      "end": 151.42,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.5796,
+      "compression_ratio": 1.1347
+    },
+    {
+      "text": "人仨万喜小处",
+      "start": 151.42,
+      "end": 153.6,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.5796,
+      "compression_ratio": 1.1347
+    },
+    {
+      "text": "夜黄飞入长久",
+      "start": 153.6,
+      "end": 156.14,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.5796,
+      "compression_ratio": 1.1347
+    },
+    {
+      "text": "悠悠的故城中",
+      "start": 156.14,
+      "end": 158.4,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.5796,
+      "compression_ratio": 1.1347
+    },
+    {
+      "text": "听美人走轻声",
+      "start": 158.4,
+      "end": 160.48,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.5796,
+      "compression_ratio": 1.1347
+    },
+    {
+      "text": "朗朗月色星空",
+      "start": 160.48,
+      "end": 162.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.5796,
+      "compression_ratio": 1.1347
+    },
+    {
+      "text": "往海梦放花灯",
+      "start": 162.72,
+      "end": 165.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.5796,
+      "compression_ratio": 1.1347
+    },
+    {
+      "text": "天狼之际雕山",
+      "start": 165.06,
+      "end": 167.35999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.5796,
+      "compression_ratio": 1.1347
+    },
+    {
+      "text": "夜过节俗酒讲",
+      "start": 167.35999999999999,
+      "end": 169.6,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.5796,
+      "compression_ratio": 1.1347
+    },
+    {
+      "text": "群在这黑竹马",
+      "start": 169.6,
+      "end": 171.76,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.5796,
+      "compression_ratio": 1.1347
+    },
+    {
+      "text": "微风引人去用它",
+      "start": 171.76,
+      "end": 174.26,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.5796,
+      "compression_ratio": 1.1347
+    },
+    {
+      "text": "我们已醉天涯",
+      "start": 174.26,
+      "end": 176.34,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.5772,
+      "compression_ratio": 0.8308
+    },
+    {
+      "text": "游走今世繁华",
+      "start": 176.34,
+      "end": 178.78,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.5772,
+      "compression_ratio": 0.8308
+    },
+    {
+      "text": "不车笑成离开",
+      "start": 178.78,
+      "end": 181.14,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.5772,
+      "compression_ratio": 0.8308
+    },
+    {
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "start": 204.26,
+      "end": 234.23999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1333,
+      "compression_ratio": 0.875
+    },
+    {
+      "text": "看街边闹闪花浪",
+      "start": 234.26,
+      "end": 236.62,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.72,
+      "compression_ratio": 1.1629
+    },
+    {
+      "text": "我寻一轮子一箱",
+      "start": 236.62,
+      "end": 239.16,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.72,
+      "compression_ratio": 1.1629
+    },
+    {
+      "text": "喝出声音",
+      "start": 239.16,
+      "end": 240.92,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.72,
+      "compression_ratio": 1.1629
+    },
+    {
+      "text": "我听清香早起",
+      "start": 240.92,
+      "end": 243.22,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.72,
+      "compression_ratio": 1.1629
+    },
+    {
+      "text": "我寻生而去",
+      "start": 243.22,
+      "end": 245.42,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.72,
+      "compression_ratio": 1.1629
+    },
+    {
+      "text": "原来有如在长期",
+      "start": 245.42,
+      "end": 247.98,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.72,
+      "compression_ratio": 1.1629
+    },
+    {
+      "text": "不够清荡荡",
+      "start": 247.98,
+      "end": 250.04,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.72,
+      "compression_ratio": 1.1629
+    },
+    {
+      "text": "你看每人梦唱",
+      "start": 250.04,
+      "end": 252.45999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.72,
+      "compression_ratio": 1.1629
+    },
+    {
+      "text": "已经傲晚会你",
+      "start": 252.45999999999998,
+      "end": 255.57999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.72,
+      "compression_ratio": 1.1629
+    },
+    {
+      "text": "不去洒落",
+      "start": 255.57999999999998,
+      "end": 258.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.72,
+      "compression_ratio": 1.1629
+    },
+    {
+      "text": "我早在长街中",
+      "start": 258.5,
+      "end": 260.38,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.72,
+      "compression_ratio": 1.1629
+    },
+    {
+      "text": "迎戏自唱进场",
+      "start": 260.38,
+      "end": 262.68,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.72,
+      "compression_ratio": 1.1629
+    },
+    {
+      "text": "人杂乱喜小舟",
+      "start": 262.68,
+      "end": 264.74,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6399,
+      "compression_ratio": 1.1551
+    },
+    {
+      "text": "也黄坠如长久",
+      "start": 264.74,
+      "end": 267.3,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6399,
+      "compression_ratio": 1.1551
+    },
+    {
+      "text": "柔有的独城中",
+      "start": 267.3,
+      "end": 269.36,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6399,
+      "compression_ratio": 1.1551
+    },
+    {
+      "text": "听美人走今生",
+      "start": 269.36,
+      "end": 271.64,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6399,
+      "compression_ratio": 1.1551
+    },
+    {
+      "text": "当浪月色星空",
+      "start": 271.64,
+      "end": 273.90000000000003,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6399,
+      "compression_ratio": 1.1551
+    },
+    {
+      "text": "黄海红草花灯",
+      "start": 273.90000000000003,
+      "end": 276.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6399,
+      "compression_ratio": 1.1551
+    },
+    {
+      "text": "三浪君子两长",
+      "start": 276.06,
+      "end": 278.62,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6399,
+      "compression_ratio": 1.1551
+    },
+    {
+      "text": "也过节促交将",
+      "start": 278.62,
+      "end": 280.8,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6399,
+      "compression_ratio": 1.1551
+    },
+    {
+      "text": "仅在这黑中忙",
+      "start": 280.8,
+      "end": 283.04,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6399,
+      "compression_ratio": 1.1551
+    },
+    {
+      "text": "微风阴阴寻他",
+      "start": 283.04,
+      "end": 285.4,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6399,
+      "compression_ratio": 1.1551
+    },
+    {
+      "text": "我们的最天涯",
+      "start": 285.4,
+      "end": 287.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6399,
+      "compression_ratio": 1.1551
+    },
+    {
+      "text": "游走今夕帮花",
+      "start": 287.5,
+      "end": 289.96000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6399,
+      "compression_ratio": 1.1551
+    },
+    {
+      "text": "用车小红一旁",
+      "start": 289.96,
+      "end": 292.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3737,
+      "compression_ratio": 0.9167
+    },
+    {
+      "text": "来时间到了",
+      "start": 292.5,
+      "end": 296.03999999999996,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3737,
+      "compression_ratio": 0.9167
+    },
+    {
+      "text": "各位局长",
+      "start": 296.03999999999996,
+      "end": 296.71999999999997,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3737,
+      "compression_ratio": 0.9167
+    },
+    {
+      "text": "我们来开始今天的课程",
+      "start": 296.71999999999997,
+      "end": 298.64,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3737,
+      "compression_ratio": 0.9167
+    },
+    {
+      "text": "来声音画面没问题",
+      "start": 298.64,
+      "end": 299.94,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3737,
+      "compression_ratio": 0.9167
+    }
+  ],
+  "repairs": [
+    {
+      "start": 0.0,
+      "end": 30.0,
+      "old_text": " Voy自己 forgetting和声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯无声李斯",
+      "new_text": "词曲，晨花。",
+      "accepted": true
+    }
+  ],
+  "index": 1,
+  "start": 300.0,
+  "duration": 300,
+  "elapsed": 50.8,
+  "ok": true,
+  "initial_prompt": "四海公考，公务员考试，言语理解与表达，逻辑填空，高频实词，成语辨析，语义侧重，感情色彩，搭配对象，适用语境，易混词，例句。简体中文。课件词条：佶屈聱牙，入木三分，只言片语，妙笔生花。"
+}

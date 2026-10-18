@@ -1,0 +1,80 @@
+{
+    "word": "各持己见",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%90%84%E6%8C%81%E5%B7%B1%E8%A7%81",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "ebb1b976806dc1841093d5e1f77ad9cb2637cc9a64bf2d2f3de7e5df4dda235b",
+        "bytes": 26747
+    },
+    "parsed": {
+        "found": true,
+        "word": "各持己见",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "gè",
+                "chí",
+                "jǐ",
+                "jiàn"
+            ],
+            "zhuyin": [
+                "ㄍㄜˋ",
+                "ㄔˊ",
+                "ㄐㄧˇ",
+                "ㄐㄧㄢˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "各自坚持自己的意见。",
+                "citations": [
+                    {
+                        "text": "甚至徒毁其师，子讥其父，各持己见，彼此相非。",
+                        "source": "清·黄钧宰《金壶浪墨·堪舆》"
+                    },
+                    {
+                        "text": "两人终日谈论，依旧各执己见，不相上下。",
+                        "source": "《古今小说·明悟禅师赶五戒》"
+                    }
+                ]
+            },
+            {
+                "definition": "见“ 各执己见",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "甚至徒毁其师，子讥其父，各持己见，彼此相非。",
+                "source": "清·黄钧宰《金壶浪墨·堪舆》"
+            },
+            {
+                "text": "两人终日谈论，依旧各执己见，不相上下。",
+                "source": "《古今小说·明悟禅师赶五戒》"
+            }
+        ],
+        "synonyms": [
+            "各抒己见",
+            "各执一词"
+        ],
+        "antonyms": [
+            "众口一词"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "each sticks to his own view"
+    },
+    "blocks": {
+        "reading": "gè chí jǐ jiàn",
+        "sense-1": "各自坚持自己的意见。",
+        "sense-2": "见“ 各执己见",
+        "citation-1": "甚至徒毁其师，子讥其父，各持己见，彼此相非。 — 清·黄钧宰《金壶浪墨·堪舆》",
+        "citation-2": "两人终日谈论，依旧各执己见，不相上下。 — 《古今小说·明悟禅师赶五戒》",
+        "synonyms": "各抒己见、各执一词",
+        "antonyms": "众口一词"
+    }
+}

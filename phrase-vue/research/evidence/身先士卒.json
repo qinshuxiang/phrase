@@ -1,0 +1,55 @@
+{
+    "word": "身先士卒",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%BA%AB%E5%85%88%E5%A3%AB%E5%8D%92",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "3d155e7bd18e301a69e3ccc8414c5736ca31ea1977d8cf410fd8cc6615c0dbf6",
+        "bytes": 27958
+    },
+    "parsed": {
+        "found": true,
+        "word": "身先士卒",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shēn",
+                "xiān",
+                "shì",
+                "zú"
+            ],
+            "zhuyin": [
+                "ㄕㄣ",
+                "ㄒㄧㄢ",
+                "ㄕˋ",
+                "ㄗㄨˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "将帅在士卒前面,带头作战。现也指领导带头走在群众前面",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "以身作则",
+            "一马当先"
+        ],
+        "antonyms": [
+            "瞠乎其后"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "charge at the head"
+    },
+    "blocks": {
+        "reading": "shēn xiān shì zú",
+        "sense-1": "将帅在士卒前面,带头作战。现也指领导带头走在群众前面",
+        "synonyms": "以身作则、一马当先",
+        "antonyms": "瞠乎其后"
+    }
+}

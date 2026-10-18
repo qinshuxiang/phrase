@@ -1,0 +1,58 @@
+{
+    "word": "持之以恒",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%8C%81%E4%B9%8B%E4%BB%A5%E6%81%92",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "07808f5a928518a480a6ffe5d7b41336a9aad452ef2db48ae27ce9fecf5a4e77",
+        "bytes": 26919
+    },
+    "parsed": {
+        "found": true,
+        "word": "持之以恒",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "chí",
+                "zhī",
+                "yǐ",
+                "héng"
+            ],
+            "zhuyin": [
+                "ㄔˊ",
+                "ㄓ",
+                "ㄧˇ",
+                "ㄏㄥˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "持续不间断,老是那么一股劲地进行",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "锲而不舍",
+            "孜孜不倦"
+        ],
+        "antonyms": [
+            "一暴十寒",
+            "半途而废",
+            "虎头蛇尾",
+            "一曝十寒"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "persevere"
+    },
+    "blocks": {
+        "reading": "chí zhī yǐ héng",
+        "sense-1": "持续不间断,老是那么一股劲地进行",
+        "synonyms": "锲而不舍、孜孜不倦",
+        "antonyms": "一暴十寒、半途而废、虎头蛇尾、一曝十寒"
+    }
+}

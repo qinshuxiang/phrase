@@ -1,0 +1,69 @@
+{
+    "word": "举重若轻",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%BE%E9%87%8D%E8%8B%A5%E8%BD%BB",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "3d1be983b49732d47ca0f02b6d66edf6bb0e6daa0fe2aeafbb32f37b077c130b",
+        "bytes": 25502
+    },
+    "parsed": {
+        "found": true,
+        "word": "举重若轻",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jǔ",
+                "zhòng",
+                "ruò",
+                "qīng"
+            ],
+            "zhuyin": [
+                "ㄐㄩˇ",
+                "ㄓㄨㄥˋ",
+                "ㄖㄨㄛˋ",
+                "ㄑㄧㄥ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻处理繁重艰难的工作时显得轻松自如。",
+                "citations": [
+                    {
+                        "text": "坡诗不尚雄杰一派，其绝人处，在乎议论英爽，笔锋精锐，举重若轻，读之似不甚用力，而力已透十分。",
+                        "source": "清·赵翼《瓯北诗话·苏东坡诗》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "坡诗不尚雄杰一派，其绝人处，在乎议论英爽，笔锋精锐，举重若轻，读之似不甚用力，而力已透十分。",
+                "source": "清·赵翼《瓯北诗话·苏东坡诗》"
+            }
+        ],
+        "synonyms": [
+            "精明强干",
+            "轻而易举",
+            "游刃有余"
+        ],
+        "antonyms": [
+            "心余力绌",
+            "力不胜任",
+            "力不从心"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "handle difficult tasks with ease"
+    },
+    "blocks": {
+        "reading": "jǔ zhòng ruò qīng",
+        "sense-1": "比喻处理繁重艰难的工作时显得轻松自如。",
+        "citation-1": "坡诗不尚雄杰一派，其绝人处，在乎议论英爽，笔锋精锐，举重若轻，读之似不甚用力，而力已透十分。 — 清·赵翼《瓯北诗话·苏东坡诗》",
+        "synonyms": "精明强干、轻而易举、游刃有余",
+        "antonyms": "心余力绌、力不胜任、力不从心"
+    }
+}

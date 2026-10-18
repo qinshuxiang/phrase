@@ -1,0 +1,1556 @@
+{
+  "text": "诗像朋友一样。对吧，所以良诗意有 名和实力都匹配了。来第二个硬骨头，有没有名诗的对应啊，啊，有这样个title了。那诗呢，说是一个系统性的全局性的挑战。是不是硬骨头难以啃下的硬骨头啊，也是对应的。对吧，来第三个，都达到都匹配那要用啥呢用名副其实有问题吧行来那当之无愧简单看一下就是说配得上对吧怎么当之无愧顶流因为大众公众就奔向这个宝藏那如果有时候我区分我到这我想用名副其实我要怎么说来思考一下如果第一句话我想用名副其实我应该怎么说我说春秋月王勾进键是名副其实的顶流怎么体现这个顶流啊你是第一名你是最棒最好的你实力是最强的你吸引的人是最多的这叫顶流吧对吧所以你得解释这个顶流你和他的语意得是一样的所以要注意一下如果要选或者说要用名副其实应该怎么说对吧或者说第二个说当之无愧的带共赴带头人你称得上你配得上这样的称呼如果我要用名副其实文端应该怎么说你怎么共赴带头了呀你为人民群众创收了多少呀是不是这个意思对吧另外第三个例句也很妙当之无愧我们说什么意思来着是说当得起这个称号或者说荣誉无需愧疚就无需感到惭愧那前面你看他说条件有限对吧但是你不要惭愧没问题可以构成这样的转折非常好来没问题吧刚刚落里巴松对吧在说啥呢说了半天其实就是在说名副其实如果有时候非要你要选一对比他什么时候选要体现名和实两者的对应和匹配没问题吧来没问题敲个一革命荣誉用的好对吧对稳断对应名和实分别都有对应而且他们的语意是一致的对吧很好那我们来看一下真题当中怎么考察来名副其实二五年江苏比较近的这要题当时证据率非常低百分之三十多大概三十七左右对吧怎么就选到名副其实呢你来品一下是不是有这样的名名声了是风向标那风向标什么意思标示这个表示风的一个来向的对吧只是风的一个来向的反映这样的趋势的那对应到后文不就是映照出行业的蓬勃跃升反映这样的趋势了吗对吧所以啊他名和实都有那选到名副其实来第二个你看一下说是名副其实的多用途载人飞船哎怎么就是多用途载人飞船名有了来现在找这个实是不是前面说了呀适应这些这些等多类型的载人飞行任务啊所以实也有了选哪个选到名副其实没问题啊行好可以来到这我们来困的同学对吧我们来以图代背一下来梳理一下第一个大有可为啥意思来着是不是说未来可期对吧啊注意些类啊未来可期是好的哈来差强人意是说差吗啊不是对吧到这书里哈就非常简单了来差强人意是差吗不是是满意的大体满意你记啥呀你就记啊咱每个人都是80分体制对吧啊80分也没考到100分也没考到93分啊差强人意吧凡尔赛一下对吧大体让人满意啊是包意的还行来第三个无可非意啥意思来着完全正确对吧啊很棒完全正确完全合理来无可厚非不可厚厚的谴责啥意思来着是不是说啊有小问题有小缺点但是可以原谅一般怎么用的一般是不是用于转折关系啊但啊去啊啊这样一些啊语句当中对吧啊所以要注意一下啊很好来无庸会言啊这个是无庸会言啥意思来着啊不用忌讳啊咱这个放心大胆的说你大方的说对吧无庸会言来监口不言啥意思啊监啊是啥意思来着是不是风啊把嘴巴逼起来啊不说话啊对吧所以这样一些词你看哎是不是快速就掌握了对吧这是我们前六个词来那前六个词我来再检测一下看看各位局长掌握的咋要来快问快答第一个前景值得做选哪个前景值得做选哪个",
+  "segments": [
+    {
+      "text": "诗像朋友一样。对吧，所以良诗意有 名和实力都匹配了。来第二个硬骨头，有没有名诗的对应啊，啊，有这样个title了。那诗呢，说是一个系统性的全局性的挑战。是不是硬骨头难以啃下的硬骨头啊，也是对应的。对吧，来第三个，",
+      "start": 0.0,
+      "end": 30.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2497,
+      "compression_ratio": 1.348
+    },
+    {
+      "text": "都达到都匹配",
+      "start": 30.0,
+      "end": 31.22,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1706,
+      "compression_ratio": 1.4274
+    },
+    {
+      "text": "那要用啥呢",
+      "start": 31.22,
+      "end": 32.38,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1706,
+      "compression_ratio": 1.4274
+    },
+    {
+      "text": "用名副其实",
+      "start": 32.38,
+      "end": 34.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1706,
+      "compression_ratio": 1.4274
+    },
+    {
+      "text": "有问题吧",
+      "start": 34.06,
+      "end": 35.82,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1706,
+      "compression_ratio": 1.4274
+    },
+    {
+      "text": "行",
+      "start": 35.82,
+      "end": 36.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1706,
+      "compression_ratio": 1.4274
+    },
+    {
+      "text": "来那当之无愧",
+      "start": 36.32,
+      "end": 37.9,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1706,
+      "compression_ratio": 1.4274
+    },
+    {
+      "text": "简单看一下",
+      "start": 37.9,
+      "end": 38.519999999999996,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1706,
+      "compression_ratio": 1.4274
+    },
+    {
+      "text": "就是说配得上",
+      "start": 38.519999999999996,
+      "end": 39.44,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1706,
+      "compression_ratio": 1.4274
+    },
+    {
+      "text": "对吧",
+      "start": 39.44,
+      "end": 39.96,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1706,
+      "compression_ratio": 1.4274
+    },
+    {
+      "text": "怎么当之无愧顶流",
+      "start": 39.96,
+      "end": 41.16,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1706,
+      "compression_ratio": 1.4274
+    },
+    {
+      "text": "因为大众公众就奔向这个宝藏",
+      "start": 41.16,
+      "end": 43.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1706,
+      "compression_ratio": 1.4274
+    },
+    {
+      "text": "那如果有时候我区分",
+      "start": 43.84,
+      "end": 46.64,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1706,
+      "compression_ratio": 1.4274
+    },
+    {
+      "text": "我到这我想用名副其实",
+      "start": 46.64,
+      "end": 49.74,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1706,
+      "compression_ratio": 1.4274
+    },
+    {
+      "text": "我要怎么说",
+      "start": 49.74,
+      "end": 50.46,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1706,
+      "compression_ratio": 1.4274
+    },
+    {
+      "text": "来思考一下",
+      "start": 50.46,
+      "end": 51.94,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1706,
+      "compression_ratio": 1.4274
+    },
+    {
+      "text": "如果第一句话",
+      "start": 51.94,
+      "end": 53.120000000000005,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1706,
+      "compression_ratio": 1.4274
+    },
+    {
+      "text": "我想用名副其实",
+      "start": 53.120000000000005,
+      "end": 54.379999999999995,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1706,
+      "compression_ratio": 1.4274
+    },
+    {
+      "text": "我应该怎么说",
+      "start": 54.379999999999995,
+      "end": 55.14,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1706,
+      "compression_ratio": 1.4274
+    },
+    {
+      "text": "我说春秋月王勾进键",
+      "start": 55.14,
+      "end": 58.22,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1706,
+      "compression_ratio": 1.4274
+    },
+    {
+      "text": "是名副其实的顶流",
+      "start": 58.22,
+      "end": 60.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1514,
+      "compression_ratio": 1.5233
+    },
+    {
+      "text": "怎么体现这个顶流啊",
+      "start": 60.32,
+      "end": 62.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1514,
+      "compression_ratio": 1.5233
+    },
+    {
+      "text": "你是第一名",
+      "start": 62.56,
+      "end": 63.74,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1514,
+      "compression_ratio": 1.5233
+    },
+    {
+      "text": "你是最棒最好的",
+      "start": 63.74,
+      "end": 65.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1514,
+      "compression_ratio": 1.5233
+    },
+    {
+      "text": "你实力是最强的",
+      "start": 65.5,
+      "end": 67.2,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1514,
+      "compression_ratio": 1.5233
+    },
+    {
+      "text": "你吸引的人是最多的",
+      "start": 67.2,
+      "end": 68.94,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1514,
+      "compression_ratio": 1.5233
+    },
+    {
+      "text": "这叫顶流吧",
+      "start": 68.94,
+      "end": 70.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1514,
+      "compression_ratio": 1.5233
+    },
+    {
+      "text": "对吧",
+      "start": 70.56,
+      "end": 71.12,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1514,
+      "compression_ratio": 1.5233
+    },
+    {
+      "text": "所以你得解释这个顶流",
+      "start": 71.12,
+      "end": 72.52,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1514,
+      "compression_ratio": 1.5233
+    },
+    {
+      "text": "你和他的语意得是一样的",
+      "start": 72.52,
+      "end": 74.75999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1514,
+      "compression_ratio": 1.5233
+    },
+    {
+      "text": "所以要注意一下",
+      "start": 74.75999999999999,
+      "end": 76.2,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1514,
+      "compression_ratio": 1.5233
+    },
+    {
+      "text": "如果要选",
+      "start": 76.2,
+      "end": 78.14,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1514,
+      "compression_ratio": 1.5233
+    },
+    {
+      "text": "或者说要用名副其实",
+      "start": 78.14,
+      "end": 79.68,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1514,
+      "compression_ratio": 1.5233
+    },
+    {
+      "text": "应该怎么说",
+      "start": 79.68,
+      "end": 80.34,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1514,
+      "compression_ratio": 1.5233
+    },
+    {
+      "text": "对吧",
+      "start": 80.34,
+      "end": 80.8,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1514,
+      "compression_ratio": 1.5233
+    },
+    {
+      "text": "或者说第二个",
+      "start": 80.8,
+      "end": 81.7,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1514,
+      "compression_ratio": 1.5233
+    },
+    {
+      "text": "说当之无愧的",
+      "start": 81.7,
+      "end": 83.18,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1514,
+      "compression_ratio": 1.5233
+    },
+    {
+      "text": "带共赴带头人",
+      "start": 83.18,
+      "end": 84.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1514,
+      "compression_ratio": 1.5233
+    },
+    {
+      "text": "你称得上",
+      "start": 84.84,
+      "end": 85.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1514,
+      "compression_ratio": 1.5233
+    },
+    {
+      "text": "你配得上这样的称呼",
+      "start": 85.72,
+      "end": 86.96000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1514,
+      "compression_ratio": 1.5233
+    },
+    {
+      "text": "如果我要用名副其实",
+      "start": 86.96,
+      "end": 88.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1541,
+      "compression_ratio": 1.361
+    },
+    {
+      "text": "文端应该怎么说",
+      "start": 88.88,
+      "end": 89.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1541,
+      "compression_ratio": 1.361
+    },
+    {
+      "text": "你怎么共赴带头了呀",
+      "start": 89.72,
+      "end": 92.38,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1541,
+      "compression_ratio": 1.361
+    },
+    {
+      "text": "你为人民群众创收了多少呀",
+      "start": 92.38,
+      "end": 94.94,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1541,
+      "compression_ratio": 1.361
+    },
+    {
+      "text": "是不是这个意思",
+      "start": 94.94,
+      "end": 96.33999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1541,
+      "compression_ratio": 1.361
+    },
+    {
+      "text": "对吧",
+      "start": 96.33999999999999,
+      "end": 97.05999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1541,
+      "compression_ratio": 1.361
+    },
+    {
+      "text": "另外第三个例句也很妙",
+      "start": 97.05999999999999,
+      "end": 98.61999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1541,
+      "compression_ratio": 1.361
+    },
+    {
+      "text": "当之无愧",
+      "start": 98.61999999999999,
+      "end": 99.69999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1541,
+      "compression_ratio": 1.361
+    },
+    {
+      "text": "我们说什么意思来着",
+      "start": 99.69999999999999,
+      "end": 100.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1541,
+      "compression_ratio": 1.361
+    },
+    {
+      "text": "是说当得起这个称号",
+      "start": 100.72,
+      "end": 102.78,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1541,
+      "compression_ratio": 1.361
+    },
+    {
+      "text": "或者说荣誉",
+      "start": 102.78,
+      "end": 103.41999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1541,
+      "compression_ratio": 1.361
+    },
+    {
+      "text": "无需愧疚",
+      "start": 103.41999999999999,
+      "end": 104.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1541,
+      "compression_ratio": 1.361
+    },
+    {
+      "text": "就无需感到惭愧",
+      "start": 104.72,
+      "end": 106.38,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1541,
+      "compression_ratio": 1.361
+    },
+    {
+      "text": "那前面你看",
+      "start": 106.38,
+      "end": 107.36,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1541,
+      "compression_ratio": 1.361
+    },
+    {
+      "text": "他说条件有限",
+      "start": 107.36,
+      "end": 108.89999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1541,
+      "compression_ratio": 1.361
+    },
+    {
+      "text": "对吧",
+      "start": 108.89999999999999,
+      "end": 109.53999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1541,
+      "compression_ratio": 1.361
+    },
+    {
+      "text": "但是你不要惭愧",
+      "start": 109.53999999999999,
+      "end": 110.97999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1541,
+      "compression_ratio": 1.361
+    },
+    {
+      "text": "没问题",
+      "start": 110.97999999999999,
+      "end": 111.69999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1541,
+      "compression_ratio": 1.361
+    },
+    {
+      "text": "可以构成这样的转折",
+      "start": 111.69999999999999,
+      "end": 112.86,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1541,
+      "compression_ratio": 1.361
+    },
+    {
+      "text": "非常好",
+      "start": 112.86,
+      "end": 113.53999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1541,
+      "compression_ratio": 1.361
+    },
+    {
+      "text": "来没问题吧",
+      "start": 113.53999999999999,
+      "end": 115.13999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1541,
+      "compression_ratio": 1.361
+    },
+    {
+      "text": "刚刚落里巴松",
+      "start": 115.13999999999999,
+      "end": 116.28,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1541,
+      "compression_ratio": 1.361
+    },
+    {
+      "text": "对吧",
+      "start": 116.28,
+      "end": 116.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1541,
+      "compression_ratio": 1.361
+    },
+    {
+      "text": "在说啥呢",
+      "start": 116.72,
+      "end": 117.46,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2129,
+      "compression_ratio": 1.3602
+    },
+    {
+      "text": "说了半天其实就是在说",
+      "start": 117.46,
+      "end": 118.94,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2129,
+      "compression_ratio": 1.3602
+    },
+    {
+      "text": "名副其实如果有时候非要你",
+      "start": 118.94,
+      "end": 121.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2129,
+      "compression_ratio": 1.3602
+    },
+    {
+      "text": "要选一对比",
+      "start": 121.84,
+      "end": 123.4,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2129,
+      "compression_ratio": 1.3602
+    },
+    {
+      "text": "他什么时候选",
+      "start": 123.4,
+      "end": 124.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2129,
+      "compression_ratio": 1.3602
+    },
+    {
+      "text": "要体现名和实两者的对应和匹配",
+      "start": 124.56,
+      "end": 128.62,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2129,
+      "compression_ratio": 1.3602
+    },
+    {
+      "text": "没问题吧",
+      "start": 128.62,
+      "end": 130.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2129,
+      "compression_ratio": 1.3602
+    },
+    {
+      "text": "来没问题",
+      "start": 130.0,
+      "end": 130.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2129,
+      "compression_ratio": 1.3602
+    },
+    {
+      "text": "敲个一",
+      "start": 130.88,
+      "end": 131.78,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2129,
+      "compression_ratio": 1.3602
+    },
+    {
+      "text": "革命荣誉用的好",
+      "start": 131.78,
+      "end": 135.9,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2129,
+      "compression_ratio": 1.3602
+    },
+    {
+      "text": "对吧",
+      "start": 135.9,
+      "end": 136.2,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2129,
+      "compression_ratio": 1.3602
+    },
+    {
+      "text": "对",
+      "start": 136.2,
+      "end": 139.14,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2129,
+      "compression_ratio": 1.3602
+    },
+    {
+      "text": "稳断对应名和实",
+      "start": 139.14,
+      "end": 140.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2129,
+      "compression_ratio": 1.3602
+    },
+    {
+      "text": "分别都有对应",
+      "start": 140.88,
+      "end": 142.04,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2129,
+      "compression_ratio": 1.3602
+    },
+    {
+      "text": "而且他们的语意是一致的",
+      "start": 142.04,
+      "end": 143.86,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2129,
+      "compression_ratio": 1.3602
+    },
+    {
+      "text": "对吧",
+      "start": 143.86,
+      "end": 144.14,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2129,
+      "compression_ratio": 1.3602
+    },
+    {
+      "text": "很好",
+      "start": 144.14,
+      "end": 144.57999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2129,
+      "compression_ratio": 1.3602
+    },
+    {
+      "text": "那我们来看一下",
+      "start": 144.57999999999998,
+      "end": 145.6,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2129,
+      "compression_ratio": 1.3602
+    },
+    {
+      "text": "真题当中",
+      "start": 145.6,
+      "end": 146.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1444,
+      "compression_ratio": 1.5154
+    },
+    {
+      "text": "怎么考察",
+      "start": 146.56,
+      "end": 147.22,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1444,
+      "compression_ratio": 1.5154
+    },
+    {
+      "text": "来名副其实",
+      "start": 147.22,
+      "end": 148.38,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1444,
+      "compression_ratio": 1.5154
+    },
+    {
+      "text": "二五年江苏比较近的",
+      "start": 148.38,
+      "end": 150.2,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1444,
+      "compression_ratio": 1.5154
+    },
+    {
+      "text": "这要题当时证据率非常低",
+      "start": 150.2,
+      "end": 152.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1444,
+      "compression_ratio": 1.5154
+    },
+    {
+      "text": "百分之三十多",
+      "start": 152.06,
+      "end": 153.2,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1444,
+      "compression_ratio": 1.5154
+    },
+    {
+      "text": "大概三十七左右",
+      "start": 153.2,
+      "end": 154.2,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1444,
+      "compression_ratio": 1.5154
+    },
+    {
+      "text": "对吧",
+      "start": 154.2,
+      "end": 154.9,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1444,
+      "compression_ratio": 1.5154
+    },
+    {
+      "text": "怎么就选到名副其实呢",
+      "start": 154.9,
+      "end": 156.4,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1444,
+      "compression_ratio": 1.5154
+    },
+    {
+      "text": "你来品一下",
+      "start": 156.4,
+      "end": 157.07999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1444,
+      "compression_ratio": 1.5154
+    },
+    {
+      "text": "是不是有这样的名",
+      "start": 157.07999999999998,
+      "end": 158.79999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1444,
+      "compression_ratio": 1.5154
+    },
+    {
+      "text": "名声了",
+      "start": 158.79999999999998,
+      "end": 159.79999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1444,
+      "compression_ratio": 1.5154
+    },
+    {
+      "text": "是风向标",
+      "start": 159.79999999999998,
+      "end": 160.64,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1444,
+      "compression_ratio": 1.5154
+    },
+    {
+      "text": "那风向标什么意思",
+      "start": 160.64,
+      "end": 162.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1444,
+      "compression_ratio": 1.5154
+    },
+    {
+      "text": "标示",
+      "start": 162.32,
+      "end": 163.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1444,
+      "compression_ratio": 1.5154
+    },
+    {
+      "text": "这个表示风的一个来向的",
+      "start": 163.84,
+      "end": 166.04,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1444,
+      "compression_ratio": 1.5154
+    },
+    {
+      "text": "对吧",
+      "start": 166.04,
+      "end": 166.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1444,
+      "compression_ratio": 1.5154
+    },
+    {
+      "text": "只是风的一个来向的",
+      "start": 166.56,
+      "end": 168.12,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1444,
+      "compression_ratio": 1.5154
+    },
+    {
+      "text": "反映这样的趋势的",
+      "start": 168.12,
+      "end": 169.48,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1444,
+      "compression_ratio": 1.5154
+    },
+    {
+      "text": "那对应到后文不就是",
+      "start": 169.48,
+      "end": 170.95999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1444,
+      "compression_ratio": 1.5154
+    },
+    {
+      "text": "映照出行业的蓬勃跃升",
+      "start": 170.95999999999998,
+      "end": 173.2,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1444,
+      "compression_ratio": 1.5154
+    },
+    {
+      "text": "反映这样的趋势了吗",
+      "start": 173.2,
+      "end": 174.79999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1444,
+      "compression_ratio": 1.5154
+    },
+    {
+      "text": "对吧",
+      "start": 174.79999999999998,
+      "end": 175.44,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1444,
+      "compression_ratio": 1.5154
+    },
+    {
+      "text": "所以啊",
+      "start": 175.44,
+      "end": 175.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1555,
+      "compression_ratio": 1.5056
+    },
+    {
+      "text": "他名和实都有",
+      "start": 175.88,
+      "end": 177.44,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1555,
+      "compression_ratio": 1.5056
+    },
+    {
+      "text": "那选到名副其实",
+      "start": 177.44,
+      "end": 179.04,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1555,
+      "compression_ratio": 1.5056
+    },
+    {
+      "text": "来第二个你看一下",
+      "start": 179.04,
+      "end": 180.6,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1555,
+      "compression_ratio": 1.5056
+    },
+    {
+      "text": "说是名副其实的多用途载人飞船",
+      "start": 180.6,
+      "end": 184.3,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1555,
+      "compression_ratio": 1.5056
+    },
+    {
+      "text": "哎怎么就是多用途载人飞船",
+      "start": 184.3,
+      "end": 186.54,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1555,
+      "compression_ratio": 1.5056
+    },
+    {
+      "text": "名有了来",
+      "start": 186.54,
+      "end": 187.38,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1555,
+      "compression_ratio": 1.5056
+    },
+    {
+      "text": "现在找这个实",
+      "start": 187.38,
+      "end": 188.66,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1555,
+      "compression_ratio": 1.5056
+    },
+    {
+      "text": "是不是前面说了呀",
+      "start": 188.66,
+      "end": 189.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1555,
+      "compression_ratio": 1.5056
+    },
+    {
+      "text": "适应这些这些等多类型的载人飞行任务啊",
+      "start": 189.88,
+      "end": 194.18,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1555,
+      "compression_ratio": 1.5056
+    },
+    {
+      "text": "所以实也有了",
+      "start": 194.18,
+      "end": 195.42,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1555,
+      "compression_ratio": 1.5056
+    },
+    {
+      "text": "选哪个选到名副其实",
+      "start": 195.42,
+      "end": 197.6,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1555,
+      "compression_ratio": 1.5056
+    },
+    {
+      "text": "没问题啊",
+      "start": 197.6,
+      "end": 200.1,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1555,
+      "compression_ratio": 1.5056
+    },
+    {
+      "text": "行好可以来到这我们来困的同学对吧",
+      "start": 200.1,
+      "end": 203.34,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1555,
+      "compression_ratio": 1.5056
+    },
+    {
+      "text": "我们来以图代背一下来梳理一下",
+      "start": 203.34,
+      "end": 205.18,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1555,
+      "compression_ratio": 1.5056
+    },
+    {
+      "text": "第一个大有可为",
+      "start": 205.18,
+      "end": 206.8,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1625,
+      "compression_ratio": 1.5586
+    },
+    {
+      "text": "啥意思来着",
+      "start": 206.8,
+      "end": 207.48000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1625,
+      "compression_ratio": 1.5586
+    },
+    {
+      "text": "是不是说未来可期",
+      "start": 207.48000000000002,
+      "end": 209.86,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1625,
+      "compression_ratio": 1.5586
+    },
+    {
+      "text": "对吧啊",
+      "start": 209.86,
+      "end": 210.78,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1625,
+      "compression_ratio": 1.5586
+    },
+    {
+      "text": "注意些类啊",
+      "start": 210.78,
+      "end": 211.36,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1625,
+      "compression_ratio": 1.5586
+    },
+    {
+      "text": "未来可期是好的哈",
+      "start": 211.36,
+      "end": 212.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1625,
+      "compression_ratio": 1.5586
+    },
+    {
+      "text": "来差强人意",
+      "start": 212.72,
+      "end": 214.16,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1625,
+      "compression_ratio": 1.5586
+    },
+    {
+      "text": "是说差吗",
+      "start": 214.16,
+      "end": 215.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1625,
+      "compression_ratio": 1.5586
+    },
+    {
+      "text": "啊不是",
+      "start": 215.32,
+      "end": 217.38,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1625,
+      "compression_ratio": 1.5586
+    },
+    {
+      "text": "对吧",
+      "start": 217.38,
+      "end": 218.14000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1625,
+      "compression_ratio": 1.5586
+    },
+    {
+      "text": "到这书里哈",
+      "start": 218.14000000000001,
+      "end": 218.98000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1625,
+      "compression_ratio": 1.5586
+    },
+    {
+      "text": "就非常简单了",
+      "start": 218.98000000000002,
+      "end": 219.74,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1625,
+      "compression_ratio": 1.5586
+    },
+    {
+      "text": "来差强人意是差吗",
+      "start": 219.74,
+      "end": 221.86,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1625,
+      "compression_ratio": 1.5586
+    },
+    {
+      "text": "不是是满意的",
+      "start": 221.86,
+      "end": 223.48000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1625,
+      "compression_ratio": 1.5586
+    },
+    {
+      "text": "大体满意",
+      "start": 223.48000000000002,
+      "end": 224.52,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1625,
+      "compression_ratio": 1.5586
+    },
+    {
+      "text": "你记啥呀",
+      "start": 224.52,
+      "end": 225.42000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1625,
+      "compression_ratio": 1.5586
+    },
+    {
+      "text": "你就记啊",
+      "start": 225.42000000000002,
+      "end": 226.34,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1625,
+      "compression_ratio": 1.5586
+    },
+    {
+      "text": "咱每个人都是80分体制",
+      "start": 226.34,
+      "end": 228.02,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1625,
+      "compression_ratio": 1.5586
+    },
+    {
+      "text": "对吧啊",
+      "start": 228.02,
+      "end": 228.60000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1625,
+      "compression_ratio": 1.5586
+    },
+    {
+      "text": "80分也没考到100分",
+      "start": 228.60000000000002,
+      "end": 229.9,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1625,
+      "compression_ratio": 1.5586
+    },
+    {
+      "text": "也没考到93分啊",
+      "start": 229.9,
+      "end": 231.18,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1625,
+      "compression_ratio": 1.5586
+    },
+    {
+      "text": "差强人意吧",
+      "start": 231.18,
+      "end": 232.12,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1625,
+      "compression_ratio": 1.5586
+    },
+    {
+      "text": "凡尔赛一下",
+      "start": 232.12,
+      "end": 232.94,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1625,
+      "compression_ratio": 1.5586
+    },
+    {
+      "text": "对吧",
+      "start": 232.94,
+      "end": 233.64000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1625,
+      "compression_ratio": 1.5586
+    },
+    {
+      "text": "大体让人满意啊",
+      "start": 233.64000000000001,
+      "end": 235.16,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1625,
+      "compression_ratio": 1.5586
+    },
+    {
+      "text": "是包意的还行",
+      "start": 235.16,
+      "end": 236.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1957,
+      "compression_ratio": 1.4435
+    },
+    {
+      "text": "来第三个",
+      "start": 236.5,
+      "end": 237.82,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1957,
+      "compression_ratio": 1.4435
+    },
+    {
+      "text": "无可非意啥意思来着",
+      "start": 237.82,
+      "end": 239.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1957,
+      "compression_ratio": 1.4435
+    },
+    {
+      "text": "完全正确",
+      "start": 239.88,
+      "end": 241.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1957,
+      "compression_ratio": 1.4435
+    },
+    {
+      "text": "对吧啊",
+      "start": 241.72,
+      "end": 242.42,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1957,
+      "compression_ratio": 1.4435
+    },
+    {
+      "text": "很棒完全正确",
+      "start": 242.42,
+      "end": 243.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1957,
+      "compression_ratio": 1.4435
+    },
+    {
+      "text": "完全合理",
+      "start": 243.84,
+      "end": 244.94,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1957,
+      "compression_ratio": 1.4435
+    },
+    {
+      "text": "来无可厚非",
+      "start": 244.94,
+      "end": 247.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1957,
+      "compression_ratio": 1.4435
+    },
+    {
+      "text": "不可厚厚的谴责",
+      "start": 247.0,
+      "end": 248.92,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1957,
+      "compression_ratio": 1.4435
+    },
+    {
+      "text": "啥意思来着",
+      "start": 248.92,
+      "end": 249.74,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1957,
+      "compression_ratio": 1.4435
+    },
+    {
+      "text": "是不是说啊",
+      "start": 249.74,
+      "end": 251.34,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1957,
+      "compression_ratio": 1.4435
+    },
+    {
+      "text": "有小问题",
+      "start": 251.34,
+      "end": 252.16,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1957,
+      "compression_ratio": 1.4435
+    },
+    {
+      "text": "有小缺点",
+      "start": 252.16,
+      "end": 253.2,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1957,
+      "compression_ratio": 1.4435
+    },
+    {
+      "text": "但是可以原谅",
+      "start": 253.2,
+      "end": 254.35999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1957,
+      "compression_ratio": 1.4435
+    },
+    {
+      "text": "一般怎么用的",
+      "start": 254.35999999999999,
+      "end": 255.38,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1957,
+      "compression_ratio": 1.4435
+    },
+    {
+      "text": "一般是不是用于转折关系啊",
+      "start": 255.38,
+      "end": 258.98,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1957,
+      "compression_ratio": 1.4435
+    },
+    {
+      "text": "但啊",
+      "start": 258.98,
+      "end": 260.15999999999997,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1957,
+      "compression_ratio": 1.4435
+    },
+    {
+      "text": "去啊啊",
+      "start": 260.15999999999997,
+      "end": 261.54,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1957,
+      "compression_ratio": 1.4435
+    },
+    {
+      "text": "这样一些啊",
+      "start": 261.54,
+      "end": 262.62,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1957,
+      "compression_ratio": 1.4435
+    },
+    {
+      "text": "语句当中",
+      "start": 262.62,
+      "end": 263.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1957,
+      "compression_ratio": 1.4435
+    },
+    {
+      "text": "对吧啊",
+      "start": 263.32,
+      "end": 264.36,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1957,
+      "compression_ratio": 1.4435
+    },
+    {
+      "text": "所以要注意一下啊",
+      "start": 264.36,
+      "end": 265.04,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1957,
+      "compression_ratio": 1.4435
+    },
+    {
+      "text": "很好来无庸会言啊",
+      "start": 265.04,
+      "end": 267.02000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1404,
+      "compression_ratio": 1.5502
+    },
+    {
+      "text": "这个是无庸会言",
+      "start": 267.02000000000004,
+      "end": 268.48,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1404,
+      "compression_ratio": 1.5502
+    },
+    {
+      "text": "啥意思来着啊",
+      "start": 268.48,
+      "end": 269.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1404,
+      "compression_ratio": 1.5502
+    },
+    {
+      "text": "不用忌讳啊",
+      "start": 269.88,
+      "end": 271.14000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1404,
+      "compression_ratio": 1.5502
+    },
+    {
+      "text": "咱这个放心大胆的说",
+      "start": 271.14000000000004,
+      "end": 272.68,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1404,
+      "compression_ratio": 1.5502
+    },
+    {
+      "text": "你大方的说",
+      "start": 272.68,
+      "end": 273.74,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1404,
+      "compression_ratio": 1.5502
+    },
+    {
+      "text": "对吧",
+      "start": 273.74,
+      "end": 274.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1404,
+      "compression_ratio": 1.5502
+    },
+    {
+      "text": "无庸会言",
+      "start": 274.72,
+      "end": 275.72,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1404,
+      "compression_ratio": 1.5502
+    },
+    {
+      "text": "来监口不言啥意思啊",
+      "start": 275.72,
+      "end": 277.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1404,
+      "compression_ratio": 1.5502
+    },
+    {
+      "text": "监啊",
+      "start": 277.88,
+      "end": 278.58000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1404,
+      "compression_ratio": 1.5502
+    },
+    {
+      "text": "是啥意思来着",
+      "start": 278.58000000000004,
+      "end": 279.28000000000003,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1404,
+      "compression_ratio": 1.5502
+    },
+    {
+      "text": "是不是风啊",
+      "start": 279.28000000000003,
+      "end": 281.14000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1404,
+      "compression_ratio": 1.5502
+    },
+    {
+      "text": "把嘴巴逼起来啊",
+      "start": 281.14000000000004,
+      "end": 282.1,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1404,
+      "compression_ratio": 1.5502
+    },
+    {
+      "text": "不说话啊",
+      "start": 282.1,
+      "end": 283.42,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1404,
+      "compression_ratio": 1.5502
+    },
+    {
+      "text": "对吧",
+      "start": 283.42,
+      "end": 283.68,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1404,
+      "compression_ratio": 1.5502
+    },
+    {
+      "text": "所以这样一些词",
+      "start": 283.68,
+      "end": 284.48,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1404,
+      "compression_ratio": 1.5502
+    },
+    {
+      "text": "你看哎",
+      "start": 284.48,
+      "end": 284.98,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1404,
+      "compression_ratio": 1.5502
+    },
+    {
+      "text": "是不是快速就掌握了",
+      "start": 284.98,
+      "end": 286.24,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1404,
+      "compression_ratio": 1.5502
+    },
+    {
+      "text": "对吧",
+      "start": 286.24,
+      "end": 286.90000000000003,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1404,
+      "compression_ratio": 1.5502
+    },
+    {
+      "text": "这是我们前六个词",
+      "start": 286.90000000000003,
+      "end": 289.3,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1404,
+      "compression_ratio": 1.5502
+    },
+    {
+      "text": "来那前六个词",
+      "start": 289.3,
+      "end": 290.90000000000003,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1404,
+      "compression_ratio": 1.5502
+    },
+    {
+      "text": "我来再检测一下",
+      "start": 290.90000000000003,
+      "end": 292.42,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1404,
+      "compression_ratio": 1.5502
+    },
+    {
+      "text": "看看各位局长",
+      "start": 292.42,
+      "end": 293.14000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1404,
+      "compression_ratio": 1.5502
+    },
+    {
+      "text": "掌握的咋要",
+      "start": 293.14000000000004,
+      "end": 293.8,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1404,
+      "compression_ratio": 1.5502
+    },
+    {
+      "text": "来快问快答",
+      "start": 293.8,
+      "end": 294.74,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1404,
+      "compression_ratio": 1.5502
+    },
+    {
+      "text": "第一个前景值得做选哪个",
+      "start": 294.74,
+      "end": 297.02,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2617,
+      "compression_ratio": 1.3256
+    },
+    {
+      "text": "前景值得做选哪个",
+      "start": 297.02,
+      "end": 300.14,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2617,
+      "compression_ratio": 1.3256
+    }
+  ],
+  "repairs": [],
+  "index": 6,
+  "start": 1800.0,
+  "duration": 300,
+  "elapsed": 33.9,
+  "ok": true,
+  "initial_prompt": "四海公考，公务员考试，言语理解与表达，逻辑填空，高频实词，成语辨析，语义侧重，感情色彩，搭配对象，适用语境，易混词，例句。简体中文。课件词条：乏善可陈，外强中干，名副其实，当之无愧，色厉内荏，敬而远之，难能可贵。"
+}

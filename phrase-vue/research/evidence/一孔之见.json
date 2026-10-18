@@ -1,0 +1,82 @@
+{
+    "word": "一孔之见",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%80%E5%AD%94%E4%B9%8B%E8%A7%81",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "123ce13df5bc28707457d2947faea69617c3e3c4edc940415a059e41658807c5",
+        "bytes": 27299
+    },
+    "parsed": {
+        "found": true,
+        "word": "一孔之见",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yī",
+                "kǒng",
+                "zhī",
+                "jiàn"
+            ],
+            "zhuyin": [
+                "ㄧ",
+                "ㄎㄨㄥˇ",
+                "ㄓ",
+                "ㄐㄧㄢˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻狭隘片面的见解。",
+                "citations": [
+                    {
+                        "text": "通一孔，晓一理，而不知权衡。",
+                        "source": "汉·桓宽《盐铁论·相刺》"
+                    },
+                    {
+                        "text": "谓晓一孔之人，不知今王之新政可从。",
+                        "source": "汉·郑玄《礼记·中庸》注"
+                    }
+                ]
+            },
+            {
+                "definition": "指见识浅薄、观点片面。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "通一孔，晓一理，而不知权衡。",
+                "source": "汉·桓宽《盐铁论·相刺》"
+            },
+            {
+                "text": "谓晓一孔之人，不知今王之新政可从。",
+                "source": "汉·郑玄《礼记·中庸》注"
+            }
+        ],
+        "synonyms": [
+            "一得之见",
+            "坐井观天",
+            "管见所及",
+            "一得之愚"
+        ],
+        "antonyms": [
+            "高瞻远瞩"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "limited view"
+    },
+    "blocks": {
+        "reading": "yī kǒng zhī jiàn",
+        "sense-1": "比喻狭隘片面的见解。",
+        "sense-2": "指见识浅薄、观点片面。",
+        "citation-1": "通一孔，晓一理，而不知权衡。 — 汉·桓宽《盐铁论·相刺》",
+        "citation-2": "谓晓一孔之人，不知今王之新政可从。 — 汉·郑玄《礼记·中庸》注",
+        "synonyms": "一得之见、坐井观天、管见所及、一得之愚",
+        "antonyms": "高瞻远瞩"
+    }
+}

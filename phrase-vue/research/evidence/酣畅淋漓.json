@@ -1,0 +1,66 @@
+{
+    "word": "酣畅淋漓",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%85%A3%E7%95%85%E6%B7%8B%E6%BC%93",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "2b63cfb939c48bbf476a6f8a87c857aa9e2e1bb2d388e8afde012ab095feebed",
+        "bytes": 25837
+    },
+    "parsed": {
+        "found": true,
+        "word": "酣畅淋漓",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "hān",
+                "chàng",
+                "lín",
+                "lí"
+            ],
+            "zhuyin": [
+                "ㄏㄢ",
+                "ㄔㄤˋ",
+                "ㄌㄧㄣˊ",
+                "ㄌㄧˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容文章或言论表达得极为畅快透彻。",
+                "citations": [
+                    {
+                        "text": "惟有以含蓄蕴酿存其忠厚，以酣畅淋漓阐其隐微，则庶几近矣。",
+                        "source": "清·欧阳巨源《官场现形记序》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "惟有以含蓄蕴酿存其忠厚，以酣畅淋漓阐其隐微，则庶几近矣。",
+                "source": "清·欧阳巨源《官场现形记序》"
+            }
+        ],
+        "synonyms": [
+            "淋漓尽致"
+        ],
+        "antonyms": [
+            "扦格不通",
+            "诘屈聱牙"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "heartily;with ease and verve"
+    },
+    "blocks": {
+        "reading": "hān chàng lín lí",
+        "sense-1": "形容文章或言论表达得极为畅快透彻。",
+        "citation-1": "惟有以含蓄蕴酿存其忠厚，以酣畅淋漓阐其隐微，则庶几近矣。 — 清·欧阳巨源《官场现形记序》",
+        "synonyms": "淋漓尽致",
+        "antonyms": "扦格不通、诘屈聱牙"
+    }
+}

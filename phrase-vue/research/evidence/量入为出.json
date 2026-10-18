@@ -1,0 +1,67 @@
+{
+    "word": "量入为出",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%87%8F%E5%85%A5%E4%B8%BA%E5%87%BA",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "8995d4eae2235aa5b606cb5d2bf82faa4de262b6acfef96da40278d9ed18d059",
+        "bytes": 26904
+    },
+    "parsed": {
+        "found": true,
+        "word": "量入为出",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "liàng",
+                "rù",
+                "wéi",
+                "chū"
+            ],
+            "zhuyin": [
+                "ㄌㄧㄤˋ",
+                "ㄖㄨˋ",
+                "ㄨㄟˊ",
+                "ㄔㄨ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "根据收入情况来安排支出。",
+                "citations": [
+                    {
+                        "text": "冢宰制国用，必于岁之杪，五谷皆入，然后制国用……量入以为出。",
+                        "source": "《礼记·王制》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "冢宰制国用，必于岁之杪，五谷皆入，然后制国用……量入以为出。",
+                "source": "《礼记·王制》"
+            }
+        ],
+        "synonyms": [
+            "量入制出",
+            "精打细算",
+            "量入为用"
+        ],
+        "antonyms": [
+            "入不敷出"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "base expenditures upon income"
+    },
+    "blocks": {
+        "reading": "liàng rù wéi chū",
+        "sense-1": "根据收入情况来安排支出。",
+        "citation-1": "冢宰制国用，必于岁之杪，五谷皆入，然后制国用……量入以为出。 — 《礼记·王制》",
+        "synonyms": "量入制出、精打细算、量入为用",
+        "antonyms": "入不敷出"
+    }
+}

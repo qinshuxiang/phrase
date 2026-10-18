@@ -1,0 +1,73 @@
+{
+    "word": "雾里看花",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%9B%BE%E9%87%8C%E7%9C%8B%E8%8A%B1",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "e5a6f085b59186b404cb08476d2d78ea66639293ae981f9712604325f2522604",
+        "bytes": 27487
+    },
+    "parsed": {
+        "found": true,
+        "word": "雾里看花",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "wù",
+                "lǐ",
+                "kàn",
+                "huā"
+            ],
+            "zhuyin": [
+                "ㄨˋ",
+                "ㄌㄧˇ",
+                "ㄎㄢˋ",
+                "ㄏㄨㄚ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容视线模糊，看不清楚事物。",
+                "citations": [
+                    {
+                        "text": "雾里看花喜未昏，竹园啼鸟爱频言。",
+                        "source": "宋·赵蕃《早到超果寺》"
+                    },
+                    {
+                        "text": "虽格韵高绝，然如雾里看花，终隔一层。",
+                        "source": "王国维《人间词话》"
+                    }
+                ]
+            },
+            {
+                "definition": "比喻对事物的认识不够清晰透彻。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "雾里看花喜未昏，竹园啼鸟爱频言。",
+                "source": "宋·赵蕃《早到超果寺》"
+            },
+            {
+                "text": "虽格韵高绝，然如雾里看花，终隔一层。",
+                "source": "王国维《人间词话》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "view flowers in the fog"
+    },
+    "blocks": {
+        "reading": "wù lǐ kàn huā",
+        "sense-1": "形容视线模糊，看不清楚事物。",
+        "sense-2": "比喻对事物的认识不够清晰透彻。",
+        "citation-1": "雾里看花喜未昏，竹园啼鸟爱频言。 — 宋·赵蕃《早到超果寺》",
+        "citation-2": "虽格韵高绝，然如雾里看花，终隔一层。 — 王国维《人间词话》"
+    }
+}

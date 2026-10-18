@@ -1,0 +1,67 @@
+{
+    "word": "浩如烟海",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%B5%A9%E5%A6%82%E7%83%9F%E6%B5%B7",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "42a3407d49ec3711f38acf719522cf719a7b4e9c1b495fca6af40c8a8cbc9512",
+        "bytes": 26648
+    },
+    "parsed": {
+        "found": true,
+        "word": "浩如烟海",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "hào",
+                "rú",
+                "yān",
+                "hǎi"
+            ],
+            "zhuyin": [
+                "ㄏㄠˋ",
+                "ㄖㄨˊ",
+                "ㄧㄢ",
+                "ㄏㄞˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容书籍、文献数量极多，如同浩瀚的烟海。",
+                "citations": [
+                    {
+                        "text": "遍阅旧史，旁采小说，简牍盈积，浩如烟海。",
+                        "source": "宋·司马光《进资治通鉴表》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "遍阅旧史，旁采小说，简牍盈积，浩如烟海。",
+                "source": "宋·司马光《进资治通鉴表》"
+            }
+        ],
+        "synonyms": [
+            "不计其数",
+            "汗牛充栋",
+            "不可胜数"
+        ],
+        "antonyms": [
+            "寥若晨星"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "vast as the open sea"
+    },
+    "blocks": {
+        "reading": "hào rú yān hǎi",
+        "sense-1": "形容书籍、文献数量极多，如同浩瀚的烟海。",
+        "citation-1": "遍阅旧史，旁采小说，简牍盈积，浩如烟海。 — 宋·司马光《进资治通鉴表》",
+        "synonyms": "不计其数、汗牛充栋、不可胜数",
+        "antonyms": "寥若晨星"
+    }
+}

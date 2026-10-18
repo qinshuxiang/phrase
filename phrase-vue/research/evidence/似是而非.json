@@ -1,0 +1,68 @@
+{
+    "word": "似是而非",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%BC%BC%E6%98%AF%E8%80%8C%E9%9D%9E",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "a29c9b20dfb448dbf6e45ea4d418c2c4b66c395e9a1f52d812373c4ee9f9049f",
+        "bytes": 28311
+    },
+    "parsed": {
+        "found": true,
+        "word": "似是而非",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "sì",
+                "shì",
+                "ér",
+                "fēi"
+            ],
+            "zhuyin": [
+                "ㄙˋ",
+                "ㄕˋ",
+                "ㄦˊ",
+                "ㄈㄟ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "表面看来似乎对,而实际上并非如此的",
+                "citations": [
+                    {
+                        "text": "世多似是而非,虚伪类真。",
+                        "source": "汉·王充《论衡·死伪》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "世多似是而非,虚伪类真。",
+                "source": "汉·王充《论衡·死伪》"
+            }
+        ],
+        "synonyms": [
+            "以假乱真",
+            "张冠李戴",
+            "貌同实异"
+        ],
+        "antonyms": [
+            "天经地义",
+            "不刊之论"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "specious;be apparently true but really wrong"
+    },
+    "blocks": {
+        "reading": "sì shì ér fēi",
+        "sense-1": "表面看来似乎对,而实际上并非如此的",
+        "citation-1": "世多似是而非,虚伪类真。 — 汉·王充《论衡·死伪》",
+        "synonyms": "以假乱真、张冠李戴、貌同实异",
+        "antonyms": "天经地义、不刊之论"
+    }
+}

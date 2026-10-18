@@ -1,0 +1,59 @@
+{
+    "word": "形单影只",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%BD%A2%E5%8D%95%E5%BD%B1%E5%8F%AA",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "6fa512c57e6abdec3f97d396e45e0dff87670ae4d026e10bc9d5dda5cf1a6113",
+        "bytes": 27350
+    },
+    "parsed": {
+        "found": true,
+        "word": "形单影只",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "xíng",
+                "dān",
+                "yǐng",
+                "zhī"
+            ],
+            "zhuyin": [
+                "ㄒㄧㄥˊ",
+                "ㄉㄢ",
+                "ㄧㄥˇ",
+                "ㄓ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容孤独无伴的样子。",
+                "citations": [
+                    {
+                        "text": "吾上有三兄，皆不幸早世，承先人後者，在孙惟汝，在子惟吾，两世一身，形单影只。",
+                        "source": "唐·韩愈《祭十二郎文》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "吾上有三兄，皆不幸早世，承先人後者，在孙惟汝，在子惟吾，两世一身，形单影只。",
+                "source": "唐·韩愈《祭十二郎文》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "lonely"
+    },
+    "blocks": {
+        "reading": "xíng dān yǐng zhī",
+        "sense-1": "形容孤独无伴的样子。",
+        "citation-1": "吾上有三兄，皆不幸早世，承先人後者，在孙惟汝，在子惟吾，两世一身，形单影只。 — 唐·韩愈《祭十二郎文》"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "word": "推心置腹",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%8E%A8%E5%BF%83%E7%BD%AE%E8%85%B9",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "375202dc80a966016b17cb157f72673909f63884251e71ad78da1c044493c480",
+        "bytes": 29410
+    },
+    "parsed": {
+        "found": true,
+        "word": "推心置腹",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "tuī",
+                "xīn",
+                "zhì",
+                "fù"
+            ],
+            "zhuyin": [
+                "ㄊㄨㄟ",
+                "ㄒㄧㄣ",
+                "ㄓˋ",
+                "ㄈㄨˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "推己赤心,置于他人之腹,比喻以至诚待人",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "赤诚待人",
+            "披肝沥胆",
+            "推诚相见",
+            "肝胆相照",
+            "开诚布公",
+            "委以心腹"
+        ],
+        "antonyms": [
+            "居心叵测",
+            "钩心斗角",
+            "尔虞我诈",
+            "疑鬼疑神"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "treat others with utmost sincerity;confide in sb.;show the greatest confidence;repose full confidence in sb."
+    },
+    "blocks": {
+        "reading": "tuī xīn zhì fù",
+        "sense-1": "推己赤心,置于他人之腹,比喻以至诚待人",
+        "synonyms": "赤诚待人、披肝沥胆、推诚相见、肝胆相照、开诚布公、委以心腹",
+        "antonyms": "居心叵测、钩心斗角、尔虞我诈、疑鬼疑神"
+    }
+}

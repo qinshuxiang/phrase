@@ -1,0 +1,55 @@
+{
+    "word": "移花接木",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%A7%BB%E8%8A%B1%E6%8E%A5%E6%9C%A8",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "8afc9abfc0ddbd42857b7e4f5155bc59353251de574fb616dbaedf07a2e21059",
+        "bytes": 27928
+    },
+    "parsed": {
+        "found": true,
+        "word": "移花接木",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yí",
+                "huā",
+                "jiē",
+                "mù"
+            ],
+            "zhuyin": [
+                "ㄧˊ",
+                "ㄏㄨㄚ",
+                "ㄐㄧㄝ",
+                "ㄇㄨˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "把花木的枝条嫁接到另一种花木上。比喻施展手段,暗中更换人或事物",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "移天换日",
+            "移宫换羽",
+            "批红判白",
+            "偷天换日",
+            "偷梁换柱"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "graft;stealthily substitude one thing for another"
+    },
+    "blocks": {
+        "reading": "yí huā jiē mù",
+        "sense-1": "把花木的枝条嫁接到另一种花木上。比喻施展手段,暗中更换人或事物",
+        "synonyms": "移天换日、移宫换羽、批红判白、偷天换日、偷梁换柱"
+    }
+}

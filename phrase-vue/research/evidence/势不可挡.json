@@ -1,0 +1,43 @@
+{
+    "word": "势不可挡",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%8A%BF%E4%B8%8D%E5%8F%AF%E6%8C%A1",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "355aa17ead7380eb0e00dcc025fcecba1e7d4de707665325125120672d2545de",
+        "bytes": 20662
+    },
+    "parsed": {
+        "found": true,
+        "word": "势不可挡",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shì",
+                "bú",
+                "kě",
+                "dǎng"
+            ],
+            "zhuyin": []
+        },
+        "senses": [
+            {
+                "definition": "见“ 势不可当",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "irresistible"
+    },
+    "blocks": {
+        "reading": "shì bú kě dǎng",
+        "sense-1": "见“ 势不可当"
+    }
+}

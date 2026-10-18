@@ -1,0 +1,70 @@
+{
+    "word": "国泰民安",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%9B%BD%E6%B3%B0%E6%B0%91%E5%AE%89",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "7e2b998cba3d200a6854fb91bcafa54499dd7dc582c97ca8503a591999b671da",
+        "bytes": 27540
+    },
+    "parsed": {
+        "found": true,
+        "word": "国泰民安",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "guó",
+                "tài",
+                "mín",
+                "ān"
+            ],
+            "zhuyin": [
+                "ㄍㄨㄛˊ",
+                "ㄊㄞˋ",
+                "ㄇㄧㄣˊ",
+                "ㄢ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "国家太平，人民安乐。",
+                "citations": [
+                    {
+                        "text": "每岁海潮大溢，冲激州城，春秋醮祭，诏命学士院撰青词以祈国泰民安。",
+                        "source": "宋·吴自牧《梦粱录·山川神》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "每岁海潮大溢，冲激州城，春秋醮祭，诏命学士院撰青词以祈国泰民安。",
+                "source": "宋·吴自牧《梦粱录·山川神》"
+            }
+        ],
+        "synonyms": [
+            "天下太平",
+            "歌舞升平",
+            "河清海晏"
+        ],
+        "antonyms": [
+            "兵荒马乱",
+            "国弱民穷",
+            "国破家亡",
+            "民不聊生"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "peace and prosperity"
+    },
+    "blocks": {
+        "reading": "guó tài mín ān",
+        "sense-1": "国家太平，人民安乐。",
+        "citation-1": "每岁海潮大溢，冲激州城，春秋醮祭，诏命学士院撰青词以祈国泰民安。 — 宋·吴自牧《梦粱录·山川神》",
+        "synonyms": "天下太平、歌舞升平、河清海晏",
+        "antonyms": "兵荒马乱、国弱民穷、国破家亡、民不聊生"
+    }
+}

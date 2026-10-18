@@ -1,0 +1,80 @@
+{
+    "word": "奇货可居",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A5%87%E8%B4%A7%E5%8F%AF%E5%B1%85",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "f9425d2e31856984b89c9e01c0d4f0a27a720f881bffb8dcb71658e501f10ba6",
+        "bytes": 27954
+    },
+    "parsed": {
+        "found": true,
+        "word": "奇货可居",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "qí",
+                "huò",
+                "kě",
+                "jū"
+            ],
+            "zhuyin": [
+                "ㄑㄧˊ",
+                "ㄏㄨㄛˋ",
+                "ㄎㄜˇ",
+                "ㄐㄩ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "商人囤积稀有货物，待价而沽。",
+                "citations": [
+                    {
+                        "text": "吕不韦贾邯郸，见而怜之，曰『此奇货可居』。",
+                        "source": "《史记·吕不韦列传》"
+                    },
+                    {
+                        "text": "天生这碗衣饭，送来与我，正是奇货可居。",
+                        "source": "《醒世恒言·卖油郎独占花魁》"
+                    }
+                ]
+            },
+            {
+                "definition": "凭借独特才能谋取利益。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "吕不韦贾邯郸，见而怜之，曰『此奇货可居』。",
+                "source": "《史记·吕不韦列传》"
+            },
+            {
+                "text": "天生这碗衣饭，送来与我，正是奇货可居。",
+                "source": "《醒世恒言·卖油郎独占花魁》"
+            }
+        ],
+        "synonyms": [
+            "待价而沽",
+            "囤积居奇"
+        ],
+        "antonyms": [
+            "宝货难售"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "rare commodity"
+    },
+    "blocks": {
+        "reading": "qí huò kě jū",
+        "sense-1": "商人囤积稀有货物，待价而沽。",
+        "sense-2": "凭借独特才能谋取利益。",
+        "citation-1": "吕不韦贾邯郸，见而怜之，曰『此奇货可居』。 — 《史记·吕不韦列传》",
+        "citation-2": "天生这碗衣饭，送来与我，正是奇货可居。 — 《醒世恒言·卖油郎独占花魁》",
+        "synonyms": "待价而沽、囤积居奇",
+        "antonyms": "宝货难售"
+    }
+}

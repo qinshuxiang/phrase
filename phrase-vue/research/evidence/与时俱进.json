@@ -1,0 +1,48 @@
+{
+    "word": "与时俱进",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%8E%E6%97%B6%E4%BF%B1%E8%BF%9B",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "c3f903ca77805fe3e8452dcf2878ec7c01b54883e2066c9733361674f1e17bdc",
+        "bytes": 24847
+    },
+    "parsed": {
+        "found": true,
+        "word": "与时俱进",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yǔ",
+                "shí",
+                "jù",
+                "jìn"
+            ],
+            "zhuyin": [
+                "ㄩˇ",
+                "ㄕˊ",
+                "ㄐㄩˋ",
+                "ㄐㄧㄣˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "随着时代的发展而不断前进。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "keep pace with the times"
+    },
+    "blocks": {
+        "reading": "yǔ shí jù jìn",
+        "sense-1": "随着时代的发展而不断前进。"
+    }
+}

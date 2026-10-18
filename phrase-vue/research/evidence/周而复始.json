@@ -1,0 +1,52 @@
+{
+    "word": "周而复始",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%91%A8%E8%80%8C%E5%A4%8D%E5%A7%8B",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "03235ca389138e79629d7ec688c5c7da521522d6996d2b3da25fcf95cdfcf2d3",
+        "bytes": 26632
+    },
+    "parsed": {
+        "found": true,
+        "word": "周而复始",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zhōu",
+                "ér",
+                "fù",
+                "shǐ"
+            ],
+            "zhuyin": [
+                "ㄓㄡ",
+                "ㄦˊ",
+                "ㄈㄨˋ",
+                "ㄕˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "一圈又一圈地轮转。形容不断循环。也作“终而复始”",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "循环往复",
+            "终而复始"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "move in cycles"
+    },
+    "blocks": {
+        "reading": "zhōu ér fù shǐ",
+        "sense-1": "一圈又一圈地轮转。形容不断循环。也作“终而复始”",
+        "synonyms": "循环往复、终而复始"
+    }
+}

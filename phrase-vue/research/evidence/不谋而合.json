@@ -1,0 +1,67 @@
+{
+    "word": "不谋而合",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%8D%E8%B0%8B%E8%80%8C%E5%90%88",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "31a47ea357802dc0d2d9797a6576801deaf6f3dfe60c36299d3836e1d456cda9",
+        "bytes": 26820
+    },
+    "parsed": {
+        "found": true,
+        "word": "不谋而合",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bù",
+                "móu",
+                "ér",
+                "hé"
+            ],
+            "zhuyin": [
+                "ㄅㄨˋ",
+                "ㄇㄡˊ",
+                "ㄦˊ",
+                "ㄏㄜˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "未经商议却意见相同。",
+                "citations": [
+                    {
+                        "text": "二人之言，不谋而合。",
+                        "source": "晋·干宝《搜神记》卷二"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "二人之言，不谋而合。",
+                "source": "晋·干宝《搜神记》卷二"
+            }
+        ],
+        "synonyms": [
+            "不约而同"
+        ],
+        "antonyms": [
+            "众说纷纭",
+            "言人人殊",
+            "见仁见智"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "coincide without consultation"
+    },
+    "blocks": {
+        "reading": "bù móu ér hé",
+        "sense-1": "未经商议却意见相同。",
+        "citation-1": "二人之言，不谋而合。 — 晋·干宝《搜神记》卷二",
+        "synonyms": "不约而同",
+        "antonyms": "众说纷纭、言人人殊、见仁见智"
+    }
+}

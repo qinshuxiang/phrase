@@ -1,0 +1,80 @@
+{
+    "word": "比比皆是",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%AF%94%E6%AF%94%E7%9A%86%E6%98%AF",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "e47c4c5ae9923bdb3d5836de3a784ccf5b4e55f1abbd280d1297d64228418337",
+        "bytes": 29088
+    },
+    "parsed": {
+        "found": true,
+        "word": "比比皆是",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bǐ",
+                "bǐ",
+                "jiē",
+                "shì"
+            ],
+            "zhuyin": [
+                "ㄅㄧˇ",
+                "ㄅㄧˇ",
+                "ㄐㄧㄝ",
+                "ㄕˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比比:到处,处处。形容遍地都是",
+                "citations": [
+                    {
+                        "text": "清明灵秀之气所秉者,上自朝廷,下至草野,比比皆是。",
+                        "source": "《红楼梦》"
+                    },
+                    {
+                        "text": "朝为师生而暮若途人者,比比皆是。",
+                        "source": "明·陶宗仪《辍耕录》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "清明灵秀之气所秉者,上自朝廷,下至草野,比比皆是。",
+                "source": "《红楼梦》"
+            },
+            {
+                "text": "朝为师生而暮若途人者,比比皆是。",
+                "source": "明·陶宗仪《辍耕录》"
+            }
+        ],
+        "synonyms": [
+            "俯拾即是",
+            "比比皆然",
+            "举目皆是",
+            "触目皆是"
+        ],
+        "antonyms": [
+            "寥寥无几",
+            "屈指可数",
+            "寥若晨星",
+            "凤毛麟角"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "ubiquitous;can be found everywhere"
+    },
+    "blocks": {
+        "reading": "bǐ bǐ jiē shì",
+        "sense-1": "比比:到处,处处。形容遍地都是",
+        "citation-1": "清明灵秀之气所秉者,上自朝廷,下至草野,比比皆是。 — 《红楼梦》",
+        "citation-2": "朝为师生而暮若途人者,比比皆是。 — 明·陶宗仪《辍耕录》",
+        "synonyms": "俯拾即是、比比皆然、举目皆是、触目皆是",
+        "antonyms": "寥寥无几、屈指可数、寥若晨星、凤毛麟角"
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "word": "一日千里",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%80%E6%97%A5%E5%8D%83%E9%87%8C",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "92a2bae82329585cd7e7c35b6e2cc665c9b3c675e6079b13f179315d0246b733",
+        "bytes": 29697
+    },
+    "parsed": {
+        "found": true,
+        "word": "一日千里",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yī",
+                "rì",
+                "qiān",
+                "lǐ"
+            ],
+            "zhuyin": [
+                "ㄧ",
+                "ㄖㄧˋ",
+                "ㄑㄧㄢ",
+                "ㄌㄧˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "一天前进一千里路程。比喻马跑得极快",
+                "citations": [
+                    {
+                        "text": "造父为穆王御,长驱归周,一日千里以救乱。",
+                        "source": "《史记·秦本纪》"
+                    }
+                ]
+            },
+            {
+                "definition": "比喻进展极快",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "造父为穆王御,长驱归周,一日千里以救乱。",
+                "source": "《史记·秦本纪》"
+            }
+        ],
+        "synonyms": [
+            "风驰电掣",
+            "逐日追风",
+            "突飞猛进",
+            "日新月异"
+        ],
+        "antonyms": [
+            "停滞不前",
+            "慢条斯理",
+            "老牛破车",
+            "江河日下"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "a thousand li a day"
+    },
+    "blocks": {
+        "reading": "yī rì qiān lǐ",
+        "sense-1": "一天前进一千里路程。比喻马跑得极快",
+        "sense-2": "比喻进展极快",
+        "citation-1": "造父为穆王御,长驱归周,一日千里以救乱。 — 《史记·秦本纪》",
+        "synonyms": "风驰电掣、逐日追风、突飞猛进、日新月异",
+        "antonyms": "停滞不前、慢条斯理、老牛破车、江河日下"
+    }
+}

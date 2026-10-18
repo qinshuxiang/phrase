@@ -1,0 +1,77 @@
+{
+    "word": "真知灼见",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%9C%9F%E7%9F%A5%E7%81%BC%E8%A7%81",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "1784c059595f7726a84f2c7f335f475bf43036da278e0bad2efc045052e54a2d",
+        "bytes": 27509
+    },
+    "parsed": {
+        "found": true,
+        "word": "真知灼见",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zhēn",
+                "zhī",
+                "zhuó",
+                "jiàn"
+            ],
+            "zhuyin": [
+                "ㄓㄣ",
+                "ㄓ",
+                "ㄓㄨㄛˊ",
+                "ㄐㄧㄢˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "正确而深刻的认识和高明的见解。",
+                "citations": [
+                    {
+                        "text": "多骑墙之见，依违之言，岂真知灼见者哉！",
+                        "source": "清·江藩《汉学师承记·顾炎武》"
+                    },
+                    {
+                        "text": "你今日之论，皆虚涉空谈，非真知灼见之实。",
+                        "source": "明·陆采《怀香记·鞠询香情》"
+                    }
+                ]
+            },
+            {
+                "definition": "真实确切的知识。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "多骑墙之见，依违之言，岂真知灼见者哉！",
+                "source": "清·江藩《汉学师承记·顾炎武》"
+            },
+            {
+                "text": "你今日之论，皆虚涉空谈，非真知灼见之实。",
+                "source": "明·陆采《怀香记·鞠询香情》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [
+            "一孔之见",
+            "一得之见"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "real knowledge and deep insight"
+    },
+    "blocks": {
+        "reading": "zhēn zhī zhuó jiàn",
+        "sense-1": "正确而深刻的认识和高明的见解。",
+        "sense-2": "真实确切的知识。",
+        "citation-1": "多骑墙之见，依违之言，岂真知灼见者哉！ — 清·江藩《汉学师承记·顾炎武》",
+        "citation-2": "你今日之论，皆虚涉空谈，非真知灼见之实。 — 明·陆采《怀香记·鞠询香情》",
+        "antonyms": "一孔之见、一得之见"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "word": "趋之若鹜",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%B6%8B%E4%B9%8B%E8%8B%A5%E9%B9%9C",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "2a84c62245fcf0761543c06a97a4d807fb9d35217c997f62ff5c356c7f52e8c5",
+        "bytes": 26738
+    },
+    "parsed": {
+        "found": true,
+        "word": "趋之若鹜",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "qū",
+                "zhī",
+                "ruò",
+                "wù"
+            ],
+            "zhuyin": [
+                "ㄑㄩ",
+                "ㄓ",
+                "ㄖㄨㄛˋ",
+                "ㄨˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "像野鸭般成群争相前往。比喻许多人争相追逐、依附某种事物。",
+                "citations": [
+                    {
+                        "text": "京外的官员，那个不趋之若鹜呢！",
+                        "source": "清·曾朴《孽海花》第二七回"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "京外的官员，那个不趋之若鹜呢！",
+                "source": "清·曾朴《孽海花》第二七回"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "scramble for something"
+    },
+    "blocks": {
+        "reading": "qū zhī ruò wù",
+        "sense-1": "像野鸭般成群争相前往。比喻许多人争相追逐、依附某种事物。",
+        "citation-1": "京外的官员，那个不趋之若鹜呢！ — 清·曾朴《孽海花》第二七回"
+    }
+}

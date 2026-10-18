@@ -1,0 +1,67 @@
+{
+    "word": "身临其境",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%BA%AB%E4%B8%B4%E5%85%B6%E5%A2%83",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "b10901d297f92801f633d384e5176559d95614a53739fc9a2678895e025f5819",
+        "bytes": 26631
+    },
+    "parsed": {
+        "found": true,
+        "word": "身临其境",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shēn",
+                "lín",
+                "qí",
+                "jìng"
+            ],
+            "zhuyin": [
+                "ㄕㄣ",
+                "ㄌㄧㄣˊ",
+                "ㄑㄧˊ",
+                "ㄐㄧㄥˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "亲自来到某个环境或场合。",
+                "citations": [
+                    {
+                        "text": "向非身历其境，恶能穷其边崖，指其归宿者哉？",
+                        "source": "明·袁宏道《入识略说序》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "向非身历其境，恶能穷其边崖，指其归宿者哉？",
+                "source": "明·袁宏道《入识略说序》"
+            }
+        ],
+        "synonyms": [
+            "设身处地",
+            "推己及人"
+        ],
+        "antonyms": [
+            "隔靴搔痒",
+            "道听途说"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "be personally on the scene"
+    },
+    "blocks": {
+        "reading": "shēn lín qí jìng",
+        "sense-1": "亲自来到某个环境或场合。",
+        "citation-1": "向非身历其境，恶能穷其边崖，指其归宿者哉？ — 明·袁宏道《入识略说序》",
+        "synonyms": "设身处地、推己及人",
+        "antonyms": "隔靴搔痒、道听途说"
+    }
+}

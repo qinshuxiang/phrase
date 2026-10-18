@@ -1,0 +1,52 @@
+{
+    "word": "相映成趣",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%9B%B8%E6%98%A0%E6%88%90%E8%B6%A3",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "94052e6377d063bc3b0548dfab42ad1b451ea2cbc3203b577c43b63d0722cd06",
+        "bytes": 26408
+    },
+    "parsed": {
+        "found": true,
+        "word": "相映成趣",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "xiāng",
+                "yìng",
+                "chéng",
+                "qù"
+            ],
+            "zhuyin": [
+                "ㄒㄧㄤ",
+                "ㄧㄥˋ",
+                "ㄔㄥˊ",
+                "ㄑㄩˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "相互衬托而显得更有趣味。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "相映生辉",
+            "妙趣横生"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "contrast delightfully"
+    },
+    "blocks": {
+        "reading": "xiāng yìng chéng qù",
+        "sense-1": "相互衬托而显得更有趣味。",
+        "synonyms": "相映生辉、妙趣横生"
+    }
+}

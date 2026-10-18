@@ -1,0 +1,56 @@
+{
+    "word": "眼花缭乱",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%9C%BC%E8%8A%B1%E7%BC%AD%E4%B9%B1",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "e23b575f45f3efd43c97cacef3af626fc1e7392c97ad552732daebb3ddc5245c",
+        "bytes": 25849
+    },
+    "parsed": {
+        "found": true,
+        "word": "眼花缭乱",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yǎn",
+                "huā",
+                "liáo",
+                "luàn"
+            ],
+            "zhuyin": [
+                "ㄧㄢˇ",
+                "ㄏㄨㄚ",
+                "ㄌㄧㄠˊ",
+                "ㄌㄨㄢˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "眼睛因看到复杂纷繁的事物而感到迷乱。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "目不暇接",
+            "头昏眼花",
+            "扑朔迷离"
+        ],
+        "antonyms": [
+            "一目了然"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "dazzled"
+    },
+    "blocks": {
+        "reading": "yǎn huā liáo luàn",
+        "sense-1": "眼睛因看到复杂纷繁的事物而感到迷乱。",
+        "synonyms": "目不暇接、头昏眼花、扑朔迷离",
+        "antonyms": "一目了然"
+    }
+}

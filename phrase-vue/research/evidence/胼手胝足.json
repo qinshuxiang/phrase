@@ -1,0 +1,53 @@
+{
+    "word": "胼手胝足",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%83%BC%E6%89%8B%E8%83%9D%E8%B6%B3",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "9cd385f3294ade380fa6c107756170b58960a42d27b581c6509584cc3e267eb4",
+        "bytes": 27264
+    },
+    "parsed": {
+        "found": true,
+        "word": "胼手胝足",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "pián",
+                "shǒu",
+                "zhī",
+                "zú"
+            ],
+            "zhuyin": [
+                "ㄆㄧㄢˊ",
+                "ㄕㄡˇ",
+                "ㄓ",
+                "ㄗㄨˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "手脚磨起老茧,指辛勤劳动",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "摩顶放踵",
+            "胼胝手足",
+            "筚路蓝缕"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "hard working"
+    },
+    "blocks": {
+        "reading": "pián shǒu zhī zú",
+        "sense-1": "手脚磨起老茧,指辛勤劳动",
+        "synonyms": "摩顶放踵、胼胝手足、筚路蓝缕"
+    }
+}

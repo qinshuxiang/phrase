@@ -1,0 +1,83 @@
+{
+    "word": "峰回路转",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%B3%B0%E5%9B%9E%E8%B7%AF%E8%BD%AC",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "cf0df9d376b344819b26e8a5be0a87dd0580d389b4e347bacb7a648af2b48fee",
+        "bytes": 28466
+    },
+    "parsed": {
+        "found": true,
+        "word": "峰回路转",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "fēng",
+                "huí",
+                "lù",
+                "zhuǎn"
+            ],
+            "zhuyin": [
+                "ㄈㄥ",
+                "ㄏㄨㄟˊ",
+                "ㄌㄨˋ",
+                "ㄓㄨㄢˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容山路曲折环绕。",
+                "citations": [
+                    {
+                        "text": "峰回路转，有亭翼然临于泉上者，醉翁亭也。",
+                        "source": "宋·欧阳修《醉翁亭记》"
+                    },
+                    {
+                        "text": "峰迴路转，有亭翼然临于泉上者，醉翁亭也。",
+                        "source": "宋·欧阳修《醉翁亭记》"
+                    }
+                ]
+            },
+            {
+                "definition": "比喻事情出现转机或变化。",
+                "citations": []
+            },
+            {
+                "definition": "形容山路曲折环绕。",
+                "citations": []
+            },
+            {
+                "definition": "比喻事情出现转机或变化。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "峰回路转，有亭翼然临于泉上者，醉翁亭也。",
+                "source": "宋·欧阳修《醉翁亭记》"
+            },
+            {
+                "text": "峰迴路转，有亭翼然临于泉上者，醉翁亭也。",
+                "source": "宋·欧阳修《醉翁亭记》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "winding path"
+    },
+    "blocks": {
+        "reading": "fēng huí lù zhuǎn",
+        "sense-1": "形容山路曲折环绕。",
+        "sense-2": "比喻事情出现转机或变化。",
+        "sense-3": "形容山路曲折环绕。",
+        "sense-4": "比喻事情出现转机或变化。",
+        "citation-1": "峰回路转，有亭翼然临于泉上者，醉翁亭也。 — 宋·欧阳修《醉翁亭记》",
+        "citation-2": "峰迴路转，有亭翼然临于泉上者，醉翁亭也。 — 宋·欧阳修《醉翁亭记》"
+    }
+}

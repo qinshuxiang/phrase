@@ -1,0 +1,59 @@
+{
+    "word": "相得益彰",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%9B%B8%E5%BE%97%E7%9B%8A%E5%BD%B0",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "7e15e1a5eb025b0ed8a90fd9b2176bb1c792fa3c0d846078b07293acb7165ad1",
+        "bytes": 27433
+    },
+    "parsed": {
+        "found": true,
+        "word": "相得益彰",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "xiāng",
+                "dé",
+                "yì",
+                "zhāng"
+            ],
+            "zhuyin": [
+                "ㄒㄧㄤ",
+                "ㄉㄜˊ",
+                "ㄧˋ",
+                "ㄓㄤ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "本作“相得益章”。互相配合和补充更能显出长处、发挥作用",
+                "citations": [
+                    {
+                        "text": "是编采择宏富,区别精审,真两贤相得益彰也。",
+                        "source": "清·孙士毅《事物异名录序》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "是编采择宏富,区别精审,真两贤相得益彰也。",
+                "source": "清·孙士毅《事物异名录序》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "each shining more brilliantly in the other's company"
+    },
+    "blocks": {
+        "reading": "xiāng dé yì zhāng",
+        "sense-1": "本作“相得益章”。互相配合和补充更能显出长处、发挥作用",
+        "citation-1": "是编采择宏富,区别精审,真两贤相得益彰也。 — 清·孙士毅《事物异名录序》"
+    }
+}

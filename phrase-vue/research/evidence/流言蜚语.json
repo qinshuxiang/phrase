@@ -1,0 +1,69 @@
+{
+    "word": "流言蜚语",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%B5%81%E8%A8%80%E8%9C%9A%E8%AF%AD",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "60dba23ca68e0a4876d922ad7c30f9259e296ee153dacc0c83e633afb4324893",
+        "bytes": 26844
+    },
+    "parsed": {
+        "found": true,
+        "word": "流言蜚语",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "liú",
+                "yán",
+                "fēi",
+                "yǔ"
+            ],
+            "zhuyin": [
+                "ㄌㄧㄨˊ",
+                "ㄧㄢˊ",
+                "ㄈㄟ",
+                "ㄩˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "没有根据的议论或诬蔑的话。",
+                "citations": [
+                    {
+                        "text": "臣子分流别户，入主出奴，爱憎由心，雌黄信口，流言蜚语，腾入禁庭。",
+                        "source": "《明史•马孟祯传》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "臣子分流别户，入主出奴，爱憎由心，雌黄信口，流言蜚语，腾入禁庭。",
+                "source": "《明史•马孟祯传》"
+            }
+        ],
+        "synonyms": [
+            "蜚短流长",
+            "风言风语",
+            "飞短流长",
+            "无稽之谈"
+        ],
+        "antonyms": [
+            "金玉良言",
+            "药石之言"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "rumor; gossip"
+    },
+    "blocks": {
+        "reading": "liú yán fēi yǔ",
+        "sense-1": "没有根据的议论或诬蔑的话。",
+        "citation-1": "臣子分流别户，入主出奴，爱憎由心，雌黄信口，流言蜚语，腾入禁庭。 — 《明史•马孟祯传》",
+        "synonyms": "蜚短流长、风言风语、飞短流长、无稽之谈",
+        "antonyms": "金玉良言、药石之言"
+    }
+}

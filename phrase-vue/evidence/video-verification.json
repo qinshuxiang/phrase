@@ -1,0 +1,112 @@
+{
+    "date": "2026-10-18",
+    "timezone": "Asia/Shanghai",
+    "unit_tests": {
+        "command": "npm test",
+        "passed": 12,
+        "failed": 0,
+        "evidence": "本次实际执行的Vitest输出，18:44:08 Asia/Shanghai；测试源码为src/lib/library.test.js"
+    },
+    "data_check": {
+        "passed": true,
+        "data_sha256": "0feae6ac96ade1702284b4698d180c7a002b871b4bcd9467ecd0108072aab855",
+        "files": 24,
+        "groups": 108,
+        "words": 899,
+        "teachers": 4,
+        "distinct_words": 859
+    },
+    "e2e": {
+        "startTime": "2026-10-18T10:45:20.359Z",
+        "duration": 22194.145,
+        "expected": 14,
+        "skipped": 0,
+        "unexpected": 0,
+        "flaky": 0
+    },
+    "correction_screenshot_recheck": {
+        "startTime": "2026-10-18T10:46:55.475Z",
+        "duration": 8594.897,
+        "expected": 2,
+        "skipped": 0,
+        "unexpected": 0,
+        "flaky": 0
+    },
+    "production_build": {
+        "command": "npm run build",
+        "passed": true,
+        "warning": "主包超过Vite默认500 kB建议值",
+        "assets": [
+            {
+                "file": "dist/assets/index-BV78I3Jd.js",
+                "bytes": 730710,
+                "gzip_bytes": 241015,
+                "sha256": "161624b4eea7bc4e37ff8fd6c210d6c914f46fef400d7a054ef32afef3fc49f3"
+            },
+            {
+                "file": "dist/assets/index-i_rh5p4j.css",
+                "bytes": 70657,
+                "gzip_bytes": 14386,
+                "sha256": "fb75df9a6d0e6c3e19c15b615d9dce2ce82f44140cf28517cc132dcac6b3b058"
+            },
+            {
+                "file": "dist/assets/jetbrains-mono-cyrillic-wght-normal-D73BlboJ.woff2",
+                "bytes": 12108,
+                "gzip_bytes": 12123,
+                "sha256": "d274604c40757f98f07df623a8b8fb5194508a6fa4f5413a7a107f09e3b7452a"
+            },
+            {
+                "file": "dist/assets/jetbrains-mono-greek-wght-normal-Bw9x6K1M.woff2",
+                "bytes": 9004,
+                "gzip_bytes": 9027,
+                "sha256": "ee863198077f3093ffa81c072581cc4bd608a04e60a8a9c0b846396ce4f14109"
+            },
+            {
+                "file": "dist/assets/jetbrains-mono-latin-ext-wght-normal-DBQx-q_a.woff2",
+                "bytes": 15196,
+                "gzip_bytes": 15219,
+                "sha256": "79bfdab9ba467e26eea4122e6f2567e188dd8a09a8c730d501fc487c4ab99c6e"
+            },
+            {
+                "file": "dist/assets/jetbrains-mono-latin-wght-normal-B9CIFXIH.woff2",
+                "bytes": 40404,
+                "gzip_bytes": 40437,
+                "sha256": "18be452724bfdc236c074ca94a249a7f41a86752c7d04ab258ce9ed5651f6a7e"
+            },
+            {
+                "file": "dist/assets/jetbrains-mono-vietnamese-wght-normal-Bt-aOZkq.woff2",
+                "bytes": 7504,
+                "gzip_bytes": 7527,
+                "sha256": "2288795da89dd97e648954b96e22b4501bd85dfc453264460b252f888b582ca2"
+            },
+            {
+                "file": "dist/index.html",
+                "bytes": 611,
+                "gzip_bytes": 398,
+                "sha256": "5f948a6a7035535a89a4398ab6a8a865f801727ee2f709968f669f99e4bb6ac2"
+            },
+            {
+                "file": "dist/licenses/JetBrainsMono-OFL.txt",
+                "bytes": 4524,
+                "gzip_bytes": 1981,
+                "sha256": "403581b69dac5cff4079205e01c6b467e56af449ecbd7247693ddb1baafa005b"
+            },
+            {
+                "file": "dist/licenses/shadcn-vue-MIT.txt",
+                "bytes": 1063,
+                "gzip_bytes": 643,
+                "sha256": "69f84f4ad77be299dbf42d03d7fd862ab3ab05546c6e573c6c7c875b0168a94d"
+            }
+        ]
+    },
+    "screenshots_inspected": [
+        "evidence/screenshots/video-correction-1440.png",
+        "evidence/screenshots/video-correction-390.png"
+    ],
+    "limits": [
+        "未逐句回听全部视频",
+        "未逐条联网查验384条",
+        "未执行真实手机设备或其他浏览器实机验证",
+        "同级既有ZIP未重新打包"
+    ]
+}

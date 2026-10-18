@@ -1,0 +1,59 @@
+{
+    "word": "闻过则喜",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%97%BB%E8%BF%87%E5%88%99%E5%96%9C",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "23365bbfd22f265650486afef02a2123938c8f6f11eb658f048c2adfebc8d937",
+        "bytes": 25830
+    },
+    "parsed": {
+        "found": true,
+        "word": "闻过则喜",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "wén",
+                "guò",
+                "zé",
+                "xǐ"
+            ],
+            "zhuyin": [
+                "ㄨㄣˊ",
+                "ㄍㄨㄛˋ",
+                "ㄗㄜˊ",
+                "ㄒㄧˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "听到别人指出自己的过错就感到高兴，形容乐于接受批评意见。",
+                "citations": [
+                    {
+                        "text": "伏遇陛下即位以来，日慎一日，闻过则喜，从谏如流。",
+                        "source": "宋·司马光《奏弹王安石表》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "伏遇陛下即位以来，日慎一日，闻过则喜，从谏如流。",
+                "source": "宋·司马光《奏弹王安石表》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "glad to have one's errors pointed out"
+    },
+    "blocks": {
+        "reading": "wén guò zé xǐ",
+        "sense-1": "听到别人指出自己的过错就感到高兴，形容乐于接受批评意见。",
+        "citation-1": "伏遇陛下即位以来，日慎一日，闻过则喜，从谏如流。 — 宋·司马光《奏弹王安石表》"
+    }
+}

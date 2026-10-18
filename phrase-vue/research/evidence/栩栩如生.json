@@ -1,0 +1,63 @@
+{
+    "word": "栩栩如生",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%A0%A9%E6%A0%A9%E5%A6%82%E7%94%9F",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "bed1276a024a84848a9c5c4bb1c8937c852e4b64236b8f92c1b4009e1bd923e5",
+        "bytes": 29322
+    },
+    "parsed": {
+        "found": true,
+        "word": "栩栩如生",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "xǔ",
+                "xǔ",
+                "rú",
+                "shēng"
+            ],
+            "zhuyin": [
+                "ㄒㄩˇ",
+                "ㄒㄩˇ",
+                "ㄖㄨˊ",
+                "ㄕㄥ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "好像活的一样。形容生动,逼真",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "呼之欲出",
+            "有血有肉",
+            "活灵活现",
+            "活龙活现",
+            "绘声绘色",
+            "维妙维肖",
+            "跃然纸上"
+        ],
+        "antonyms": [
+            "奄奄一息",
+            "半死不活",
+            "泥塑木刻",
+            "死气沉沉"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "lifelike;be true to life"
+    },
+    "blocks": {
+        "reading": "xǔ xǔ rú shēng",
+        "sense-1": "好像活的一样。形容生动,逼真",
+        "synonyms": "呼之欲出、有血有肉、活灵活现、活龙活现、绘声绘色、维妙维肖、跃然纸上",
+        "antonyms": "奄奄一息、半死不活、泥塑木刻、死气沉沉"
+    }
+}

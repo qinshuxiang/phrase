@@ -1,0 +1,87 @@
+{
+    "word": "盘根错节",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%9B%98%E6%A0%B9%E9%94%99%E8%8A%82",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "84137b76077de7851e1abc8704a3b6e3ea6c7c8cac9bc49b89b186838d9084db",
+        "bytes": 28634
+    },
+    "parsed": {
+        "found": true,
+        "word": "盘根错节",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "pán",
+                "gēn",
+                "cuò",
+                "jié"
+            ],
+            "zhuyin": [
+                "ㄆㄢˊ",
+                "ㄍㄣ",
+                "ㄘㄨㄛˋ",
+                "ㄐㄧㄝ",
+                "ˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "树根盘绕,木节交错",
+                "citations": [
+                    {
+                        "text": "今河南郡是陛下天山之坚木,盘根错节,乱栓其中。",
+                        "source": "《魏书·甄琛传》"
+                    },
+                    {
+                        "text": "不遇盘根错节,何以别利器乎?",
+                        "source": "《后汉书·虞诩传》"
+                    }
+                ]
+            },
+            {
+                "definition": "比喻事情繁难复杂,不易解决",
+                "citations": []
+            },
+            {
+                "definition": "比喻旧势力根深蒂固,不易清除",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "今河南郡是陛下天山之坚木,盘根错节,乱栓其中。",
+                "source": "《魏书·甄琛传》"
+            },
+            {
+                "text": "不遇盘根错节,何以别利器乎?",
+                "source": "《后汉书·虞诩传》"
+            }
+        ],
+        "synonyms": [
+            "错综复杂",
+            "根深蒂固",
+            "千头万绪"
+        ],
+        "antonyms": [
+            "简明扼要"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "with twisted roots and gnarled branches"
+    },
+    "blocks": {
+        "reading": "pán gēn cuò jié",
+        "sense-1": "树根盘绕,木节交错",
+        "sense-2": "比喻事情繁难复杂,不易解决",
+        "sense-3": "比喻旧势力根深蒂固,不易清除",
+        "citation-1": "今河南郡是陛下天山之坚木,盘根错节,乱栓其中。 — 《魏书·甄琛传》",
+        "citation-2": "不遇盘根错节,何以别利器乎? — 《后汉书·虞诩传》",
+        "synonyms": "错综复杂、根深蒂固、千头万绪",
+        "antonyms": "简明扼要"
+    }
+}

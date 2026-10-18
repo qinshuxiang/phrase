@@ -1,0 +1,63 @@
+{
+    "word": "化为乌有",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%8C%96%E4%B8%BA%E4%B9%8C%E6%9C%89",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "505f7cc91d83c04eceb1404e83d738330d712600eedbc5e179314ebf21cb413a",
+        "bytes": 27225
+    },
+    "parsed": {
+        "found": true,
+        "word": "化为乌有",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "huà",
+                "wéi",
+                "wū",
+                "yǒu"
+            ],
+            "zhuyin": [
+                "ㄏㄨㄚˋ",
+                "ㄨㄟˊ",
+                "ㄨ",
+                "ㄧㄡˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "全部消失或落空。",
+                "citations": [
+                    {
+                        "text": "想其朝中自然又有人去剿灭，天兵一到，化为乌有，不必深论。",
+                        "source": "《红楼梦》第七八回"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "想其朝中自然又有人去剿灭，天兵一到，化为乌有，不必深论。",
+                "source": "《红楼梦》第七八回"
+            }
+        ],
+        "synonyms": [
+            "化为泡影",
+            "子虚乌有"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "vanish into thin air"
+    },
+    "blocks": {
+        "reading": "huà wéi wū yǒu",
+        "sense-1": "全部消失或落空。",
+        "citation-1": "想其朝中自然又有人去剿灭，天兵一到，化为乌有，不必深论。 — 《红楼梦》第七八回",
+        "synonyms": "化为泡影、子虚乌有"
+    }
+}

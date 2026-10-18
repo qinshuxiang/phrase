@@ -1,0 +1,52 @@
+{
+    "word": "闻名遐迩",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%97%BB%E5%90%8D%E9%81%90%E8%BF%A9",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "845e259c699877efcb4ad234d42294992e830a4281a9e11304658593d3960a79",
+        "bytes": 24092
+    },
+    "parsed": {
+        "found": true,
+        "word": "闻名遐迩",
+        "section": "idiom",
+        "readings": {
+            "pinyin": [
+                "wén",
+                "míng",
+                "xiá",
+                "ěr"
+            ],
+            "zhuyin": [
+                "ㄨㄣˊ",
+                "ㄇㄧㄥˊ",
+                "ㄒㄧㄚˊ",
+                "ㄦˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "遐：远；迩：近。形容名声很大，远近都知道。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": {
+            "text": "《南齐书·高帝纪上》：“上流声议，遐迩所闻。”",
+            "source": "闻名遐迩"
+        },
+        "grammar": "",
+        "example": "",
+        "english": ""
+    },
+    "blocks": {
+        "reading": "wén míng xiá ěr",
+        "sense-1": "遐：远；迩：近。形容名声很大，远近都知道。",
+        "origin": "《南齐书·高帝纪上》：“上流声议，遐迩所闻。”"
+    }
+}

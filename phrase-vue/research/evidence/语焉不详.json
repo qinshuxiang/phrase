@@ -1,0 +1,67 @@
+{
+    "word": "语焉不详",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%AF%AD%E7%84%89%E4%B8%8D%E8%AF%A6",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "49c32b654050cfa2b721cedc77767cfa4d17b3f1d1f891ea9fc7d3342ff246b5",
+        "bytes": 25856
+    },
+    "parsed": {
+        "found": true,
+        "word": "语焉不详",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yǔ",
+                "yān",
+                "bù",
+                "xiáng"
+            ],
+            "zhuyin": [
+                "ㄩˇ",
+                "ㄧㄢ",
+                "ㄅㄨˋ",
+                "ㄒㄧㄤˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "说得不够详细具体。",
+                "citations": [
+                    {
+                        "text": "荀与扬也，择焉而不精，语焉而不详。",
+                        "source": "唐·韩愈《原道》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "荀与扬也，择焉而不精，语焉而不详。",
+                "source": "唐·韩愈《原道》"
+            }
+        ],
+        "synonyms": [
+            "言之不详"
+        ],
+        "antonyms": [
+            "不厌其详",
+            "纤悉无遗",
+            "细大不捐"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "mention vaguely"
+    },
+    "blocks": {
+        "reading": "yǔ yān bù xiáng",
+        "sense-1": "说得不够详细具体。",
+        "citation-1": "荀与扬也，择焉而不精，语焉而不详。 — 唐·韩愈《原道》",
+        "synonyms": "言之不详",
+        "antonyms": "不厌其详、纤悉无遗、细大不捐"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "word": "设身处地",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%AE%BE%E8%BA%AB%E5%A4%84%E5%9C%B0",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "eb91775a80f9f59b9036f9b355614cbb3ef21a0177f6441bc41d32908f7d484a",
+        "bytes": 26896
+    },
+    "parsed": {
+        "found": true,
+        "word": "设身处地",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shè",
+                "shēn",
+                "chǔ",
+                "dì"
+            ],
+            "zhuyin": [
+                "ㄕㄜˋ",
+                "ㄕㄣ",
+                "ㄔㄨˇ",
+                "ㄉㄧˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "设想自己处在别人的地位或环境中。",
+                "citations": [
+                    {
+                        "text": "赂人吏书，设身处地，于心何若？",
+                        "source": "明·海瑞《督抚条例》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "赂人吏书，设身处地，于心何若？",
+                "source": "明·海瑞《督抚条例》"
+            }
+        ],
+        "synonyms": [
+            "身临其境",
+            "将心比心"
+        ],
+        "antonyms": [
+            "自以为是",
+            "随心所欲"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "put oneself in another's position"
+    },
+    "blocks": {
+        "reading": "shè shēn chǔ dì",
+        "sense-1": "设想自己处在别人的地位或环境中。",
+        "citation-1": "赂人吏书，设身处地，于心何若？ — 明·海瑞《督抚条例》",
+        "synonyms": "身临其境、将心比心",
+        "antonyms": "自以为是、随心所欲"
+    }
+}

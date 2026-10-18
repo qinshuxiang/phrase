@@ -1,0 +1,73 @@
+{
+    "word": "侃侃而谈",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%BE%83%E4%BE%83%E8%80%8C%E8%B0%88",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "ec111a4d0a270f626a05daf02e390857d82a55d5c3c260ab8b341ed910350504",
+        "bytes": 27858
+    },
+    "parsed": {
+        "found": true,
+        "word": "侃侃而谈",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "kǎn",
+                "kǎn",
+                "ér",
+                "tán"
+            ],
+            "zhuyin": [
+                "ㄎㄢˇ",
+                "ㄎㄢˇ",
+                "ㄦˊ",
+                "ㄊㄢˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "从容不迫且理直气壮地谈论。",
+                "citations": [
+                    {
+                        "text": "少君引经据典，侃侃而谈，众皆悦服。",
+                        "source": "清·吴炽昌《客窗闲话·某少君》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "少君引经据典，侃侃而谈，众皆悦服。",
+                "source": "清·吴炽昌《客窗闲话·某少君》"
+            }
+        ],
+        "synonyms": [
+            "滔滔不绝",
+            "口若悬河",
+            "夸夸其谈",
+            "娓娓而谈"
+        ],
+        "antonyms": [
+            "闭口无言",
+            "吞吞吐吐",
+            "张口结舌",
+            "理屈词穷",
+            "噤若寒蝉",
+            "沉默寡言"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "speak with fervor and assurance"
+    },
+    "blocks": {
+        "reading": "kǎn kǎn ér tán",
+        "sense-1": "从容不迫且理直气壮地谈论。",
+        "citation-1": "少君引经据典，侃侃而谈，众皆悦服。 — 清·吴炽昌《客窗闲话·某少君》",
+        "synonyms": "滔滔不绝、口若悬河、夸夸其谈、娓娓而谈",
+        "antonyms": "闭口无言、吞吞吐吐、张口结舌、理屈词穷、噤若寒蝉、沉默寡言"
+    }
+}

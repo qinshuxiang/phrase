@@ -1,0 +1,56 @@
+{
+    "word": "高歌猛进",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%AB%98%E6%AD%8C%E7%8C%9B%E8%BF%9B",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "0306e05ff3b12715733a88ac15862317be586236e274e2a26227899bd24acdb2",
+        "bytes": 25893
+    },
+    "parsed": {
+        "found": true,
+        "word": "高歌猛进",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "gāo",
+                "gē",
+                "měng",
+                "jìn"
+            ],
+            "zhuyin": [
+                "ㄍㄠ",
+                "ㄍㄜ",
+                "ㄇㄥˇ",
+                "ㄐㄧㄣˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "高声歌唱，勇往直前。形容情绪高涨、斗志昂扬地快速前进。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "勇往直前",
+            "一往直前"
+        ],
+        "antonyms": [
+            "裹足不前",
+            "垂头丧气"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "march forward triumphantly"
+    },
+    "blocks": {
+        "reading": "gāo gē měng jìn",
+        "sense-1": "高声歌唱，勇往直前。形容情绪高涨、斗志昂扬地快速前进。",
+        "synonyms": "勇往直前、一往直前",
+        "antonyms": "裹足不前、垂头丧气"
+    }
+}

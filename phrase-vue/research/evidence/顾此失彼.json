@@ -1,0 +1,67 @@
+{
+    "word": "顾此失彼",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%A1%BE%E6%AD%A4%E5%A4%B1%E5%BD%BC",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "7554c301dc6444f3a4bf290d159c6b742ae97f32ff35a31ae81d4b5ec65b66f5",
+        "bytes": 27035
+    },
+    "parsed": {
+        "found": true,
+        "word": "顾此失彼",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "gù",
+                "cǐ",
+                "shī",
+                "bǐ"
+            ],
+            "zhuyin": [
+                "ㄍㄨˋ",
+                "ㄘˇ",
+                "ㄕ",
+                "ㄅㄧˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "注意了这个，忽略了那个。形容不能全面兼顾。",
+                "citations": [
+                    {
+                        "text": "今两朝实录，尚未告成，披阅校正，日不暇给，若复兼修会典，未免顾此失彼。",
+                        "source": "明·张居正《请重修〈大明会典〉疏》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "今两朝实录，尚未告成，披阅校正，日不暇给，若复兼修会典，未免顾此失彼。",
+                "source": "明·张居正《请重修〈大明会典〉疏》"
+            }
+        ],
+        "synonyms": [
+            "捉襟见肘"
+        ],
+        "antonyms": [
+            "面面俱到",
+            "两全其美",
+            "一举两得"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "attend to one thing and lose sight of another"
+    },
+    "blocks": {
+        "reading": "gù cǐ shī bǐ",
+        "sense-1": "注意了这个，忽略了那个。形容不能全面兼顾。",
+        "citation-1": "今两朝实录，尚未告成，披阅校正，日不暇给，若复兼修会典，未免顾此失彼。 — 明·张居正《请重修〈大明会典〉疏》",
+        "synonyms": "捉襟见肘",
+        "antonyms": "面面俱到、两全其美、一举两得"
+    }
+}

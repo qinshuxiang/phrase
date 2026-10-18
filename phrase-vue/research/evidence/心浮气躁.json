@@ -1,0 +1,48 @@
+{
+    "word": "心浮气躁",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%BF%83%E6%B5%AE%E6%B0%94%E8%BA%81",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "2d1bdda8b72f58d336f652db8b3bf2a77bf5d4ee04d7b1bd98cbe0272f1a46c3",
+        "bytes": 22648
+    },
+    "parsed": {
+        "found": true,
+        "word": "心浮气躁",
+        "section": "idiom",
+        "readings": {
+            "pinyin": [
+                "xīn",
+                "fú",
+                "qì",
+                "zào"
+            ],
+            "zhuyin": [
+                "ㄒㄧㄣ",
+                "ㄈㄨˊ",
+                "ㄑㄧˋ",
+                "ㄗㄠˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容人性情浮躁，做事不踏实。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": ""
+    },
+    "blocks": {
+        "reading": "xīn fú qì zào",
+        "sense-1": "形容人性情浮躁，做事不踏实。"
+    }
+}

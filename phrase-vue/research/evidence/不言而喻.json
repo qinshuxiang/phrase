@@ -1,0 +1,67 @@
+{
+    "word": "不言而喻",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%8D%E8%A8%80%E8%80%8C%E5%96%BB",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "0d231c7e050651ab37940753172d27fe2cd8ecbe56efeabeb3c02b7fdc5b4955",
+        "bytes": 29201
+    },
+    "parsed": {
+        "found": true,
+        "word": "不言而喻",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bù",
+                "yán",
+                "ér",
+                "yù"
+            ],
+            "zhuyin": [
+                "ㄅㄨˋ",
+                "ㄧㄢˊ",
+                "ㄦˊ",
+                "ㄩˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "不待释言已可晓悟",
+                "citations": []
+            },
+            {
+                "definition": "意在言外的譬喻,已明白之意",
+                "citations": []
+            },
+            {
+                "definition": "自明的,无须解释的",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "显而易见",
+            "无庸赘述",
+            "不问可知"
+        ],
+        "antonyms": [
+            "扑朔迷离",
+            "模棱两可"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "it goes without saying"
+    },
+    "blocks": {
+        "reading": "bù yán ér yù",
+        "sense-1": "不待释言已可晓悟",
+        "sense-2": "意在言外的譬喻,已明白之意",
+        "sense-3": "自明的,无须解释的",
+        "synonyms": "显而易见、无庸赘述、不问可知",
+        "antonyms": "扑朔迷离、模棱两可"
+    }
+}

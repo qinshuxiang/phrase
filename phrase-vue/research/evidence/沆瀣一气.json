@@ -1,0 +1,73 @@
+{
+    "word": "沆瀣一气",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%B2%86%E7%80%A3%E4%B8%80%E6%B0%94",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "ef512f3e986aa45b3d7f993f7ec2542ba6966806ec69323a9db1fc6066d883f1",
+        "bytes": 28036
+    },
+    "parsed": {
+        "found": true,
+        "word": "沆瀣一气",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "hàng",
+                "xiè",
+                "yī",
+                "qì"
+            ],
+            "zhuyin": [
+                "ㄏㄤˋ",
+                "ㄒㄧㄝ",
+                "ˋ",
+                "ㄧ",
+                "ㄑㄧˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻气味相投者互相勾结。含贬义。",
+                "citations": [
+                    {
+                        "text": "座主门生，沆瀣一气。",
+                        "source": "宋·钱易《南部新书》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "座主门生，沆瀣一气。",
+                "source": "宋·钱易《南部新书》"
+            }
+        ],
+        "synonyms": [
+            "狼狈为奸",
+            "同流合污",
+            "通同一气",
+            "通合一气"
+        ],
+        "antonyms": [
+            "志同道合",
+            "肝胆相照",
+            "精诚团结",
+            "各怀鬼胎",
+            "泾渭严分"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "collude; act in collusion"
+    },
+    "blocks": {
+        "reading": "hàng xiè yī qì",
+        "sense-1": "比喻气味相投者互相勾结。含贬义。",
+        "citation-1": "座主门生，沆瀣一气。 — 宋·钱易《南部新书》",
+        "synonyms": "狼狈为奸、同流合污、通同一气、通合一气",
+        "antonyms": "志同道合、肝胆相照、精诚团结、各怀鬼胎、泾渭严分"
+    }
+}

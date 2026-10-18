@@ -1,0 +1,67 @@
+{
+    "word": "除旧布新",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%99%A4%E6%97%A7%E5%B8%83%E6%96%B0",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "6eda438fb72c07565ae829cc0652e6e362813096590853e9de06d59e69291ce3",
+        "bytes": 26832
+    },
+    "parsed": {
+        "found": true,
+        "word": "除旧布新",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "chú",
+                "jiù",
+                "bù",
+                "xīn"
+            ],
+            "zhuyin": [
+                "ㄔㄨˊ",
+                "ㄐㄧㄡˋ",
+                "ㄅㄨˋ",
+                "ㄒㄧㄣ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "革除旧的事物，建立新的局面。",
+                "citations": [
+                    {
+                        "text": "彗，所以除旧布新也。",
+                        "source": "《左传·昭公十七年》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "彗，所以除旧布新也。",
+                "source": "《左传·昭公十七年》"
+            }
+        ],
+        "synonyms": [
+            "推陈布新",
+            "革故鼎新"
+        ],
+        "antonyms": [
+            "因循守旧",
+            "蹈常袭故"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "eliminate the old and establish the new"
+    },
+    "blocks": {
+        "reading": "chú jiù bù xīn",
+        "sense-1": "革除旧的事物，建立新的局面。",
+        "citation-1": "彗，所以除旧布新也。 — 《左传·昭公十七年》",
+        "synonyms": "推陈布新、革故鼎新",
+        "antonyms": "因循守旧、蹈常袭故"
+    }
+}

@@ -1,0 +1,1204 @@
+{
+  "text": "调试,调试一下设备。啊,这边没有调试哈，你说这个调试是吧，这个调试是调整使它配合。啊，你问什么?调整使它配合,使它适应,使它融合在一起。啊，调整使它适应。来,有两个词,先导和先生。先导什么意思?先导,你看导,引导,引领,指导。比如说啊，成为这样的先导,引领者,示范者,带领者,这是先导。来,先生,先生。这个。其实我也没打见过我听过先声夺人对先导客可以来先声夺人我听过先声夺人什么意思抢先制造生死来压倒敌人压倒对方那先声是个啥稍微查了一下字典现在还有词典说发生在重大事件之前的性质相同的一些事件也是之前的这样一些事件这样一些事情所以大家了解这个基本上不打考你大概扫一下了解一下之前的事情就可以了可以来行接着看一下我们的166集颜色大法了一不小心把答案给弄了翻页翻快了那你也得诚实的选择来三二一停止答题了我们来看一下就要起很多同学非常诚实的我们来分析一下宗德德伟分析他就说横向比较看到差距不足这样才会怎么样顿好夜郎自大这要起很多同学很容易选到四地自以为是其实地空是非常好的我是自以为自己是正确的有点夜郎刺大的是有点自负的自满的闭目色听就不行了吗也行啊闭目色听什么意思把我的眼睛闭起来耳朵堵住不看我就不管外面的不管外面的然后怎么样呀我就有点主观了吧那有点主观是不是有点顾不自封了顾不自封不就有点自大有点自负了吗所以A其实也还行来看一下B和C应该排除吧茫然是错茫然不知道咋办不知道如何是好C举起不定有点犹豫这个可以直接排的来剩下AD教育器有点关键你不能只看你这一亩三分地怎么看待问题正确看待人家顿号表并列呢而且前文你看他说这样我们才能全面的怎么样的看待事物那这样你得看一下前文情况是不是说要横向比叫看不足纵向比叫看进步所以你既看横的不足又看纵的好的是不是好的坏的都看一看这叫啥这叫辩证的看一看比如说你的建议啊你的夸奖我听一听你的这个批评啊我也听这是辩证的好坏都看一看可以吧那A没问题啊嗯啊行啊马上结束了哈所以A没问题所以A和D哈为什么D不选啊选到A了哈这个要注意一下前文前文对应了哈来到这我们后面就先不讲了哈来不能每次都脱糖对吧来我们稍微梳理一下来快问快答来我稍微挑几个问题来问一问检测一下今天学的咋样好来第一个问题听好了学了哪些来着我看一下比如说我们学了哪些重要的刚刚这个仇储满知是啥意思来着加速加速仇储满知啥意思我写一下仇储满知不全写了仇储满知啥意思稍微问两个问题仇储满知啥意思即将成功对吧意气分发啥意思已经成功了来悲公蛇影啥意思悲公蛇影啥意思悲公蛇影疑神疑鬼很好来无所适从一般用于什么样的语境无所适从什么样的语境无所适从什么样的语境选择很好来代价而估啥意思来着你看你侧面能不能拆一下代价而估看看你给我啥价格呀代价而估面临这个选择对吧等待你给我一个合适的价格我再看卖不卖比如说我这个选择公布的时候我这个商品卖不卖的时候我代价而估我等待来这个养尊储优啥意思来着养尊处优啥意思来着先写一下养尊处优被养得很好",
+  "segments": [
+    {
+      "text": "调试,调试一下设备。啊,这边没有调试哈，你说这个调试是吧，这个调试是调整使它配合。啊，你问什么?调整使它配合,使它适应,使它融合在一起。啊，调整使它适应。来,有两个词,先导和先生。先导什么意思?先导,你看导,引导,引领,指导。比如说啊，成为这样的先导,引领者,示范者,带领者,这是先导。来,先生,先生。这个。",
+      "start": 0.0,
+      "end": 30.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.7802,
+      "compression_ratio": 1.0774
+    },
+    {
+      "text": "其实我也没打见过",
+      "start": 30.0,
+      "end": 31.12,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1535,
+      "compression_ratio": 1.5596
+    },
+    {
+      "text": "我听过先声夺人",
+      "start": 31.12,
+      "end": 32.8,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1535,
+      "compression_ratio": 1.5596
+    },
+    {
+      "text": "对先导客可以",
+      "start": 32.8,
+      "end": 34.94,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1535,
+      "compression_ratio": 1.5596
+    },
+    {
+      "text": "来先声夺人我听过",
+      "start": 34.94,
+      "end": 36.94,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1535,
+      "compression_ratio": 1.5596
+    },
+    {
+      "text": "先声夺人什么意思",
+      "start": 36.94,
+      "end": 37.980000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1535,
+      "compression_ratio": 1.5596
+    },
+    {
+      "text": "抢先制造生死来压倒敌人压倒对方",
+      "start": 37.980000000000004,
+      "end": 41.74,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1535,
+      "compression_ratio": 1.5596
+    },
+    {
+      "text": "那先声是个啥",
+      "start": 41.74,
+      "end": 42.92,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1535,
+      "compression_ratio": 1.5596
+    },
+    {
+      "text": "稍微查了一下字典",
+      "start": 42.92,
+      "end": 43.9,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1535,
+      "compression_ratio": 1.5596
+    },
+    {
+      "text": "现在还有词典",
+      "start": 43.9,
+      "end": 44.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1535,
+      "compression_ratio": 1.5596
+    },
+    {
+      "text": "说发生在重大事件之前的",
+      "start": 44.88,
+      "end": 48.34,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1535,
+      "compression_ratio": 1.5596
+    },
+    {
+      "text": "性质相同的一些事件",
+      "start": 48.34,
+      "end": 49.86,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1535,
+      "compression_ratio": 1.5596
+    },
+    {
+      "text": "也是之前的这样一些事件",
+      "start": 49.86,
+      "end": 51.66,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1535,
+      "compression_ratio": 1.5596
+    },
+    {
+      "text": "这样一些事情",
+      "start": 51.66,
+      "end": 52.400000000000006,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1535,
+      "compression_ratio": 1.5596
+    },
+    {
+      "text": "所以大家了解",
+      "start": 52.400000000000006,
+      "end": 54.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1535,
+      "compression_ratio": 1.5596
+    },
+    {
+      "text": "这个基本上不打考",
+      "start": 54.06,
+      "end": 55.120000000000005,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1535,
+      "compression_ratio": 1.5596
+    },
+    {
+      "text": "你大概扫一下",
+      "start": 55.120000000000005,
+      "end": 56.14,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1535,
+      "compression_ratio": 1.5596
+    },
+    {
+      "text": "了解一下之前的事情就可以了",
+      "start": 56.14,
+      "end": 58.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1535,
+      "compression_ratio": 1.5596
+    },
+    {
+      "text": "可以",
+      "start": 58.32,
+      "end": 59.46,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1535,
+      "compression_ratio": 1.5596
+    },
+    {
+      "text": "来行",
+      "start": 59.46,
+      "end": 60.300000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4407,
+      "compression_ratio": 0.766
+    },
+    {
+      "text": "接着看一下我们的166集",
+      "start": 60.300000000000004,
+      "end": 61.94,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4407,
+      "compression_ratio": 0.766
+    },
+    {
+      "text": "颜色大法了",
+      "start": 61.94,
+      "end": 90.44,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1399,
+      "compression_ratio": 0.625
+    },
+    {
+      "text": "一不小心把答案给弄了",
+      "start": 90.44,
+      "end": 91.98,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2075,
+      "compression_ratio": 1.3552
+    },
+    {
+      "text": "翻页翻快了",
+      "start": 91.98,
+      "end": 92.96,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2075,
+      "compression_ratio": 1.3552
+    },
+    {
+      "text": "那你也得诚实的选择",
+      "start": 92.96,
+      "end": 96.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2075,
+      "compression_ratio": 1.3552
+    },
+    {
+      "text": "来三二一",
+      "start": 96.32,
+      "end": 100.36,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2075,
+      "compression_ratio": 1.3552
+    },
+    {
+      "text": "停止答题了",
+      "start": 100.36,
+      "end": 102.36,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2075,
+      "compression_ratio": 1.3552
+    },
+    {
+      "text": "我们来看一下就要起",
+      "start": 102.36,
+      "end": 103.24,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2075,
+      "compression_ratio": 1.3552
+    },
+    {
+      "text": "很多同学非常诚实的",
+      "start": 103.24,
+      "end": 104.48,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2075,
+      "compression_ratio": 1.3552
+    },
+    {
+      "text": "我们来分析一下",
+      "start": 104.48,
+      "end": 108.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2075,
+      "compression_ratio": 1.3552
+    },
+    {
+      "text": "宗德德伟分析",
+      "start": 108.5,
+      "end": 109.14,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2075,
+      "compression_ratio": 1.3552
+    },
+    {
+      "text": "他就说横向比较",
+      "start": 109.14,
+      "end": 110.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2075,
+      "compression_ratio": 1.3552
+    },
+    {
+      "text": "看到差距不足",
+      "start": 110.5,
+      "end": 112.1,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2075,
+      "compression_ratio": 1.3552
+    },
+    {
+      "text": "这样才会怎么样顿好夜郎自大",
+      "start": 112.1,
+      "end": 114.46,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2075,
+      "compression_ratio": 1.3552
+    },
+    {
+      "text": "这要起很多同学很容易选到四地",
+      "start": 114.46,
+      "end": 116.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2075,
+      "compression_ratio": 1.3552
+    },
+    {
+      "text": "自以为是其实地空是非常好的",
+      "start": 116.88,
+      "end": 119.1,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2075,
+      "compression_ratio": 1.3552
+    },
+    {
+      "text": "我是自以为自己是正确的",
+      "start": 119.1,
+      "end": 121.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1221,
+      "compression_ratio": 1.5503
+    },
+    {
+      "text": "有点夜郎刺大的",
+      "start": 121.5,
+      "end": 122.67999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1221,
+      "compression_ratio": 1.5503
+    },
+    {
+      "text": "是有点自负的自满的",
+      "start": 122.67999999999999,
+      "end": 125.05999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1221,
+      "compression_ratio": 1.5503
+    },
+    {
+      "text": "闭目色听就不行了吗",
+      "start": 125.05999999999999,
+      "end": 127.1,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1221,
+      "compression_ratio": 1.5503
+    },
+    {
+      "text": "也行啊",
+      "start": 127.1,
+      "end": 127.89999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1221,
+      "compression_ratio": 1.5503
+    },
+    {
+      "text": "闭目色听什么意思",
+      "start": 127.89999999999999,
+      "end": 128.79999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1221,
+      "compression_ratio": 1.5503
+    },
+    {
+      "text": "把我的眼睛闭起来",
+      "start": 128.79999999999998,
+      "end": 131.44,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1221,
+      "compression_ratio": 1.5503
+    },
+    {
+      "text": "耳朵堵住不看",
+      "start": 131.44,
+      "end": 132.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1221,
+      "compression_ratio": 1.5503
+    },
+    {
+      "text": "我就不管外面的",
+      "start": 132.56,
+      "end": 133.66,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1221,
+      "compression_ratio": 1.5503
+    },
+    {
+      "text": "不管外面的",
+      "start": 133.66,
+      "end": 134.68,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1221,
+      "compression_ratio": 1.5503
+    },
+    {
+      "text": "然后怎么样呀",
+      "start": 134.68,
+      "end": 135.44,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1221,
+      "compression_ratio": 1.5503
+    },
+    {
+      "text": "我就有点主观了吧",
+      "start": 135.44,
+      "end": 136.85999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1221,
+      "compression_ratio": 1.5503
+    },
+    {
+      "text": "那有点主观",
+      "start": 136.85999999999999,
+      "end": 137.6,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1221,
+      "compression_ratio": 1.5503
+    },
+    {
+      "text": "是不是有点顾不自封了",
+      "start": 137.6,
+      "end": 138.7,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1221,
+      "compression_ratio": 1.5503
+    },
+    {
+      "text": "顾不自封不就有点自大",
+      "start": 138.7,
+      "end": 140.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1221,
+      "compression_ratio": 1.5503
+    },
+    {
+      "text": "有点自负了吗",
+      "start": 140.06,
+      "end": 140.92,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1221,
+      "compression_ratio": 1.5503
+    },
+    {
+      "text": "所以A其实也还行",
+      "start": 140.92,
+      "end": 142.4,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1221,
+      "compression_ratio": 1.5503
+    },
+    {
+      "text": "来看一下B和C应该排除吧",
+      "start": 142.4,
+      "end": 144.79999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1221,
+      "compression_ratio": 1.5503
+    },
+    {
+      "text": "茫然是错",
+      "start": 144.79999999999998,
+      "end": 145.76,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1221,
+      "compression_ratio": 1.5503
+    },
+    {
+      "text": "茫然不知道咋办",
+      "start": 145.76,
+      "end": 146.85999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1221,
+      "compression_ratio": 1.5503
+    },
+    {
+      "text": "不知道如何是好",
+      "start": 146.85999999999999,
+      "end": 148.07999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1221,
+      "compression_ratio": 1.5503
+    },
+    {
+      "text": "C举起不定有点犹豫",
+      "start": 148.08,
+      "end": 149.92000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1371,
+      "compression_ratio": 1.4247
+    },
+    {
+      "text": "这个可以直接排的",
+      "start": 149.92000000000002,
+      "end": 151.22,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1371,
+      "compression_ratio": 1.4247
+    },
+    {
+      "text": "来剩下AD教育器有点关键",
+      "start": 151.22,
+      "end": 153.42000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1371,
+      "compression_ratio": 1.4247
+    },
+    {
+      "text": "你不能只看你这一亩三分地",
+      "start": 153.42000000000002,
+      "end": 155.36,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1371,
+      "compression_ratio": 1.4247
+    },
+    {
+      "text": "怎么看待问题",
+      "start": 155.36,
+      "end": 156.24,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1371,
+      "compression_ratio": 1.4247
+    },
+    {
+      "text": "正确看待",
+      "start": 156.24,
+      "end": 157.20000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1371,
+      "compression_ratio": 1.4247
+    },
+    {
+      "text": "人家顿号表并列呢",
+      "start": 157.20000000000002,
+      "end": 159.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1371,
+      "compression_ratio": 1.4247
+    },
+    {
+      "text": "而且前文你看他说",
+      "start": 159.06,
+      "end": 160.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1371,
+      "compression_ratio": 1.4247
+    },
+    {
+      "text": "这样我们才能全面的",
+      "start": 160.84,
+      "end": 163.70000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1371,
+      "compression_ratio": 1.4247
+    },
+    {
+      "text": "怎么样的看待事物",
+      "start": 163.70000000000002,
+      "end": 164.8,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1371,
+      "compression_ratio": 1.4247
+    },
+    {
+      "text": "那这样你得看一下前文",
+      "start": 164.8,
+      "end": 166.36,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1371,
+      "compression_ratio": 1.4247
+    },
+    {
+      "text": "情况是不是说要横向比",
+      "start": 166.36,
+      "end": 167.8,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1371,
+      "compression_ratio": 1.4247
+    },
+    {
+      "text": "叫看不足",
+      "start": 167.8,
+      "end": 168.88000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1371,
+      "compression_ratio": 1.4247
+    },
+    {
+      "text": "纵向比叫看进步",
+      "start": 168.88000000000002,
+      "end": 171.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1371,
+      "compression_ratio": 1.4247
+    },
+    {
+      "text": "所以你既看横的不足",
+      "start": 171.0,
+      "end": 173.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1371,
+      "compression_ratio": 1.4247
+    },
+    {
+      "text": "又看纵的好的",
+      "start": 173.56,
+      "end": 174.94,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1371,
+      "compression_ratio": 1.4247
+    },
+    {
+      "text": "是不是好的坏的都看一看",
+      "start": 174.94,
+      "end": 176.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1371,
+      "compression_ratio": 1.4247
+    },
+    {
+      "text": "这叫啥",
+      "start": 176.56,
+      "end": 176.92000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1371,
+      "compression_ratio": 1.4247
+    },
+    {
+      "text": "这叫辩证的看一看",
+      "start": 176.92,
+      "end": 178.28,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1319,
+      "compression_ratio": 1.5249
+    },
+    {
+      "text": "比如说你的建议啊",
+      "start": 178.28,
+      "end": 179.83999999999997,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1319,
+      "compression_ratio": 1.5249
+    },
+    {
+      "text": "你的夸奖我听一听",
+      "start": 179.83999999999997,
+      "end": 180.89999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1319,
+      "compression_ratio": 1.5249
+    },
+    {
+      "text": "你的这个批评啊",
+      "start": 180.89999999999998,
+      "end": 181.92,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1319,
+      "compression_ratio": 1.5249
+    },
+    {
+      "text": "我也听",
+      "start": 181.92,
+      "end": 182.35999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1319,
+      "compression_ratio": 1.5249
+    },
+    {
+      "text": "这是辩证的",
+      "start": 182.35999999999999,
+      "end": 183.28,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1319,
+      "compression_ratio": 1.5249
+    },
+    {
+      "text": "好坏都看一看",
+      "start": 183.28,
+      "end": 184.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1319,
+      "compression_ratio": 1.5249
+    },
+    {
+      "text": "可以吧",
+      "start": 184.56,
+      "end": 187.89999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1319,
+      "compression_ratio": 1.5249
+    },
+    {
+      "text": "那A没问题啊",
+      "start": 187.89999999999998,
+      "end": 189.57999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1319,
+      "compression_ratio": 1.5249
+    },
+    {
+      "text": "嗯",
+      "start": 189.57999999999998,
+      "end": 189.79999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1319,
+      "compression_ratio": 1.5249
+    },
+    {
+      "text": "啊行啊",
+      "start": 189.79999999999998,
+      "end": 191.48,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1319,
+      "compression_ratio": 1.5249
+    },
+    {
+      "text": "马上结束了哈",
+      "start": 191.48,
+      "end": 192.16,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1319,
+      "compression_ratio": 1.5249
+    },
+    {
+      "text": "所以A没问题",
+      "start": 192.16,
+      "end": 192.89999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1319,
+      "compression_ratio": 1.5249
+    },
+    {
+      "text": "所以A和D哈",
+      "start": 192.89999999999998,
+      "end": 194.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1319,
+      "compression_ratio": 1.5249
+    },
+    {
+      "text": "为什么D不选啊",
+      "start": 194.0,
+      "end": 195.01999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1319,
+      "compression_ratio": 1.5249
+    },
+    {
+      "text": "选到A了哈",
+      "start": 195.01999999999998,
+      "end": 195.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1319,
+      "compression_ratio": 1.5249
+    },
+    {
+      "text": "这个要注意一下",
+      "start": 195.88,
+      "end": 196.54,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1319,
+      "compression_ratio": 1.5249
+    },
+    {
+      "text": "前文前文对应了哈",
+      "start": 196.54,
+      "end": 198.45999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1319,
+      "compression_ratio": 1.5249
+    },
+    {
+      "text": "来到这",
+      "start": 198.45999999999998,
+      "end": 199.2,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1319,
+      "compression_ratio": 1.5249
+    },
+    {
+      "text": "我们后面就先不讲了哈",
+      "start": 199.2,
+      "end": 200.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1319,
+      "compression_ratio": 1.5249
+    },
+    {
+      "text": "来不能每次都脱糖对吧",
+      "start": 200.56,
+      "end": 202.01999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1319,
+      "compression_ratio": 1.5249
+    },
+    {
+      "text": "来我们稍微梳理一下",
+      "start": 202.01999999999998,
+      "end": 202.94,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1319,
+      "compression_ratio": 1.5249
+    },
+    {
+      "text": "来快问快答",
+      "start": 202.94,
+      "end": 203.64,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1319,
+      "compression_ratio": 1.5249
+    },
+    {
+      "text": "来我稍微挑几个问题",
+      "start": 203.64,
+      "end": 204.66,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1319,
+      "compression_ratio": 1.5249
+    },
+    {
+      "text": "来问一问",
+      "start": 204.66,
+      "end": 205.14,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1319,
+      "compression_ratio": 1.5249
+    },
+    {
+      "text": "检测一下",
+      "start": 205.14,
+      "end": 206.64,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1319,
+      "compression_ratio": 1.5249
+    },
+    {
+      "text": "今天学的咋样好",
+      "start": 206.64,
+      "end": 207.55999999999997,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1987,
+      "compression_ratio": 1.6209
+    },
+    {
+      "text": "来第一个问题",
+      "start": 207.55999999999997,
+      "end": 208.57999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1987,
+      "compression_ratio": 1.6209
+    },
+    {
+      "text": "听好了",
+      "start": 208.57999999999998,
+      "end": 209.88,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1987,
+      "compression_ratio": 1.6209
+    },
+    {
+      "text": "学了哪些来着",
+      "start": 209.88,
+      "end": 211.44,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1987,
+      "compression_ratio": 1.6209
+    },
+    {
+      "text": "我看一下",
+      "start": 211.44,
+      "end": 212.66,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1987,
+      "compression_ratio": 1.6209
+    },
+    {
+      "text": "比如说我们学了哪些重要的",
+      "start": 212.66,
+      "end": 214.89999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1987,
+      "compression_ratio": 1.6209
+    },
+    {
+      "text": "刚刚这个仇储满知是啥意思来着",
+      "start": 214.89999999999998,
+      "end": 219.11999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1987,
+      "compression_ratio": 1.6209
+    },
+    {
+      "text": "加速加速",
+      "start": 219.11999999999998,
+      "end": 221.05999999999997,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1987,
+      "compression_ratio": 1.6209
+    },
+    {
+      "text": "仇储满知啥意思",
+      "start": 221.05999999999997,
+      "end": 222.82,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1987,
+      "compression_ratio": 1.6209
+    },
+    {
+      "text": "我写一下",
+      "start": 222.82,
+      "end": 223.35999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1987,
+      "compression_ratio": 1.6209
+    },
+    {
+      "text": "仇储满知",
+      "start": 223.35999999999999,
+      "end": 224.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1987,
+      "compression_ratio": 1.6209
+    },
+    {
+      "text": "不全写了",
+      "start": 224.06,
+      "end": 224.7,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1987,
+      "compression_ratio": 1.6209
+    },
+    {
+      "text": "仇储满知啥意思",
+      "start": 224.7,
+      "end": 226.01999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1987,
+      "compression_ratio": 1.6209
+    },
+    {
+      "text": "稍微问两个问题",
+      "start": 226.01999999999998,
+      "end": 227.38,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1987,
+      "compression_ratio": 1.6209
+    },
+    {
+      "text": "仇储满知啥意思",
+      "start": 227.38,
+      "end": 229.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1987,
+      "compression_ratio": 1.6209
+    },
+    {
+      "text": "即将成功",
+      "start": 229.06,
+      "end": 230.17999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1987,
+      "compression_ratio": 1.6209
+    },
+    {
+      "text": "对吧",
+      "start": 230.17999999999998,
+      "end": 230.76,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1987,
+      "compression_ratio": 1.6209
+    },
+    {
+      "text": "意气分发啥意思",
+      "start": 230.76,
+      "end": 232.1,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1987,
+      "compression_ratio": 1.6209
+    },
+    {
+      "text": "已经成功了",
+      "start": 232.1,
+      "end": 234.57999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1987,
+      "compression_ratio": 1.6209
+    },
+    {
+      "text": "来悲公蛇影啥意思",
+      "start": 234.58,
+      "end": 236.78,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1855,
+      "compression_ratio": 1.6981
+    },
+    {
+      "text": "悲公蛇影啥意思",
+      "start": 236.78,
+      "end": 238.36,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1855,
+      "compression_ratio": 1.6981
+    },
+    {
+      "text": "悲公蛇影",
+      "start": 238.36,
+      "end": 242.92000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1855,
+      "compression_ratio": 1.6981
+    },
+    {
+      "text": "疑神疑鬼很好",
+      "start": 242.92000000000002,
+      "end": 249.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1855,
+      "compression_ratio": 1.6981
+    },
+    {
+      "text": "来无所适从一般用于什么样的语境",
+      "start": 249.5,
+      "end": 251.98000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1855,
+      "compression_ratio": 1.6981
+    },
+    {
+      "text": "无所适从什么样的语境",
+      "start": 251.98000000000002,
+      "end": 253.74,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1855,
+      "compression_ratio": 1.6981
+    },
+    {
+      "text": "无所适从什么样的语境",
+      "start": 253.74,
+      "end": 258.16,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1855,
+      "compression_ratio": 1.6981
+    },
+    {
+      "text": "选择很好",
+      "start": 258.16,
+      "end": 265.76000000000005,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1213,
+      "compression_ratio": 1.597
+    },
+    {
+      "text": "来代价而估",
+      "start": 265.76000000000005,
+      "end": 267.02000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1213,
+      "compression_ratio": 1.597
+    },
+    {
+      "text": "啥意思来着",
+      "start": 267.02000000000004,
+      "end": 267.66,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1213,
+      "compression_ratio": 1.597
+    },
+    {
+      "text": "你看你侧面能不能拆一下",
+      "start": 267.66,
+      "end": 269.12,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1213,
+      "compression_ratio": 1.597
+    },
+    {
+      "text": "代价而估",
+      "start": 269.12,
+      "end": 270.36,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1213,
+      "compression_ratio": 1.597
+    },
+    {
+      "text": "看看你给我啥价格呀",
+      "start": 270.36,
+      "end": 272.28000000000003,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1213,
+      "compression_ratio": 1.597
+    },
+    {
+      "text": "代价而估",
+      "start": 272.28000000000003,
+      "end": 273.20000000000005,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1213,
+      "compression_ratio": 1.597
+    },
+    {
+      "text": "面临这个选择对吧",
+      "start": 273.20000000000005,
+      "end": 277.08000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1213,
+      "compression_ratio": 1.597
+    },
+    {
+      "text": "等待你给我一个合适的价格",
+      "start": 277.08000000000004,
+      "end": 279.26000000000005,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1213,
+      "compression_ratio": 1.597
+    },
+    {
+      "text": "我再看卖不卖",
+      "start": 279.26000000000005,
+      "end": 280.44000000000005,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1213,
+      "compression_ratio": 1.597
+    },
+    {
+      "text": "比如说我这个选择公布的时候",
+      "start": 280.44000000000005,
+      "end": 282.12,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1213,
+      "compression_ratio": 1.597
+    },
+    {
+      "text": "我这个商品卖不卖的时候",
+      "start": 282.12,
+      "end": 283.36,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1213,
+      "compression_ratio": 1.597
+    },
+    {
+      "text": "我代价而估",
+      "start": 283.36,
+      "end": 284.58000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1213,
+      "compression_ratio": 1.597
+    },
+    {
+      "text": "我等待",
+      "start": 284.58000000000004,
+      "end": 285.08000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1213,
+      "compression_ratio": 1.597
+    },
+    {
+      "text": "来这个养尊储优",
+      "start": 285.08000000000004,
+      "end": 287.66,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1213,
+      "compression_ratio": 1.597
+    },
+    {
+      "text": "啥意思来着",
+      "start": 287.66,
+      "end": 288.38000000000005,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2629,
+      "compression_ratio": 1.209
+    },
+    {
+      "text": "养尊处优",
+      "start": 288.38000000000005,
+      "end": 290.26000000000005,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2629,
+      "compression_ratio": 1.209
+    },
+    {
+      "text": "啥意思来着",
+      "start": 290.26000000000005,
+      "end": 291.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2629,
+      "compression_ratio": 1.209
+    },
+    {
+      "text": "先写一下",
+      "start": 291.06,
+      "end": 294.04,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2629,
+      "compression_ratio": 1.209
+    },
+    {
+      "text": "养尊处优",
+      "start": 294.04,
+      "end": 295.14000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2629,
+      "compression_ratio": 1.209
+    },
+    {
+      "text": "被养得很好",
+      "start": 295.14000000000004,
+      "end": 299.48,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2629,
+      "compression_ratio": 1.209
+    }
+  ],
+  "repairs": [
+    {
+      "start": 0.0,
+      "end": 30.0,
+      "old_text": "调试,调试一下设备。啊,这边没有调试哈，你说这个调试是吧，这个调试是调整使它配合。啊，你问起吧，调整使它配合,使它适应,使它融合在一起。啊，调整使它适应。来,有两个词,哈，先导和先生，先导什么意思，先导�你看导�引导�引领�指导�比如说啊，成为这样的先导�引领者�",
+      "new_text": "调试,调试一下设备。啊,这边没有调试哈，你说这个调试是吧，这个调试是调整使它配合。啊，你问什么?调整使它配合,使它适应,使它融合在一起。啊，调整使它适应。来,有两个词,先导和先生。先导什么意思?先导,你看导,引导,引领,指导。比如说啊，成为这样的先导,引领者,示范者,带领者,这是先导。来,先生,先生。这个。",
+      "accepted": true
+    }
+  ],
+  "index": 20,
+  "start": 6000.0,
+  "duration": 300,
+  "elapsed": 27.9,
+  "ok": true,
+  "initial_prompt": "四海公考，公务员考试，言语理解与表达，逻辑填空，高频实词，成语辨析，语义侧重，感情色彩，搭配对象，适用语境，易混词，例句。简体中文。课件词条：桑枢瓮牖，钟鸣鼎食，踌躇满志，意气风发。"
+}

@@ -1,0 +1,66 @@
+{
+    "word": "弹冠相庆",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%BC%B9%E5%86%A0%E7%9B%B8%E5%BA%86",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "07c1823b8fa9a56acf664b3ecd919473825736ff7d0889a28b0f0632247d769b",
+        "bytes": 27260
+    },
+    "parsed": {
+        "found": true,
+        "word": "弹冠相庆",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "tán",
+                "guān",
+                "xiāng",
+                "qìng"
+            ],
+            "zhuyin": [
+                "ㄊㄢˊ",
+                "ㄍㄨㄢ",
+                "ㄒㄧㄤ",
+                "ㄑㄧㄥˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "互相庆贺，多含贬义。",
+                "citations": [
+                    {
+                        "text": "一日无仲，则三子者可以弹冠相庆矣。",
+                        "source": "宋·苏洵《管仲论》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "一日无仲，则三子者可以弹冠相庆矣。",
+                "source": "宋·苏洵《管仲论》"
+            }
+        ],
+        "synonyms": [
+            "额手称庆",
+            "鸡犬升天"
+        ],
+        "antonyms": [
+            "如丧考妣"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "congratulate each other"
+    },
+    "blocks": {
+        "reading": "tán guān xiāng qìng",
+        "sense-1": "互相庆贺，多含贬义。",
+        "citation-1": "一日无仲，则三子者可以弹冠相庆矣。 — 宋·苏洵《管仲论》",
+        "synonyms": "额手称庆、鸡犬升天",
+        "antonyms": "如丧考妣"
+    }
+}

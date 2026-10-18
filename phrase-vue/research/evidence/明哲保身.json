@@ -1,0 +1,55 @@
+{
+    "word": "明哲保身",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%98%8E%E5%93%B2%E4%BF%9D%E8%BA%AB",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "2d8fe8f16d7af6910e45c1bb3dc4aadf4d910097d323c426f9b82777463d9f68",
+        "bytes": 28473
+    },
+    "parsed": {
+        "found": true,
+        "word": "明哲保身",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "míng",
+                "zhé",
+                "bǎo",
+                "shēn"
+            ],
+            "zhuyin": [
+                "ㄇㄧㄥˊ",
+                "ㄓㄜˊ",
+                "ㄅㄠˇ",
+                "ㄕㄣ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "原义是指明于事理的人善于自保,有褒义。现在则指为了保住个人利益回避原则斗争的庸俗作风,有贬义",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "洁身自好"
+        ],
+        "antonyms": [
+            "同流合污",
+            "飞蛾扑火﹑同流合污﹑随波逐流"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "be worldly wise and play safe"
+    },
+    "blocks": {
+        "reading": "míng zhé bǎo shēn",
+        "sense-1": "原义是指明于事理的人善于自保,有褒义。现在则指为了保住个人利益回避原则斗争的庸俗作风,有贬义",
+        "synonyms": "洁身自好",
+        "antonyms": "同流合污、飞蛾扑火﹑同流合污﹑随波逐流"
+    }
+}

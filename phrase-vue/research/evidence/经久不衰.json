@@ -1,0 +1,48 @@
+{
+    "word": "经久不衰",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%BB%8F%E4%B9%85%E4%B8%8D%E8%A1%B0",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "3f8854ec1ac654ee0cc93082676c6e6fb121f8c9da008c8e993356ace1efa60f",
+        "bytes": 21845
+    },
+    "parsed": {
+        "found": true,
+        "word": "经久不衰",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jīng",
+                "jiǔ",
+                "bù",
+                "shuāi"
+            ],
+            "zhuyin": [
+                "ㄐㄧㄥ",
+                "ㄐㄧㄡˇ",
+                "ㄅㄨˋ",
+                "ㄕㄨㄞ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "精神饱满的状态,身体健壮的外表,或幼年期到成年期之间的时期的精神特征;青年人的活力或朝气",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "youth"
+    },
+    "blocks": {
+        "reading": "jīng jiǔ bù shuāi",
+        "sense-1": "精神饱满的状态,身体健壮的外表,或幼年期到成年期之间的时期的精神特征;青年人的活力或朝气"
+    }
+}

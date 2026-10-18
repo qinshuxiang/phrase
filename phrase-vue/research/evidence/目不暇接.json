@@ -1,0 +1,65 @@
+{
+    "word": "目不暇接",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%9B%AE%E4%B8%8D%E6%9A%87%E6%8E%A5",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "44fec1eed507ff909b6000cd54fb1dbaea2f49fbb8b607d8efeb2abb34470d74",
+        "bytes": 27527
+    },
+    "parsed": {
+        "found": true,
+        "word": "目不暇接",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "mù",
+                "bù",
+                "xiá",
+                "jiē"
+            ],
+            "zhuyin": [
+                "ㄇㄨˋ",
+                "ㄅㄨˋ",
+                "ㄒㄧㄚˊ",
+                "ㄐㄧㄝ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "景色既美又多,令人眼睛顾不及全看",
+                "citations": [
+                    {
+                        "text": "一切艺术的道理也是这样,单一必然导致枯燥。而丰富多采、目不暇接则是绝大多数人所欢迎的。",
+                        "source": "秦牧《菊花与金鱼》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "一切艺术的道理也是这样,单一必然导致枯燥。而丰富多采、目不暇接则是绝大多数人所欢迎的。",
+                "source": "秦牧《菊花与金鱼》"
+            }
+        ],
+        "synonyms": [
+            "应接不暇"
+        ],
+        "antonyms": [
+            "目不忍睹"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "there are too many things for the eye to take in"
+    },
+    "blocks": {
+        "reading": "mù bù xiá jiē",
+        "sense-1": "景色既美又多,令人眼睛顾不及全看",
+        "citation-1": "一切艺术的道理也是这样,单一必然导致枯燥。而丰富多采、目不暇接则是绝大多数人所欢迎的。 — 秦牧《菊花与金鱼》",
+        "synonyms": "应接不暇",
+        "antonyms": "目不忍睹"
+    }
+}

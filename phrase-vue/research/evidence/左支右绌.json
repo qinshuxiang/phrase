@@ -1,0 +1,64 @@
+{
+    "word": "左支右绌",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%B7%A6%E6%94%AF%E5%8F%B3%E7%BB%8C",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "d393a5c88087708b5558bd95e3f4e1f0315714ee97a05efb24e61ef0cb026f1b",
+        "bytes": 27398
+    },
+    "parsed": {
+        "found": true,
+        "word": "左支右绌",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zuǒ",
+                "zhī",
+                "yòu",
+                "chù"
+            ],
+            "zhuyin": [
+                "ㄗㄨㄛˇ",
+                "ㄓ",
+                "ㄧㄡˋ",
+                "ㄔㄨˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "财力或能力不足，难以应付。",
+                "citations": [
+                    {
+                        "text": "饷不为少矣，而左支右绌，以至今日。",
+                        "source": "明·陈子龙《议财用》"
+                    }
+                ]
+            },
+            {
+                "definition": "因理亏而难以掩饰言论或文字。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "饷不为少矣，而左支右绌，以至今日。",
+                "source": "明·陈子龙《议财用》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "financially embarrassed"
+    },
+    "blocks": {
+        "reading": "zuǒ zhī yòu chù",
+        "sense-1": "财力或能力不足，难以应付。",
+        "sense-2": "因理亏而难以掩饰言论或文字。",
+        "citation-1": "饷不为少矣，而左支右绌，以至今日。 — 明·陈子龙《议财用》"
+    }
+}

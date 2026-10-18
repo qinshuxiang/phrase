@@ -1,0 +1,66 @@
+{
+    "word": "昭然若揭",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%98%AD%E7%84%B6%E8%8B%A5%E6%8F%AD",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "f48c3c9777ef9e62484ccdfeadac5cd446d50c1d976140e3a6b6dcd7f31bf9a2",
+        "bytes": 28320
+    },
+    "parsed": {
+        "found": true,
+        "word": "昭然若揭",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zhāo",
+                "rán",
+                "ruò",
+                "jiē"
+            ],
+            "zhuyin": [
+                "ㄓㄠ",
+                "ㄖㄢˊ",
+                "ㄖㄨㄛˋ",
+                "ㄐㄧㄝ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "昭然:明白的样子;揭:高举。《庄子·达生》:“昭昭乎若揭日月而行也。”形容真相毕露,所有一切都已显现了出来",
+                "citations": [
+                    {
+                        "text": "读诗者,息众说之纷拿,仰光焰之万丈,而杜公真切深厚之旨,益昭然若揭焉。",
+                        "source": "清·吴棠《杜诗镜铨》序"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "读诗者,息众说之纷拿,仰光焰之万丈,而杜公真切深厚之旨,益昭然若揭焉。",
+                "source": "清·吴棠《杜诗镜铨》序"
+            }
+        ],
+        "synonyms": [
+            "彰明较著",
+            "众目昭彰"
+        ],
+        "antonyms": [
+            "真伪莫辨"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "abundantly clear"
+    },
+    "blocks": {
+        "reading": "zhāo rán ruò jiē",
+        "sense-1": "昭然:明白的样子;揭:高举。《庄子·达生》:“昭昭乎若揭日月而行也。”形容真相毕露,所有一切都已显现了出来",
+        "citation-1": "读诗者,息众说之纷拿,仰光焰之万丈,而杜公真切深厚之旨,益昭然若揭焉。 — 清·吴棠《杜诗镜铨》序",
+        "synonyms": "彰明较著、众目昭彰",
+        "antonyms": "真伪莫辨"
+    }
+}

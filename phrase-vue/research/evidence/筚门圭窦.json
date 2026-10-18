@@ -1,0 +1,59 @@
+{
+    "word": "筚门圭窦",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%AD%9A%E9%97%A8%E5%9C%AD%E7%AA%A6",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "d9eb110fbfa342b02a8258fbf09ab04059f2358b95bc3f395c4e00b3616a5eed",
+        "bytes": 25410
+    },
+    "parsed": {
+        "found": true,
+        "word": "筚门圭窦",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bì",
+                "mén",
+                "guī",
+                "dòu"
+            ],
+            "zhuyin": [
+                "ㄅㄧˋ",
+                "ㄇㄣˊ",
+                "ㄍㄨㄟ",
+                "ㄉㄡˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "用竹条编织的门和上尖下方的狭小门洞，形容居所简陋贫寒。",
+                "citations": [
+                    {
+                        "text": "筚门圭窦之人，而皆陵其上，其难为上矣。",
+                        "source": "春秋·左丘明《左传·襄公十年》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "筚门圭窦之人，而皆陵其上，其难为上矣。",
+                "source": "春秋·左丘明《左传·襄公十年》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "poor dwelling"
+    },
+    "blocks": {
+        "reading": "bì mén guī dòu",
+        "sense-1": "用竹条编织的门和上尖下方的狭小门洞，形容居所简陋贫寒。",
+        "citation-1": "筚门圭窦之人，而皆陵其上，其难为上矣。 — 春秋·左丘明《左传·襄公十年》"
+    }
+}

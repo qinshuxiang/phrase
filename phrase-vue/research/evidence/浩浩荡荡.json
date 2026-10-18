@@ -1,0 +1,82 @@
+{
+    "word": "浩浩荡荡",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%B5%A9%E6%B5%A9%E8%8D%A1%E8%8D%A1",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "86541dcc83dfe7ba4d8f606f1648b31f0b40f0718ad2f7051ea32693d457868e",
+        "bytes": 28374
+    },
+    "parsed": {
+        "found": true,
+        "word": "浩浩荡荡",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "hào",
+                "hào",
+                "dàng",
+                "dàng"
+            ],
+            "zhuyin": [
+                "ㄏㄠˋ",
+                "ㄏㄠˋ",
+                "ㄉㄤˋ",
+                "ㄉㄤˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "水势浩大壮阔的样子。",
+                "citations": [
+                    {
+                        "text": "浩浩荡荡，遍十万而包大千。",
+                        "source": "五代·徐纶《阳城龙泉院记》"
+                    },
+                    {
+                        "text": "马步三军人等，浩浩荡荡，杀奔梁山泊来。",
+                        "source": "《水浒传》第五五回"
+                    }
+                ]
+            },
+            {
+                "definition": "形容气势雄壮，规模宏大。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "浩浩荡荡，遍十万而包大千。",
+                "source": "五代·徐纶《阳城龙泉院记》"
+            },
+            {
+                "text": "马步三军人等，浩浩荡荡，杀奔梁山泊来。",
+                "source": "《水浒传》第五五回"
+            }
+        ],
+        "synonyms": [
+            "汹涌澎湃",
+            "波澜壮阔",
+            "气壮山河",
+            "声势赫赫"
+        ],
+        "antonyms": [
+            "零零星星"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "vast and mighty"
+    },
+    "blocks": {
+        "reading": "hào hào dàng dàng",
+        "sense-1": "水势浩大壮阔的样子。",
+        "sense-2": "形容气势雄壮，规模宏大。",
+        "citation-1": "浩浩荡荡，遍十万而包大千。 — 五代·徐纶《阳城龙泉院记》",
+        "citation-2": "马步三军人等，浩浩荡荡，杀奔梁山泊来。 — 《水浒传》第五五回",
+        "synonyms": "汹涌澎湃、波澜壮阔、气壮山河、声势赫赫",
+        "antonyms": "零零星星"
+    }
+}

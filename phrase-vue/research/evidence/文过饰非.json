@@ -1,0 +1,68 @@
+{
+    "word": "文过饰非",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%96%87%E8%BF%87%E9%A5%B0%E9%9D%9E",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "c3337a2ee791ea4d62903ec1df50c7a53c1ce15750899a785ac2165480609b32",
+        "bytes": 27457
+    },
+    "parsed": {
+        "found": true,
+        "word": "文过饰非",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "wén",
+                "guò",
+                "shì",
+                "fēi"
+            ],
+            "zhuyin": [
+                "ㄨㄣˊ",
+                "ㄍㄨㄛˋ",
+                "ㄕˋ",
+                "ㄈㄟ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "用虚伪的言辞掩饰过错。",
+                "citations": [
+                    {
+                        "text": "岂与夫庸儒末学，文过饰非，使夫问者缄辞杜口，怀疑不展，若是而已哉！",
+                        "source": "唐·刘知几《史通·惑经》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "岂与夫庸儒末学，文过饰非，使夫问者缄辞杜口，怀疑不展，若是而已哉！",
+                "source": "唐·刘知几《史通·惑经》"
+            }
+        ],
+        "synonyms": [
+            "讳疾忌医",
+            "涂脂抹粉",
+            "掩罪藏恶"
+        ],
+        "antonyms": [
+            "欲盖弥彰",
+            "洗心革面"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "gloss over faults and cover up errors"
+    },
+    "blocks": {
+        "reading": "wén guò shì fēi",
+        "sense-1": "用虚伪的言辞掩饰过错。",
+        "citation-1": "岂与夫庸儒末学，文过饰非，使夫问者缄辞杜口，怀疑不展，若是而已哉！ — 唐·刘知几《史通·惑经》",
+        "synonyms": "讳疾忌医、涂脂抹粉、掩罪藏恶",
+        "antonyms": "欲盖弥彰、洗心革面"
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "word": "脱胎换骨",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%84%B1%E8%83%8E%E6%8D%A2%E9%AA%A8",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "f40bbfdab95519ee1bdd3541e387e24b84b573ec82ed1cd5676b6d27c7a41d90",
+        "bytes": 28355
+    },
+    "parsed": {
+        "found": true,
+        "word": "脱胎换骨",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "tuō",
+                "tāi",
+                "huàn",
+                "gǔ"
+            ],
+            "zhuyin": [
+                "ㄊㄨㄛ",
+                "ㄊㄞ",
+                "ㄏㄨㄢˋ",
+                "ㄍㄨˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "道教指修炼得道后脱去凡胎成仙体，换掉俗骨为仙骨。",
+                "citations": [
+                    {
+                        "text": "返老还童，脱胎换骨，饱养烟霞。",
+                        "source": "元·乔吉《折桂令·红梅徐德可索赋类卷》"
+                    },
+                    {
+                        "text": "余曾见僧仲璋一词云：\"万事悠悠输一醉，花酒休教离手。\"性甫句得非此词脱胎换骨否？",
+                        "source": "明·俞弁《逸老堂诗话》"
+                    }
+                ]
+            },
+            {
+                "definition": "比喻思想观念发生根本性的转变。",
+                "citations": []
+            },
+            {
+                "definition": "指诗文取法前人而能化出新意。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "返老还童，脱胎换骨，饱养烟霞。",
+                "source": "元·乔吉《折桂令·红梅徐德可索赋类卷》"
+            },
+            {
+                "text": "余曾见僧仲璋一词云：\"万事悠悠输一醉，花酒休教离手。\"性甫句得非此词脱胎换骨否？",
+                "source": "明·俞弁《逸老堂诗话》"
+            }
+        ],
+        "synonyms": [
+            "洗心革面"
+        ],
+        "antonyms": [
+            "执迷不悟",
+            "死不改悔"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "be reborn; completely transform oneself"
+    },
+    "blocks": {
+        "reading": "tuō tāi huàn gǔ",
+        "sense-1": "道教指修炼得道后脱去凡胎成仙体，换掉俗骨为仙骨。",
+        "sense-2": "比喻思想观念发生根本性的转变。",
+        "sense-3": "指诗文取法前人而能化出新意。",
+        "citation-1": "返老还童，脱胎换骨，饱养烟霞。 — 元·乔吉《折桂令·红梅徐德可索赋类卷》",
+        "citation-2": "余曾见僧仲璋一词云：\"万事悠悠输一醉，花酒休教离手。\"性甫句得非此词脱胎换骨否？ — 明·俞弁《逸老堂诗话》",
+        "synonyms": "洗心革面",
+        "antonyms": "执迷不悟、死不改悔"
+    }
+}

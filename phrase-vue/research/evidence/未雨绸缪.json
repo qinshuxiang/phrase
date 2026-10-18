@@ -1,0 +1,59 @@
+{
+    "word": "未雨绸缪",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%9C%AA%E9%9B%A8%E7%BB%B8%E7%BC%AA",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "ec8b664bceb5379e799edf144115cb65f2ad699d6905abc19c90c7047bd1252d",
+        "bytes": 28017
+    },
+    "parsed": {
+        "found": true,
+        "word": "未雨绸缪",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "wèi",
+                "yǔ",
+                "chóu",
+                "móu"
+            ],
+            "zhuyin": [
+                "ㄨㄟˋ",
+                "ㄩˇ",
+                "ㄔㄡˊ",
+                "ㄇㄡˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻事先做好准备，预防意外发生。",
+                "citations": [
+                    {
+                        "text": "天下多事之时，二者实为未雨绸缪之计，不可忽也。",
+                        "source": "明·高攀龙《申严宪约责成州县疏》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "天下多事之时，二者实为未雨绸缪之计，不可忽也。",
+                "source": "明·高攀龙《申严宪约责成州县疏》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "prepare in advance"
+    },
+    "blocks": {
+        "reading": "wèi yǔ chóu móu",
+        "sense-1": "比喻事先做好准备，预防意外发生。",
+        "citation-1": "天下多事之时，二者实为未雨绸缪之计，不可忽也。 — 明·高攀龙《申严宪约责成州县疏》"
+    }
+}

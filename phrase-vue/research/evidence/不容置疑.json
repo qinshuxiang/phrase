@@ -1,0 +1,67 @@
+{
+    "word": "不容置疑",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%8D%E5%AE%B9%E7%BD%AE%E7%96%91",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "08f2cacbe4f91200678bd3dae5352a511347843255fb3d1ac79f608cb642683e",
+        "bytes": 27269
+    },
+    "parsed": {
+        "found": true,
+        "word": "不容置疑",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bù",
+                "róng",
+                "zhì",
+                "yí"
+            ],
+            "zhuyin": [
+                "ㄅㄨˋ",
+                "ㄖㄨㄥˊ",
+                "ㄓˋ",
+                "ㄧˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "不允许有任何怀疑。",
+                "citations": [
+                    {
+                        "text": "盖其灵响暴著，亦有不容置疑者矣。",
+                        "source": "宋·陆游《严州乌龙广济庙碑》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "盖其灵响暴著，亦有不容置疑者矣。",
+                "source": "宋·陆游《严州乌龙广济庙碑》"
+            }
+        ],
+        "synonyms": [
+            "千真万确",
+            "无可置疑"
+        ],
+        "antonyms": [
+            "荒诞不经",
+            "无稽之谈"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "indubitable"
+    },
+    "blocks": {
+        "reading": "bù róng zhì yí",
+        "sense-1": "不允许有任何怀疑。",
+        "citation-1": "盖其灵响暴著，亦有不容置疑者矣。 — 宋·陆游《严州乌龙广济庙碑》",
+        "synonyms": "千真万确、无可置疑",
+        "antonyms": "荒诞不经、无稽之谈"
+    }
+}

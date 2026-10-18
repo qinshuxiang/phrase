@@ -1,0 +1,69 @@
+{
+    "word": "车水马龙",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%BD%A6%E6%B0%B4%E9%A9%AC%E9%BE%99",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "b4c08cf42d42f8510c7cee3682ae8499dbd6d70fa5cf708072c1e2d0f07b0738",
+        "bytes": 27879
+    },
+    "parsed": {
+        "found": true,
+        "word": "车水马龙",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "chē",
+                "shuǐ",
+                "mǎ",
+                "lóng"
+            ],
+            "zhuyin": [
+                "ㄔㄜ",
+                "ㄕㄨㄟˇ",
+                "ㄇㄚˇ",
+                "ㄌㄨㄥˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容车马往来不绝，繁华热闹的景象。",
+                "citations": [
+                    {
+                        "text": "前过濯龙门上，见外家问起居者，车如流水，马如游龙。",
+                        "source": "南朝宋·范晔《后汉书·皇后纪上》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "前过濯龙门上，见外家问起居者，车如流水，马如游龙。",
+                "source": "南朝宋·范晔《后汉书·皇后纪上》"
+            }
+        ],
+        "synonyms": [
+            "络绎不绝",
+            "门庭若市",
+            "华盖云集",
+            "肩摩毂击"
+        ],
+        "antonyms": [
+            "门庭冷落",
+            "门可罗雀"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "heavy traffic"
+    },
+    "blocks": {
+        "reading": "chē shuǐ mǎ lóng",
+        "sense-1": "形容车马往来不绝，繁华热闹的景象。",
+        "citation-1": "前过濯龙门上，见外家问起居者，车如流水，马如游龙。 — 南朝宋·范晔《后汉书·皇后纪上》",
+        "synonyms": "络绎不绝、门庭若市、华盖云集、肩摩毂击",
+        "antonyms": "门庭冷落、门可罗雀"
+    }
+}

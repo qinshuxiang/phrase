@@ -1,0 +1,66 @@
+{
+    "word": "越俎代庖",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%B6%8A%E4%BF%8E%E4%BB%A3%E5%BA%96",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "2dc45ab1f6d0f674176664de0070056a92f5978457b297a594eb3a5f847cf5de",
+        "bytes": 28651
+    },
+    "parsed": {
+        "found": true,
+        "word": "越俎代庖",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yuè",
+                "zǔ",
+                "dài",
+                "páo"
+            ],
+            "zhuyin": [
+                "ㄩㄝˋ",
+                "ㄗㄨˇ",
+                "ㄉㄞˋ",
+                "ㄆㄠˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "原意指人各有专职,庖人虽不尽职,主祭者也不越过戉俎去替他办席。比喻超越自己的职分而代人做事",
+                "citations": [
+                    {
+                        "text": "为何擅离职守,越俎代庖。",
+                        "source": "昆曲《十五贯》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "为何擅离职守,越俎代庖。",
+                "source": "昆曲《十五贯》"
+            }
+        ],
+        "synonyms": [
+            "包办代替",
+            "越职代理"
+        ],
+        "antonyms": [
+            "自力更生"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "take sb's job into one's own hand;exceed one’s functions and meddle in others’ affairs"
+    },
+    "blocks": {
+        "reading": "yuè zǔ dài páo",
+        "sense-1": "原意指人各有专职,庖人虽不尽职,主祭者也不越过戉俎去替他办席。比喻超越自己的职分而代人做事",
+        "citation-1": "为何擅离职守,越俎代庖。 — 昆曲《十五贯》",
+        "synonyms": "包办代替、越职代理",
+        "antonyms": "自力更生"
+    }
+}

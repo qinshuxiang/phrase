@@ -1,0 +1,54 @@
+{
+    "word": "停滞不前",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%81%9C%E6%BB%9E%E4%B8%8D%E5%89%8D",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "401ac65640218570bf74bdee19b5169fce351df9f7749c4128eeabd43a645e0a",
+        "bytes": 24623
+    },
+    "parsed": {
+        "found": true,
+        "word": "停滞不前",
+        "section": "idiom",
+        "readings": {
+            "pinyin": [
+                "tíng",
+                "zhì",
+                "bù",
+                "qián"
+            ],
+            "zhuyin": [
+                "ㄊㄧㄥˊ",
+                "ㄓˋ",
+                "ㄅㄨˋ",
+                "ㄑㄧㄢˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "滞：滞留。停止下来，不继续前进。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": {
+            "text": "社會是發展的、進步的，決不會停滯不前，或者倒退。",
+            "source": "停滞不前"
+        },
+        "grammar": "联合式；作谓语、宾语、定语；含贬义",
+        "example": "社会是发展的、进步的，决不会停滞不前，或者倒退。",
+        "english": ""
+    },
+    "blocks": {
+        "reading": "tíng zhì bù qián",
+        "sense-1": "滞：滞留。停止下来，不继续前进。",
+        "origin": "社會是發展的、進步的，決不會停滯不前，或者倒退。",
+        "grammar": "联合式；作谓语、宾语、定语；含贬义",
+        "example": "社会是发展的、进步的，决不会停滞不前，或者倒退。"
+    }
+}

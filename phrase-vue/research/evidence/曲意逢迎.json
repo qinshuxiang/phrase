@@ -1,0 +1,68 @@
+{
+    "word": "曲意逢迎",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%9B%B2%E6%84%8F%E9%80%A2%E8%BF%8E",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "97d813b38f0e2aa5fbedade93273d5df4b7d2c72f81ee05a663bcd8c1f8e7e7f",
+        "bytes": 27414
+    },
+    "parsed": {
+        "found": true,
+        "word": "曲意逢迎",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "qū",
+                "yì",
+                "féng",
+                "yíng"
+            ],
+            "zhuyin": [
+                "ㄑㄩ",
+                "ㄧˋ",
+                "ㄈㄥˊ",
+                "ㄧㄥˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "违背本心去迎合讨好他人。",
+                "citations": [
+                    {
+                        "text": "虽曲意奉迎，动辄得咎，人咸不平。",
+                        "source": "清·采蘅子《虫鸣漫录》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "虽曲意奉迎，动辄得咎，人咸不平。",
+                "source": "清·采蘅子《虫鸣漫录》"
+            }
+        ],
+        "synonyms": [
+            "低三下四",
+            "趋炎附势",
+            "曲意奉迎"
+        ],
+        "antonyms": [
+            "刚正不阿",
+            "直言不讳"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "ingratiate"
+    },
+    "blocks": {
+        "reading": "qū yì féng yíng",
+        "sense-1": "违背本心去迎合讨好他人。",
+        "citation-1": "虽曲意奉迎，动辄得咎，人咸不平。 — 清·采蘅子《虫鸣漫录》",
+        "synonyms": "低三下四、趋炎附势、曲意奉迎",
+        "antonyms": "刚正不阿、直言不讳"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "word": "目不转睛",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%9B%AE%E4%B8%8D%E8%BD%AC%E7%9D%9B",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "bfea52dea3d8e2f3569f795f4b49cd2b940968fb7775cdcfcf7cde52bc443342",
+        "bytes": 28267
+    },
+    "parsed": {
+        "found": true,
+        "word": "目不转睛",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "mù",
+                "bù",
+                "zhuǎn",
+                "jīng"
+            ],
+            "zhuyin": [
+                "ㄇㄨˋ",
+                "ㄅㄨˋ",
+                "ㄓㄨㄢˋ",
+                "ㄐㄧㄥ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "眼珠一动不动地注视。形容注意力高度集中。",
+                "citations": [
+                    {
+                        "text": "人刺其肌肤，不为挠却；刺其目，目不转睛逃避之矣。",
+                        "source": "汉·赵岐《孟子注》"
+                    },
+                    {
+                        "text": "子义燃烛危坐通晓，目不转睛，膝不移处。",
+                        "source": "晋·杨泉《物理论》"
+                    }
+                ]
+            },
+            {
+                "definition": "形容专注出神地观看。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "人刺其肌肤，不为挠却；刺其目，目不转睛逃避之矣。",
+                "source": "汉·赵岐《孟子注》"
+            },
+            {
+                "text": "子义燃烛危坐通晓，目不转睛，膝不移处。",
+                "source": "晋·杨泉《物理论》"
+            }
+        ],
+        "synonyms": [
+            "目不斜视",
+            "目不斜视﹑聚精会神﹑全神贯注﹑专心致志"
+        ],
+        "antonyms": [
+            "左顾右盼"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "stare fixedly"
+    },
+    "blocks": {
+        "reading": "mù bù zhuǎn jīng",
+        "sense-1": "眼珠一动不动地注视。形容注意力高度集中。",
+        "sense-2": "形容专注出神地观看。",
+        "citation-1": "人刺其肌肤，不为挠却；刺其目，目不转睛逃避之矣。 — 汉·赵岐《孟子注》",
+        "citation-2": "子义燃烛危坐通晓，目不转睛，膝不移处。 — 晋·杨泉《物理论》",
+        "synonyms": "目不斜视、目不斜视﹑聚精会神﹑全神贯注﹑专心致志",
+        "antonyms": "左顾右盼"
+    }
+}

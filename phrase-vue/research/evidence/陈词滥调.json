@@ -1,0 +1,66 @@
+{
+    "word": "陈词滥调",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%99%88%E8%AF%8D%E6%BB%A5%E8%B0%83",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "452365f5fe1fdfa96dc272d07c2586c98f707db51b3160766d8a214d6240c0e5",
+        "bytes": 23510
+    },
+    "parsed": {
+        "found": true,
+        "word": "陈词滥调",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "chén",
+                "cí",
+                "làn",
+                "diào"
+            ],
+            "zhuyin": [
+                "ㄔㄣˊ",
+                "ㄘˊ",
+                "ㄌㄢˋ",
+                "ㄉㄧㄠˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "陈旧空泛、缺乏新意的言词。",
+                "citations": [
+                    {
+                        "text": "逢年过节和皇帝生日以及皇家有喜庆时所上的表笺，照例由学校教官代作，虽然都是陈辞滥调，因为说的都是颂扬话，朱元璋很喜欢阅读。",
+                        "source": "吴晗《朱元璋传》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "逢年过节和皇帝生日以及皇家有喜庆时所上的表笺，照例由学校教官代作，虽然都是陈辞滥调，因为说的都是颂扬话，朱元璋很喜欢阅读。",
+                "source": "吴晗《朱元璋传》"
+            }
+        ],
+        "synonyms": [
+            "老生常谈",
+            "旧调重谈"
+        ],
+        "antonyms": [
+            "言简意赅"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "hackneyed expression"
+    },
+    "blocks": {
+        "reading": "chén cí làn diào",
+        "sense-1": "陈旧空泛、缺乏新意的言词。",
+        "citation-1": "逢年过节和皇帝生日以及皇家有喜庆时所上的表笺，照例由学校教官代作，虽然都是陈辞滥调，因为说的都是颂扬话，朱元璋很喜欢阅读。 — 吴晗《朱元璋传》",
+        "synonyms": "老生常谈、旧调重谈",
+        "antonyms": "言简意赅"
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "word": "急功近利",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%80%A5%E5%8A%9F%E8%BF%91%E5%88%A9",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "9330c74d8928f223bb6f9b305e10156ea67cd98471e4f11eeb0e5daf706542dc",
+        "bytes": 27989
+    },
+    "parsed": {
+        "found": true,
+        "word": "急功近利",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jí",
+                "gōng",
+                "jìn",
+                "lì"
+            ],
+            "zhuyin": [
+                "ㄐㄧˊ",
+                "ㄍㄨㄥ",
+                "ㄐㄧㄣˋ",
+                "ㄌㄧˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "急于求得成功,只图近期得利,形容目光短浅、胸无大志",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "贪功求名",
+            "急于求成",
+            "鼠目寸光"
+        ],
+        "antonyms": [
+            "深谋远虑",
+            "高瞻远瞩"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "be eager for quick success and instant benefit;seek quick success and instant benefits"
+    },
+    "blocks": {
+        "reading": "jí gōng jìn lì",
+        "sense-1": "急于求得成功,只图近期得利,形容目光短浅、胸无大志",
+        "synonyms": "贪功求名、急于求成、鼠目寸光",
+        "antonyms": "深谋远虑、高瞻远瞩"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "word": "安居乐业",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%AE%89%E5%B1%85%E4%B9%90%E4%B8%9A",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "c3ec3e922c666558b73faec5e8c6e8317756720d2ef13daea0859843962e5bf2",
+        "bytes": 28691
+    },
+    "parsed": {
+        "found": true,
+        "word": "安居乐业",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "ān",
+                "jū",
+                "lè",
+                "yè"
+            ],
+            "zhuyin": [
+                "ㄢ",
+                "ㄐㄩ",
+                "ㄌㄜˋ",
+                "ㄧㄝˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "安定生活，愉快工作。",
+                "citations": [
+                    {
+                        "text": "各安其居而乐其业，甘其食而美其服。",
+                        "source": "《汉书·货殖传序》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "各安其居而乐其业，甘其食而美其服。",
+                "source": "《汉书·货殖传序》"
+            }
+        ],
+        "synonyms": [
+            "国泰民安",
+            "丰衣足食",
+            "安身立命"
+        ],
+        "antonyms": [
+            "民不聊生",
+            "兵荒马乱",
+            "颠沛流离",
+            "流离转徙",
+            "流离失所",
+            "水深火热"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "live and work in peace"
+    },
+    "blocks": {
+        "reading": "ān jū lè yè",
+        "sense-1": "安定生活，愉快工作。",
+        "citation-1": "各安其居而乐其业，甘其食而美其服。 — 《汉书·货殖传序》",
+        "synonyms": "国泰民安、丰衣足食、安身立命",
+        "antonyms": "民不聊生、兵荒马乱、颠沛流离、流离转徙、流离失所、水深火热"
+    }
+}

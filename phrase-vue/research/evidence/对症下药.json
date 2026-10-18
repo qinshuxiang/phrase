@@ -1,0 +1,68 @@
+{
+    "word": "对症下药",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%AF%B9%E7%97%87%E4%B8%8B%E8%8D%AF",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "c5c5c9b0f620e33601f50503c6191f2bd58da4711ba6536cc2eeac7c19a2d004",
+        "bytes": 28088
+    },
+    "parsed": {
+        "found": true,
+        "word": "对症下药",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "duì",
+                "zhèng",
+                "xià",
+                "yào"
+            ],
+            "zhuyin": [
+                "ㄉㄨㄟˋ",
+                "ㄓㄥˋ",
+                "ㄒㄧㄚˋ",
+                "ㄧㄠˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "针对病症用药。比喻针对问题确定解决方法。",
+                "citations": [
+                    {
+                        "text": "克己复礼，便是捉得病根，对证下药。",
+                        "source": "《朱子语类》卷四一"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "克己复礼，便是捉得病根，对证下药。",
+                "source": "《朱子语类》卷四一"
+            }
+        ],
+        "synonyms": [
+            "因地制宜",
+            "有的放矢"
+        ],
+        "antonyms": [
+            "举措失当",
+            "隔靴搔痒",
+            "无的放矢"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "suit the remedy to the case"
+    },
+    "blocks": {
+        "reading": "duì zhèng xià yào",
+        "sense-1": "针对病症用药。比喻针对问题确定解决方法。",
+        "citation-1": "克己复礼，便是捉得病根，对证下药。 — 《朱子语类》卷四一",
+        "synonyms": "因地制宜、有的放矢",
+        "antonyms": "举措失当、隔靴搔痒、无的放矢"
+    }
+}

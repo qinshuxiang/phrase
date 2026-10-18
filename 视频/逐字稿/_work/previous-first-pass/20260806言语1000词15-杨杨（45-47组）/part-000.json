@@ -1,0 +1,498 @@
+{
+  "text": "简体中文。请不吝点赞 订阅 转发 打赏支持明镜与点点栏目优优独播剧场——YoYo Television Series Exclusive一刹那我却已无法自拔我们的爱总有时差也为你批自己放下爱炽热的你却忘了爱自己独自收集两个人之间的回忆其实每一当到这时候我都会哭泣为何一切变得如此无法回到过去但我仍愿意感谢你给过我爱情每一场风景都是我们爱的证明就算如今天歌一发祝你一生动听啊你对我说的奇话像转世界时的烟花只停在绽放一刹那我早已无法自拔下一首就是王子宏版的那首歌了对现在点不了了已经满了明天还会继续点歌的啊能不能听到老师的声音可以吗同学们好站起来站起来挺对的站起来因为你来的比较早前面就是我看大家就是点声发到超级特别帅让我们就是前面这个感觉都不错今天大家要想听这早点来了优优独播剧场——YoYo Television Series ExclusiveSo you think you knowSo you think you seeJust衝擊開手We love you, let me stand upNow you see me, now you don'tRash your gender, your money scoreSeal在其中,任盡所有只半死一場空在我手Now you see me now you're goneYou're the only",
+  "segments": [
+    {
+      "text": "简体中文。",
+      "start": 0.0,
+      "end": 2.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.786,
+      "compression_ratio": 0.625
+    },
+    {
+      "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "start": 30.0,
+      "end": 59.980000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1184,
+      "compression_ratio": 0.8514
+    },
+    {
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "start": 60.0,
+      "end": 89.98,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.0818,
+      "compression_ratio": 0.875
+    },
+    {
+      "text": "一刹那",
+      "start": 90.0,
+      "end": 91.14,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2729,
+      "compression_ratio": 1.2287
+    },
+    {
+      "text": "我却已无法自拔",
+      "start": 91.14,
+      "end": 94.3,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2729,
+      "compression_ratio": 1.2287
+    },
+    {
+      "text": "我们的爱",
+      "start": 94.3,
+      "end": 96.2,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2729,
+      "compression_ratio": 1.2287
+    },
+    {
+      "text": "总有时差",
+      "start": 96.2,
+      "end": 97.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2729,
+      "compression_ratio": 1.2287
+    },
+    {
+      "text": "也为你",
+      "start": 97.56,
+      "end": 99.12,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2729,
+      "compression_ratio": 1.2287
+    },
+    {
+      "text": "批自己放下",
+      "start": 99.12,
+      "end": 100.82,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2729,
+      "compression_ratio": 1.2287
+    },
+    {
+      "text": "爱炽热的你",
+      "start": 100.82,
+      "end": 103.02,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2729,
+      "compression_ratio": 1.2287
+    },
+    {
+      "text": "却忘了爱自己",
+      "start": 103.02,
+      "end": 105.42,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2729,
+      "compression_ratio": 1.2287
+    },
+    {
+      "text": "独自收集",
+      "start": 105.42,
+      "end": 109.08,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2729,
+      "compression_ratio": 1.2287
+    },
+    {
+      "text": "两个人之间的回忆",
+      "start": 109.08,
+      "end": 111.1,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2729,
+      "compression_ratio": 1.2287
+    },
+    {
+      "text": "其实每一当到这时候",
+      "start": 111.1,
+      "end": 113.02,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2729,
+      "compression_ratio": 1.2287
+    },
+    {
+      "text": "我都会哭泣",
+      "start": 113.02,
+      "end": 114.2,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2729,
+      "compression_ratio": 1.2287
+    },
+    {
+      "text": "为何一切变得如此",
+      "start": 114.2,
+      "end": 117.18,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2729,
+      "compression_ratio": 1.2287
+    },
+    {
+      "text": "无法回到过去",
+      "start": 117.18,
+      "end": 119.8,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2729,
+      "compression_ratio": 1.2287
+    },
+    {
+      "text": "但我仍愿意感谢你",
+      "start": 119.8,
+      "end": 122.7,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2127,
+      "compression_ratio": 1.217
+    },
+    {
+      "text": "给过我爱情",
+      "start": 122.7,
+      "end": 123.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2127,
+      "compression_ratio": 1.217
+    },
+    {
+      "text": "每一场风景",
+      "start": 123.84,
+      "end": 125.16,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2127,
+      "compression_ratio": 1.217
+    },
+    {
+      "text": "都是我们爱的证明",
+      "start": 125.16,
+      "end": 127.02,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2127,
+      "compression_ratio": 1.217
+    },
+    {
+      "text": "就算如今",
+      "start": 127.02,
+      "end": 128.48,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2127,
+      "compression_ratio": 1.217
+    },
+    {
+      "text": "天歌一发",
+      "start": 128.48,
+      "end": 130.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2127,
+      "compression_ratio": 1.217
+    },
+    {
+      "text": "祝你一生动听啊",
+      "start": 130.06,
+      "end": 132.78,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2127,
+      "compression_ratio": 1.217
+    },
+    {
+      "text": "你对我说的奇话",
+      "start": 132.78,
+      "end": 135.92,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2127,
+      "compression_ratio": 1.217
+    },
+    {
+      "text": "像转世界时的烟花",
+      "start": 135.92,
+      "end": 139.16,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2127,
+      "compression_ratio": 1.217
+    },
+    {
+      "text": "只停在绽放一刹那",
+      "start": 139.16,
+      "end": 142.26,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2127,
+      "compression_ratio": 1.217
+    },
+    {
+      "text": "我早已无法自拔",
+      "start": 142.26,
+      "end": 145.34,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2127,
+      "compression_ratio": 1.217
+    },
+    {
+      "text": "下一首就是王子宏版的",
+      "start": 145.34,
+      "end": 147.2,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2127,
+      "compression_ratio": 1.217
+    },
+    {
+      "text": "那首歌了",
+      "start": 147.2,
+      "end": 148.36,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2127,
+      "compression_ratio": 1.217
+    },
+    {
+      "text": "对",
+      "start": 148.36,
+      "end": 149.62,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2127,
+      "compression_ratio": 1.217
+    },
+    {
+      "text": "现在点不了了",
+      "start": 149.62,
+      "end": 150.92000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3795,
+      "compression_ratio": 0.9737
+    },
+    {
+      "text": "已经满了",
+      "start": 150.92000000000002,
+      "end": 151.82,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3795,
+      "compression_ratio": 0.9737
+    },
+    {
+      "text": "明天还会继续点歌的啊",
+      "start": 151.82,
+      "end": 154.38,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3795,
+      "compression_ratio": 0.9737
+    },
+    {
+      "text": "能不能听到老师的声音",
+      "start": 154.38,
+      "end": 158.62,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3795,
+      "compression_ratio": 0.9737
+    },
+    {
+      "text": "可以吗同学们",
+      "start": 158.62,
+      "end": 161.62,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3795,
+      "compression_ratio": 0.9737
+    },
+    {
+      "text": "好",
+      "start": 162.84,
+      "end": 173.24,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.3795,
+      "compression_ratio": 0.9737
+    },
+    {
+      "text": "站起来",
+      "start": 179.62,
+      "end": 185.86,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.5752,
+      "compression_ratio": 1.0286
+    },
+    {
+      "text": "站起来挺对的",
+      "start": 185.86,
+      "end": 187.62,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.5752,
+      "compression_ratio": 1.0286
+    },
+    {
+      "text": "站起来",
+      "start": 187.62,
+      "end": 189.86,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.5752,
+      "compression_ratio": 1.0286
+    },
+    {
+      "text": "因为你来的比较早",
+      "start": 189.86,
+      "end": 203.92000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.5752,
+      "compression_ratio": 1.0286
+    },
+    {
+      "text": "前面",
+      "start": 203.92000000000002,
+      "end": 206.1,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.5752,
+      "compression_ratio": 1.0286
+    },
+    {
+      "text": "就是",
+      "start": 206.1,
+      "end": 206.98000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.5752,
+      "compression_ratio": 1.0286
+    },
+    {
+      "text": "我看大家就是点声",
+      "start": 206.98,
+      "end": 209.61999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6578,
+      "compression_ratio": 1.025
+    },
+    {
+      "text": "发到超级特别帅",
+      "start": 209.61999999999998,
+      "end": 211.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6578,
+      "compression_ratio": 1.025
+    },
+    {
+      "text": "让我们就是",
+      "start": 211.06,
+      "end": 212.89999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6578,
+      "compression_ratio": 1.025
+    },
+    {
+      "text": "前面这个",
+      "start": 212.89999999999998,
+      "end": 214.07999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6578,
+      "compression_ratio": 1.025
+    },
+    {
+      "text": "感觉都不错",
+      "start": 214.07999999999998,
+      "end": 215.07999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6578,
+      "compression_ratio": 1.025
+    },
+    {
+      "text": "今天大家要想听",
+      "start": 215.07999999999998,
+      "end": 220.28,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6578,
+      "compression_ratio": 1.025
+    },
+    {
+      "text": "这早点来了",
+      "start": 220.28,
+      "end": 221.04,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.6578,
+      "compression_ratio": 1.025
+    },
+    {
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "start": 236.98,
+      "end": 266.96,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1819,
+      "compression_ratio": 0.875
+    },
+    {
+      "text": "So you think you know",
+      "start": 266.98,
+      "end": 269.42,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.7305,
+      "compression_ratio": 1.1552
+    },
+    {
+      "text": "So you think you see",
+      "start": 269.42,
+      "end": 273.98,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.7305,
+      "compression_ratio": 1.1552
+    },
+    {
+      "text": "Just衝擊開手",
+      "start": 273.98,
+      "end": 277.52000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.7305,
+      "compression_ratio": 1.1552
+    },
+    {
+      "text": "We love you, let me stand up",
+      "start": 277.52000000000004,
+      "end": 280.98,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.7305,
+      "compression_ratio": 1.1552
+    },
+    {
+      "text": "Now you see me, now you don't",
+      "start": 280.98,
+      "end": 286.44,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.7305,
+      "compression_ratio": 1.1552
+    },
+    {
+      "text": "Rash your gender, your money score",
+      "start": 286.44,
+      "end": 290.36,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.7305,
+      "compression_ratio": 1.1552
+    },
+    {
+      "text": "Seal在其中,任盡所有",
+      "start": 290.36,
+      "end": 294.26,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.7305,
+      "compression_ratio": 1.1552
+    },
+    {
+      "text": "只半死一場空在我手",
+      "start": 294.26,
+      "end": 296.58000000000004,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.7305,
+      "compression_ratio": 1.1552
+    },
+    {
+      "text": "Now you see me now you're gone",
+      "start": 296.58,
+      "end": 298.71999999999997,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.7465,
+      "compression_ratio": 1.0227
+    },
+    {
+      "text": "You're the only",
+      "start": 298.71999999999997,
+      "end": 299.9,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.7465,
+      "compression_ratio": 1.0227
+    }
+  ],
+  "index": 0,
+  "start": 0.0,
+  "duration": 300,
+  "elapsed": 13.3,
+  "ok": true
+}

@@ -1,0 +1,73 @@
+{
+    "word": "手足无措",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%89%8B%E8%B6%B3%E6%97%A0%E6%8E%AA",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "49432130cbc5a01f4e4ccdd9b7c0cba88cfdc3f3037025126d52c3e0a894432e",
+        "bytes": 28549
+    },
+    "parsed": {
+        "found": true,
+        "word": "手足无措",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shǒu",
+                "zú",
+                "wú",
+                "cuò"
+            ],
+            "zhuyin": [
+                "ㄕㄡˇ",
+                "ㄗㄨˊ",
+                "ㄨˊ",
+                "ㄘㄨㄛˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "手脚不知如何安放。形容惊慌失措的样子。",
+                "citations": [
+                    {
+                        "text": "若无礼，则手足无所措，耳目无所加，进退揖让无所制。",
+                        "source": "《礼记·仲尼燕居》"
+                    },
+                    {
+                        "text": "急得家人王定手足无措，三回五次催他回去。",
+                        "source": "《警世通言·玉堂春落难逢夫》"
+                    }
+                ]
+            },
+            {
+                "definition": "形容因慌乱而不知如何应对。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "若无礼，则手足无所措，耳目无所加，进退揖让无所制。",
+                "source": "《礼记·仲尼燕居》"
+            },
+            {
+                "text": "急得家人王定手足无措，三回五次催他回去。",
+                "source": "《警世通言·玉堂春落难逢夫》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "helpless"
+    },
+    "blocks": {
+        "reading": "shǒu zú wú cuò",
+        "sense-1": "手脚不知如何安放。形容惊慌失措的样子。",
+        "sense-2": "形容因慌乱而不知如何应对。",
+        "citation-1": "若无礼，则手足无所措，耳目无所加，进退揖让无所制。 — 《礼记·仲尼燕居》",
+        "citation-2": "急得家人王定手足无措，三回五次催他回去。 — 《警世通言·玉堂春落难逢夫》"
+    }
+}

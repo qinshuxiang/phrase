@@ -1,0 +1,62 @@
+{
+    "word": "李代桃僵",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%9D%8E%E4%BB%A3%E6%A1%83%E5%83%B5",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "4724c000bf1d9d9a1de42eafb7d55142df3af2ebd9bc6ae1fd051194a4ee3c81",
+        "bytes": 28415
+    },
+    "parsed": {
+        "found": true,
+        "word": "李代桃僵",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "lǐ",
+                "dài",
+                "táo",
+                "jiāng"
+            ],
+            "zhuyin": [
+                "ㄌㄧˇ",
+                "ㄉㄞˋ",
+                "ㄊㄠˊ",
+                "ㄐㄧㄤ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "古乐府《鸡鸣》:“桃生露井上,李树生桃傍。虫来啮桃根,李树代桃僵。”后来用“李代桃僵”比喻互相顶替或代人受过",
+                "citations": [
+                    {
+                        "text": "李代桃僵,羊易牛死。",
+                        "source": "明·凌濛初《二刻拍案惊奇》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "李代桃僵,羊易牛死。",
+                "source": "明·凌濛初《二刻拍案惊奇》"
+            }
+        ],
+        "synonyms": [
+            "代人受过"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "substitute one thing for another; substitute this for that"
+    },
+    "blocks": {
+        "reading": "lǐ dài táo jiāng",
+        "sense-1": "古乐府《鸡鸣》:“桃生露井上,李树生桃傍。虫来啮桃根,李树代桃僵。”后来用“李代桃僵”比喻互相顶替或代人受过",
+        "citation-1": "李代桃僵,羊易牛死。 — 明·凌濛初《二刻拍案惊奇》",
+        "synonyms": "代人受过"
+    }
+}

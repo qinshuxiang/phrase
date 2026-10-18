@@ -1,0 +1,69 @@
+{
+    "word": "掩人耳目",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%8E%A9%E4%BA%BA%E8%80%B3%E7%9B%AE",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "6e826732e904dd19909c5d77d1127007583b3d2b897b414d5979e8da1da3a06b",
+        "bytes": 27889
+    },
+    "parsed": {
+        "found": true,
+        "word": "掩人耳目",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yǎn",
+                "rén",
+                "ěr",
+                "mù"
+            ],
+            "zhuyin": [
+                "ㄧㄢˇ",
+                "ㄖㄣˊ",
+                "ㄦˇ",
+                "ㄇㄨˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "掩:遮盖。堵住人的耳朵,遮住人的眼睛。比喻以假象来蒙蔽别人",
+                "citations": [
+                    {
+                        "text": "那两个和尚,却不都烧死?又好掩人耳目。",
+                        "source": "《西游记》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "那两个和尚,却不都烧死?又好掩人耳目。",
+                "source": "《西游记》"
+            }
+        ],
+        "synonyms": [
+            "欲盖弥彰",
+            "偷天换日",
+            "瞒上欺下"
+        ],
+        "antonyms": [
+            "原形毕露",
+            "真心实意",
+            "光明磊落"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "deceive the public;hood wink people"
+    },
+    "blocks": {
+        "reading": "yǎn rén ěr mù",
+        "sense-1": "掩:遮盖。堵住人的耳朵,遮住人的眼睛。比喻以假象来蒙蔽别人",
+        "citation-1": "那两个和尚,却不都烧死?又好掩人耳目。 — 《西游记》",
+        "synonyms": "欲盖弥彰、偷天换日、瞒上欺下",
+        "antonyms": "原形毕露、真心实意、光明磊落"
+    }
+}

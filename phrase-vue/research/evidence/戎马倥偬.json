@@ -1,0 +1,67 @@
+{
+    "word": "戎马倥偬",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%88%8E%E9%A9%AC%E5%80%A5%E5%81%AC",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "14a16fa427fadece9c0c8a3965f5282b05845f685dbd4cbb170652f08941d58a",
+        "bytes": 25694
+    },
+    "parsed": {
+        "found": true,
+        "word": "戎马倥偬",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "róng",
+                "mǎ",
+                "kǒng",
+                "zǒng"
+            ],
+            "zhuyin": [
+                "ㄖㄨㄥˊ",
+                "ㄇㄚˇ",
+                "ㄎㄨㄥˇ",
+                "ㄗㄨㄥˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容战事繁忙紧迫。",
+                "citations": [
+                    {
+                        "text": "戎马倥偬之场，屡荷足下训诲指提。",
+                        "source": "明·卢象昇《与豫抚某书》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "戎马倥偬之场，屡荷足下训诲指提。",
+                "source": "明·卢象昇《与豫抚某书》"
+            }
+        ],
+        "synonyms": [
+            "戎马生涯",
+            "东征西讨"
+        ],
+        "antonyms": [
+            "安居乐业",
+            "安土重迁"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "busy with military affairs"
+    },
+    "blocks": {
+        "reading": "róng mǎ kǒng zǒng",
+        "sense-1": "形容战事繁忙紧迫。",
+        "citation-1": "戎马倥偬之场，屡荷足下训诲指提。 — 明·卢象昇《与豫抚某书》",
+        "synonyms": "戎马生涯、东征西讨",
+        "antonyms": "安居乐业、安土重迁"
+    }
+}

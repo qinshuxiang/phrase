@@ -1,0 +1,756 @@
+{
+  "text": "曲李龙涛周 söz记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记不愧谢谢我会再见等到你的出现天星人感受你的面前我们是国家公务员为严厉服务起行天兴党为共获花展心中为民用逃权青春年明中曾经休生一个极高热为人为本不疯狂地还怀念我空间还怀念我空间我们是国家公务员科学法战关机世界求着故事回红红一世去进终世界一把新政参观力有些高校不信别但我记得直接攻击强谱不明是信任强谱不明是信任不分什么家都不永远对人来不及信任其他人多好发展这种人命永好选我们和国家都明年我们和人民心相连我们幻见一心永远相见幻见一心永远相见我们和国家都明年我们和人民心相连我看见你生勇敢相见光是你心勇相见来完美来正好时间到了各位局长们都在好来挑个一我们就开始上课了多听也得多学是吧行啊都在哈好嘞好可以来我们今天下午来讲一下诗词的第二部分刚刚同学问了一下说老师这个成语啊诗词啊我要怎么复习就像我每节课最后啊这样一个环节我去提问你你自己也可以自我检测一下比如说今天学了哪些啊我梳理一下啊这个什么意思一般出现在什么样的这个语境搭配对象要注意一下它的侧重点是什么你给自己稍微梳理一下同时这是一个输入的过程输入完了之后还要干嘛还要输出输出怎么输出去做题目检测因为我们说逻辑填空你是要掌握词汇这是基础这是地基那搭完地基咱不是所有的题号可能这个词是认识的做题咱做不会那怎么办有一些技巧有一些方法的对应比如说我们系统班学到之前的这个逻辑的对应有一些这样一些因果的对应相同词这样一些用词一致的对应你看你脑子里有没有咱得学呀所以输入加输出两手一起来在通过做题的过程中再来回复再来检测一下哪些词我掌握的还是不太到位的这个是需要你查",
+  "segments": [
+    {
+      "text": "曲李龙涛周 söz记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记",
+      "start": 0.0,
+      "end": 30.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.2844,
+      "compression_ratio": 17.5
+    },
+    {
+      "text": "不愧谢谢",
+      "start": 30.0,
+      "end": 31.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.9949,
+      "compression_ratio": 0.8961
+    },
+    {
+      "text": "我会再见",
+      "start": 31.32,
+      "end": 33.86,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.9949,
+      "compression_ratio": 0.8961
+    },
+    {
+      "text": "等到你的出现",
+      "start": 33.86,
+      "end": 37.68,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.9949,
+      "compression_ratio": 0.8961
+    },
+    {
+      "text": "天星人",
+      "start": 37.68,
+      "end": 39.92,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.9949,
+      "compression_ratio": 0.8961
+    },
+    {
+      "text": "感受你的面前",
+      "start": 39.92,
+      "end": 43.58,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.9949,
+      "compression_ratio": 0.8961
+    },
+    {
+      "text": "我们是国家公务员",
+      "start": 60.0,
+      "end": 74.4,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.644,
+      "compression_ratio": 0.9474
+    },
+    {
+      "text": "为严厉服务起行天",
+      "start": 74.4,
+      "end": 78.53999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.644,
+      "compression_ratio": 0.9474
+    },
+    {
+      "text": "兴党为共获花展",
+      "start": 78.53999999999999,
+      "end": 82.68,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.644,
+      "compression_ratio": 0.9474
+    },
+    {
+      "text": "心中为民用逃权",
+      "start": 82.68,
+      "end": 86.64,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.644,
+      "compression_ratio": 0.9474
+    },
+    {
+      "text": "青春年明中曾经",
+      "start": 86.64,
+      "end": 90.96000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.8076,
+      "compression_ratio": 1.0625
+    },
+    {
+      "text": "休生一个极高热",
+      "start": 90.96000000000001,
+      "end": 95.06,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.8076,
+      "compression_ratio": 1.0625
+    },
+    {
+      "text": "为人为本不疯狂地",
+      "start": 95.06,
+      "end": 99.22,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.8076,
+      "compression_ratio": 1.0625
+    },
+    {
+      "text": "还怀念我空间",
+      "start": 99.22,
+      "end": 102.1,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.8076,
+      "compression_ratio": 1.0625
+    },
+    {
+      "text": "还怀念我空间",
+      "start": 102.1,
+      "end": 106.18,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.8076,
+      "compression_ratio": 1.0625
+    },
+    {
+      "text": "我们是国家公务员",
+      "start": 116.64,
+      "end": 121.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.7797,
+      "compression_ratio": 1.0476
+    },
+    {
+      "text": "科学法战关机世界",
+      "start": 121.56,
+      "end": 125.48,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.7797,
+      "compression_ratio": 1.0476
+    },
+    {
+      "text": "求着故事回红红",
+      "start": 125.48,
+      "end": 129.82,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.7797,
+      "compression_ratio": 1.0476
+    },
+    {
+      "text": "一世去进终世界",
+      "start": 129.82,
+      "end": 133.02,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.7797,
+      "compression_ratio": 1.0476
+    },
+    {
+      "text": "一把新政参观力",
+      "start": 133.02,
+      "end": 138.1,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.7797,
+      "compression_ratio": 1.0476
+    },
+    {
+      "text": "有些高校不信别",
+      "start": 138.1,
+      "end": 142.18,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.7797,
+      "compression_ratio": 1.0476
+    },
+    {
+      "text": "但我记得直接攻击",
+      "start": 142.18,
+      "end": 146.12,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.8574,
+      "compression_ratio": 1.2093
+    },
+    {
+      "text": "强谱不明是信任",
+      "start": 146.12,
+      "end": 149.16,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.8574,
+      "compression_ratio": 1.2093
+    },
+    {
+      "text": "强谱不明是信任",
+      "start": 149.16,
+      "end": 154.4,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.8574,
+      "compression_ratio": 1.2093
+    },
+    {
+      "text": "不分什么家都不永远",
+      "start": 154.4,
+      "end": 158.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.8574,
+      "compression_ratio": 1.2093
+    },
+    {
+      "text": "对人来不及信任",
+      "start": 158.84,
+      "end": 162.4,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.8574,
+      "compression_ratio": 1.2093
+    },
+    {
+      "text": "其他人多好发展",
+      "start": 162.4,
+      "end": 166.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.8574,
+      "compression_ratio": 1.2093
+    },
+    {
+      "text": "这种人命永好选",
+      "start": 166.84,
+      "end": 169.64000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.8574,
+      "compression_ratio": 1.2093
+    },
+    {
+      "text": "我们和国家都明年",
+      "start": 169.64,
+      "end": 175.01999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4185,
+      "compression_ratio": 1.8519
+    },
+    {
+      "text": "我们和人民心相连",
+      "start": 175.01999999999998,
+      "end": 179.11999999999998,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4185,
+      "compression_ratio": 1.8519
+    },
+    {
+      "text": "我们幻见一心永远相见",
+      "start": 179.11999999999998,
+      "end": 183.27999999999997,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4185,
+      "compression_ratio": 1.8519
+    },
+    {
+      "text": "幻见一心永远相见",
+      "start": 183.27999999999997,
+      "end": 186.1,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4185,
+      "compression_ratio": 1.8519
+    },
+    {
+      "text": "我们和国家都明年",
+      "start": 186.1,
+      "end": 191.33999999999997,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4185,
+      "compression_ratio": 1.8519
+    },
+    {
+      "text": "我们和人民心相连",
+      "start": 191.33999999999997,
+      "end": 195.42,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4185,
+      "compression_ratio": 1.8519
+    },
+    {
+      "text": "我看见你生勇敢相见",
+      "start": 195.42,
+      "end": 199.7,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4451,
+      "compression_ratio": 1.0667
+    },
+    {
+      "text": "光是你心勇相见",
+      "start": 199.7,
+      "end": 203.1,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4451,
+      "compression_ratio": 1.0667
+    },
+    {
+      "text": "来完美",
+      "start": 203.1,
+      "end": 216.2,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4451,
+      "compression_ratio": 1.0667
+    },
+    {
+      "text": "来正好时间到了",
+      "start": 216.2,
+      "end": 217.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4451,
+      "compression_ratio": 1.0667
+    },
+    {
+      "text": "各位局长们都在好来挑个一",
+      "start": 217.56,
+      "end": 220.38,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4451,
+      "compression_ratio": 1.0667
+    },
+    {
+      "text": "我们就开始上课了",
+      "start": 220.38,
+      "end": 221.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4451,
+      "compression_ratio": 1.0667
+    },
+    {
+      "text": "多听",
+      "start": 221.56,
+      "end": 224.85999999999999,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.4451,
+      "compression_ratio": 1.0667
+    },
+    {
+      "text": "也得多学",
+      "start": 224.86,
+      "end": 226.20000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1406,
+      "compression_ratio": 1.4211
+    },
+    {
+      "text": "是吧",
+      "start": 226.20000000000002,
+      "end": 226.86,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1406,
+      "compression_ratio": 1.4211
+    },
+    {
+      "text": "行啊",
+      "start": 226.86,
+      "end": 229.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1406,
+      "compression_ratio": 1.4211
+    },
+    {
+      "text": "都在哈",
+      "start": 229.56,
+      "end": 230.20000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1406,
+      "compression_ratio": 1.4211
+    },
+    {
+      "text": "好嘞",
+      "start": 230.20000000000002,
+      "end": 231.28,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1406,
+      "compression_ratio": 1.4211
+    },
+    {
+      "text": "好可以",
+      "start": 231.28,
+      "end": 233.20000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1406,
+      "compression_ratio": 1.4211
+    },
+    {
+      "text": "来我们今天下午来讲一下诗词的第二部分",
+      "start": 233.20000000000002,
+      "end": 236.78,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1406,
+      "compression_ratio": 1.4211
+    },
+    {
+      "text": "刚刚同学问了一下",
+      "start": 236.78,
+      "end": 237.8,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1406,
+      "compression_ratio": 1.4211
+    },
+    {
+      "text": "说老师这个成语啊诗词啊",
+      "start": 237.8,
+      "end": 240.14000000000001,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1406,
+      "compression_ratio": 1.4211
+    },
+    {
+      "text": "我要怎么复习",
+      "start": 240.14000000000001,
+      "end": 240.9,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1406,
+      "compression_ratio": 1.4211
+    },
+    {
+      "text": "就像我每节课最后啊",
+      "start": 240.9,
+      "end": 243.08,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1406,
+      "compression_ratio": 1.4211
+    },
+    {
+      "text": "这样一个环节",
+      "start": 243.08,
+      "end": 243.8,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1406,
+      "compression_ratio": 1.4211
+    },
+    {
+      "text": "我去提问你",
+      "start": 243.8,
+      "end": 244.68,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1406,
+      "compression_ratio": 1.4211
+    },
+    {
+      "text": "你自己也可以自我检测一下",
+      "start": 244.68,
+      "end": 246.62,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1406,
+      "compression_ratio": 1.4211
+    },
+    {
+      "text": "比如说今天学了哪些啊",
+      "start": 246.62,
+      "end": 248.26000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1406,
+      "compression_ratio": 1.4211
+    },
+    {
+      "text": "我梳理一下啊",
+      "start": 248.26000000000002,
+      "end": 249.58,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1406,
+      "compression_ratio": 1.4211
+    },
+    {
+      "text": "这个什么意思",
+      "start": 249.58,
+      "end": 250.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1406,
+      "compression_ratio": 1.4211
+    },
+    {
+      "text": "一般出现在什么样的这个语境搭配对象",
+      "start": 250.56,
+      "end": 253.70000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1406,
+      "compression_ratio": 1.4211
+    },
+    {
+      "text": "要注意一下",
+      "start": 253.70000000000002,
+      "end": 254.32000000000002,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1406,
+      "compression_ratio": 1.4211
+    },
+    {
+      "text": "它的侧重点是什么",
+      "start": 254.32,
+      "end": 255.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1047,
+      "compression_ratio": 1.4497
+    },
+    {
+      "text": "你给自己稍微梳理一下",
+      "start": 255.32,
+      "end": 256.9,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1047,
+      "compression_ratio": 1.4497
+    },
+    {
+      "text": "同时这是一个输入的过程",
+      "start": 256.9,
+      "end": 258.98,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1047,
+      "compression_ratio": 1.4497
+    },
+    {
+      "text": "输入完了之后还要干嘛",
+      "start": 258.98,
+      "end": 260.65999999999997,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1047,
+      "compression_ratio": 1.4497
+    },
+    {
+      "text": "还要输出",
+      "start": 260.65999999999997,
+      "end": 261.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1047,
+      "compression_ratio": 1.4497
+    },
+    {
+      "text": "输出怎么输出",
+      "start": 261.84,
+      "end": 263.18,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1047,
+      "compression_ratio": 1.4497
+    },
+    {
+      "text": "去做题目检测",
+      "start": 263.18,
+      "end": 264.46,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1047,
+      "compression_ratio": 1.4497
+    },
+    {
+      "text": "因为我们说逻辑填空",
+      "start": 264.46,
+      "end": 266.15999999999997,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1047,
+      "compression_ratio": 1.4497
+    },
+    {
+      "text": "你是要掌握词汇",
+      "start": 266.15999999999997,
+      "end": 268.3,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1047,
+      "compression_ratio": 1.4497
+    },
+    {
+      "text": "这是基础",
+      "start": 268.3,
+      "end": 269.46,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1047,
+      "compression_ratio": 1.4497
+    },
+    {
+      "text": "这是地基",
+      "start": 269.46,
+      "end": 270.21999999999997,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1047,
+      "compression_ratio": 1.4497
+    },
+    {
+      "text": "那搭完地基",
+      "start": 270.21999999999997,
+      "end": 271.71999999999997,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1047,
+      "compression_ratio": 1.4497
+    },
+    {
+      "text": "咱不是所有的题号",
+      "start": 271.71999999999997,
+      "end": 273.02,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1047,
+      "compression_ratio": 1.4497
+    },
+    {
+      "text": "可能这个词是认识的",
+      "start": 273.02,
+      "end": 274.76,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1047,
+      "compression_ratio": 1.4497
+    },
+    {
+      "text": "做题咱做不会",
+      "start": 274.76,
+      "end": 276.08,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1047,
+      "compression_ratio": 1.4497
+    },
+    {
+      "text": "那怎么办",
+      "start": 276.08,
+      "end": 276.56,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1047,
+      "compression_ratio": 1.4497
+    },
+    {
+      "text": "有一些技巧",
+      "start": 276.56,
+      "end": 277.5,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1047,
+      "compression_ratio": 1.4497
+    },
+    {
+      "text": "有一些方法的对应",
+      "start": 277.5,
+      "end": 278.7,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1047,
+      "compression_ratio": 1.4497
+    },
+    {
+      "text": "比如说我们系统班学到",
+      "start": 278.7,
+      "end": 279.92,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1047,
+      "compression_ratio": 1.4497
+    },
+    {
+      "text": "之前的这个逻辑的对应",
+      "start": 279.92,
+      "end": 282.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1047,
+      "compression_ratio": 1.4497
+    },
+    {
+      "text": "有一些这样一些因果的对应",
+      "start": 282.32,
+      "end": 284.36,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1197,
+      "compression_ratio": 1.3
+    },
+    {
+      "text": "相同词",
+      "start": 284.36,
+      "end": 285.48,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1197,
+      "compression_ratio": 1.3
+    },
+    {
+      "text": "这样一些用词一致的对应",
+      "start": 285.48,
+      "end": 287.08,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1197,
+      "compression_ratio": 1.3
+    },
+    {
+      "text": "你看你脑子里有没有",
+      "start": 287.08,
+      "end": 288.18,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1197,
+      "compression_ratio": 1.3
+    },
+    {
+      "text": "咱得学呀",
+      "start": 288.18,
+      "end": 289.26,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1197,
+      "compression_ratio": 1.3
+    },
+    {
+      "text": "所以输入加输出",
+      "start": 289.26,
+      "end": 291.18,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1197,
+      "compression_ratio": 1.3
+    },
+    {
+      "text": "两手一起来",
+      "start": 291.18,
+      "end": 292.32,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1197,
+      "compression_ratio": 1.3
+    },
+    {
+      "text": "在通过做题的过程中",
+      "start": 292.32,
+      "end": 294.3,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1197,
+      "compression_ratio": 1.3
+    },
+    {
+      "text": "再来回复",
+      "start": 294.3,
+      "end": 295.0,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1197,
+      "compression_ratio": 1.3
+    },
+    {
+      "text": "再来检测一下",
+      "start": 295.0,
+      "end": 295.84,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1197,
+      "compression_ratio": 1.3
+    },
+    {
+      "text": "哪些词我掌握的还是不太到位的",
+      "start": 295.84,
+      "end": 298.9,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1197,
+      "compression_ratio": 1.3
+    },
+    {
+      "text": "这个是需要你查",
+      "start": 298.9,
+      "end": 300.02,
+      "no_speech_prob": 0.0,
+      "avg_logprob": -0.1197,
+      "compression_ratio": 1.3
+    }
+  ],
+  "repairs": [
+    {
+      "start": 0.0,
+      "end": 30.0,
+      "old_text": "曲李龙涛周 söz记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记记",
+      "new_text": "词曲统筹词�连词�连词�连词�连词�连词�连词�连词�连词�连词�连词�连词�连词�连词�连词�连词�连词�连词�连词�连词�连词�连词�连词�连词�连词�连词�连词�连词�连词�连词�连词�连词�连词�连词�连词�连词�连",
+      "accepted": false
+    }
+  ],
+  "index": 1,
+  "start": 300.0,
+  "duration": 300,
+  "elapsed": 95.4,
+  "ok": true,
+  "initial_prompt": "四海公考，公务员考试，言语理解与表达，逻辑填空，高频实词，成语辨析，语义侧重，感情色彩，搭配对象，适用语境，易混词，例句。简体中文。课件词条：沉淀，积累。"
+}

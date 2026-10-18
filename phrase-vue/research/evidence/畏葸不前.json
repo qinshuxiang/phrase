@@ -1,0 +1,67 @@
+{
+    "word": "畏葸不前",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%95%8F%E8%91%B8%E4%B8%8D%E5%89%8D",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "a532de8e700c35d4f63948ced67aa12452ef755c6013ab214b6c74cb6d365e7f",
+        "bytes": 26968
+    },
+    "parsed": {
+        "found": true,
+        "word": "畏葸不前",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "wèi",
+                "xǐ",
+                "bù",
+                "qián"
+            ],
+            "zhuyin": [
+                "ㄨㄟˋ",
+                "ㄒㄧˇ",
+                "ㄅㄨˋ",
+                "ㄑㄧㄢˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "畏惧胆怯而不敢前进。",
+                "citations": [
+                    {
+                        "text": "以扈从行围畏葸不前，褫丰安公爵、田国思侯爵，阿里袞罢领侍卫内大臣。",
+                        "source": "《清史稿•高宗纪二》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "以扈从行围畏葸不前，褫丰安公爵、田国思侯爵，阿里袞罢领侍卫内大臣。",
+                "source": "《清史稿•高宗纪二》"
+            }
+        ],
+        "synonyms": [
+            "胆战心惊",
+            "望而却步"
+        ],
+        "antonyms": [
+            "无所畏惧",
+            "勇往直前"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "hesitate to advance"
+    },
+    "blocks": {
+        "reading": "wèi xǐ bù qián",
+        "sense-1": "畏惧胆怯而不敢前进。",
+        "citation-1": "以扈从行围畏葸不前，褫丰安公爵、田国思侯爵，阿里袞罢领侍卫内大臣。 — 《清史稿•高宗纪二》",
+        "synonyms": "胆战心惊、望而却步",
+        "antonyms": "无所畏惧、勇往直前"
+    }
+}

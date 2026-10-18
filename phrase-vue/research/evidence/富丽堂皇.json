@@ -1,0 +1,68 @@
+{
+    "word": "富丽堂皇",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%AF%8C%E4%B8%BD%E5%A0%82%E7%9A%87",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "4f6e51fa3ed0736a4c0eb5c31c67447945e833e4ffbf48ec4d5bb93c07711f0d",
+        "bytes": 27174
+    },
+    "parsed": {
+        "found": true,
+        "word": "富丽堂皇",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "fù",
+                "lì",
+                "táng",
+                "huáng"
+            ],
+            "zhuyin": [
+                "ㄈㄨˋ",
+                "ㄌㄧˋ",
+                "ㄊㄤˊ",
+                "ㄏㄨㄤˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容建筑或装饰宏伟华丽，气势盛大。",
+                "citations": [
+                    {
+                        "text": "连忙灯下一看，只见当朝圣人出的是三个富丽堂皇的题目，想着自然要取几篇笔歌墨舞的文章，且喜正合自己的墨路。",
+                        "source": "清·文康《儿女英雄传》第三四回"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "连忙灯下一看，只见当朝圣人出的是三个富丽堂皇的题目，想着自然要取几篇笔歌墨舞的文章，且喜正合自己的墨路。",
+                "source": "清·文康《儿女英雄传》第三四回"
+            }
+        ],
+        "synonyms": [
+            "金碧辉煌",
+            "美仑美奂"
+        ],
+        "antonyms": [
+            "家徒四壁",
+            "家贫如洗",
+            "寒微简陋"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "magnificent"
+    },
+    "blocks": {
+        "reading": "fù lì táng huáng",
+        "sense-1": "形容建筑或装饰宏伟华丽，气势盛大。",
+        "citation-1": "连忙灯下一看，只见当朝圣人出的是三个富丽堂皇的题目，想着自然要取几篇笔歌墨舞的文章，且喜正合自己的墨路。 — 清·文康《儿女英雄传》第三四回",
+        "synonyms": "金碧辉煌、美仑美奂",
+        "antonyms": "家徒四壁、家贫如洗、寒微简陋"
+    }
+}

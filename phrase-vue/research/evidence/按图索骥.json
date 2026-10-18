@@ -1,0 +1,81 @@
+{
+    "word": "按图索骥",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%8C%89%E5%9B%BE%E7%B4%A2%E9%AA%A5",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "988171e70572294c46811ffb047dd6b300f79fbfa3d22888c202a1312f7d89bc",
+        "bytes": 28538
+    },
+    "parsed": {
+        "found": true,
+        "word": "按图索骥",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "àn",
+                "tú",
+                "suǒ",
+                "jì"
+            ],
+            "zhuyin": [
+                "ㄢˋ",
+                "ㄊㄨˊ",
+                "ㄙㄨㄛˇ",
+                "ㄐㄧˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "按照图像寻找良马。比喻拘泥成法办事。",
+                "citations": [
+                    {
+                        "text": "每见一班按图索骥者，多失于骊黄牝牡。",
+                        "source": "元·赵汸《葬书问对》"
+                    },
+                    {
+                        "text": "遂按图索骏，凡百余品皆六朝神品。",
+                        "source": "宋·周密《癸辛杂识后集·向氏书画》"
+                    }
+                ]
+            },
+            {
+                "definition": "按照线索去寻找，易于获得。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "每见一班按图索骥者，多失于骊黄牝牡。",
+                "source": "元·赵汸《葬书问对》"
+            },
+            {
+                "text": "遂按图索骏，凡百余品皆六朝神品。",
+                "source": "宋·周密《癸辛杂识后集·向氏书画》"
+            }
+        ],
+        "synonyms": [
+            "照本宣科",
+            "生搬硬套"
+        ],
+        "antonyms": [
+            "不落窠臼",
+            "无迹可寻"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "look for a steed with the aid of its picture"
+    },
+    "blocks": {
+        "reading": "àn tú suǒ jì",
+        "sense-1": "按照图像寻找良马。比喻拘泥成法办事。",
+        "sense-2": "按照线索去寻找，易于获得。",
+        "citation-1": "每见一班按图索骥者，多失于骊黄牝牡。 — 元·赵汸《葬书问对》",
+        "citation-2": "遂按图索骏，凡百余品皆六朝神品。 — 宋·周密《癸辛杂识后集·向氏书画》",
+        "synonyms": "照本宣科、生搬硬套",
+        "antonyms": "不落窠臼、无迹可寻"
+    }
+}

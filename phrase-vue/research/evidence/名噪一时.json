@@ -1,0 +1,59 @@
+{
+    "word": "名噪一时",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%90%8D%E5%99%AA%E4%B8%80%E6%97%B6",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "0e88d64d3f5ea17154e4c9aff5e57f8c0740787a46205e89072699ac66cc96e2",
+        "bytes": 24928
+    },
+    "parsed": {
+        "found": true,
+        "word": "名噪一时",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "míng",
+                "zào",
+                "yī",
+                "shí"
+            ],
+            "zhuyin": [
+                "ㄇㄧㄥˊ",
+                "ㄗㄠˋ",
+                "ㄧ",
+                "ㄕˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "名声在一个时期内广为传扬。",
+                "citations": [
+                    {
+                        "text": "犹忆戊子春，娄上王辰玉、松江董元宰入都，名噪一时，士人皆以前茅让之，无一异词者。",
+                        "source": "明·沈德符《野获编·科场三·国师阅文偶误》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "犹忆戊子春，娄上王辰玉、松江董元宰入都，名噪一时，士人皆以前茅让之，无一异词者。",
+                "source": "明·沈德符《野获编·科场三·国师阅文偶误》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "famous for a time"
+    },
+    "blocks": {
+        "reading": "míng zào yī shí",
+        "sense-1": "名声在一个时期内广为传扬。",
+        "citation-1": "犹忆戊子春，娄上王辰玉、松江董元宰入都，名噪一时，士人皆以前茅让之，无一异词者。 — 明·沈德符《野获编·科场三·国师阅文偶误》"
+    }
+}

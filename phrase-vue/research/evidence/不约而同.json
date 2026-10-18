@@ -1,0 +1,70 @@
+{
+    "word": "不约而同",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%8D%E7%BA%A6%E8%80%8C%E5%90%8C",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "c2e7497bd81ad0af8a940f8a3bb8dc44192d3b19a98fd47b71a4e3f48a901740",
+        "bytes": 27763
+    },
+    "parsed": {
+        "found": true,
+        "word": "不约而同",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bù",
+                "yuē",
+                "ér",
+                "tóng"
+            ],
+            "zhuyin": [
+                "ㄅㄨˋ",
+                "ㄩㄝ",
+                "ㄦˊ",
+                "ㄊㄨㄥˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "未经商量而彼此的行动或意见一致。",
+                "citations": [
+                    {
+                        "text": "其徒有今日悟道而明日醉酒骂人者，尝举贾生论胡亥语戏之，今乃复见此，盖不约而同也。",
+                        "source": "宋·朱熹《答汪长孺书》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "其徒有今日悟道而明日醉酒骂人者，尝举贾生论胡亥语戏之，今乃复见此，盖不约而同也。",
+                "source": "宋·朱熹《答汪长孺书》"
+            }
+        ],
+        "synonyms": [
+            "不谋而合",
+            "殊途同归",
+            "异口同声",
+            "不谋而合﹑不约而合"
+        ],
+        "antonyms": [
+            "众说纷纭",
+            "言人人殊",
+            "见仁见智"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "coincidentally"
+    },
+    "blocks": {
+        "reading": "bù yuē ér tóng",
+        "sense-1": "未经商量而彼此的行动或意见一致。",
+        "citation-1": "其徒有今日悟道而明日醉酒骂人者，尝举贾生论胡亥语戏之，今乃复见此，盖不约而同也。 — 宋·朱熹《答汪长孺书》",
+        "synonyms": "不谋而合、殊途同归、异口同声、不谋而合﹑不约而合",
+        "antonyms": "众说纷纭、言人人殊、见仁见智"
+    }
+}

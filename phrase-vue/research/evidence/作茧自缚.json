@@ -1,0 +1,81 @@
+{
+    "word": "作茧自缚",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%BD%9C%E8%8C%A7%E8%87%AA%E7%BC%9A",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "a21bf282ad46407f1414968f54977154679e9a5377923169c4978271d0162ac3",
+        "bytes": 27322
+    },
+    "parsed": {
+        "found": true,
+        "word": "作茧自缚",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zuò",
+                "jiǎn",
+                "zì",
+                "fù"
+            ],
+            "zhuyin": [
+                "ㄗㄨㄛˋ",
+                "ㄐㄧㄢˇ",
+                "ㄗˋ",
+                "ㄈㄨˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "蚕吐丝结茧将自己包裹起来。比喻人做事使自己陷入困境。",
+                "citations": [
+                    {
+                        "text": "菩萨散诞灵通，所作常含妙觉。声闻执法坐禅，如蚕吐丝自缚。",
+                        "source": "南朝梁·宝誌《誌公和尚十四科颂·善恶不二》"
+                    },
+                    {
+                        "text": "人生如春蚕，作茧自缚裹。",
+                        "source": "宋·陆游《书叹》诗"
+                    }
+                ]
+            },
+            {
+                "definition": "比喻自我束缚或限制。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "菩萨散诞灵通，所作常含妙觉。声闻执法坐禅，如蚕吐丝自缚。",
+                "source": "南朝梁·宝誌《誌公和尚十四科颂·善恶不二》"
+            },
+            {
+                "text": "人生如春蚕，作茧自缚裹。",
+                "source": "宋·陆游《书叹》诗"
+            }
+        ],
+        "synonyms": [
+            "作法自毙",
+            "自讨苦吃",
+            "自作自受"
+        ],
+        "antonyms": [
+            "嫁祸于人"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "cocoon oneself in silk"
+    },
+    "blocks": {
+        "reading": "zuò jiǎn zì fù",
+        "sense-1": "蚕吐丝结茧将自己包裹起来。比喻人做事使自己陷入困境。",
+        "sense-2": "比喻自我束缚或限制。",
+        "citation-1": "菩萨散诞灵通，所作常含妙觉。声闻执法坐禅，如蚕吐丝自缚。 — 南朝梁·宝誌《誌公和尚十四科颂·善恶不二》",
+        "citation-2": "人生如春蚕，作茧自缚裹。 — 宋·陆游《书叹》诗",
+        "synonyms": "作法自毙、自讨苦吃、自作自受",
+        "antonyms": "嫁祸于人"
+    }
+}

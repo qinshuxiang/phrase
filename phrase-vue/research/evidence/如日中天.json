@@ -1,0 +1,56 @@
+{
+    "word": "如日中天",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A6%82%E6%97%A5%E4%B8%AD%E5%A4%A9",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "7db3a04f234e4964eb82a6f97f0fdccf41bb565dba6bedf8b0c3fd54f669ec18",
+        "bytes": 26974
+    },
+    "parsed": {
+        "found": true,
+        "word": "如日中天",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "rú",
+                "rì",
+                "zhōng",
+                "tiān"
+            ],
+            "zhuyin": [
+                "ㄖㄨˊ",
+                "ㄖㄧˋ",
+                "ㄓㄨㄥ",
+                "ㄊㄧㄢ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "像正午的太阳。比喻事物正在兴旺的时候",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "方兴未艾",
+            "蓬勃发展"
+        ],
+        "antonyms": [
+            "日薄西山",
+            "桑榆暮景"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "like the sun at high noon;at the apex(或zenith)of one's power"
+    },
+    "blocks": {
+        "reading": "rú rì zhōng tiān",
+        "sense-1": "像正午的太阳。比喻事物正在兴旺的时候",
+        "synonyms": "方兴未艾、蓬勃发展",
+        "antonyms": "日薄西山、桑榆暮景"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "passed": true,
+    "idempotent": true,
+    "original_files_and_groups_equal": true,
+    "check_mode": {
+        "passed": true,
+        "check_only": true,
+        "files": 24,
+        "groups": 108,
+        "words": 899,
+        "teachers": 4,
+        "added_records": 384,
+        "distinct_words": 859,
+        "original_content_preserved": true
+    },
+    "hashes": {
+        "src/data/vocab-data.json": "0feae6ac96ade1702284b4698d180c7a002b871b4bcd9467ecd0108072aab855",
+        "src/data/provenance.json": "7aef6dce7aac638799da2660bbc4ccadd25006f2e2ea1dfa890052be0ec22f40",
+        "../视频/成语校订/成语校订稿.md": "2e9494dd9f8a2c91e9880d5d580c296dce1900704e41bc041d27332e098283db",
+        "evidence/video-import.json": "b34bf88ea7a5b35e929ef54635d9c486217adc238176a25a71bc1bb65901b441"
+    }
+}

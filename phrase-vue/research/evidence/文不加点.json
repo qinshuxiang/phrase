@@ -1,0 +1,65 @@
+{
+    "word": "文不加点",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%96%87%E4%B8%8D%E5%8A%A0%E7%82%B9",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "c74a217080df0956bb1301f7385c2fd6894c4b6e6f8b639440c4d1df7a6014ab",
+        "bytes": 26922
+    },
+    "parsed": {
+        "found": true,
+        "word": "文不加点",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "wén",
+                "bù",
+                "jiā",
+                "diǎn"
+            ],
+            "zhuyin": [
+                "ㄨㄣˊ",
+                "ㄅㄨˋ",
+                "ㄐㄧㄚ",
+                "ㄉㄧㄢˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容写作技巧纯熟，一气呵成无需修改。",
+                "citations": [
+                    {
+                        "text": "纯应声便成，文不加点。",
+                        "source": "汉·张衡《文士传》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "纯应声便成，文不加点。",
+                "source": "汉·张衡《文士传》"
+            }
+        ],
+        "synonyms": [
+            "一气呵成"
+        ],
+        "antonyms": [
+            "咬文嚼字"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "write without correction"
+    },
+    "blocks": {
+        "reading": "wén bù jiā diǎn",
+        "sense-1": "形容写作技巧纯熟，一气呵成无需修改。",
+        "citation-1": "纯应声便成，文不加点。 — 汉·张衡《文士传》",
+        "synonyms": "一气呵成",
+        "antonyms": "咬文嚼字"
+    }
+}

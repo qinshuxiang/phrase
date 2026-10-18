@@ -1,0 +1,56 @@
+{
+    "word": "博大精深",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%8D%9A%E5%A4%A7%E7%B2%BE%E6%B7%B1",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "a006c5ae69bd1e0b2c5d0c0c9013b650bfacbd761eb9a2d7a9126181ba4185b2",
+        "bytes": 27864
+    },
+    "parsed": {
+        "found": true,
+        "word": "博大精深",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bó",
+                "dà",
+                "jīng",
+                "shēn"
+            ],
+            "zhuyin": [
+                "ㄅㄛˊ",
+                "ㄉㄚˋ",
+                "ㄐㄧㄥ",
+                "ㄕㄣ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容思想和学识广博高深",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "博学多才",
+            "经天纬地"
+        ],
+        "antonyms": [
+            "才疏学浅",
+            "不学无术"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "be broad and deep"
+    },
+    "blocks": {
+        "reading": "bó dà jīng shēn",
+        "sense-1": "形容思想和学识广博高深",
+        "synonyms": "博学多才、经天纬地",
+        "antonyms": "才疏学浅、不学无术"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "word": "以偏概全",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%BB%A5%E5%81%8F%E6%A6%82%E5%85%A8",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "65bb12b50ec4c287f12afd499f072fcc9fd7b97f8f139ecc25a20054cc366c6c",
+        "bytes": 25484
+    },
+    "parsed": {
+        "found": true,
+        "word": "以偏概全",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yǐ",
+                "piān",
+                "gài",
+                "quán"
+            ],
+            "zhuyin": [
+                "ㄧˇ",
+                "ㄆㄧㄢ",
+                "ㄍㄞˋ",
+                "ㄑㄨㄢˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "用片面的现象推论整体，得出错误结论。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "hasty generalization"
+    },
+    "blocks": {
+        "reading": "yǐ piān gài quán",
+        "sense-1": "用片面的现象推论整体，得出错误结论。"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "word": "防微杜渐",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%98%B2%E5%BE%AE%E6%9D%9C%E6%B8%90",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "fea9dd39a3ba86478bb38e72ba89069808f4eb4695bf37ad149afe9ebe1a63f0",
+        "bytes": 26951
+    },
+    "parsed": {
+        "found": true,
+        "word": "防微杜渐",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "fáng",
+                "wēi",
+                "dù",
+                "jiàn"
+            ],
+            "zhuyin": [
+                "ㄈㄤˊ",
+                "ㄨㄟ",
+                "ㄉㄨˋ",
+                "ㄐㄧㄢˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "在错误或坏事刚露出苗头时就及时制止，不让它发展扩大。",
+                "citations": [
+                    {
+                        "text": "且欲防微杜渐，忧在未萌。",
+                        "source": "南朝梁·沈约《宋书·吴喜传》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "且欲防微杜渐，忧在未萌。",
+                "source": "南朝梁·沈约《宋书·吴喜传》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "nip in the bud"
+    },
+    "blocks": {
+        "reading": "fáng wēi dù jiàn",
+        "sense-1": "在错误或坏事刚露出苗头时就及时制止，不让它发展扩大。",
+        "citation-1": "且欲防微杜渐，忧在未萌。 — 南朝梁·沈约《宋书·吴喜传》"
+    }
+}

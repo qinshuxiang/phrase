@@ -1,0 +1,59 @@
+{
+    "word": "闭目塞听",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%97%AD%E7%9B%AE%E5%A1%9E%E5%90%AC",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "c0be0cda730885143331d8035cb7fadbb1bf485d0ec121a97c50f3e92d88c6f5",
+        "bytes": 26304
+    },
+    "parsed": {
+        "found": true,
+        "word": "闭目塞听",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bì",
+                "mù",
+                "sè",
+                "tīng"
+            ],
+            "zhuyin": [
+                "ㄅㄧˋ",
+                "ㄇㄨˋ",
+                "ㄙㄜˋ",
+                "ㄊㄧㄥ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "闭上眼睛，堵住耳朵。形容对外界事物不闻不问或不了解。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "视而不见",
+            "听而不闻",
+            "闭关自守",
+            "闭目塞聪"
+        ],
+        "antonyms": [
+            "眼观六路",
+            "耳听八方",
+            "广开言路"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "shut one's eyes and stop one's ears"
+    },
+    "blocks": {
+        "reading": "bì mù sè tīng",
+        "sense-1": "闭上眼睛，堵住耳朵。形容对外界事物不闻不问或不了解。",
+        "synonyms": "视而不见、听而不闻、闭关自守、闭目塞聪",
+        "antonyms": "眼观六路、耳听八方、广开言路"
+    }
+}

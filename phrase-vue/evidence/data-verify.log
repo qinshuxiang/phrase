@@ -1,0 +1,13 @@
+
+> phrase-vue@2.0.0 verify:data
+> node scripts/verify-data.mjs
+
+{
+    "passed": true,
+    "data_sha256": "f967870bbc2e1950874dcc1c21eeab84b7253a8e13a96fc215422167b08e0627",
+    "files": 24,
+    "groups": 123,
+    "words": 1037,
+    "teachers": 4,
+    "distinct_words": 997
+}

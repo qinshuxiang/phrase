@@ -1,0 +1,66 @@
+{
+    "word": "与日俱增",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%8E%E6%97%A5%E4%BF%B1%E5%A2%9E",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "d7cc60f9e7ce1f464440c54318c85e99205d0aa145ab408b22af22cf110eb215",
+        "bytes": 26464
+    },
+    "parsed": {
+        "found": true,
+        "word": "与日俱增",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yǔ",
+                "rì",
+                "jù",
+                "zēng"
+            ],
+            "zhuyin": [
+                "ㄩˇ",
+                "ㄖㄧˋ",
+                "ㄐㄩˋ",
+                "ㄗㄥ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "随着时间的推移而不断增长。",
+                "citations": [
+                    {
+                        "text": "涉冬浸剧，与日俱增。",
+                        "source": "宋·吕祖谦《为梁参政作乞解罢政事表》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "涉冬浸剧，与日俱增。",
+                "source": "宋·吕祖谦《为梁参政作乞解罢政事表》"
+            }
+        ],
+        "synonyms": [
+            "日积月累",
+            "有增无已"
+        ],
+        "antonyms": [
+            "每况愈下"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "increase daily"
+    },
+    "blocks": {
+        "reading": "yǔ rì jù zēng",
+        "sense-1": "随着时间的推移而不断增长。",
+        "citation-1": "涉冬浸剧，与日俱增。 — 宋·吕祖谦《为梁参政作乞解罢政事表》",
+        "synonyms": "日积月累、有增无已",
+        "antonyms": "每况愈下"
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "word": "灰飞烟灭",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%81%B0%E9%A3%9E%E7%83%9F%E7%81%AD",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "56cadd54a81b4caf59e47ab78eb13c167e1523458c2384e3f71e13204cdff296",
+        "bytes": 27116
+    },
+    "parsed": {
+        "found": true,
+        "word": "灰飞烟灭",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "huī",
+                "fēi",
+                "yān",
+                "miè"
+            ],
+            "zhuyin": [
+                "ㄏㄨㄟ",
+                "ㄈㄟ",
+                "ㄧㄢ",
+                "ㄇㄧㄝ",
+                "ˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻事物迅速消失殆尽。",
+                "citations": [
+                    {
+                        "text": "羽扇纶巾，谈笑间，强虏灰飞烟灭。",
+                        "source": "宋·苏轼《念奴娇·赤壁怀古》"
+                    },
+                    {
+                        "text": "年少周郎何处也？不觉的灰飞烟灭。",
+                        "source": "元·关汉卿《单刀会》"
+                    }
+                ]
+            },
+            {
+                "definition": "比喻人亡或事物彻底消失。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "羽扇纶巾，谈笑间，强虏灰飞烟灭。",
+                "source": "宋·苏轼《念奴娇·赤壁怀古》"
+            },
+            {
+                "text": "年少周郎何处也？不觉的灰飞烟灭。",
+                "source": "元·关汉卿《单刀会》"
+            }
+        ],
+        "synonyms": [
+            "冰消瓦解",
+            "烟消云散",
+            "化为乌有"
+        ],
+        "antonyms": [
+            "东山再起",
+            "死灰复燃",
+            "卷土重来"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "turn to dust and smoke"
+    },
+    "blocks": {
+        "reading": "huī fēi yān miè",
+        "sense-1": "比喻事物迅速消失殆尽。",
+        "sense-2": "比喻人亡或事物彻底消失。",
+        "citation-1": "羽扇纶巾，谈笑间，强虏灰飞烟灭。 — 宋·苏轼《念奴娇·赤壁怀古》",
+        "citation-2": "年少周郎何处也？不觉的灰飞烟灭。 — 元·关汉卿《单刀会》",
+        "synonyms": "冰消瓦解、烟消云散、化为乌有",
+        "antonyms": "东山再起、死灰复燃、卷土重来"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "word": "一面之词",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%80%E9%9D%A2%E4%B9%8B%E8%AF%8D",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "8fc8b14667d85e20675a3d9895758a2bec3b4964f79400769bc3529f56eeee69",
+        "bytes": 26568
+    },
+    "parsed": {
+        "found": true,
+        "word": "一面之词",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yī",
+                "miàn",
+                "zhī",
+                "cí"
+            ],
+            "zhuyin": [
+                "ㄧ",
+                "ㄇㄧㄢˋ",
+                "ㄓ",
+                "ㄘˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "单方面的说法。",
+                "citations": [
+                    {
+                        "text": "明公只听一面之词，而绝向日之情耶？",
+                        "source": "明·罗贯中《三国演义》第二六回"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "明公只听一面之词，而绝向日之情耶？",
+                "source": "明·罗贯中《三国演义》第二六回"
+            }
+        ],
+        "synonyms": [
+            "偏听偏信",
+            "一面之辞"
+        ],
+        "antonyms": [
+            "兼听则明"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "one-sided statement"
+    },
+    "blocks": {
+        "reading": "yī miàn zhī cí",
+        "sense-1": "单方面的说法。",
+        "citation-1": "明公只听一面之词，而绝向日之情耶？ — 明·罗贯中《三国演义》第二六回",
+        "synonyms": "偏听偏信、一面之辞",
+        "antonyms": "兼听则明"
+    }
+}

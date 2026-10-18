@@ -1,0 +1,68 @@
+{
+    "word": "津津乐道",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%B4%A5%E6%B4%A5%E4%B9%90%E9%81%93",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "9346571d676992d4a32bcdd1b5abf3c4e1ba1caf22271f0a9fe657769f057d5e",
+        "bytes": 26122
+    },
+    "parsed": {
+        "found": true,
+        "word": "津津乐道",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jīn",
+                "jīn",
+                "lè",
+                "dào"
+            ],
+            "zhuyin": [
+                "ㄐㄧㄣ",
+                "ㄐㄧㄣ",
+                "ㄌㄜˋ",
+                "ㄉㄠˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "饶有兴味地谈论。",
+                "citations": [
+                    {
+                        "text": "风流贤宰，嫉恶怜才，俱假文字为劝惩，邑人士咸津津乐道之。",
+                        "source": "清·钱学纶《语新》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "风流贤宰，嫉恶怜才，俱假文字为劝惩，邑人士咸津津乐道之。",
+                "source": "清·钱学纶《语新》"
+            }
+        ],
+        "synonyms": [
+            "津津有味",
+            "夸夸其谈",
+            "乐此不疲"
+        ],
+        "antonyms": [
+            "沉默寡言",
+            "兴味索然"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "talk with relish"
+    },
+    "blocks": {
+        "reading": "jīn jīn lè dào",
+        "sense-1": "饶有兴味地谈论。",
+        "citation-1": "风流贤宰，嫉恶怜才，俱假文字为劝惩，邑人士咸津津乐道之。 — 清·钱学纶《语新》",
+        "synonyms": "津津有味、夸夸其谈、乐此不疲",
+        "antonyms": "沉默寡言、兴味索然"
+    }
+}

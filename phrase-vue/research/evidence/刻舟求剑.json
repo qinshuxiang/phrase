@@ -1,0 +1,75 @@
+{
+    "word": "刻舟求剑",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%88%BB%E8%88%9F%E6%B1%82%E5%89%91",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "139b27d001fd24dc51ea7f6390c3a3ae0efba3fe52271d2dae26dd379f072eda",
+        "bytes": 29172
+    },
+    "parsed": {
+        "found": true,
+        "word": "刻舟求剑",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "kè",
+                "zhōu",
+                "qiú",
+                "jiàn"
+            ],
+            "zhuyin": [
+                "ㄎㄜˋ",
+                "ㄓㄡ",
+                "ㄑㄧㄡˊ",
+                "ㄐㄧㄢˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻拘泥固执，不知变通。",
+                "citations": [
+                    {
+                        "text": "刻舟求剑，固匪通材。",
+                        "source": "宋·陆游《谢梁右相启》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "刻舟求剑，固匪通材。",
+                "source": "宋·陆游《谢梁右相启》"
+            }
+        ],
+        "synonyms": [
+            "守株待兔",
+            "墨守成规",
+            "胶柱鼓瑟",
+            "食古不化",
+            "一成不变"
+        ],
+        "antonyms": [
+            "看风使舵",
+            "见机行事",
+            "妙手斲轮",
+            "相机行事",
+            "瞬息万变",
+            "因地制宜",
+            "因时制宜"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "be stubbornly unimaginative"
+    },
+    "blocks": {
+        "reading": "kè zhōu qiú jiàn",
+        "sense-1": "比喻拘泥固执，不知变通。",
+        "citation-1": "刻舟求剑，固匪通材。 — 宋·陆游《谢梁右相启》",
+        "synonyms": "守株待兔、墨守成规、胶柱鼓瑟、食古不化、一成不变",
+        "antonyms": "看风使舵、见机行事、妙手斲轮、相机行事、瞬息万变、因地制宜、因时制宜"
+    }
+}

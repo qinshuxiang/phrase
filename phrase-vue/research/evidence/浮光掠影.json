@@ -1,0 +1,57 @@
+{
+    "word": "浮光掠影",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%B5%AE%E5%85%89%E6%8E%A0%E5%BD%B1",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "6ada57ef00c9d8de462cdba8bda618b54eb77b252e70bb1c15b412cb58f9504f",
+        "bytes": 28319
+    },
+    "parsed": {
+        "found": true,
+        "word": "浮光掠影",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "fú",
+                "guāng",
+                "lüè",
+                "yǐng"
+            ],
+            "zhuyin": [
+                "ㄈㄨˊ",
+                "ㄍㄨㄤ",
+                "ㄌㄩㄝˋ",
+                "ㄧㄥˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "水面上的反光和一闪而过的影子。比喻观察不细致,没有深的印象;又指文章言论的肤浅,无真知实学",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "走马观花",
+            "浅尝辄止",
+            "走马观花﹑走马看花"
+        ],
+        "antonyms": [
+            "洞察秋毫",
+            "一丝不苟"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "skimming over the surface;cursory"
+    },
+    "blocks": {
+        "reading": "fú guāng lüè yǐng",
+        "sense-1": "水面上的反光和一闪而过的影子。比喻观察不细致,没有深的印象;又指文章言论的肤浅,无真知实学",
+        "synonyms": "走马观花、浅尝辄止、走马观花﹑走马看花",
+        "antonyms": "洞察秋毫、一丝不苟"
+    }
+}

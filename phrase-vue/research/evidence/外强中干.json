@@ -1,0 +1,59 @@
+{
+    "word": "外强中干",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A4%96%E5%BC%BA%E4%B8%AD%E5%B9%B2",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "538dc5521d82841bdb7c40071869cd8974652bbd069589b85df7781d0b3bd732",
+        "bytes": 27735
+    },
+    "parsed": {
+        "found": true,
+        "word": "外强中干",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "wài",
+                "qiáng",
+                "zhōng",
+                "gān"
+            ],
+            "zhuyin": [
+                "ㄨㄞˋ",
+                "ㄑㄧㄤˊ",
+                "ㄓㄨㄥ",
+                "ㄍㄢ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "外有强形,内中干竭。泛指外表强大,内实空虚",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "外刚内柔",
+            "外方内圆",
+            "虚有其表",
+            "色厉内荏",
+            "鱼质龙文"
+        ],
+        "antonyms": [
+            "外柔内刚",
+            "外圆内方"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "strong in appearance but weak in reality;be tough outside but brittle inside"
+    },
+    "blocks": {
+        "reading": "wài qiáng zhōng gān",
+        "sense-1": "外有强形,内中干竭。泛指外表强大,内实空虚",
+        "synonyms": "外刚内柔、外方内圆、虚有其表、色厉内荏、鱼质龙文",
+        "antonyms": "外柔内刚、外圆内方"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "word": "自成一家",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%87%AA%E6%88%90%E4%B8%80%E5%AE%B6",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "9459e24e1af1d216970889268d44a84e9c0fc1a9b4adf43e87a3c8a795b7cde6",
+        "bytes": 27163
+    },
+    "parsed": {
+        "found": true,
+        "word": "自成一家",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zì",
+                "chéng",
+                "yī",
+                "jiā"
+            ],
+            "zhuyin": [
+                "ㄗˋ",
+                "ㄔㄥˊ",
+                "ㄧ",
+                "ㄐㄧㄚ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "技艺、思想、主义等有独到之处,以自己独特的风格而形成一派",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "be unique in one’s style;have a style of one's own"
+    },
+    "blocks": {
+        "reading": "zì chéng yī jiā",
+        "sense-1": "技艺、思想、主义等有独到之处,以自己独特的风格而形成一派"
+    }
+}

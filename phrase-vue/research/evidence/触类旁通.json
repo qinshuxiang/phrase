@@ -1,0 +1,66 @@
+{
+    "word": "触类旁通",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%A7%A6%E7%B1%BB%E6%97%81%E9%80%9A",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "05aea1d1d6cfa4559bd0e6310dd61ab3f2330d3700466b95fdb898528f3f5255",
+        "bytes": 26389
+    },
+    "parsed": {
+        "found": true,
+        "word": "触类旁通",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "chù",
+                "lèi",
+                "páng",
+                "tōng"
+            ],
+            "zhuyin": [
+                "ㄔㄨˋ",
+                "ㄌㄟˋ",
+                "ㄆㄤˊ",
+                "ㄊㄨㄥ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "掌握某一事物的知识或规律后，进而推知同类事物的知识或规律。",
+                "citations": [
+                    {
+                        "text": "人之念虑一正，则万善可触类而通。",
+                        "source": "宋·李之彦《东谷所见·寿命福德》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "人之念虑一正，则万善可触类而通。",
+                "source": "宋·李之彦《东谷所见·寿命福德》"
+            }
+        ],
+        "synonyms": [
+            "举一反三",
+            "融会贯通"
+        ],
+        "antonyms": [
+            "一窍不通"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "comprehend by analogy"
+    },
+    "blocks": {
+        "reading": "chù lèi páng tōng",
+        "sense-1": "掌握某一事物的知识或规律后，进而推知同类事物的知识或规律。",
+        "citation-1": "人之念虑一正，则万善可触类而通。 — 宋·李之彦《东谷所见·寿命福德》",
+        "synonyms": "举一反三、融会贯通",
+        "antonyms": "一窍不通"
+    }
+}

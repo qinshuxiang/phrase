@@ -1,0 +1,67 @@
+{
+    "word": "春风化雨",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%98%A5%E9%A3%8E%E5%8C%96%E9%9B%A8",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "de36c872f236b7ec8eabd24131114b23f5bed80dc0136e085804248c7520d6ed",
+        "bytes": 27014
+    },
+    "parsed": {
+        "found": true,
+        "word": "春风化雨",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "chūn",
+                "fēng",
+                "huà",
+                "yǔ"
+            ],
+            "zhuyin": [
+                "ㄔㄨㄣ",
+                "ㄈㄥ",
+                "ㄏㄨㄚˋ",
+                "ㄩˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻良好教育的普及与深入。",
+                "citations": [
+                    {
+                        "text": "骥儿承老夫子的春风化雨，遂令小子成名。",
+                        "source": "清·文康《儿女英雄传》"
+                    }
+                ]
+            },
+            {
+                "definition": "比喻适宜的环境和条件。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "骥儿承老夫子的春风化雨，遂令小子成名。",
+                "source": "清·文康《儿女英雄传》"
+            }
+        ],
+        "synonyms": [
+            "化雨春风"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "beneficial influence of education"
+    },
+    "blocks": {
+        "reading": "chūn fēng huà yǔ",
+        "sense-1": "比喻良好教育的普及与深入。",
+        "sense-2": "比喻适宜的环境和条件。",
+        "citation-1": "骥儿承老夫子的春风化雨，遂令小子成名。 — 清·文康《儿女英雄传》",
+        "synonyms": "化雨春风"
+    }
+}

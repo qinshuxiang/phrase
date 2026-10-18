@@ -1,0 +1,58 @@
+{
+    "word": "畏首畏尾",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%95%8F%E9%A6%96%E7%95%8F%E5%B0%BE",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "750cd8d900dfdb31bc6c0d26ade491ace2f5aa466a4e488befdbf4c86d5e2d4c",
+        "bytes": 28512
+    },
+    "parsed": {
+        "found": true,
+        "word": "畏首畏尾",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "wèi",
+                "shǒu",
+                "wèi",
+                "wěi"
+            ],
+            "zhuyin": [
+                "ㄨㄟˋ",
+                "ㄕㄡˇ",
+                "ㄨㄟˋ",
+                "ㄨㄟˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容做事胆小,多所猜忌顾虑,畏缩不前",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "瞻前顾后",
+            "左顾右盼",
+            "诸多忌惮"
+        ],
+        "antonyms": [
+            "无所畏惧",
+            "当机立断",
+            "敢作敢为"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "be full of misgivings;be frightened all over;be over-cautious"
+    },
+    "blocks": {
+        "reading": "wèi shǒu wèi wěi",
+        "sense-1": "形容做事胆小,多所猜忌顾虑,畏缩不前",
+        "synonyms": "瞻前顾后、左顾右盼、诸多忌惮",
+        "antonyms": "无所畏惧、当机立断、敢作敢为"
+    }
+}

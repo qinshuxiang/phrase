@@ -1,0 +1,56 @@
+{
+    "word": "殊途同归",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%AE%8A%E9%80%94%E5%90%8C%E5%BD%92",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "56908b3b2ab7d9c8458d590cd2e737cac2886287d7b5ef9706065a90255b0317",
+        "bytes": 25706
+    },
+    "parsed": {
+        "found": true,
+        "word": "殊途同归",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shū",
+                "tú",
+                "tóng",
+                "guī"
+            ],
+            "zhuyin": [
+                "ㄕㄨ",
+                "ㄊㄨˊ",
+                "ㄊㄨㄥˊ",
+                "ㄍㄨㄟ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "通过不同道路而达到同一目的地。比喻方法或手段虽不同，但目标或结果相同。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "不约而同",
+            "不谋而合"
+        ],
+        "antonyms": [
+            "背道而驰",
+            "南辕北辙"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "reach the same goal by different means"
+    },
+    "blocks": {
+        "reading": "shū tú tóng guī",
+        "sense-1": "通过不同道路而达到同一目的地。比喻方法或手段虽不同，但目标或结果相同。",
+        "synonyms": "不约而同、不谋而合",
+        "antonyms": "背道而驰、南辕北辙"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "word": "崭露头角",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%B4%AD%E9%9C%B2%E5%A4%B4%E8%A7%92",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "683e421a953a72310bf474c63fd4fe7220c8aec30fd7e9b2ee579f053cb8be3a",
+        "bytes": 27896
+    },
+    "parsed": {
+        "found": true,
+        "word": "崭露头角",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zhǎn",
+                "lù",
+                "tóu",
+                "jiǎo"
+            ],
+            "zhuyin": [
+                "ㄓㄢˇ",
+                "ㄌㄨˋ",
+                "ㄊㄡˊ",
+                "ㄐㄧㄠˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "显露出非凡的才华。",
+                "citations": [
+                    {
+                        "text": "虽少年，已自成人，能取进士第，崭然见头角焉。",
+                        "source": "唐·韩愈《柳子厚墓志铭》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "虽少年，已自成人，能取进士第，崭然见头角焉。",
+                "source": "唐·韩愈《柳子厚墓志铭》"
+            }
+        ],
+        "synonyms": [
+            "牛刀小试",
+            "初试锋芒",
+            "崭露锋芒"
+        ],
+        "antonyms": [
+            "默默无闻",
+            "不露圭角"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "show promise"
+    },
+    "blocks": {
+        "reading": "zhǎn lù tóu jiǎo",
+        "sense-1": "显露出非凡的才华。",
+        "citation-1": "虽少年，已自成人，能取进士第，崭然见头角焉。 — 唐·韩愈《柳子厚墓志铭》",
+        "synonyms": "牛刀小试、初试锋芒、崭露锋芒",
+        "antonyms": "默默无闻、不露圭角"
+    }
+}

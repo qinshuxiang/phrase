@@ -1,0 +1,67 @@
+{
+    "word": "平分秋色",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%B9%B3%E5%88%86%E7%A7%8B%E8%89%B2",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "8c19e3f4acd6a8715a6bb4298a5057d4faf2431e63e5ae94d47e1fb76e43e5cb",
+        "bytes": 27833
+    },
+    "parsed": {
+        "found": true,
+        "word": "平分秋色",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "píng",
+                "fēn",
+                "qiū",
+                "sè"
+            ],
+            "zhuyin": [
+                "ㄆㄧㄥˊ",
+                "ㄈㄣ",
+                "ㄑㄧㄡ",
+                "ㄙㄜˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "指双方各得一半,不分上下",
+                "citations": [
+                    {
+                        "text": "平分秋色一轮满,长伴云衢千里明。",
+                        "source": "宋·李朴《中秋》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "平分秋色一轮满,长伴云衢千里明。",
+                "source": "宋·李朴《中秋》"
+            }
+        ],
+        "synonyms": [
+            "不分胜负",
+            "不分高低",
+            "旗鼓相当"
+        ],
+        "antonyms": [
+            "独占鳌头"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "have equal shares"
+    },
+    "blocks": {
+        "reading": "píng fēn qiū sè",
+        "sense-1": "指双方各得一半,不分上下",
+        "citation-1": "平分秋色一轮满,长伴云衢千里明。 — 宋·李朴《中秋》",
+        "synonyms": "不分胜负、不分高低、旗鼓相当",
+        "antonyms": "独占鳌头"
+    }
+}

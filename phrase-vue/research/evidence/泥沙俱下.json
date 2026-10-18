@@ -1,0 +1,54 @@
+{
+    "word": "泥沙俱下",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%B3%A5%E6%B2%99%E4%BF%B1%E4%B8%8B",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "eff2147a8d1bf9356e6cb4730c13e6689307a790a22f7588c5a2cfba1cf3e7dc",
+        "bytes": 27055
+    },
+    "parsed": {
+        "found": true,
+        "word": "泥沙俱下",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "ní",
+                "shā",
+                "jù",
+                "xià"
+            ],
+            "zhuyin": [
+                "ㄋㄧˊ",
+                "ㄕㄚ",
+                "ㄐㄩˋ",
+                "ㄒㄧㄚˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻好的和坏的混杂在一起",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "鱼目混珠",
+            "牛骥同皂",
+            "龙蛇混杂",
+            "鱼龙混杂"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "mud and sand are carried along—there is a mingling of good and bad"
+    },
+    "blocks": {
+        "reading": "ní shā jù xià",
+        "sense-1": "比喻好的和坏的混杂在一起",
+        "synonyms": "鱼目混珠、牛骥同皂、龙蛇混杂、鱼龙混杂"
+    }
+}

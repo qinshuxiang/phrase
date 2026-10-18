@@ -1,0 +1,84 @@
+{
+    "word": "深谋远虑",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%B7%B1%E8%B0%8B%E8%BF%9C%E8%99%91",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "daabd167219c88bdeed184b15fa61dc13b0bff0347cc855c15ab025283b97dac",
+        "bytes": 28526
+    },
+    "parsed": {
+        "found": true,
+        "word": "深谋远虑",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shēn",
+                "móu",
+                "yuǎn",
+                "lǜ"
+            ],
+            "zhuyin": [
+                "ㄕㄣ",
+                "ㄇㄡˊ",
+                "ㄩㄢˇ",
+                "ㄌㄩˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "计划周密，考虑长远。",
+                "citations": [
+                    {
+                        "text": "深谋远虑，行军用兵之道，非及曩时之士也。",
+                        "source": "汉·贾谊《过秦论上》"
+                    },
+                    {
+                        "text": "辞殷而奉周，背楚而归汉，深谋远虑，即良平无以加也。",
+                        "source": "唐·杨炯《百泉县令李楚才神道碑》"
+                    }
+                ]
+            },
+            {
+                "definition": "长远的战略谋划。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "深谋远虑，行军用兵之道，非及曩时之士也。",
+                "source": "汉·贾谊《过秦论上》"
+            },
+            {
+                "text": "辞殷而奉周，背楚而归汉，深谋远虑，即良平无以加也。",
+                "source": "唐·杨炯《百泉县令李楚才神道碑》"
+            }
+        ],
+        "synonyms": [
+            "老谋深算",
+            "深图远虑",
+            "深思熟虑"
+        ],
+        "antonyms": [
+            "少不更事",
+            "掉以轻心",
+            "轻举妄动",
+            "鼠目寸光"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "farsighted"
+    },
+    "blocks": {
+        "reading": "shēn móu yuǎn lǜ",
+        "sense-1": "计划周密，考虑长远。",
+        "sense-2": "长远的战略谋划。",
+        "citation-1": "深谋远虑，行军用兵之道，非及曩时之士也。 — 汉·贾谊《过秦论上》",
+        "citation-2": "辞殷而奉周，背楚而归汉，深谋远虑，即良平无以加也。 — 唐·杨炯《百泉县令李楚才神道碑》",
+        "synonyms": "老谋深算、深图远虑、深思熟虑",
+        "antonyms": "少不更事、掉以轻心、轻举妄动、鼠目寸光"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "word": "披星戴月",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%8A%AB%E6%98%9F%E6%88%B4%E6%9C%88",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "1af6a846febec76abcc20fdfa96a663e4e5a22eddf63f0a93df32588da6e9b12",
+        "bytes": 28762
+    },
+    "parsed": {
+        "found": true,
+        "word": "披星戴月",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "pī",
+                "xīng",
+                "dài",
+                "yuè"
+            ],
+            "zhuyin": [
+                "ㄆㄧ",
+                "ㄒㄧㄥ",
+                "ㄉㄞˋ",
+                "ㄩㄝˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "披星光,顶月亮。形容早出晚归或昼夜赶路,辛劳奔波",
+                "citations": [
+                    {
+                        "text": "击剑夜深归甚处,披星带月折麒麟。",
+                        "source": "唐·吕岩《七言绝句》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "击剑夜深归甚处,披星带月折麒麟。",
+                "source": "唐·吕岩《七言绝句》"
+            }
+        ],
+        "synonyms": [
+            "早出晚归",
+            "栉风沐雨﹑早作夜息"
+        ],
+        "antonyms": [
+            "玩岁愒时"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "travel or toil night and day"
+    },
+    "blocks": {
+        "reading": "pī xīng dài yuè",
+        "sense-1": "披星光,顶月亮。形容早出晚归或昼夜赶路,辛劳奔波",
+        "citation-1": "击剑夜深归甚处,披星带月折麒麟。 — 唐·吕岩《七言绝句》",
+        "synonyms": "早出晚归、栉风沐雨﹑早作夜息",
+        "antonyms": "玩岁愒时"
+    }
+}

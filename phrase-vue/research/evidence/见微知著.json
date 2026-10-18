@@ -1,0 +1,65 @@
+{
+    "word": "见微知著",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%A7%81%E5%BE%AE%E7%9F%A5%E8%91%97",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "2d5b2690970e2f850c7206ce396dc78311671eb0aafb8458c628db262c33d5e7",
+        "bytes": 27071
+    },
+    "parsed": {
+        "found": true,
+        "word": "见微知著",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jiàn",
+                "wēi",
+                "zhī",
+                "zhù"
+            ],
+            "zhuyin": [
+                "ㄐㄧㄢˋ",
+                "ㄨㄟ",
+                "ㄓ",
+                "ㄓㄨㄛˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "观察到事物的细微迹象，就能推知其发展趋势和实质。",
+                "citations": [
+                    {
+                        "text": "智者，知也。独见前闻，不惑于事，见微知著者也。",
+                        "source": "汉·班固《白虎通·情性》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "智者，知也。独见前闻，不惑于事，见微知著者也。",
+                "source": "汉·班固《白虎通·情性》"
+            }
+        ],
+        "synonyms": [
+            "原始见终",
+            "尝鼎一脔",
+            "一叶知秋",
+            "因小见大"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "discern the whole from a minimal part"
+    },
+    "blocks": {
+        "reading": "jiàn wēi zhī zhù",
+        "sense-1": "观察到事物的细微迹象，就能推知其发展趋势和实质。",
+        "citation-1": "智者，知也。独见前闻，不惑于事，见微知著者也。 — 汉·班固《白虎通·情性》",
+        "synonyms": "原始见终、尝鼎一脔、一叶知秋、因小见大"
+    }
+}

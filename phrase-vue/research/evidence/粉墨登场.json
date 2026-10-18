@@ -1,0 +1,64 @@
+{
+    "word": "粉墨登场",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%B2%89%E5%A2%A8%E7%99%BB%E5%9C%BA",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "da30e1bb86b774183e560b61ffa6569c05bdfa7b45d96b18191dff5f54573475",
+        "bytes": 26418
+    },
+    "parsed": {
+        "found": true,
+        "word": "粉墨登场",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "fěn",
+                "mò",
+                "dēng",
+                "chǎng"
+            ],
+            "zhuyin": [
+                "ㄈㄣˇ",
+                "ㄇㄛˋ",
+                "ㄉㄥ",
+                "ㄔㄤˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "演员涂抹粉墨后登台表演。",
+                "citations": [
+                    {
+                        "text": "粉墨登场，所费不赀。致滋喧杂之烦，殊乏恬适之趣。",
+                        "source": "清·梁绍壬《两般秋雨盦随笔·清勤堂随笔》"
+                    }
+                ]
+            },
+            {
+                "definition": "比喻经过打扮后登上政治舞台。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "粉墨登场，所费不赀。致滋喧杂之烦，殊乏恬适之趣。",
+                "source": "清·梁绍壬《两般秋雨盦随笔·清勤堂随笔》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "make up and go on stage"
+    },
+    "blocks": {
+        "reading": "fěn mò dēng chǎng",
+        "sense-1": "演员涂抹粉墨后登台表演。",
+        "sense-2": "比喻经过打扮后登上政治舞台。",
+        "citation-1": "粉墨登场，所费不赀。致滋喧杂之烦，殊乏恬适之趣。 — 清·梁绍壬《两般秋雨盦随笔·清勤堂随笔》"
+    }
+}

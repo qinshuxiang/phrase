@@ -1,0 +1,66 @@
+{
+    "word": "震耳欲聋",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%9C%87%E8%80%B3%E6%AC%B2%E8%81%8B",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "811c024ae908cd2cfef8217a4c05e6f5f272ddeb8af06b04570603312c8feeb1",
+        "bytes": 26072
+    },
+    "parsed": {
+        "found": true,
+        "word": "震耳欲聋",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zhèn",
+                "ěr",
+                "yù",
+                "lóng"
+            ],
+            "zhuyin": [
+                "ㄓㄣˋ",
+                "ㄦˇ",
+                "ㄩˋ",
+                "ㄌㄨㄥˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "声音极大，震得耳朵快要聋了。",
+                "citations": [
+                    {
+                        "text": "战鼓擂得震耳欲聋。",
+                        "source": "姚雪垠《李自成》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "战鼓擂得震耳欲聋。",
+                "source": "姚雪垠《李自成》"
+            }
+        ],
+        "synonyms": [
+            "振聋发聩"
+        ],
+        "antonyms": [
+            "万籁无声",
+            "万籁俱寂"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "deafening"
+    },
+    "blocks": {
+        "reading": "zhèn ěr yù lóng",
+        "sense-1": "声音极大，震得耳朵快要聋了。",
+        "citation-1": "战鼓擂得震耳欲聋。 — 姚雪垠《李自成》",
+        "synonyms": "振聋发聩",
+        "antonyms": "万籁无声、万籁俱寂"
+    }
+}

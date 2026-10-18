@@ -1,0 +1,80 @@
+{
+    "word": "断章取义",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%96%AD%E7%AB%A0%E5%8F%96%E4%B9%89",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "6685e526f6741fd265aa1f6d0f7257af94c6501683ed009ac2c1c26fc5b0818c",
+        "bytes": 27697
+    },
+    "parsed": {
+        "found": true,
+        "word": "断章取义",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "duàn",
+                "zhāng",
+                "qǔ",
+                "yì"
+            ],
+            "zhuyin": [
+                "ㄉㄨㄢˋ",
+                "ㄓㄤ",
+                "ㄑㄩˇ",
+                "ㄧˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "不顾全文原意，仅截取片段文句来解释或运用。",
+                "citations": [
+                    {
+                        "text": "寻诗人拟喻，虽断章取义，然章句在篇，如茧之抽绪。",
+                        "source": "南朝梁·刘勰《文心雕龙·章句》"
+                    },
+                    {
+                        "text": "断章取意，唯须得情，若不惬当，罪有科罚。",
+                        "source": "唐·张鷟《游仙窟》"
+                    }
+                ]
+            },
+            {
+                "definition": "引用他人言论时仅取片段而曲解原意。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "寻诗人拟喻，虽断章取义，然章句在篇，如茧之抽绪。",
+                "source": "南朝梁·刘勰《文心雕龙·章句》"
+            },
+            {
+                "text": "断章取意，唯须得情，若不惬当，罪有科罚。",
+                "source": "唐·张鷟《游仙窟》"
+            }
+        ],
+        "synonyms": [
+            "望文生义",
+            "穿凿附会"
+        ],
+        "antonyms": [
+            "实事求是"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "quote out of context"
+    },
+    "blocks": {
+        "reading": "duàn zhāng qǔ yì",
+        "sense-1": "不顾全文原意，仅截取片段文句来解释或运用。",
+        "sense-2": "引用他人言论时仅取片段而曲解原意。",
+        "citation-1": "寻诗人拟喻，虽断章取义，然章句在篇，如茧之抽绪。 — 南朝梁·刘勰《文心雕龙·章句》",
+        "citation-2": "断章取意，唯须得情，若不惬当，罪有科罚。 — 唐·张鷟《游仙窟》",
+        "synonyms": "望文生义、穿凿附会",
+        "antonyms": "实事求是"
+    }
+}

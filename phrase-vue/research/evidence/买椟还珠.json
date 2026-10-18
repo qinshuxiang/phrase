@@ -1,0 +1,67 @@
+{
+    "word": "买椟还珠",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B9%B0%E6%A4%9F%E8%BF%98%E7%8F%A0",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "a0e64daacaaee023d4ffc969cab4f2d33733ed45156c657f05994ad6c6c45c4d",
+        "bytes": 27055
+    },
+    "parsed": {
+        "found": true,
+        "word": "买椟还珠",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "mǎi",
+                "dú",
+                "huán",
+                "zhū"
+            ],
+            "zhuyin": [
+                "ㄇㄞˇ",
+                "ㄉㄨˊ",
+                "ㄏㄨㄢˊ",
+                "ㄓㄨ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻取舍不当，舍本逐末，只重视外表而忽略实质。",
+                "citations": [
+                    {
+                        "text": "楚珠鬻郑，为薰桂之椟，郑人买椟而还珠。",
+                        "source": "南朝梁·刘勰《文心雕龙·议对》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "楚珠鬻郑，为薰桂之椟，郑人买椟而还珠。",
+                "source": "南朝梁·刘勰《文心雕龙·议对》"
+            }
+        ],
+        "synonyms": [
+            "舍本逐末",
+            "本末倒置",
+            "反裘负薪"
+        ],
+        "antonyms": [
+            "去粗取精"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "keep the casket and return the pearls"
+    },
+    "blocks": {
+        "reading": "mǎi dú huán zhū",
+        "sense-1": "比喻取舍不当，舍本逐末，只重视外表而忽略实质。",
+        "citation-1": "楚珠鬻郑，为薰桂之椟，郑人买椟而还珠。 — 南朝梁·刘勰《文心雕龙·议对》",
+        "synonyms": "舍本逐末、本末倒置、反裘负薪",
+        "antonyms": "去粗取精"
+    }
+}

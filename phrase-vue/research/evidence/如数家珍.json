@@ -1,0 +1,67 @@
+{
+    "word": "如数家珍",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A6%82%E6%95%B0%E5%AE%B6%E7%8F%8D",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "51ff2d4807f12e4787870fdbf93c44ef4bf0fe9ca5c1dd7f0dc3be7df600bd76",
+        "bytes": 27455
+    },
+    "parsed": {
+        "found": true,
+        "word": "如数家珍",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "rú",
+                "shǔ",
+                "jiā",
+                "zhēn"
+            ],
+            "zhuyin": [
+                "ㄖㄨˊ",
+                "ㄕㄨˋ",
+                "ㄐㄧㄚ",
+                "ㄓㄣ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容对事物非常熟悉，如同清点自家珍宝一般。",
+                "citations": [
+                    {
+                        "text": "自《通鉴》、《通考》外，若陆宣公、李忠定……诸公著作，靡不贯串，如数家珍。",
+                        "source": "清·梁章钜《归田琐记•郑苏年师》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "自《通鉴》、《通考》外，若陆宣公、李忠定……诸公著作，靡不贯串，如数家珍。",
+                "source": "清·梁章钜《归田琐记•郑苏年师》"
+            }
+        ],
+        "synonyms": [
+            "了如指掌",
+            "了然入怀"
+        ],
+        "antonyms": [
+            "一无所知",
+            "不知凡几"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "as familiar as one's household items"
+    },
+    "blocks": {
+        "reading": "rú shǔ jiā zhēn",
+        "sense-1": "形容对事物非常熟悉，如同清点自家珍宝一般。",
+        "citation-1": "自《通鉴》、《通考》外，若陆宣公、李忠定……诸公著作，靡不贯串，如数家珍。 — 清·梁章钜《归田琐记•郑苏年师》",
+        "synonyms": "了如指掌、了然入怀",
+        "antonyms": "一无所知、不知凡几"
+    }
+}

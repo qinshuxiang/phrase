@@ -1,0 +1,82 @@
+{
+    "word": "举棋不定",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%BE%E6%A3%8B%E4%B8%8D%E5%AE%9A",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "f587a8c9203d56c5f85b199c45850c673b68d4137f3076afad7a8cce71132994",
+        "bytes": 28537
+    },
+    "parsed": {
+        "found": true,
+        "word": "举棋不定",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jǔ",
+                "qí",
+                "bù",
+                "dìng"
+            ],
+            "zhuyin": [
+                "ㄐㄩˇ",
+                "ㄑㄧˊ",
+                "ㄅㄨˋ",
+                "ㄉㄧㄥˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "下棋时举起棋子不能决定落在何处。",
+                "citations": [
+                    {
+                        "text": "弈者举棋不定，不胜其耦。",
+                        "source": "《左传·襄公二十五年》"
+                    },
+                    {
+                        "text": "晋王仁厚，守文之良主，且举棋不定则败，况储位乎？",
+                        "source": "唐·刘肃《大唐新语·酷忍》"
+                    }
+                ]
+            },
+            {
+                "definition": "比喻做事犹豫不决，缺乏主见。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "弈者举棋不定，不胜其耦。",
+                "source": "《左传·襄公二十五年》"
+            },
+            {
+                "text": "晋王仁厚，守文之良主，且举棋不定则败，况储位乎？",
+                "source": "唐·刘肃《大唐新语·酷忍》"
+            }
+        ],
+        "synonyms": [
+            "优柔寡断",
+            "犹豫不决"
+        ],
+        "antonyms": [
+            "斩钉截铁",
+            "当机立断",
+            "举棋若定"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "hesitate about the next move in chess"
+    },
+    "blocks": {
+        "reading": "jǔ qí bù dìng",
+        "sense-1": "下棋时举起棋子不能决定落在何处。",
+        "sense-2": "比喻做事犹豫不决，缺乏主见。",
+        "citation-1": "弈者举棋不定，不胜其耦。 — 《左传·襄公二十五年》",
+        "citation-2": "晋王仁厚，守文之良主，且举棋不定则败，况储位乎？ — 唐·刘肃《大唐新语·酷忍》",
+        "synonyms": "优柔寡断、犹豫不决",
+        "antonyms": "斩钉截铁、当机立断、举棋若定"
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "passed": true,
+    "revision": "2026-10-18",
+    "input_sha256": "bf4117cbb45a913bc2811879e90669fcb63adf5903c0e5877974da0760881c1f",
+    "data_sha256": "f967870bbc2e1950874dcc1c21eeab84b7253a8e13a96fc215422167b08e0627",
+    "original_content_preserved": true,
+    "original_records": 515,
+    "input": "../视频/成语校订/成语校订.json",
+    "sources": [
+        {
+            "id": "video-14",
+            "label": "视频校订 · 言语1000词14-杨杨",
+            "words": 49,
+            "transcript_sha256": "7470f993551c91269e5e3eccedd638cefd51c9f0d3fcc350159bb4c80d38e0fa",
+            "slides_sha256": "03f4cfa78935183c58113017c14251f19b9b86d16c69cbe58639cad2d44b18dc"
+        },
+        {
+            "id": "video-15",
+            "label": "视频校订 · 言语1000词15-杨杨（45-47组）",
+            "words": 44,
+            "transcript_sha256": "f59c249f39eaca349e38b787508e4f385a4d86685567467167443e7c46896e37",
+            "slides_sha256": "b6a1d45f4afd4c3a534c5cbcdc51d064143660d6baace94f7f740bcf113024f8"
+        },
+        {
+            "id": "video-16",
+            "label": "视频校订 · 言语1000词16-葛蓉（48-50组）",
+            "words": 43,
+            "transcript_sha256": "325a87eac557baa315ebec40f92d82c20742017c296a9e2a9b9f6fa016955c70",
+            "slides_sha256": "9cb36b2f1e5c304371854079612f5ffd5ada102fdfc09c9333bf0ecda9ad1108"
+        },
+        {
+            "id": "video-17",
+            "label": "视频校订 · 言语1000词17-葛蓉",
+            "words": 42,
+            "transcript_sha256": "55d3a57914aea362c00908da29c2a41e46dfec378c927ddc00abfbd0a7bf6c59",
+            "slides_sha256": "10d67e8ca7a5404658fefef84819531ab8565efaaa355aea23dd2a6babc65b68"
+        },
+        {
+            "id": "video-18",
+            "label": "视频校订 · 言语1000词18-葛蓉（加课）",
+            "words": 43,
+            "transcript_sha256": "3ad1eaf6899189514e311786e8eb4b1567ee6f3038ba6a251d937f9ef898ef22",
+            "slides_sha256": "ef2dc382557500aea40878fa20888827aa0c487d523d8e9fd9697e7e6520f144"
+        },
+        {
+            "id": "video-19",
+            "label": "视频校订 · 言语1000词19-葛蓉",
+            "words": 51,
+            "transcript_sha256": "d1be1d07a762eec55858595290d9a85aa360d77e96c02a1c4a5cb19563f545e5",
+            "slides_sha256": "784e45fb9a7fe002bfb17eeea181a2f3658ab76b5fae263d353a179b4e5d105d"
+        },
+        {
+            "id": "video-实词1",
+            "label": "视频校订 · 高频实词1（加课）-葛蓉",
+            "words": 51,
+            "transcript_sha256": "9123b4b5e61854e192c5cb54d953505d74dbd1ddba0fce41e0921ad1c5c5bb35",
+            "slides_sha256": "2cae9eb16ebe4ce045d743c2e2c1855d690a8874d7abd7efacdb2cfbcb333dfa"
+        },
+        {
+            "id": "video-20",
+            "label": "视频校订 · 言语1000词20-葛蓉",
+            "words": 37,
+            "transcript_sha256": "6e367ca8d53a37db6763229ed85fb16c659f7e4be53f0e10424a72439529ceac",
+            "slides_sha256": "f09731da33250624d70428c81ba18263742caf4e23cf927e324bed00c767be37"
+        },
+        {
+            "id": "video-实词2",
+            "label": "视频校订 · 高频实词2（加课）-葛蓉",
+            "words": 44,
+            "transcript_sha256": "c914ba90911de08760b2098e849f54f57d0d243f667fa7a1d460e5bde6aad261",
+            "slides_sha256": "b04e5b093187447a48242b78d7e4c8464ec52438b358518168d1719a21fa49db"
+        },
+        {
+            "id": "video-21",
+            "label": "视频校订 · 言语1000词21-葛蓉",
+            "words": 58,
+            "transcript_sha256": "a218160f0d0a2834d7ded422be1d400eaf192d25722e867ae4b9df1bfd8e5148",
+            "slides_sha256": "51aa65dc7e34246a5157d876d21d5c9decac453748b44fa5fd43c56e5fd89637"
+        },
+        {
+            "id": "video-实词3",
+            "label": "视频校订 · 高频实词3（加课）-葛蓉",
+            "words": 60,
+            "transcript_sha256": "41bde70371a45bf3271e263eb9bfecc85d1bcea69faf0e311046c22ed498a8e7",
+            "slides_sha256": "555101c0ce4342f3cc935b12720f5e099220120c8e34a09d59daa68f98c8489f"
+        }
+    ],
+    "groups": 53,
+    "core_records": 468,
+    "supplement_records": 54,
+    "current": {
+        "files": 24,
+        "groups": 123,
+        "words": 1037,
+        "teachers": 4
+    },
+    "distinct_words": 997
+}

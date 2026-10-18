@@ -1,0 +1,71 @@
+{
+    "word": "车载斗量",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%BD%A6%E8%BD%BD%E6%96%97%E9%87%8F",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "0d52fcc4005c5740cb8e90ee39a02925fe2e0b799de0bb1f5758adbcd4eb44c1",
+        "bytes": 28172
+    },
+    "parsed": {
+        "found": true,
+        "word": "车载斗量",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "chē",
+                "zài",
+                "dǒu",
+                "liáng"
+            ],
+            "zhuyin": [
+                "ㄔㄜ",
+                "ㄗㄞˋ",
+                "ㄉㄡˇ",
+                "ㄌㄧㄤˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容数量极多，多得不稀奇。",
+                "citations": [
+                    {
+                        "text": "聪明特达者八九十人，如臣之比，车载斗量，不可胜数。",
+                        "source": "三国·韦昭《吴书》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "聪明特达者八九十人，如臣之比，车载斗量，不可胜数。",
+                "source": "三国·韦昭《吴书》"
+            }
+        ],
+        "synonyms": [
+            "不可胜数",
+            "不计其数",
+            "满坑满谷",
+            "恒河沙数"
+        ],
+        "antonyms": [
+            "寥若晨星",
+            "屈指可数",
+            "凤毛麟角",
+            "寥寥无几"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "numerous"
+    },
+    "blocks": {
+        "reading": "chē zài dǒu liáng",
+        "sense-1": "形容数量极多，多得不稀奇。",
+        "citation-1": "聪明特达者八九十人，如臣之比，车载斗量，不可胜数。 — 三国·韦昭《吴书》",
+        "synonyms": "不可胜数、不计其数、满坑满谷、恒河沙数",
+        "antonyms": "寥若晨星、屈指可数、凤毛麟角、寥寥无几"
+    }
+}

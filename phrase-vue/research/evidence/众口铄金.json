@@ -1,0 +1,63 @@
+{
+    "word": "众口铄金",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%BC%97%E5%8F%A3%E9%93%84%E9%87%91",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "a76f2b7283b78d7f94fce64dada5e0ec3a7ec04b2dd682a2efad9b1e5ebabf9f",
+        "bytes": 26530
+    },
+    "parsed": {
+        "found": true,
+        "word": "众口铄金",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zhòng",
+                "kǒu",
+                "shuò",
+                "jīn"
+            ],
+            "zhuyin": [
+                "ㄓㄨㄥˋ",
+                "ㄎㄡˇ",
+                "ㄕㄨㄛˋ",
+                "ㄐㄧㄣ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "众人言论的力量足以熔化金属。比喻舆论影响极大，能颠倒是非。",
+                "citations": [
+                    {
+                        "text": "众口铄金。",
+                        "source": "《国语·周语下》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "众口铄金。",
+                "source": "《国语·周语下》"
+            }
+        ],
+        "synonyms": [
+            "积毁销骨",
+            "人言可畏"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "public clamor can melt metal"
+    },
+    "blocks": {
+        "reading": "zhòng kǒu shuò jīn",
+        "sense-1": "众人言论的力量足以熔化金属。比喻舆论影响极大，能颠倒是非。",
+        "citation-1": "众口铄金。 — 《国语·周语下》",
+        "synonyms": "积毁销骨、人言可畏"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "word": "不求甚解",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%8D%E6%B1%82%E7%94%9A%E8%A7%A3",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "5e0d2a51a7a49003ca896fc65ab253ba7e333351c55b1b0af07b0afaeea8e54e",
+        "bytes": 29726
+    },
+    "parsed": {
+        "found": true,
+        "word": "不求甚解",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "bù",
+                "qiú",
+                "shèn",
+                "jiě"
+            ],
+            "zhuyin": [
+                "ㄅㄨˋ",
+                "ㄑㄧㄡˊ",
+                "ㄕㄣˋ",
+                "ㄐㄧㄝ",
+                "ˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "原指读书只求理解精,不着眼于一字一句的解释,无贬义",
+                "citations": [
+                    {
+                        "text": "好读书,不求甚解。",
+                        "source": "晋·陶渊明《五柳先生传》"
+                    }
+                ]
+            },
+            {
+                "definition": "现多指学习不认真,不求深入理解;也指了解情况不深入",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "好读书,不求甚解。",
+                "source": "晋·陶渊明《五柳先生传》"
+            }
+        ],
+        "synonyms": [
+            "囫囵吞枣",
+            "浅尝辄止",
+            "食古不化",
+            "囫囵吞枣﹑生吞活剥"
+        ],
+        "antonyms": [
+            "穷原竟委",
+            "咬文嚼字",
+            "寻根究底",
+            "穷源竟委"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "do not seek to understand things thoroughly;have but little knowledge (understanding) of"
+    },
+    "blocks": {
+        "reading": "bù qiú shèn jiě",
+        "sense-1": "原指读书只求理解精,不着眼于一字一句的解释,无贬义",
+        "sense-2": "现多指学习不认真,不求深入理解;也指了解情况不深入",
+        "citation-1": "好读书,不求甚解。 — 晋·陶渊明《五柳先生传》",
+        "synonyms": "囫囵吞枣、浅尝辄止、食古不化、囫囵吞枣﹑生吞活剥",
+        "antonyms": "穷原竟委、咬文嚼字、寻根究底、穷源竟委"
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "word": "得心应手",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%BE%97%E5%BF%83%E5%BA%94%E6%89%8B",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "8fdd19ca5edd66d2259665420b93fab94006e34be92020477a2e508d7b488ecc",
+        "bytes": 28416
+    },
+    "parsed": {
+        "found": true,
+        "word": "得心应手",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "dé",
+                "xīn",
+                "yìng",
+                "shǒu"
+            ],
+            "zhuyin": [
+                "ㄉㄜˊ",
+                "ㄒㄧㄣ",
+                "ㄧㄥˋ",
+                "ㄕㄡˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "技艺纯熟，运用自如。",
+                "citations": [
+                    {
+                        "text": "披长剑风生蒯缑……须得心应手，君知否？",
+                        "source": "明·王錂《春蕪记·说剑》"
+                    },
+                    {
+                        "text": "此乃得心应手，意到便成。",
+                        "source": "宋·沈括《梦溪笔谈·书画》"
+                    }
+                ]
+            },
+            {
+                "definition": "心手相应，操作熟练。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "披长剑风生蒯缑……须得心应手，君知否？",
+                "source": "明·王錂《春蕪记·说剑》"
+            },
+            {
+                "text": "此乃得心应手，意到便成。",
+                "source": "宋·沈括《梦溪笔谈·书画》"
+            }
+        ],
+        "synonyms": [
+            "游刃有余",
+            "驾轻就熟",
+            "心手相应"
+        ],
+        "antonyms": [
+            "不文不武",
+            "所谋辄左"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "skillful"
+    },
+    "blocks": {
+        "reading": "dé xīn yìng shǒu",
+        "sense-1": "技艺纯熟，运用自如。",
+        "sense-2": "心手相应，操作熟练。",
+        "citation-1": "披长剑风生蒯缑……须得心应手，君知否？ — 明·王錂《春蕪记·说剑》",
+        "citation-2": "此乃得心应手，意到便成。 — 宋·沈括《梦溪笔谈·书画》",
+        "synonyms": "游刃有余、驾轻就熟、心手相应",
+        "antonyms": "不文不武、所谋辄左"
+    }
+}

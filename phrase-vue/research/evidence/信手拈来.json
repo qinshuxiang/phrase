@@ -1,0 +1,81 @@
+{
+    "word": "信手拈来",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%BF%A1%E6%89%8B%E6%8B%88%E6%9D%A5",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "eec8a4446d5ef93e4e3e72b3a721e2dc4ef06117e5e0f7e923e57b44c22b9da9",
+        "bytes": 25851
+    },
+    "parsed": {
+        "found": true,
+        "word": "信手拈来",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "xìn",
+                "shǒu",
+                "niān",
+                "lái"
+            ],
+            "zhuyin": [
+                "ㄒㄧㄣˋ",
+                "ㄕㄡˇ",
+                "ㄋㄧㄢ",
+                "ㄌㄞˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "不加思索地随手取用。多形容写作时取材自如。",
+                "citations": [
+                    {
+                        "text": "巴东诗句澶州策，信手拈来尽可惊。",
+                        "source": "宋·陆游《秋风亭拜寇莱公遗像》"
+                    },
+                    {
+                        "text": "昔日德山临济信手拈来，便能坐断十方，壁立千仞。",
+                        "source": "《五灯会元·投子青禅师法嗣·大洪报恩禅师》"
+                    }
+                ]
+            },
+            {
+                "definition": "形容运用材料或语言娴熟自然。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "巴东诗句澶州策，信手拈来尽可惊。",
+                "source": "宋·陆游《秋风亭拜寇莱公遗像》"
+            },
+            {
+                "text": "昔日德山临济信手拈来，便能坐断十方，壁立千仞。",
+                "source": "《五灯会元·投子青禅师法嗣·大洪报恩禅师》"
+            }
+        ],
+        "synonyms": [
+            "顺手牵羊",
+            "唾手可得"
+        ],
+        "antonyms": [
+            "大海捞针",
+            "来之不易"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "pick up at random"
+    },
+    "blocks": {
+        "reading": "xìn shǒu niān lái",
+        "sense-1": "不加思索地随手取用。多形容写作时取材自如。",
+        "sense-2": "形容运用材料或语言娴熟自然。",
+        "citation-1": "巴东诗句澶州策，信手拈来尽可惊。 — 宋·陆游《秋风亭拜寇莱公遗像》",
+        "citation-2": "昔日德山临济信手拈来，便能坐断十方，壁立千仞。 — 《五灯会元·投子青禅师法嗣·大洪报恩禅师》",
+        "synonyms": "顺手牵羊、唾手可得",
+        "antonyms": "大海捞针、来之不易"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "word": "身无长物",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%BA%AB%E6%97%A0%E9%95%BF%E7%89%A9",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "99008ea5b6b0c0447fdb03a8d19e42b682f8c78946c2882f2baf7e960f36e0d8",
+        "bytes": 25980
+    },
+    "parsed": {
+        "found": true,
+        "word": "身无长物",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "shēn",
+                "wú",
+                "cháng",
+                "wù"
+            ],
+            "zhuyin": [
+                "ㄕㄣ",
+                "ㄨˊ",
+                "ㄓㄤˋ",
+                "ㄨˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "身上没有多余的东西，形容生活贫困简朴。",
+                "citations": [
+                    {
+                        "text": "好在我身无长物，就带了那管秃笔，跑到了上海地方，东涂西抹，藉资糊口。",
+                        "source": "清·华伟生《开国奇冤·剩义》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "好在我身无长物，就带了那管秃笔，跑到了上海地方，东涂西抹，藉资糊口。",
+                "source": "清·华伟生《开国奇冤·剩义》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "possess nothing of value"
+    },
+    "blocks": {
+        "reading": "shēn wú cháng wù",
+        "sense-1": "身上没有多余的东西，形容生活贫困简朴。",
+        "citation-1": "好在我身无长物，就带了那管秃笔，跑到了上海地方，东涂西抹，藉资糊口。 — 清·华伟生《开国奇冤·剩义》"
+    }
+}

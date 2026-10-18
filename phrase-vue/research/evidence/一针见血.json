@@ -1,0 +1,86 @@
+{
+    "word": "一针见血",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%80%E9%92%88%E8%A7%81%E8%A1%80",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "4c6bdc935eea46e6e3721088fe2aaf80a81844ee1dfebdf6334fa4111f4057ba",
+        "bytes": 28047
+    },
+    "parsed": {
+        "found": true,
+        "word": "一针见血",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yī",
+                "zhēn",
+                "jiàn",
+                "xiě"
+            ],
+            "zhuyin": [
+                "ㄧ",
+                "ㄓㄣ",
+                "ㄐㄧㄢˋ",
+                "ㄒㄧㄝ",
+                "ˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻言辞简明扼要，切中要害。",
+                "citations": [
+                    {
+                        "text": "案此论可谓一针见血，简而严、精而透矣。",
+                        "source": "梁启超《卢梭学案》"
+                    },
+                    {
+                        "text": "好，按昨儿晚上说的，给他个一针见血。",
+                        "source": "京剧《智取威虎山》第八场"
+                    }
+                ]
+            },
+            {
+                "definition": "比喻行动迅速果断，能立即见效。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "案此论可谓一针见血，简而严、精而透矣。",
+                "source": "梁启超《卢梭学案》"
+            },
+            {
+                "text": "好，按昨儿晚上说的，给他个一针见血。",
+                "source": "京剧《智取威虎山》第八场"
+            }
+        ],
+        "synonyms": [
+            "一语破的",
+            "言必有中",
+            "刀刀见血",
+            "一语道破"
+        ],
+        "antonyms": [
+            "言不及义",
+            "言之无物",
+            "空洞无物",
+            "无的放矢"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "hit the nail on the head"
+    },
+    "blocks": {
+        "reading": "yī zhēn jiàn xiě",
+        "sense-1": "比喻言辞简明扼要，切中要害。",
+        "sense-2": "比喻行动迅速果断，能立即见效。",
+        "citation-1": "案此论可谓一针见血，简而严、精而透矣。 — 梁启超《卢梭学案》",
+        "citation-2": "好，按昨儿晚上说的，给他个一针见血。 — 京剧《智取威虎山》第八场",
+        "synonyms": "一语破的、言必有中、刀刀见血、一语道破",
+        "antonyms": "言不及义、言之无物、空洞无物、无的放矢"
+    }
+}

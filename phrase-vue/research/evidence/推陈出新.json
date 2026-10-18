@@ -1,0 +1,69 @@
+{
+    "word": "推陈出新",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%8E%A8%E9%99%88%E5%87%BA%E6%96%B0",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "2d0666981ed878c201d81ac064ab070748ce2b341a3827bd4f70fd5996c1b193",
+        "bytes": 27175
+    },
+    "parsed": {
+        "found": true,
+        "word": "推陈出新",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "tuī",
+                "chén",
+                "chū",
+                "xīn"
+            ],
+            "zhuyin": [
+                "ㄊㄨㄟ",
+                "ㄔㄣˊ",
+                "ㄔㄨ",
+                "ㄒㄧㄣ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "去除旧事物的糟粕，创造新事物的精华。",
+                "citations": [
+                    {
+                        "text": "其推陈出新之妙，殆有不可形容者。",
+                        "source": "宋·费衮《梁谿漫志》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "其推陈出新之妙，殆有不可形容者。",
+                "source": "宋·费衮《梁谿漫志》"
+            }
+        ],
+        "synonyms": [
+            "吐故纳新",
+            "除旧布新",
+            "革故鼎新﹑除旧布新"
+        ],
+        "antonyms": [
+            "墨守成规",
+            "因循守旧",
+            "墨守成规﹑食古不化"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "weed through the old to bring forth the new"
+    },
+    "blocks": {
+        "reading": "tuī chén chū xīn",
+        "sense-1": "去除旧事物的糟粕，创造新事物的精华。",
+        "citation-1": "其推陈出新之妙，殆有不可形容者。 — 宋·费衮《梁谿漫志》",
+        "synonyms": "吐故纳新、除旧布新、革故鼎新﹑除旧布新",
+        "antonyms": "墨守成规、因循守旧、墨守成规﹑食古不化"
+    }
+}

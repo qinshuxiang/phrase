@@ -1,0 +1,68 @@
+{
+    "word": "潜移默化",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%BD%9C%E7%A7%BB%E9%BB%98%E5%8C%96",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "b2804406b8ca4d8204f6a15a04a0a282da895f75f8d855af5a97b5046b001bf5",
+        "bytes": 27567
+    },
+    "parsed": {
+        "found": true,
+        "word": "潜移默化",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "qián",
+                "yí",
+                "mò",
+                "huà"
+            ],
+            "zhuyin": [
+                "ㄑㄧㄢˊ",
+                "ㄧˊ",
+                "ㄇㄛˋ",
+                "ㄏㄨㄚˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "人的思想、性格或习惯因受外界影响而在不知不觉中发生变化。",
+                "citations": [
+                    {
+                        "text": "人在少年，神情未定，所与款狎，熏渍陶染，言笑举动，无心于学，潜移暗化，自然似之。",
+                        "source": "北齐·颜之推《颜氏家训·慕贤》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "人在少年，神情未定，所与款狎，熏渍陶染，言笑举动，无心于学，潜移暗化，自然似之。",
+                "source": "北齐·颜之推《颜氏家训·慕贤》"
+            }
+        ],
+        "synonyms": [
+            "耳濡目染",
+            "近朱者赤",
+            "潜移暗化"
+        ],
+        "antonyms": [
+            "洁身自好",
+            "无动于衷"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "imperceptible influence"
+    },
+    "blocks": {
+        "reading": "qián yí mò huà",
+        "sense-1": "人的思想、性格或习惯因受外界影响而在不知不觉中发生变化。",
+        "citation-1": "人在少年，神情未定，所与款狎，熏渍陶染，言笑举动，无心于学，潜移暗化，自然似之。 — 北齐·颜之推《颜氏家训·慕贤》",
+        "synonyms": "耳濡目染、近朱者赤、潜移暗化",
+        "antonyms": "洁身自好、无动于衷"
+    }
+}

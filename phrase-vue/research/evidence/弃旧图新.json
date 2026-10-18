@@ -1,0 +1,69 @@
+{
+    "word": "弃旧图新",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%BC%83%E6%97%A7%E5%9B%BE%E6%96%B0",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "154865a64727919648aae61164f6297c4904acb2c59807be5404b93d65e7d229",
+        "bytes": 26200
+    },
+    "parsed": {
+        "found": true,
+        "word": "弃旧图新",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "qì",
+                "jiù",
+                "tú",
+                "xīn"
+            ],
+            "zhuyin": [
+                "ㄑㄧˋ",
+                "ㄐㄧㄡˋ",
+                "ㄊㄨˊ",
+                "ㄒㄧㄣ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "抛弃旧的错误，谋求新的正确道路。",
+                "citations": [
+                    {
+                        "text": "忽将弃其旧而新是图，求老农老圃而为师。",
+                        "source": "唐·韩愈《上宰相书》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "忽将弃其旧而新是图，求老农老圃而为师。",
+                "source": "唐·韩愈《上宰相书》"
+            }
+        ],
+        "synonyms": [
+            "弃旧谋新",
+            "弃旧开新",
+            "重新作人"
+        ],
+        "antonyms": [
+            "同流合污",
+            "一意孤行",
+            "至死不悟"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "abandon the old for the new"
+    },
+    "blocks": {
+        "reading": "qì jiù tú xīn",
+        "sense-1": "抛弃旧的错误，谋求新的正确道路。",
+        "citation-1": "忽将弃其旧而新是图，求老农老圃而为师。 — 唐·韩愈《上宰相书》",
+        "synonyms": "弃旧谋新、弃旧开新、重新作人",
+        "antonyms": "同流合污、一意孤行、至死不悟"
+    }
+}

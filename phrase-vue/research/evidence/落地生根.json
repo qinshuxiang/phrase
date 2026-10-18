@@ -1,0 +1,53 @@
+{
+    "word": "落地生根",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%90%BD%E5%9C%B0%E7%94%9F%E6%A0%B9",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "13669c90a642fa1f41368fec76f30435321615970c2599bbe7d69ab1929fa181",
+        "bytes": 26265
+    },
+    "parsed": {
+        "found": true,
+        "word": "落地生根",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "luò",
+                "dì",
+                "shēng",
+                "gēn"
+            ],
+            "zhuyin": [
+                "ㄌㄨㄛˋ",
+                "ㄉㄧˋ",
+                "ㄕㄥ",
+                "ㄍㄣ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻长期在某地安家定居。",
+                "citations": []
+            },
+            {
+                "definition": "比喻专心致志地做好本职工作。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "take root"
+    },
+    "blocks": {
+        "reading": "luò dì shēng gēn",
+        "sense-1": "比喻长期在某地安家定居。",
+        "sense-2": "比喻专心致志地做好本职工作。"
+    }
+}

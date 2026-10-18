@@ -1,0 +1,69 @@
+{
+    "word": "纸上谈兵",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%BA%B8%E4%B8%8A%E8%B0%88%E5%85%B5",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "2dbdfb3561683c4afcb77f3a31f933c082c585fd4ef7208c883521cd9d1807d6",
+        "bytes": 27962
+    },
+    "parsed": {
+        "found": true,
+        "word": "纸上谈兵",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "zhǐ",
+                "shàng",
+                "tán",
+                "bīng"
+            ],
+            "zhuyin": [
+                "ㄓˇ",
+                "ㄕㄤˋ",
+                "ㄊㄢˊ",
+                "ㄅㄧㄥ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻空谈理论而不切实际。",
+                "citations": [
+                    {
+                        "text": "文人讲武事，大都纸上谈兵。",
+                        "source": "清·张潮《幽梦影》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "文人讲武事，大都纸上谈兵。",
+                "source": "清·张潮《幽梦影》"
+            }
+        ],
+        "synonyms": [
+            "坐而论道",
+            "华而不实",
+            "画饼充饥",
+            "空言无补"
+        ],
+        "antonyms": [
+            "埋头苦干",
+            "脚踏实地"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "armchair strategy"
+    },
+    "blocks": {
+        "reading": "zhǐ shàng tán bīng",
+        "sense-1": "比喻空谈理论而不切实际。",
+        "citation-1": "文人讲武事，大都纸上谈兵。 — 清·张潮《幽梦影》",
+        "synonyms": "坐而论道、华而不实、画饼充饥、空言无补",
+        "antonyms": "埋头苦干、脚踏实地"
+    }
+}

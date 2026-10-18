@@ -1,0 +1,71 @@
+{
+    "word": "东施效颦",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%9C%E6%96%BD%E6%95%88%E9%A2%A6",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "4877341bdd98038af8dc107c9f2a39856d6a8cfba29b5fe8cd9d5c212f16b5e1",
+        "bytes": 27442
+    },
+    "parsed": {
+        "found": true,
+        "word": "东施效颦",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "dōng",
+                "shī",
+                "xiào",
+                "pín"
+            ],
+            "zhuyin": [
+                "ㄉㄨㄥ",
+                "ㄕ",
+                "ㄒㄧㄠˋ",
+                "ㄆㄧㄣˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "不顾自身条件盲目模仿他人，反而弄巧成拙。",
+                "citations": [
+                    {
+                        "text": "我们何不做个东家效颦。",
+                        "source": "清·魏秀仁《花月痕》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "我们何不做个东家效颦。",
+                "source": "清·魏秀仁《花月痕》"
+            }
+        ],
+        "synonyms": [
+            "邯郸学步",
+            "照猫画虎",
+            "生搬硬套",
+            "亦步亦趋"
+        ],
+        "antonyms": [
+            "独辟蹊径",
+            "标新立异",
+            "自我作古",
+            "择善而从"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "crude imitation with ludicrous effect"
+    },
+    "blocks": {
+        "reading": "dōng shī xiào pín",
+        "sense-1": "不顾自身条件盲目模仿他人，反而弄巧成拙。",
+        "citation-1": "我们何不做个东家效颦。 — 清·魏秀仁《花月痕》",
+        "synonyms": "邯郸学步、照猫画虎、生搬硬套、亦步亦趋",
+        "antonyms": "独辟蹊径、标新立异、自我作古、择善而从"
+    }
+}

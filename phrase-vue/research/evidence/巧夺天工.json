@@ -1,0 +1,66 @@
+{
+    "word": "巧夺天工",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%B7%A7%E5%A4%BA%E5%A4%A9%E5%B7%A5",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "68885d5c42d7be1b33a2dc4f2bf435debe37b902820d494b3060f510e7fec72b",
+        "bytes": 26229
+    },
+    "parsed": {
+        "found": true,
+        "word": "巧夺天工",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "qiǎo",
+                "duó",
+                "tiān",
+                "gōng"
+            ],
+            "zhuyin": [
+                "ㄑㄧㄠˇ",
+                "ㄉㄨㄛˊ",
+                "ㄊㄧㄢ",
+                "ㄍㄨㄥ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "人工的精巧胜过天然。",
+                "citations": [
+                    {
+                        "text": "人间巧艺夺天工，炼药燃灯清昼同。",
+                        "source": "元·赵孟頫《赠放烟火者》诗"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "人间巧艺夺天工，炼药燃灯清昼同。",
+                "source": "元·赵孟頫《赠放烟火者》诗"
+            }
+        ],
+        "synonyms": [
+            "玲珑剔透",
+            "鬼斧神工"
+        ],
+        "antonyms": [
+            "天造地设"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "exquisite"
+    },
+    "blocks": {
+        "reading": "qiǎo duó tiān gōng",
+        "sense-1": "人工的精巧胜过天然。",
+        "citation-1": "人间巧艺夺天工，炼药燃灯清昼同。 — 元·赵孟頫《赠放烟火者》诗",
+        "synonyms": "玲珑剔透、鬼斧神工",
+        "antonyms": "天造地设"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "word": "因时制宜",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%9B%A0%E6%97%B6%E5%88%B6%E5%AE%9C",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "11fcfb5c9c2f34e90c5cc850d597d50425643107c460bc7683eb56e6d0a7a9d4",
+        "bytes": 27046
+    },
+    "parsed": {
+        "found": true,
+        "word": "因时制宜",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yīn",
+                "shí",
+                "zhì",
+                "yí"
+            ],
+            "zhuyin": [
+                "ㄧㄣ",
+                "ㄕˊ",
+                "ㄓˋ",
+                "ㄧˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "根据不同时期的具体情况，采取适当的措施。",
+                "citations": [
+                    {
+                        "text": "所遇不同，故当因时制宜，以尽事适今。",
+                        "source": "晋·刘颂《晋书》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "所遇不同，故当因时制宜，以尽事适今。",
+                "source": "晋·刘颂《晋书》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "adjust measures to times"
+    },
+    "blocks": {
+        "reading": "yīn shí zhì yí",
+        "sense-1": "根据不同时期的具体情况，采取适当的措施。",
+        "citation-1": "所遇不同，故当因时制宜，以尽事适今。 — 晋·刘颂《晋书》"
+    }
+}

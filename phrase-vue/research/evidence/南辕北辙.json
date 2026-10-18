@@ -1,0 +1,73 @@
+{
+    "word": "南辕北辙",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%8D%97%E8%BE%95%E5%8C%97%E8%BE%99",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "98d33a191d48719df180498bbb9da04b91102b1dbc703fc3c8b1ad19ee7ea272",
+        "bytes": 28210
+    },
+    "parsed": {
+        "found": true,
+        "word": "南辕北辙",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "nán",
+                "yuán",
+                "běi",
+                "zhé"
+            ],
+            "zhuyin": [
+                "ㄋㄢˊ",
+                "ㄩㄢˊ",
+                "ㄅㄟˇ",
+                "ㄓㄜˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "车头朝南却往北行驶，比喻行动与目的完全相反。",
+                "citations": [
+                    {
+                        "text": "南辕北辙，诬圣师心，背理害道，不可胜数。",
+                        "source": "清·魏源《书古微序》"
+                    },
+                    {
+                        "text": "鹊噪晴檐噪有因，南辕北辙聚兹晨。",
+                        "source": "清·赵翼《上元后三日芷堂过访草堂，次日梦楼亦至，喜而有作》诗"
+                    }
+                ]
+            },
+            {
+                "definition": "指南来北往的车辆。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "南辕北辙，诬圣师心，背理害道，不可胜数。",
+                "source": "清·魏源《书古微序》"
+            },
+            {
+                "text": "鹊噪晴檐噪有因，南辕北辙聚兹晨。",
+                "source": "清·赵翼《上元后三日芷堂过访草堂，次日梦楼亦至，喜而有作》诗"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "act contrary to"
+    },
+    "blocks": {
+        "reading": "nán yuán běi zhé",
+        "sense-1": "车头朝南却往北行驶，比喻行动与目的完全相反。",
+        "sense-2": "指南来北往的车辆。",
+        "citation-1": "南辕北辙，诬圣师心，背理害道，不可胜数。 — 清·魏源《书古微序》",
+        "citation-2": "鹊噪晴檐噪有因，南辕北辙聚兹晨。 — 清·赵翼《上元后三日芷堂过访草堂，次日梦楼亦至，喜而有作》诗"
+    }
+}

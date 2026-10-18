@@ -1,0 +1,68 @@
+{
+    "word": "一马当先",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%80%E9%A9%AC%E5%BD%93%E5%85%88",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "2228c01b3a1e2e93bef16b9a20a9dec44df73d945a4605fde4e11a0ae611a76f",
+        "bytes": 26990
+    },
+    "parsed": {
+        "found": true,
+        "word": "一马当先",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yī",
+                "mǎ",
+                "dāng",
+                "xiān"
+            ],
+            "zhuyin": [
+                "ㄧ",
+                "ㄇㄚˇ",
+                "ㄉㄤ",
+                "ㄒㄧㄢ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "策马走在最前面。比喻领先或带头。",
+                "citations": [
+                    {
+                        "text": "即便勒兵列阵，一马当先，雷震等将簇拥左右。",
+                        "source": "《水浒传》第九六回"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "即便勒兵列阵，一马当先，雷震等将簇拥左右。",
+                "source": "《水浒传》第九六回"
+            }
+        ],
+        "synonyms": [
+            "遥遥领先",
+            "争先恐后"
+        ],
+        "antonyms": [
+            "后来居上",
+            "后起之秀",
+            "慢条斯理"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "take the lead"
+    },
+    "blocks": {
+        "reading": "yī mǎ dāng xiān",
+        "sense-1": "策马走在最前面。比喻领先或带头。",
+        "citation-1": "即便勒兵列阵，一马当先，雷震等将簇拥左右。 — 《水浒传》第九六回",
+        "synonyms": "遥遥领先、争先恐后",
+        "antonyms": "后来居上、后起之秀、慢条斯理"
+    }
+}

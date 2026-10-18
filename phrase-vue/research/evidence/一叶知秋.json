@@ -1,0 +1,79 @@
+{
+    "word": "一叶知秋",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%80%E5%8F%B6%E7%9F%A5%E7%A7%8B",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "4e796a7754b33b4a0c758047e37dcae69afd28058327eee2f77f5d60264203fb",
+        "bytes": 27762
+    },
+    "parsed": {
+        "found": true,
+        "word": "一叶知秋",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yī",
+                "yè",
+                "zhī",
+                "qiū"
+            ],
+            "zhuyin": [
+                "ㄧ",
+                "ㄧㄝˋ",
+                "ㄓ",
+                "ㄑㄧㄡ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "从一片落叶就能推知秋天来临。比喻通过细微迹象预测事物发展趋势。",
+                "citations": [
+                    {
+                        "text": "山僧不解数甲子，一叶落知天下秋。",
+                        "source": "唐·佚名《文录》引唐人诗"
+                    },
+                    {
+                        "text": "霜降三旬后，萱余一叶秋。",
+                        "source": "唐·元稹《赋得九月尽》"
+                    }
+                ]
+            },
+            {
+                "definition": "指秋天的落叶。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "山僧不解数甲子，一叶落知天下秋。",
+                "source": "唐·佚名《文录》引唐人诗"
+            },
+            {
+                "text": "霜降三旬后，萱余一叶秋。",
+                "source": "唐·元稹《赋得九月尽》"
+            }
+        ],
+        "synonyms": [
+            "落叶知秋",
+            "见微知著",
+            "尝鼎一脔",
+            "因小见大"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "a small sign indicates a great trend"
+    },
+    "blocks": {
+        "reading": "yī yè zhī qiū",
+        "sense-1": "从一片落叶就能推知秋天来临。比喻通过细微迹象预测事物发展趋势。",
+        "sense-2": "指秋天的落叶。",
+        "citation-1": "山僧不解数甲子，一叶落知天下秋。 — 唐·佚名《文录》引唐人诗",
+        "citation-2": "霜降三旬后，萱余一叶秋。 — 唐·元稹《赋得九月尽》",
+        "synonyms": "落叶知秋、见微知著、尝鼎一脔、因小见大"
+    }
+}

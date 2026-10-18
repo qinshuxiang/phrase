@@ -1,0 +1,86 @@
+{
+    "word": "披肝沥胆",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%8A%AB%E8%82%9D%E6%B2%A5%E8%83%86",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "fd9e0fce860605596bd588dc75e9f044543b0a9680fbcecfe75602b1aad0b90d",
+        "bytes": 28572
+    },
+    "parsed": {
+        "found": true,
+        "word": "披肝沥胆",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "pī",
+                "gān",
+                "lì",
+                "dǎn"
+            ],
+            "zhuyin": [
+                "ㄆㄧ",
+                "ㄍㄢ",
+                "ㄌㄧˋ",
+                "ㄉㄢˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻真诚相待或竭尽忠诚。",
+                "citations": [
+                    {
+                        "text": "百辟庶尹，四方岳牧，稽图谶之文，顺亿兆之请，披肝沥胆，昼夜歌吟。",
+                        "source": "《隋书·李德林传》"
+                    },
+                    {
+                        "text": "今遇明公，不敢不披沥肝胆。",
+                        "source": "《三国演义》第六十回"
+                    }
+                ]
+            },
+            {
+                "definition": "坦诚相见毫无保留。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "百辟庶尹，四方岳牧，稽图谶之文，顺亿兆之请，披肝沥胆，昼夜歌吟。",
+                "source": "《隋书·李德林传》"
+            },
+            {
+                "text": "今遇明公，不敢不披沥肝胆。",
+                "source": "《三国演义》第六十回"
+            }
+        ],
+        "synonyms": [
+            "肝胆相照",
+            "诚心诚意",
+            "肝胆照人",
+            "开诚布公",
+            "开诚相见",
+            "真心诚意"
+        ],
+        "antonyms": [
+            "勾心斗角",
+            "尔虞我诈",
+            "貌合神离﹑勾心斗角﹑假仁假义﹑尔虞我诈"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "open one's heart"
+    },
+    "blocks": {
+        "reading": "pī gān lì dǎn",
+        "sense-1": "比喻真诚相待或竭尽忠诚。",
+        "sense-2": "坦诚相见毫无保留。",
+        "citation-1": "百辟庶尹，四方岳牧，稽图谶之文，顺亿兆之请，披肝沥胆，昼夜歌吟。 — 《隋书·李德林传》",
+        "citation-2": "今遇明公，不敢不披沥肝胆。 — 《三国演义》第六十回",
+        "synonyms": "肝胆相照、诚心诚意、肝胆照人、开诚布公、开诚相见、真心诚意",
+        "antonyms": "勾心斗角、尔虞我诈、貌合神离﹑勾心斗角﹑假仁假义﹑尔虞我诈"
+    }
+}

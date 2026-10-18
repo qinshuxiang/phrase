@@ -1,0 +1,63 @@
+{
+    "word": "佶屈聱牙",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%BD%B6%E5%B1%88%E8%81%B1%E7%89%99",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "7d4f6cc9b34be85406ab8d9d8e27e67b13f5c52184f07c7b4ffd6a9784da311d",
+        "bytes": 26816
+    },
+    "parsed": {
+        "found": true,
+        "word": "佶屈聱牙",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jí",
+                "qū",
+                "áo",
+                "yá"
+            ],
+            "zhuyin": [
+                "ㄐㄧˊ",
+                "ㄑㄩ",
+                "ㄠˊ",
+                "ㄧㄚˊ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "字晦涩难解,不通顺畅达",
+                "citations": [
+                    {
+                        "text": "佶屈聱牙的古书在青年实在不易理解,只徒糜费时日。",
+                        "source": "郭沫若《王阳明礼赞》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "佶屈聱牙的古书在青年实在不易理解,只徒糜费时日。",
+                "source": "郭沫若《王阳明礼赞》"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [
+            "出口成章",
+            "琅琅上口"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "difficult to pronunce or comprehend;be full of difficult and unpronounceable words"
+    },
+    "blocks": {
+        "reading": "jí qū áo yá",
+        "sense-1": "字晦涩难解,不通顺畅达",
+        "citation-1": "佶屈聱牙的古书在青年实在不易理解,只徒糜费时日。 — 郭沫若《王阳明礼赞》",
+        "antonyms": "出口成章、琅琅上口"
+    }
+}

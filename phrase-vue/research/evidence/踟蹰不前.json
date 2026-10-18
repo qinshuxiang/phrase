@@ -1,0 +1,41 @@
+{
+    "word": "踟蹰不前",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%B8%9F%E8%B9%B0%E4%B8%8D%E5%89%8D",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "c18665df851dc2728c32059703fec7a5eaa9912957b80cf44b7dc9bca0ffe8dc",
+        "bytes": 21063
+    },
+    "parsed": {
+        "found": true,
+        "word": "踟蹰不前",
+        "section": "idiom",
+        "readings": {
+            "pinyin": [],
+            "zhuyin": []
+        },
+        "senses": [
+            {
+                "definition": "迟疑不决，不敢前进。",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": {
+            "text": "宋·郭茂倩《乐府诗集·陌上桑古辞》：“使君从南业，五马立踟蹰。”",
+            "source": "踟蹰不前"
+        },
+        "grammar": "",
+        "example": "",
+        "english": ""
+    },
+    "blocks": {
+        "sense-1": "迟疑不决，不敢前进。",
+        "origin": "宋·郭茂倩《乐府诗集·陌上桑古辞》：“使君从南业，五马立踟蹰。”"
+    }
+}

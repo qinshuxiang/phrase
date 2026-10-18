@@ -1,0 +1,48 @@
+{
+    "word": "感同身受",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%84%9F%E5%90%8C%E8%BA%AB%E5%8F%97",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "e6c881aa14594d3c02a5a6fad5c5bc8ca58b10c5465665678ac56d2a0a4bdc4a",
+        "bytes": 27510
+    },
+    "parsed": {
+        "found": true,
+        "word": "感同身受",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "gǎn",
+                "tóng",
+                "shēn",
+                "shòu"
+            ],
+            "zhuyin": [
+                "ㄍㄢˇ",
+                "ㄊㄨㄥˊ",
+                "ㄕㄣ",
+                "ㄕㄡˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "内心的感激就像亲身受到对方的恩惠一样。多用来代人向对方表示谢意",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "feel grateful as a personal kindness"
+    },
+    "blocks": {
+        "reading": "gǎn tóng shēn shòu",
+        "sense-1": "内心的感激就像亲身受到对方的恩惠一样。多用来代人向对方表示谢意"
+    }
+}

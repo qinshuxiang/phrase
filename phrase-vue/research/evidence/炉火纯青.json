@@ -1,0 +1,68 @@
+{
+    "word": "炉火纯青",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%82%89%E7%81%AB%E7%BA%AF%E9%9D%92",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "5d6398b6917fa981983eb5c1ba859ab9838f425d54903cf2a954a4cf3150605f",
+        "bytes": 27857
+    },
+    "parsed": {
+        "found": true,
+        "word": "炉火纯青",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "lú",
+                "huǒ",
+                "chún",
+                "qīng"
+            ],
+            "zhuyin": [
+                "ㄌㄨˊ",
+                "ㄏㄨㄛˇ",
+                "ㄔㄨㄣˊ",
+                "ㄑㄧㄥ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻技艺或学问达到精湛完美的境界。",
+                "citations": [
+                    {
+                        "text": "到了现在，可已到了炉火纯青的气候，正是弟兄们各显身手的时期。",
+                        "source": "清·曾朴《孽海花》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "到了现在，可已到了炉火纯青的气候，正是弟兄们各显身手的时期。",
+                "source": "清·曾朴《孽海花》"
+            }
+        ],
+        "synonyms": [
+            "挥洒自如",
+            "滚瓜烂熟",
+            "出神入化"
+        ],
+        "antonyms": [
+            "半路出家",
+            "羽毛未丰"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "perfect mastery"
+    },
+    "blocks": {
+        "reading": "lú huǒ chún qīng",
+        "sense-1": "比喻技艺或学问达到精湛完美的境界。",
+        "citation-1": "到了现在，可已到了炉火纯青的气候，正是弟兄们各显身手的时期。 — 清·曾朴《孽海花》",
+        "synonyms": "挥洒自如、滚瓜烂熟、出神入化",
+        "antonyms": "半路出家、羽毛未丰"
+    }
+}

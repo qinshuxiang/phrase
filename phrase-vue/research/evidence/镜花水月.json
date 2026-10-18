@@ -1,0 +1,80 @@
+{
+    "word": "镜花水月",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%95%9C%E8%8A%B1%E6%B0%B4%E6%9C%88",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "e77de528d3ffbd3a635b316da0c81fddec35f82197dd076c1981a14b017ac7ec",
+        "bytes": 28298
+    },
+    "parsed": {
+        "found": true,
+        "word": "镜花水月",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "jìng",
+                "huā",
+                "shuǐ",
+                "yuè"
+            ],
+            "zhuyin": [
+                "ㄐㄧㄥˋ",
+                "ㄏㄨㄚ",
+                "ㄕㄨㄟˇ",
+                "ㄩㄝˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "比喻虚幻不实的景象。",
+                "citations": [
+                    {
+                        "text": "阿弥陀佛，为人在世，原是镜花水月。",
+                        "source": "清·钱彩《说岳全传》"
+                    },
+                    {
+                        "text": "譬则镜花水月：体格声调，水与镜也；兴象风神，月与花也。",
+                        "source": "明·胡应麟《诗薮·近体中》"
+                    }
+                ]
+            },
+            {
+                "definition": "指诗歌中空灵缥缈的意境。",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "阿弥陀佛，为人在世，原是镜花水月。",
+                "source": "清·钱彩《说岳全传》"
+            },
+            {
+                "text": "譬则镜花水月：体格声调，水与镜也；兴象风神，月与花也。",
+                "source": "明·胡应麟《诗薮·近体中》"
+            }
+        ],
+        "synonyms": [
+            "空中楼阁",
+            "梦幻泡影",
+            "空中阁楼",
+            "海市蜃楼",
+            "幻梦成空"
+        ],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "flowers in a mirror and the moon in the water"
+    },
+    "blocks": {
+        "reading": "jìng huā shuǐ yuè",
+        "sense-1": "比喻虚幻不实的景象。",
+        "sense-2": "指诗歌中空灵缥缈的意境。",
+        "citation-1": "阿弥陀佛，为人在世，原是镜花水月。 — 清·钱彩《说岳全传》",
+        "citation-2": "譬则镜花水月：体格声调，水与镜也；兴象风神，月与花也。 — 明·胡应麟《诗薮·近体中》",
+        "synonyms": "空中楼阁、梦幻泡影、空中阁楼、海市蜃楼、幻梦成空"
+    }
+}

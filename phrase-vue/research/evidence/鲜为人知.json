@@ -1,0 +1,48 @@
+{
+    "word": "鲜为人知",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E9%B2%9C%E4%B8%BA%E4%BA%BA%E7%9F%A5",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "3f3aca0eb36ce1a510c8b71631013369685b27650a9806506cbe1a4d3330234e",
+        "bytes": 23711
+    },
+    "parsed": {
+        "found": true,
+        "word": "鲜为人知",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "xiǎn",
+                "wéi",
+                "rén",
+                "zhī"
+            ],
+            "zhuyin": [
+                "ㄒㄧㄢˇ",
+                "ㄨㄟˊ",
+                "ㄖㄣˊ",
+                "ㄓ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "<p>鲜：少；为：被，很少被人知道。王朔《玩儿的就是心跳》：“后来伴着主人度过了那段漫长的鲜为人知的冷宫生活不知洒上了多少珍妃泪。”</p>",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": ""
+    },
+    "blocks": {
+        "reading": "xiǎn wéi rén zhī",
+        "sense-1": "<p>鲜：少；为：被，很少被人知道。王朔《玩儿的就是心跳》：“后来伴着主人度过了那段漫长的鲜为人知的冷宫生活不知洒上了多少珍妃泪。”</p>"
+    }
+}

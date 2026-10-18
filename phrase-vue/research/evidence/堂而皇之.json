@@ -1,0 +1,48 @@
+{
+    "word": "堂而皇之",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E5%A0%82%E8%80%8C%E7%9A%87%E4%B9%8B",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "8d174f1cb8d02fb573defd3975df030bb34d91f40f9451a1f689c2a63d7d0803",
+        "bytes": 27712
+    },
+    "parsed": {
+        "found": true,
+        "word": "堂而皇之",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "táng",
+                "ér",
+                "huáng",
+                "zhī"
+            ],
+            "zhuyin": [
+                "ㄊㄤˊ",
+                "ㄦˊ",
+                "ㄏㄨㄤˊ",
+                "ㄓ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容公然大模大样或有气派",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [],
+        "antonyms": [],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "in state;grand;magnificent"
+    },
+    "blocks": {
+        "reading": "táng ér huáng zhī",
+        "sense-1": "形容公然大模大样或有气派"
+    }
+}

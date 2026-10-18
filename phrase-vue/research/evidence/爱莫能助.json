@@ -1,0 +1,70 @@
+{
+    "word": "爱莫能助",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E7%88%B1%E8%8E%AB%E8%83%BD%E5%8A%A9",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "848604e609c0677f689d74cf5aa7a14a1aec96fc508fe3c8422b223df6507262",
+        "bytes": 28096
+    },
+    "parsed": {
+        "found": true,
+        "word": "爱莫能助",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "ài",
+                "mò",
+                "néng",
+                "zhù"
+            ],
+            "zhuyin": [
+                "ㄞˋ",
+                "ㄇㄛˋ",
+                "ㄣㄥˊ",
+                "ㄓㄨˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "虽然心存同情，却因条件限制而无法提供帮助。",
+                "citations": [
+                    {
+                        "text": "荆公开言道：「子瞻左迁黄州，乃圣上主意，老夫爱莫能助。",
+                        "source": "明·冯梦龙《警世通言·王安石三难苏学士》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "荆公开言道：「子瞻左迁黄州，乃圣上主意，老夫爱莫能助。",
+                "source": "明·冯梦龙《警世通言·王安石三难苏学士》"
+            }
+        ],
+        "synonyms": [
+            "无能为力",
+            "力不从心",
+            "鞭长莫及"
+        ],
+        "antonyms": [
+            "鼎力相助",
+            "舍己救人",
+            "相濡以沫",
+            "爱屋及乌"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "unable to help despite sympathy"
+    },
+    "blocks": {
+        "reading": "ài mò néng zhù",
+        "sense-1": "虽然心存同情，却因条件限制而无法提供帮助。",
+        "citation-1": "荆公开言道：「子瞻左迁黄州，乃圣上主意，老夫爱莫能助。 — 明·冯梦龙《警世通言·王安石三难苏学士》",
+        "synonyms": "无能为力、力不从心、鞭长莫及",
+        "antonyms": "鼎力相助、舍己救人、相濡以沫、爱屋及乌"
+    }
+}

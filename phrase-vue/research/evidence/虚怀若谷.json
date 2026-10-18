@@ -1,0 +1,71 @@
+{
+    "word": "虚怀若谷",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E8%99%9A%E6%80%80%E8%8B%A5%E8%B0%B7",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "2d2416eef83be7d0436003417400d4e9d7a36e3894055d8ef809355549b25460",
+        "bytes": 27769
+    },
+    "parsed": {
+        "found": true,
+        "word": "虚怀若谷",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "xū",
+                "huái",
+                "ruò",
+                "gǔ"
+            ],
+            "zhuyin": [
+                "ㄒㄩ",
+                "ㄏㄨㄞˊ",
+                "ㄖㄨㄛˋ",
+                "ㄍㄨˇ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "心胸像山谷那样深广，形容非常谦虚，能容纳不同意见。",
+                "citations": [
+                    {
+                        "text": "古之善为士者，微妙玄通，深不可识……敦兮其若朴，旷兮其若谷。",
+                        "source": "《老子》"
+                    }
+                ]
+            }
+        ],
+        "citations": [
+            {
+                "text": "古之善为士者，微妙玄通，深不可识……敦兮其若朴，旷兮其若谷。",
+                "source": "《老子》"
+            }
+        ],
+        "synonyms": [
+            "谦虚谨慎",
+            "大智若愚"
+        ],
+        "antonyms": [
+            "自高自大",
+            "不可一世",
+            "旁若无人",
+            "目空一切",
+            "夜郎自大",
+            "崖岸自高"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "open-minded"
+    },
+    "blocks": {
+        "reading": "xū huái ruò gǔ",
+        "sense-1": "心胸像山谷那样深广，形容非常谦虚，能容纳不同意见。",
+        "citation-1": "古之善为士者，微妙玄通，深不可识……敦兮其若朴，旷兮其若谷。 — 《老子》",
+        "synonyms": "谦虚谨慎、大智若愚",
+        "antonyms": "自高自大、不可一世、旁若无人、目空一切、夜郎自大、崖岸自高"
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "word": "按部就班",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E6%8C%89%E9%83%A8%E5%B0%B1%E7%8F%AD",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "82623a5b3611dbcd5f8e6b40f41f4e313f48e68cbb97393c053c84c085311b3c",
+        "bytes": 29755
+    },
+    "parsed": {
+        "found": true,
+        "word": "按部就班",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "àn",
+                "bù",
+                "jiù",
+                "bān"
+            ],
+            "zhuyin": [
+                "ㄢˋ",
+                "ㄅㄨˋ",
+                "ㄐㄧㄡˋ",
+                "ㄅㄢ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "“按”本作“案”。部:门类。班:次序。原意是写文章时篇章结构安排得体,用字造句合乎规范",
+                "citations": [
+                    {
+                        "text": "然后选义按部,考辞就班。",
+                        "source": "西晋·陆机《文赋》"
+                    }
+                ]
+            },
+            {
+                "definition": "后来引申为照章办事,依次进行,不越轨,不逾格",
+                "citations": []
+            }
+        ],
+        "citations": [
+            {
+                "text": "然后选义按部,考辞就班。",
+                "source": "西晋·陆机《文赋》"
+            }
+        ],
+        "synonyms": [
+            "墨守成规",
+            "循序渐进"
+        ],
+        "antonyms": [
+            "勇往直前",
+            "闻风而动",
+            "躐等躁进"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "follow the prescribed order;act according to old conventions"
+    },
+    "blocks": {
+        "reading": "àn bù jiù bān",
+        "sense-1": "“按”本作“案”。部:门类。班:次序。原意是写文章时篇章结构安排得体,用字造句合乎规范",
+        "sense-2": "后来引申为照章办事,依次进行,不越轨,不逾格",
+        "citation-1": "然后选义按部,考辞就班。 — 西晋·陆机《文赋》",
+        "synonyms": "墨守成规、循序渐进",
+        "antonyms": "勇往直前、闻风而动、躐等躁进"
+    }
+}

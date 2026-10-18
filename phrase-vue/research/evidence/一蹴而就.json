@@ -1,0 +1,58 @@
+{
+    "word": "一蹴而就",
+    "source": {
+        "id": "zdic",
+        "name": "汉典",
+        "url": "https://www.zdic.net/hans/%E4%B8%80%E8%B9%B4%E8%80%8C%E5%B0%B1",
+        "retrieved_at": "2026-10-18",
+        "http_status": 200,
+        "page_sha256": "36ffdc1e2b5b60387c7a41bc4d0c207c5760f4fdf16141fc9d2d0b22a76f4841",
+        "bytes": 27512
+    },
+    "parsed": {
+        "found": true,
+        "word": "一蹴而就",
+        "section": "words",
+        "readings": {
+            "pinyin": [
+                "yī",
+                "cù",
+                "ér",
+                "jiù"
+            ],
+            "zhuyin": [
+                "ㄧ",
+                "ㄘㄨˋ",
+                "ㄦˊ",
+                "ㄐㄧㄡˋ"
+            ]
+        },
+        "senses": [
+            {
+                "definition": "形容事情轻而易举,就能完成",
+                "citations": []
+            }
+        ],
+        "citations": [],
+        "synonyms": [
+            "一蹴即至",
+            "一举成功",
+            "迎刃而解"
+        ],
+        "antonyms": [
+            "一事无成",
+            "一蹶不振",
+            "欲速不达"
+        ],
+        "origin": null,
+        "grammar": "",
+        "example": "",
+        "english": "expect results overnight;accomplish sth. in one move"
+    },
+    "blocks": {
+        "reading": "yī cù ér jiù",
+        "sense-1": "形容事情轻而易举,就能完成",
+        "synonyms": "一蹴即至、一举成功、迎刃而解",
+        "antonyms": "一事无成、一蹶不振、欲速不达"
+    }
+}
